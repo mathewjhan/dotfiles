@@ -11,7 +11,7 @@ alias ll="exa"
 alias bashrc="vim ~/.bashrc && source ~/.bashrc && clear"
 alias icat="kitty icat"
 
-alias toclip="xclip -selection clipboard"
+alias clipboard="xclip -selection clipboard"
 alias gohome="cd /media/data/mathew/Home"
 
 alias whalefetch="neofetch --ascii \"$(fortune -s | cowthink -W 30 -f whale)\""
