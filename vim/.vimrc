@@ -25,6 +25,7 @@
 "    -> Spell checking
 "    -> Misc
 "    -> Markdown & TeX
+"    -> YouCompleteMe
 "    -> Helper functions
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -48,6 +49,11 @@ Plug 'godlygeek/tabular'
 Plug 'dylanaraps/wal.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'junegunn/goyo.vim'
+Plug 'Valloric/YouCompleteMe'
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+Plug 'junegunn/fzf.vim'
+Plug 'tpope/vim-surround'
+Plug 'jiangmiao/auto-pairs'
 
 call plug#end()
 
@@ -229,10 +235,6 @@ vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 " Map gh to <Esc>
 inoremap jk  <Esc>
 
-" Map <Space> to / (search) and Ctrl-<Space> to ? (backwards search)
-map <Space> /
-map <C-Space> ?
-
 " Disable highlight when <leader><cr> is pressed
 map <silent> <leader><cr> :noh<cr>
 
@@ -376,6 +378,15 @@ endif
 let g:md_pdf_viewer="zathura"
 let g:vimtex_view_method="zathura"
 let g:livepreview_previewer="zathura"
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => YouCompleteMe
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Close preview after completion
+let g:ycm_autoclose_preview_window_after_completion = 1
+
+" Add Enter to completion
+let g:ycm_key_list_stop_completion = ['<C-y>', '<CR>']
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Helper functions

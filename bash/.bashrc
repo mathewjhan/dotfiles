@@ -2,6 +2,9 @@
 # ~/.bashrc
 #
 
+# Exports
+export FZF_DEFAULT_COMMAND='rg --files --hidden'
+
 # Wifi
 alias lsnet="nmcli dev wifi"
 alias connet="nmcli dev wifi connect"
@@ -47,3 +50,5 @@ alias night-light="redshift -l 37.548271:-121.988571"
 
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
