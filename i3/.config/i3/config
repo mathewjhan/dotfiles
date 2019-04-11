@@ -233,6 +233,28 @@ bindsym $mod+shift+s exec flameshot gui
 #         status_command i3status
 # }
 
+##############
+# Scratchpad #
+##############
+
+# Scratchpad-term
+exec --no-startup-id kitty --name "scratchpad-term"
+for_window [instance="scatchpad-term"] floating enable
+for_window [instance="scratchpad-term"] move scratchpad; [instance="scratchpad-term"] scratchpad show; move position 0px 22px; resize grow width 1920px; move scratchpad
+bindsym $mod+t [instance="scratchpad-term"] scratchpad show 
+[instance="scratchpad-term"] move position center
+
+# Scatchpad-browser
+#exec firefox
+#for_window [class="Firefox"] floating enable, move to scratchpad
+#bindsym $mod+b [class="Firefox"] scratchpad show
+
+# Make the currently focused window a scratchpad
+bindsym $mod+Shift+minus move scratchpad
+
+# Show the first scratchpad window
+bindsym $mod+minus scratchpad show
+
 ############
 # Floating #
 ############

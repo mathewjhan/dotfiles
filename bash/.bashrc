@@ -11,18 +11,18 @@ alias connet="nmcli dev wifi connect"
 
 # Misc
 alias ll="exa"
-alias bashrc="vim ~/.bashrc && source ~/.bashrc && clear"
 alias icat="kitty icat"
-
 alias clipboard="xclip -selection clipboard"
 alias gohome="cd /media/data/mathew/Home"
-
 alias whalefetch="neofetch --ascii \"$(fortune -s | cowthink -W 30 -f whale)\""
+alias wiki="wiki-search"
 
 eval $(thefuck --alias fuck)
 
-# Vim
+# Fast configs
 alias vimrc="vim ~/.vimrc"
+alias bashrc="vim ~/.bashrc && source ~/.bashrc && clear"
+alias i3config="vim ~/.config/i3/config"
 
 # Set wallpapers with pywal
 set-bg(){
@@ -35,6 +35,13 @@ set-light-bg(){
 	wal -n -l -i "$@"
 	walnotify4
     feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
+}
+
+push-dots(){
+    cd ~/dotfiles
+    git add .
+    git commit -m "$@"
+    git push
 }
 
 # Pywal Spotify

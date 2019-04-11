@@ -54,6 +54,7 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
 Plug 'tpope/vim-surround'
 Plug 'jiangmiao/auto-pairs'
+Plug 'davidhalter/jedi-vim'
 
 call plug#end()
 
@@ -385,10 +386,7 @@ let g:livepreview_previewer="zathura"
 " Close preview after completion
 let g:ycm_autoclose_preview_window_after_completion = 1
 
-" Add Enter to completion
-let g:ycm_key_list_stop_completion = ['<C-y>', '<CR>']
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Helper functions
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Returns true if paste mode is enabled
