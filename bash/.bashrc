@@ -6,6 +6,9 @@
 export FZF_DEFAULT_COMMAND='rg --files --hidden'
 
 # Wifi
+copynet(){
+    nmcli -f SSID dev wifi | grep -m 1 "$@" | awk '{$1=$1};1' | xclip -selection clipboard
+}
 alias lsnet="nmcli dev wifi"
 alias connet="nmcli dev wifi connect"
 
