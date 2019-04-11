@@ -37,7 +37,7 @@ floating_modifier $mod
 bindsym $mod+Return exec kitty #i3-sensible-terminal
 
 # kill focused window
-bindsym $mod+Shift+q kill
+bindsym $mod+Shift+q [con_id="__focused__" instance="^(?!scratchpad-term).*$"] kill
 
 # start dmenu (a program launcher)
 bindsym $mod+d exec rofi -show run #dmenu_run
@@ -240,14 +240,10 @@ bindsym $mod+shift+s exec flameshot gui
 # Scratchpad-term
 exec --no-startup-id kitty --name "scratchpad-term"
 for_window [instance="scatchpad-term"] floating enable
-for_window [instance="scratchpad-term"] move scratchpad; [instance="scratchpad-term"] scratchpad show; move position 0px 22px; resize grow width 1920px; move scratchpad
+for_window [instance="scratchpad-term"] move position 0px 0px 
+for_window [instance="scratchpad-term"]resize set 100 ppt 20 ppt 
+for_window [instance="scratchpad-term"] move scratchpad 
 bindsym $mod+t [instance="scratchpad-term"] scratchpad show 
-[instance="scratchpad-term"] move position center
-
-# Scatchpad-browser
-#exec firefox
-#for_window [class="Firefox"] floating enable, move to scratchpad
-#bindsym $mod+b [class="Firefox"] scratchpad show
 
 # Make the currently focused window a scratchpad
 bindsym $mod+Shift+minus move scratchpad
@@ -267,13 +263,13 @@ for_window [title="Volume Control"] floating enable
 ###########
 
 # Pywal
-exec_always --no-startup-id wal -R
+exec --no-startup-id wal -R
 
 # Background with Feh
-exec_always --no-startup-id ~/.fehbg
+exec --no-startup-id ~/.fehbg
 
 # Start Compton
-exec_always --no-startup-id compton --config ~/.config/compton.conf 
+exec --no-startup-id compton --config ~/.config/compton.conf 
 
 # Spiral tiling
 exec_always --no-startup-id python /usr/bin/alternating_layouts.py
@@ -293,7 +289,7 @@ exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 exec_always --no-startup-id xinput set-prop 12 "libinput Disable While Typing Enabled" 0
 
 # Blurwal
-exec_always --no-startup-id blurwal -m 1
+exec --no-startup-id blurwal -m 1
 
 # Redshift
 exec --no-startup-id redshift -l 37.548271:-121.988571

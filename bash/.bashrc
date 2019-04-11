@@ -37,11 +37,10 @@ set-light-bg(){
     feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
 }
 
-push-dots(){
+commit-dots(){
     cd ~/dotfiles
     git add .
-    git commit -m "$@"
-    git push
+    git commit -m "$@" 
 }
 
 # Pywal Spotify
