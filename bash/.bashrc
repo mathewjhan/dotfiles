@@ -17,6 +17,10 @@ alias gohome="cd /media/data/mathew/Home"
 alias whalefetch="neofetch --ascii \"$(fortune -s | cowthink -W 30 -f whale)\""
 alias wiki="wiki-search"
 
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+
 eval $(thefuck --alias fuck)
 
 # Fast configs
@@ -41,6 +45,7 @@ commit-dots(){
     cd ~/dotfiles
     git add .
     git commit -m "$@" 
+    cd
 }
 
 # Pywal Spotify
