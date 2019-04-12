@@ -38,8 +38,8 @@ call plug#begin('~/.vim/plugged')
 " -------------
 " PLUGINS BELOW
 " -------------
-
-Plug 'conornewton/vim-pandoc-markdown-preview'
+"
+"Plug 'conornewton/vim-pandoc-markdown-preview'
 Plug 'skywind3000/asyncrun.vim'
 Plug '907th/vim-auto-save'
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
@@ -55,6 +55,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'tpope/vim-surround'
 Plug 'jiangmiao/auto-pairs'
 Plug 'davidhalter/jedi-vim'
+Plug 'file://'.expand('~/.vim/local/vpmp-togglable')
 
 call plug#end()
 
@@ -235,6 +236,10 @@ vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Map gh to <Esc>
 inoremap jk  <Esc>
+vnoremap jk  <Esc>
+cnoremap jk  <Esc>
+nnoremap jk  <Esc>
+onoremap jk  <Esc>
 
 " Disable highlight when <leader><cr> is pressed
 map <silent> <leader><cr> :noh<cr>

@@ -47,8 +47,7 @@ set-light-bg(){
 commit-dots(){
     cd ~/dotfiles
     git add .
-    git commit -m "$@" 
-    cd
+    git commit -m "$@"  
 }
 
 # Pywal Spotify

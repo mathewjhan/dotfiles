@@ -1,4 +1,4 @@
-# dotfiles
+# Dotfiles
 The dotfiles I am currently using on Arch Linux
 
 # Currently in use:

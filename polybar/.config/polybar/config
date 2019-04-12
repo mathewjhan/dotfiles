@@ -7,12 +7,6 @@
 ;
 ;=====================================================
 
-[sizes]
-bar-offset-x = 40
-bar-top-gap = 10
-bar-bottom-gap = 30
-border-offset = 15
-
 [colors]
 foreground = ${xrdb:color7:#222}
 background = ${xrdb:color0:#222}
@@ -129,7 +123,7 @@ ws-icon-5 = 9: www;
 
 ; focused = Active workspace on focused monitor
 label-focused = %index%: %icon%
-label-focused-foreground = ${colors.foreground-inverse}
+label-focused-foreground = ${colors.foreground}
 label-focused-background = ${colors.background-inverse}
 label-focused-padding = 1
 
@@ -141,6 +135,7 @@ label-unfocused-padding = ${self.label-focused-padding}
 
 ; visible = Active workspace on unfocused monitor
 label-visible = %index%: %icon%
+label-visible-foreground = ${colors.foreground-inverse}
 label-visible-background = ${self.label-focused-background}
 label-visible-padding = ${self.label-focused-padding}
 
