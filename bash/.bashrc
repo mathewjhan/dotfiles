@@ -19,6 +19,7 @@ alias clipboard="xclip -selection clipboard"
 alias gohome="cd /media/data/mathew/Home"
 alias whalefetch="neofetch --ascii \"$(fortune -s | cowthink -W 30 -f whale)\""
 alias wiki="wiki-search"
+alias wolfram="tungsten"
 
 alias ..="cd .."
 alias ...="cd ../.."

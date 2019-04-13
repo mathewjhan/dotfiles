@@ -214,7 +214,7 @@ ramp-signal-7 = ${env:POLYBAR_RAMP_7}
 
 [module/eth]
 type = internal/network
-interface = enp0s20f0u1
+interface = enp0s20f0u2u3
 interval = 3.0
 
 ; format-connected-underline = #55aa55

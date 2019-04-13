@@ -39,7 +39,7 @@ call plug#begin('~/.vim/plugged')
 " PLUGINS BELOW
 " -------------
 "
-"Plug 'conornewton/vim-pandoc-markdown-preview'
+Plug 'conornewton/vim-pandoc-markdown-preview'
 Plug 'skywind3000/asyncrun.vim'
 Plug '907th/vim-auto-save'
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
@@ -49,13 +49,25 @@ Plug 'godlygeek/tabular'
 Plug 'dylanaraps/wal.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'junegunn/goyo.vim'
-Plug 'Valloric/YouCompleteMe'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
-Plug 'junegunn/fzf.vim'
 Plug 'tpope/vim-surround'
 Plug 'jiangmiao/auto-pairs'
 Plug 'davidhalter/jedi-vim'
 Plug 'file://'.expand('~/.vim/local/vpmp-togglable')
+
+Plug 'autozimu/LanguageClient-neovim', {
+    \ 'branch': 'next',
+    \ 'do': 'bash install.sh',
+    \ }
+
+if has('nvim')
+  Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
+else
+  Plug 'Shougo/deoplete.nvim'
+  Plug 'roxma/nvim-yarp'
+  Plug 'roxma/vim-hug-neovim-rpc'
+endif
+let g:deoplete#enable_at_startup = 1
 
 call plug#end()
 
@@ -386,10 +398,28 @@ let g:vimtex_view_method="zathura"
 let g:livepreview_previewer="zathura"
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => YouCompleteMe
+" => Airline
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Close preview after completion
-let g:ycm_autoclose_preview_window_after_completion = 1
+let g:airline_powerline_fonts = 1
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Deoplete
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+call deoplete#custom#option('sources', {
+    \ 'java': ['LanguageClient'],
+    \ })
+
+" <TAB>: completion.
+inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Language Server Protocol 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:LanguageClient_serverCommands = {
+    \ 'java'   : ['jdtls'],
+    \ 'cpp'    : ['ccls'],
+    \ 'python' : ['pyls'],
+    \ }
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Helper functions
