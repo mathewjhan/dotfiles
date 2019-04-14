@@ -269,7 +269,8 @@ exec --no-startup-id wal -R
 exec --no-startup-id ~/.fehbg
 
 # Start Compton
-exec --no-startup-id compton --config ~/.config/compton.conf 
+exec_always killall compton
+exec_always --no-startup-id compton --config ~/.config/compton.conf 
 
 # Spiral tiling
 exec_always --no-startup-id python /usr/bin/alternating_layouts.py

@@ -32,17 +32,30 @@ alias vimrc="vim ~/.vimrc"
 alias bashrc="vim ~/.bashrc && source ~/.bashrc && clear"
 alias i3config="vim ~/.config/i3/config"
 
+# Lock
+alias softlock="betterlockscreen -l dim"
+alias lock="xflock4"
+
 # Set wallpapers with pywal
 set-bg(){
     wal -n -i "$@" 
     walnotify4
     feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
+    betterlockscreen -u "$@"
+    oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
+    sudo cp "$@" /usr/share/lightdm-webkit/themes/modern/bg
+    sudo convert "$@" -blur 0x8 /usr/share/lightdm-webkit/themes/modern/bg-blurred
 }
 
 set-light-bg(){
 	wal -n -l -i "$@"
 	walnotify4
     feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
+    betterlockscreen -u "$@"
+    oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
+    sudo cp "$@" /usr/share/lightdm-webkit/themes/modern/bg
+    sudo convert "$@" -blur 0x8 /usr/share/lightdm-webkit/themes/modern/bg-blurred
+
 }
 
 commit-dots(){
@@ -51,8 +64,6 @@ commit-dots(){
     git commit -m "$@"  
 }
 
-# Pywal Spotify
-alias theme-spotify="oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox"
 
 # Night light
 alias night-light="redshift -l 37.548271:-121.988571"  

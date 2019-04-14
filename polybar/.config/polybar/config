@@ -53,6 +53,7 @@ font-2 = Font Awesome 5 Free:style=Regular:pixelsize=12; 2
 font-3 = Font Awesome 5 Brands:pixelsize=12; 2
 font-4 = Font Awesome 5 Free:style=Solid:pixelsize=12; 2
 font-5 = hack:pixelsize=12; 2
+font-6 = Iosevka Nerd Font Mono:fontformat=truetype:size=14:antialias=true;3 
 
 modules-left = i3
 modules-center = xwindow 
@@ -110,13 +111,6 @@ type = internal/i3
 format = <label-state> <label-mode>
 index-sort = true
 wrapping-scroll = false
-
-ws-icon-0 = 1: shell;%{T5}%{T-}
-ws-icon-1 = 2: email;
-ws-icon-2 = 3: chat;
-ws-icon-3 = 4: music;
-ws-icon-4 = 5: ruby;%{T3}%{T-}
-ws-icon-5 = 9: www;
 
 ; Only show workspaces on the same output as the bar
 ;pin-workspaces = true
@@ -313,23 +307,6 @@ label = %temperature-c%
 label-warn = %temperature-c%
 label-warn-foreground = ${colors.warning}
 
-[module/gmail]
-type = custom/script
-exec = gmail.rb
-tail = true
-format-prefix=" "
-format-prefix-foreground=${colors.foreground-prefix}
-click-left="firefox gmail.com"
-
-[module/shipping_forecast]
-# this is a hacky trick to use format prefixes nothing appears if content is empty
-type = custom/script
-exec = echo 'Wight'
-tail = false
-format-prefix=" "
-format-prefix-foreground=${colors.foreground-prefix}
-click-left="marine.rb"
-
 [module/gap]
 type = custom/text
 content = " "
@@ -341,5 +318,4 @@ screenchange-reload = true
 margin-top = 5
 margin-bottom = 5
 
-; vim:ft=dosini
 

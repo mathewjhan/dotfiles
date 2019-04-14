@@ -3,12 +3,7 @@
 "       Amir Salihefendic — @amix3k
 "       Modified by Mathew Han
 "
-" Awesome_version:
-"       Get this config, nice color schemes and lots of plugins!
-"
-"       Install the awesome version from:
-"
-"           https://github.com/amix/vimrc
+"       Source: https://github.com/amix/vimrc
 "
 " Sections:
 "    -> Vim-Plug
@@ -25,7 +20,9 @@
 "    -> Spell checking
 "    -> Misc
 "    -> Markdown & TeX
-"    -> YouCompleteMe
+"    -> Airline
+"    -> Deoplete
+"    -> LanguageClient
 "    -> Helper functions
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
