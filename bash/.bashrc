@@ -40,8 +40,8 @@ alias lock="xflock4"
 set-bg(){
     wal -n -i "$@" 
     walnotify4
-    feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
     betterlockscreen -u "$@"
+    feh --bg-scale "$(< "${HOME}/.cache/wal/wal")" 
     oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
     sudo cp "$@" /usr/share/lightdm-webkit/themes/modern/bg
     sudo convert "$@" -blur 0x8 /usr/share/lightdm-webkit/themes/modern/bg-blurred
