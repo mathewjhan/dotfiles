@@ -33,8 +33,8 @@ alias bashrc="vim ~/.bashrc && source ~/.bashrc && clear"
 alias i3config="vim ~/.config/i3/config"
 
 # Lock
-alias softlock="betterlockscreen -l dim"
-alias lock="xflock4"
+alias slock="betterlockscreen -l dim"
+alias hlock="xflock4"
 
 # Set wallpapers with pywal
 set-bg(){

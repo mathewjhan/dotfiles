@@ -237,10 +237,6 @@ bindsym $mod+shift+s exec flameshot gui
 # Scratchpad #
 ##############
 
-# Scratchpad-term
-exec --no-startup-id kittydown start
-bindsym $mod+t exec kittydown toggle 
-
 # Make the currently focused window a scratchpad
 bindsym $mod+Shift+minus move scratchpad
 
@@ -265,14 +261,13 @@ exec --no-startup-id wal -R
 exec --no-startup-id ~/.fehbg
 
 # Start Compton
-exec_always killall compton
-exec_always --no-startup-id compton --config ~/.config/compton.conf 
+exec --no-startup-id compton --config ~/.config/compton.conf 
 
 # Spiral tiling
 exec_always --no-startup-id python /usr/bin/alternating_layouts.py
 
 # Flash focus
-exec_always --no-startup-id flashfocus
+exec --no-startup-id flashfocus
 bindsym $mod+n exec --no-startup-id flash_window
 
 # Nm-applet
