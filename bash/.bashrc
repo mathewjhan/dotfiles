@@ -5,6 +5,10 @@
 # Exports
 export FZF_DEFAULT_COMMAND='rg --files --hidden'
 
+# Defaults
+alias e="nvim"
+alias fv="ranger"
+
 # Wifi
 copynet(){
     nmcli -f SSID dev wifi | grep -m 1 "$@" | awk '{$1=$1};1' | xclip -selection clipboard
@@ -33,14 +37,12 @@ alias bashrc="vim ~/.bashrc && source ~/.bashrc && clear"
 alias i3config="vim ~/.config/i3/config"
 
 # Lock
-alias slock="betterlockscreen -l dim"
-alias hlock="xflock4"
+alias lock="xflock4"
 
 # Set wallpapers with pywal
 set-bg(){
     wal -n -i "$@" 
     walnotify4
-    betterlockscreen -u "$@"
     feh --bg-scale "$(< "${HOME}/.cache/wal/wal")" 
     oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
     sudo cp "$@" /usr/share/lightdm-webkit/themes/modern/bg
@@ -51,7 +53,6 @@ set-light-bg(){
 	wal -n -l -i "$@"
 	walnotify4
     feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
-    betterlockscreen -u "$@"
     oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
     sudo cp "$@" /usr/share/lightdm-webkit/themes/modern/bg
     sudo convert "$@" -blur 0x8 /usr/share/lightdm-webkit/themes/modern/bg-blurred

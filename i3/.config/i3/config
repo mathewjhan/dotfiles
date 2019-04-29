@@ -214,10 +214,10 @@ bindsym $mod+F2 exec pactl set-sink-volume 0 -5%
 bindsym $mod+F3 exec pactl set-sink-volume 0 +5%
 
 # gaps config
-gaps inner 16
-gaps outer 2
+gaps inner 5 
+gaps outer 0
 
-# smart_gaps on
+#smart_gaps on
 smart_borders on
 
 # workspace swap (alt+tab functionality)

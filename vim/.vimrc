@@ -49,7 +49,7 @@ Plug 'junegunn/goyo.vim'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'tpope/vim-surround'
 Plug 'jiangmiao/auto-pairs'
-Plug 'davidhalter/jedi-vim'
+Plug 'scrooloose/nerdtree'
 Plug 'file://'.expand('~/.vim/local/vpmp-togglable')
 
 Plug 'autozimu/LanguageClient-neovim', {
