@@ -37,9 +37,9 @@ call plug#begin('~/.vim/plugged')
 " -------------
 "
 Plug 'conornewton/vim-pandoc-markdown-preview'
+Plug 'lervag/vimtex'
 Plug 'skywind3000/asyncrun.vim'
 Plug '907th/vim-auto-save'
-Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'godlygeek/tabular'
@@ -392,7 +392,6 @@ endif
 " Zathura previews
 let g:md_pdf_viewer="zathura"
 let g:vimtex_view_method="zathura"
-let g:livepreview_previewer="zathura"
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Airline

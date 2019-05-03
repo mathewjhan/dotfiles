@@ -9,12 +9,18 @@ export FZF_DEFAULT_COMMAND='rg --files --hidden'
 alias e="nvim"
 alias fv="ranger"
 
-# Wifi
-copynet(){
-    nmcli -f SSID dev wifi | grep -m 1 "$@" | awk '{$1=$1};1' | xclip -selection clipboard
-}
-alias lsnet="nmcli dev wifi"
-alias connet="nmcli dev wifi connect"
+# Connman
+alias lsnet="connmanctl scan wifi && connmanctl services"
+alias connet="connmanctl connect"
+
+
+# Network Manager
+
+#copynet(){
+#    nmcli -f SSID dev wifi | grep -m 1 "$@" | awk '{$1=$1};1' | xclip -selection clipboard
+#}
+#alias lsnet="nmcli dev wifi"
+#alias connet="nmcli dev wifi connect"
 
 # Misc
 alias ll="exa"
@@ -70,11 +76,16 @@ commit-dots(){
 alias night-light="redshift -l 37.548271:-121.988571"  
 
 # Run startup
+# neofetch
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
 alias ls='ls --color=auto'
-PS1='[\u@\h \W]\$ '
+
+# Bash prompt
+#PS1='[\u@\h \W]\$ '
+PS1="\[\033[0;33m\]\u\[\033[0;37m\]@\[\033[0;96m\]\h \[\033[1;32m\]\w\[\033[0;37m\]\n\\$ \[$(tput sgr0)\]"
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
+

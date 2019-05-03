@@ -59,7 +59,7 @@ modules-left = i3
 modules-center = xwindow 
 modules-right = battery cpu memory temperature filesystem gap wifi eth gap music volume pulseaudio pulseaudio-tail gap date gap
 
-tray-position = 
+tray-position = none 
 tray-padding = 2
 
 wm-restack = i3
@@ -174,9 +174,10 @@ label = %percentage_used%%
 [module/wifi]
 type = custom/script
 interval = 60
-exec = "nmcli d show wlp59s0 | grep 'GENERAL.CONNECTION' | awk '{ print $2 }'"
+; exec = "nmcli d show wlp59s0 | grep 'GENERAL.CONNECTION' | awk '{ print $2 }'"
+exec = "iwgetid -r"
 
-click-left = exec nm-connection-editor
+click-left = exec cmst 
 
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground}
@@ -195,6 +196,9 @@ format-connected = <label-connected> <ramp-signal>
 label-connected = %essid::10:..%
 
 format-disconnected = %{A:nm-connection-editor&:}disconnected%{A}
+
+; label-connected = "%{A1:connman-gtk:} %essid%%{A}"
+; label-disconnected = "%{A1:connman-gtk:}%{A}"
 
 ramp-signal-foreground = ${colors.foreground-prefix}
 ramp-signal-0 = ${env:POLYBAR_RAMP_0}
