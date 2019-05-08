@@ -4,10 +4,11 @@
 
 # Exports
 export FZF_DEFAULT_COMMAND='rg --files --hidden'
+export EDITOR='nvim'
 
 # Defaults
 alias e="nvim"
-alias fv="ranger"
+alias fm="vifm-ueberzug"
 
 # Connman
 alias lsnet="connmanctl scan wifi && connmanctl services"

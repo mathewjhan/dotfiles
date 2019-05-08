@@ -50,6 +50,7 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'tpope/vim-surround'
 Plug 'jiangmiao/auto-pairs'
 Plug 'scrooloose/nerdtree'
+Plug 'MattesGroeger/vim-bookmarks'
 Plug 'file://'.expand('~/.vim/local/vpmp-togglable')
 
 Plug 'autozimu/LanguageClient-neovim', {
