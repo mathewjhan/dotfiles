@@ -6,7 +6,7 @@ The dotfiles I am currently using on Arch Linux
 - i3-gaps
 - pywal
 - polybar
-- vim
+- neovim (with vim8 plugins)
 - compton
 - rofi (launcher/window swapper)
 - kitty (terminal)
@@ -14,7 +14,7 @@ The dotfiles I am currently using on Arch Linux
 - tlp (power management)
 - stow + git (dotfile management)
 - fireshot (screenshots)
-- ranger (file explorer)
+- vifm (vim style file manager)
 
 # Requirements
 - i3-gaps
@@ -29,6 +29,7 @@ The dotfiles I am currently using on Arch Linux
         - libinput (may require libinput gestures as well)
         - blurwal
         - redshift
+    - fireshot (screenshot bindings)
     - kitty (main term)
     - tmux (dropdown multiplexer)
     - pulseaudio (audio controls)
@@ -44,3 +45,6 @@ The dotfiles I am currently using on Arch Linux
 
 - kitty
     - pywal
+
+- vifm
+    - ueberzug (previews in vifm)
