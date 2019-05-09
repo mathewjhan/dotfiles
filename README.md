@@ -38,13 +38,14 @@ The dotfiles I am currently using on Arch Linux
 - polybar 
     - pulseaudio (module)
     - pavucontrol (open pulseaudio controls)
-    - networkmanager
-    - nm-connection-editor
+    - connman 
+    - cmst 
     - i3wm
     - fonts: inconsolata, font awesome 5, hack
 
 - kitty
     - pywal
+    - san francisco mono (font)
 
 - vifm
     - ueberzug (previews in vifm)
