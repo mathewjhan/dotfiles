@@ -12,12 +12,12 @@ foreground = ${xrdb:color7:#222}
 background = ${xrdb:color0:#222}
 
 foreground-inverse = ${xrdb:color0:#222}
-background-inverse = ${xrdb:color3:#222}
+background-inverse = ${xrdb:color5:#222}
 
 foreground-faded = ${xrdb:color7:#222}
 background-raised = ${xrdb:color0:#222}
 
-foreground-prefix = ${xrdb:color3:#222}
+foreground-prefix = ${xrdb:color5:#222}
 
 warning = ${xrdb:color3:#222}
 active-led = ${xrdb:color1:#222}

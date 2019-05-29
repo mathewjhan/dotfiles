@@ -22,102 +22,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew/Pictures/Wallpapers
-	..
-0
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew/Pictures/Wallpapers
-	japanfireworks.png
-10
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew
-	Pictures
-5
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew/Pictures/Wallpapers
-	bluemountain.jpg
-2
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew
-	Pictures
-5
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew/Pictures/Wallpapers
-	bluemountain.jpg
-2
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew
-	Pictures
-5
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew/Pictures/Wallpapers
-	cityline.jpg
-6
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew/Pictures/Wallpapers
-	elochki-by-hangmoon-1920×1080.jpg
-8
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew/Pictures/Wallpapers
-	japanfireworks.png
-11
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew
-	macro.md
-12
-d/home
-	mathew
-1
-d/home/mathew
-	dotfiles
-8
-d/home/mathew/dotfiles
-	..
-0
-d/home/mathew
-	first
-9
-d/home/mathew/first
-	..
-0
-d/home/mathew
-	Pictures
-5
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew/Pictures/Wallpapers
-	japanfireworks.png
-11
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew
-	Pictures
-5
 d/home
 	mathew
 1
@@ -322,6 +226,102 @@ d/media/data/mathew/Home/temp/Ansatsu Kyoushitsu [BD][HEVC][10bit][1080p]
 d/home/mathew
 	Documents
 3
+d/home/mathew/Pictures/Wallpapers
+	..
+0
+d/home/mathew/Pictures
+	Wallpapers
+1
+d/home/mathew
+	node_modules
+8
+d/home/mathew/Pictures/Wallpapers
+	japanfireworks.png
+13
+d/media/data/mathew/Pictures/Wallpapers
+	to be organized
+6
+d/media/data/mathew/Pictures/Wallpapers/to be organized
+	_+qOLc.jpg
+9
+d/media/data/mathew/Pictures/Wallpapers
+	to be organized
+6
+d/media/data/mathew/Pictures/Wallpapers/to be organized
+	file.png
+13
+d/media/data/mathew/Pictures/Wallpapers
+	simple
+5
+d/media/data/mathew/Pictures/Wallpapers/simple
+	warty-final-ubuntu.png
+7
+d/home/mathew/Pictures/Wallpapers
+	cityline.jpg
+6
+d/home/mathew/Pictures
+	Wallpapers
+1
+d/home/mathew/Pictures/Wallpapers
+	cherryBlossomsOne.jpg
+4
+d/home/mathew/Pictures
+	Wallpapers
+1
+d/home/mathew/Pictures/Wallpapers
+	nafay-night.jpg
+15
+d/home/mathew/dotfiles
+	kitty
+5
+d/home/mathew
+	Pictures
+5
+d/home/mathew/Pictures
+	Wallpapers
+1
+d/home/mathew/Pictures/Wallpapers
+	..
+0
+d/home/mathew/Pictures
+	Wallpapers
+1
+d/home/mathew
+	Pictures
+5
+d/home
+	mathew
+1
+d/
+	home
+4
+d/home
+	mathew
+1
+d/home/mathew
+	apcs.md
+9
+d/home
+	mathew
+1
+d/
+	home
+4
+d/media/data/mathew/Home
+	textbooks
+10
+d/media/data/mathew/Home/textbooks
+	Building-Java-Programs-3rd-Edition.pdf
+1
+d/home/mathew/Downloads
+	project_calculus_in_my_life_2018_2019_video(1).pdf
+9
+d/media/data/mathew/Pictures/Wallpapers/real
+	umbrella.jpg
+29
+d/home/mathew/Pictures/Wallpapers
+	nordcat.png
+16
 d
 
 # Right window history (oldest to newest):
@@ -336,10 +336,10 @@ D
 :fileviewer 
 :fileviewer *.jpg
 :fileviewer *.bmp
-:view
 :fileviewer *.pdf
 :e $MYVIFMRC
 :!cd
+:view
 :q
 
 # Search history (oldest to newest):

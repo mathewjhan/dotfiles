@@ -253,9 +253,11 @@ for_window [title="Volume Control"] floating enable
 ###########
 # Startup #
 ###########
-
 # Pywal
-exec --no-startup-id wal -R
+exec_always --no-startup-id wal -R
+
+# Xresources
+exec --no-startup-id xrdb merge ~/.Xresources
 
 # Background with Feh
 exec --no-startup-id ~/.fehbg

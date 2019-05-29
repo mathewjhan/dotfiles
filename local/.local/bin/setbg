@@ -1,0 +1,36 @@
+#!/bin/sh
+
+usage(){
+    echo "Sets backgrounds for desktop/lockscreen and applies specified wal theme engine"
+    echo "Usage: setbg <light|dark> <haishoku|colorz|wal|schemer2|colorthief> </path/to/wallpaper>"
+}
+
+
+setlight(){
+    wal -l -n --backend "$1" -i "$2"
+    walnotify4
+    feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
+    sudo cp "$2" /usr/share/lightdm-webkit/themes/modern/bg
+    sudo convert "$2" -blur 0x8 /usr/share/lightdm-webkit/themes/modern/bg-blurred
+}
+
+setdark(){
+    wal -n --backend "$1" -i "$2"
+    walnotify4
+    feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
+    sudo cp "$2" /usr/share/lightdm-webkit/themes/modern/bg
+	sudo convert "$2" -blur 0x8 /usr/share/lightdm-webkit/themes/modern/bg-blurred 
+}
+
+if [ $# != 3 ]; then
+    usage
+    exit 1
+else
+    case $1 in
+        light) setlight $2 $3;;
+        dark)  setdark $2 $3;;
+        *)     usage; exit 1;;
+    esac
+fi
+
+
