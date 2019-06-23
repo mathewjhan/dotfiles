@@ -4,6 +4,7 @@ The dotfiles I am currently using on Arch Linux
 # Currently in use:
 - xfce4
 - i3-gaps
+- zsh
 - pywal
 - polybar
 - neovim (with vim8 plugins)
@@ -15,6 +16,7 @@ The dotfiles I am currently using on Arch Linux
 - stow + git (dotfile management)
 - fireshot (screenshots)
 - vifm (vim style file manager)
+- mpd + ncmpcpp (music player)
 
 # Requirements
 - i3-gaps
@@ -48,4 +50,24 @@ The dotfiles I am currently using on Arch Linux
     - san francisco mono (font)
 
 - vifm
-    - ueberzug (previews in vifm)
+    - ueberzug (previews in vifm, see config for specific details)
+    - ffmpegthumbnailer
+
+- neovim
+    - asyncrun.vim
+    - auto-pairs
+    - coc.nvim
+    - goyo.vim
+    - nerdcommenter
+    - nerdtree
+    - tabular
+    - vim-airline
+    - vim-auto-save
+    - vim-bookmarks
+    - vim-pandoc
+    - vim-pandoc-markdown-syntax
+    - vim-pandoc-markdown-preview
+    - vim-surround
+    - vimtex
+    - vpmp-togglable (modified vim-pandoc-markdown-preview)
+    - wal.vim (theme that works with pywal)

@@ -53,10 +53,14 @@ eval $(thefuck --alias fuck)
 # Fast configs
 alias vimrc="vim ~/.vimrc"
 alias bashrc="vim ~/.bashrc && source ~/.bashrc && clear"
+alias zshrc="vim ~/.zshrc && source ~/.zshrc && clear"
 alias i3config="vim ~/.config/i3/config"
 
 # Lock
 alias lock="xflock4"
+
+# MPD
+alias remove-playlist-dupes="mpc playlist | sort | uniq -d -c | while read song; do count=$(echo "$song" | sed -e "s/^[ \t]*//" | cut -d" " -f1); song=$(echo "$song" | sed -e "s/^[ \t]*//" | cut -d" " -f2-); for (( i = 2 ; i <= $count; i++ )); do mpc playlist | grep -n "$song" | tail -n 1 | cut -d: -f1 | mpc del; done; done"
 
 # Set wallpapers with pywal
 set-bg(){
@@ -87,20 +91,23 @@ commit-dots(){
     git commit -m "$@"  
 }
 
+## ZSH SPECIFIC 
+# better tab completion
+autoload -U compinit
+compinit
 
-# Night light
-alias night-light="redshift -l 37.548271:-121.988571"  
+# tab completion from both ends
+setopt completeinword
 
-# Run startup
-# neofetch
+# case-insensitive tab completion
+zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
+
+# prompt
+autoload -U promptinit; promptinit
+prompt pure
+
+# z
+[[ -r "/usr/share/z/z.sh" ]] && source /usr/share/z/z.sh
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
-
-alias ls='ls --color=auto'
-
-# Bash prompt
-#PS1='[\u@\h \W]\$ '
-PS1="\[\033[0;33m\]\u\[\033[0;37m\]@\[\033[0;96m\]\h \[\033[1;32m\]\w\[\033[0;37m\]\n\\$ \[$(tput sgr0)\]"
-
-# [ -f ~/.fzf.bash ] && source ~/.fzf.bash

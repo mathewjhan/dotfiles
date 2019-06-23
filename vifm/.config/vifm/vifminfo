@@ -22,75 +22,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home
-	mathew
-1
-d/
-	home
-4
-d/media/data/mathew/Home
-	..
-0
-d/home/mathew
-	Pictures
-5
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew
-	conf_bak
-7
-d/home
-	mathew
-1
-d/home/mathew
-	Downloads
-4
-d/media/data/mathew/Home
-	temp
-9
-d/media/data/mathew/Home/temp
-	Ansatsu Kyoushitsu [BD][HEVC][10bit][1080p]
-1
-d/media/data/mathew/Home/temp/Ansatsu Kyoushitsu [BD][HEVC][10bit][1080p]
-	Ansatsu Kyoushitsu 1x20.mkv
-21
-d/media/data/mathew/Home
-	temp
-9
-d/media/data/mathew/Home/temp
-	Ansatsu Kyoushitsu [BD][HEVC][10bit][1080p]
-1
-d/media/data/mathew/Home/temp/Ansatsu Kyoushitsu [BD][HEVC][10bit][1080p]
-	Ansatsu Kyoushitsu 2x02.mkv
-25
-d/media/data/mathew/Home/temp
-	Ansatsu Kyoushitsu [BD][HEVC][10bit][1080p]
-1
-d/home/mathew
-	Pictures
-5
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew
-	Downloads
-4
-d/media/data/mathew/Home
-	temp
-9
-d/home/mathew
-	Pictures
-5
-d/home
-	mathew
-1
-d/
-	lost+found
-8
-d/media/data/mathew/Home
-	temp
-9
 d/media/data/mathew/Home/temp
 	Ansatsu Kyoushitsu [BD][HEVC][10bit][1080p]
 1
@@ -321,7 +252,76 @@ d/media/data/mathew/Pictures/Wallpapers/real
 29
 d/home/mathew/Pictures/Wallpapers
 	nordcat.png
-16
+17
+d/home/mathew/Pictures
+	Wallpapers
+1
+d/home/mathew
+	monopoly
+9
+d/home
+	mathew
+1
+d/
+	media
+9
+d/media
+	windows
+2
+d/media/windows
+	..
+0
+d/media
+	data
+1
+d/media/data
+	mathew
+3
+d/media/data/mathew
+	Home
+3
+d/media/data/mathew/Home
+	temp
+9
+d/media/data/mathew/Home/temp
+	[GrandLotus] (Sharpened) One Punch Man S1+OVA [BD 1080p Hi10 FLAC]
+2
+d/media/data/mathew/Home/temp/[GrandLotus] (Sharpened) One Punch Man S1+OVA [BD 1080p Hi10 FLAC]
+	One Punch Man 12 1080p.mkv
+12
+d/home/mathew
+	monopoly
+9
+d/home
+	mathew
+1
+d/
+	media
+9
+d/media
+	data
+1
+d/media/data
+	mathew
+3
+d/media/data/mathew
+	Home
+3
+d/media/data/mathew/Home
+	temp
+9
+d/media/data/mathew/Home/temp
+	[GrandLotus] (Sharpened) One Punch Man S1+OVA [BD 1080p Hi10 FLAC]
+2
+d/media/data/mathew/Home/temp/[GrandLotus] (Sharpened) One Punch Man S1+OVA [BD 1080p Hi10 FLAC]
+	One Punch Man 09 1080p.mkv
+9
+d/home/mathew/Downloads
+	ap-calculus-ab-frq-2017.pdf
+7
+d/media/data/mathew/Home
+	..
+0
 d
 
 # Right window history (oldest to newest):
@@ -340,6 +340,7 @@ D
 :e $MYVIFMRC
 :!cd
 :view
+:qw
 :q
 
 # Search history (oldest to newest):
@@ -351,10 +352,13 @@ D
 # Local filter history (oldest to newest):
 
 # Registers:
+""/home/mathew/.local/share/vifm/Trash/000_[HorribleSubs] Shingeki no Kyojin S3 - 56 [1080p].mkv
 
 # Directory stack (oldest to newest):
 
 # Trash content:
+t/home/mathew/.local/share/vifm/Trash/000_[HorribleSubs] Shingeki no Kyojin S3 - 56 [1080p].mkv
+	/home/mathew/Downloads/[HorribleSubs] Shingeki no Kyojin S3 - 56 [1080p].mkv
 
 # State:
 f
