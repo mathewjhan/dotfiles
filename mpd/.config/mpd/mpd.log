@@ -2845,3 +2845,477 @@ Jun 22 18:04 : client: [1306] closed
 Jun 22 18:04 : client: [1307] opened from 127.0.0.1:44034
 Jun 22 18:04 : client: [1307] closed
 Jun 22 18:04 : client: [1308] opened from 127.0.0.1:44038
+Jun 22 18:08 : client: [1308] closed
+Jun 22 18:08 : client: [1309] opened from 127.0.0.1:44130
+Jun 22 18:08 : client: [1309] closed
+Jun 22 18:08 : client: [1310] opened from 127.0.0.1:44134
+Jun 22 18:08 : client: [1310] closed
+Jun 22 18:08 : client: [1311] opened from 127.0.0.1:44138
+Jun 22 21:11 : client: [1311] closed
+Jun 22 21:11 : client: [1312] opened from 127.0.0.1:45744
+Jun 22 21:11 : client: [1312] closed
+Jun 22 21:11 : client: [1313] opened from 127.0.0.1:45748
+Jun 22 21:11 : client: [1313] closed
+Jun 22 21:11 : client: [1314] opened from 127.0.0.1:45752
+Jun 22 21:12 : client: [1315] opened from 127.0.0.1:45760
+Jun 22 21:12 : client: [1314] closed
+Jun 22 21:12 : client: [1315] closed
+Jun 22 21:12 : client: [1316] opened from 127.0.0.1:45764
+Jun 22 21:12 : client: [1316] closed
+Jun 22 21:12 : client: [1317] opened from 127.0.0.1:45768
+Jun 22 21:13 : client: [1317] closed
+Jun 22 21:13 : client: [1318] opened from 127.0.0.1:45772
+Jun 22 21:13 : client: [1318] closed
+Jun 22 21:13 : client: [1319] opened from 127.0.0.1:45776
+Jun 22 21:13 : client: [1319] closed
+Jun 22 21:13 : client: [1320] opened from 127.0.0.1:45780
+Jun 22 21:14 : client: [1320] closed
+Jun 22 21:14 : client: [1321] opened from 127.0.0.1:45784
+Jun 22 21:14 : client: [1321] closed
+Jun 22 21:14 : client: [1322] opened from 127.0.0.1:45788
+Jun 22 21:14 : client: [1322] closed
+Jun 22 21:14 : client: [1323] opened from 127.0.0.1:45792
+Jun 22 21:14 : client: [1324] opened from 127.0.0.1:45796
+Jun 22 21:14 : client: [1323] closed
+Jun 22 21:14 : client: [1324] closed
+Jun 22 21:14 : client: [1325] opened from 127.0.0.1:45800
+Jun 22 21:14 : client: [1325] closed
+Jun 22 21:14 : client: [1326] opened from 127.0.0.1:45804
+Jun 22 21:15 : client: [1327] opened from 127.0.0.1:45810
+Jun 22 21:15 : client: [1326] closed
+Jun 22 21:15 : client: [1327] closed
+Jun 22 21:15 : client: [1328] opened from 127.0.0.1:45814
+Jun 22 21:15 : client: [1328] closed
+Jun 22 21:15 : client: [1329] opened from 127.0.0.1:45818
+Jun 22 21:16 : client: [1330] opened from 127.0.0.1:45824
+Jun 22 21:16 : client: [1329] closed
+Jun 22 21:16 : client: [1330] closed
+Jun 22 21:16 : client: [1331] opened from 127.0.0.1:45828
+Jun 22 21:16 : client: [1331] closed
+Jun 22 21:16 : client: [1332] opened from 127.0.0.1:45832
+Jun 22 21:16 : client: [1333] opened from 127.0.0.1:45836
+Jun 22 21:16 : client: [1332] closed
+Jun 22 21:16 : client: [1333] closed
+Jun 22 21:16 : client: [1334] opened from 127.0.0.1:45840
+Jun 22 21:16 : client: [1334] closed
+Jun 22 21:16 : client: [1335] opened from 127.0.0.1:45844
+Jun 22 21:16 : client: [1335] closed
+Jun 22 21:16 : client: [1336] opened from 127.0.0.1:45850
+Jun 22 21:16 : client: [1336] closed
+Jun 22 21:16 : client: [1337] opened from 127.0.0.1:45854
+Jun 22 21:17 : client: [1338] opened from 127.0.0.1:45860
+Jun 22 21:17 : client: [1337] closed
+Jun 22 21:17 : client: [1338] closed
+Jun 22 21:17 : client: [1339] opened from 127.0.0.1:45864
+Jun 22 21:17 : client: [1339] closed
+Jun 22 21:17 : client: [1340] opened from 127.0.0.1:45868
+Jun 22 21:17 : client: [1340] closed
+Jun 22 21:17 : client: [1341] opened from 127.0.0.1:45874
+Jun 22 21:17 : client: [1341] closed
+Jun 22 21:17 : client: [1342] opened from 127.0.0.1:45878
+Jun 22 21:18 : client: [1342] closed
+Jun 22 21:18 : client: [1343] opened from 127.0.0.1:45886
+Jun 22 21:18 : client: [1343] closed
+Jun 22 21:18 : client: [1344] opened from 127.0.0.1:45890
+Jun 22 21:18 : client: [1344] closed
+Jun 22 21:18 : client: [1345] opened from 127.0.0.1:45894
+Jun 22 21:18 : client: [1346] opened from 127.0.0.1:45898
+Jun 22 21:18 : client: [1345] closed
+Jun 22 21:18 : client: [1346] closed
+Jun 22 21:19 : client: [1347] opened from 127.0.0.1:45902
+Jun 22 21:19 : client: [1347] closed
+Jun 22 21:19 : client: [1348] opened from 127.0.0.1:45906
+Jun 22 21:20 : client: [1349] opened from 127.0.0.1:45918
+Jun 22 21:20 : client: [1348] closed
+Jun 22 21:20 : client: [1349] closed
+Jun 22 21:20 : client: [1350] opened from 127.0.0.1:45922
+Jun 22 21:20 : client: [1350] closed
+Jun 22 21:20 : client: [1351] opened from 127.0.0.1:45926
+Jun 22 21:20 : client: [1352] opened from 127.0.0.1:45930
+Jun 22 21:20 : client: [1351] closed
+Jun 22 21:20 : client: [1352] closed
+Jun 22 21:20 : client: [1353] opened from 127.0.0.1:45934
+Jun 22 21:20 : client: [1353] closed
+Jun 22 21:20 : client: [1354] opened from 127.0.0.1:45938
+Jun 22 21:21 : client: [1355] opened from 127.0.0.1:45944
+Jun 22 21:21 : client: [1354] closed
+Jun 22 21:21 : client: [1355] closed
+Jun 22 21:21 : client: [1356] opened from 127.0.0.1:45948
+Jun 22 21:21 : client: [1356] closed
+Jun 22 21:21 : client: [1357] opened from 127.0.0.1:45952
+Jun 22 21:22 : client: [1358] opened from 127.0.0.1:45984
+Jun 22 21:22 : client: [1357] closed
+Jun 22 21:22 : client: [1358] closed
+Jun 22 21:22 : client: [1359] opened from 127.0.0.1:45988
+Jun 22 21:22 : client: [1359] closed
+Jun 22 21:22 : client: [1360] opened from 127.0.0.1:45992
+Jun 22 21:22 : client: [1360] closed
+Jun 22 21:22 : client: [1361] opened from 127.0.0.1:45998
+Jun 22 21:22 : client: [1361] closed
+Jun 22 21:22 : client: [1362] opened from 127.0.0.1:46002
+Jun 22 21:22 : client: [1362] closed
+Jun 22 21:22 : client: [1363] opened from 127.0.0.1:46006
+Jun 22 21:24 : client: [1363] closed
+Jun 22 21:24 : client: [1364] opened from 127.0.0.1:46024
+Jun 22 21:24 : client: [1364] closed
+Jun 22 21:24 : client: [1365] opened from 127.0.0.1:46028
+Jun 22 21:24 : client: [1365] closed
+Jun 22 21:24 : client: [1366] opened from 127.0.0.1:46032
+Jun 22 21:25 : client: [1366] closed
+Jun 22 21:25 : client: [1367] opened from 127.0.0.1:46048
+Jun 22 21:25 : client: [1367] closed
+Jun 22 21:25 : client: [1368] opened from 127.0.0.1:46052
+Jun 22 21:25 : client: [1368] closed
+Jun 22 21:25 : client: [1369] opened from 127.0.0.1:46056
+Jun 22 21:25 : client: [1370] opened from 127.0.0.1:46060
+Jun 22 21:25 : client: [1369] closed
+Jun 22 21:25 : client: [1370] closed
+Jun 22 21:25 : client: [1371] opened from 127.0.0.1:46064
+Jun 22 21:25 : client: [1371] closed
+Jun 22 21:25 : client: [1372] opened from 127.0.0.1:46068
+Jun 22 21:26 : client: [1373] opened from 127.0.0.1:46074
+Jun 22 21:26 : client: [1372] closed
+Jun 22 21:26 : client: [1373] closed
+Jun 22 21:26 : client: [1374] opened from 127.0.0.1:46078
+Jun 22 21:26 : client: [1374] closed
+Jun 22 21:26 : client: [1375] opened from 127.0.0.1:46082
+Jun 22 21:26 : client: [1376] opened from 127.0.0.1:46086
+Jun 22 21:26 : client: [1375] closed
+Jun 22 21:26 : client: [1376] closed
+Jun 22 21:26 : client: [1377] opened from 127.0.0.1:46090
+Jun 22 21:26 : client: [1377] closed
+Jun 22 21:26 : client: [1378] opened from 127.0.0.1:46094
+Jun 22 21:27 : client: [1379] opened from 127.0.0.1:46098
+Jun 22 21:27 : client: [1378] closed
+Jun 22 21:27 : client: [1379] closed
+Jun 22 21:27 : client: [1380] opened from 127.0.0.1:46102
+Jun 22 21:27 : client: [1380] closed
+Jun 22 21:27 : client: [1381] opened from 127.0.0.1:46106
+Jun 22 21:27 : client: [1382] opened from 127.0.0.1:46112
+Jun 22 21:27 : client: [1381] closed
+Jun 22 21:27 : client: [1382] closed
+Jun 22 21:27 : client: [1383] opened from 127.0.0.1:46116
+Jun 22 21:27 : client: [1383] closed
+Jun 22 21:27 : client: [1384] opened from 127.0.0.1:46120
+Jun 22 21:28 : client: [1384] closed
+Jun 22 21:28 : client: [1385] opened from 127.0.0.1:46128
+Jun 22 21:28 : client: [1385] closed
+Jun 22 21:28 : client: [1386] opened from 127.0.0.1:46132
+Jun 22 21:28 : client: [1386] closed
+Jun 22 21:28 : client: [1387] opened from 127.0.0.1:46136
+Jun 22 21:28 : client: [1387] closed
+Jun 22 21:28 : client: [1388] opened from 127.0.0.1:46140
+Jun 22 21:28 : client: [1388] closed
+Jun 22 21:28 : client: [1389] opened from 127.0.0.1:46144
+Jun 22 21:28 : client: [1389] closed
+Jun 22 21:28 : client: [1390] opened from 127.0.0.1:46148
+Jun 22 21:28 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/25. Shelly De Killer ~ The Whim Of A Murderous Gentleman.mp3"
+Jun 22 21:28 : client: [1390] closed
+Jun 22 21:28 : client: [1391] opened from 127.0.0.1:46154
+Jun 22 21:28 : client: [1391] closed
+Jun 22 21:28 : client: [1392] opened from 127.0.0.1:46158
+Jun 22 21:28 : client: [1392] closed
+Jun 22 21:28 : client: [1393] opened from 127.0.0.1:46162
+Jun 22 21:29 : client: [1393] closed
+Jun 22 21:29 : client: [1394] opened from 127.0.0.1:46166
+Jun 22 21:29 : client: [1394] closed
+Jun 22 21:29 : client: [1395] opened from 127.0.0.1:46170
+Jun 22 21:29 : client: [1395] closed
+Jun 22 21:29 : client: [1396] opened from 127.0.0.1:46174
+Jun 22 21:29 : client: [1397] opened from 127.0.0.1:46178
+Jun 22 21:29 : client: [1396] closed
+Jun 22 21:29 : client: [1397] closed
+Jun 22 21:29 : client: [1398] opened from 127.0.0.1:46182
+Jun 22 21:29 : client: [1398] closed
+Jun 22 21:29 : client: [1399] opened from 127.0.0.1:46186
+Jun 22 21:29 : client: [1399] closed
+Jun 22 21:29 : client: [1400] opened from 127.0.0.1:46190
+Jun 22 21:29 : client: [1400] closed
+Jun 22 21:29 : client: [1401] opened from 127.0.0.1:46194
+Jun 22 21:29 : client: [1401] closed
+Jun 22 21:29 : client: [1402] opened from 127.0.0.1:46198
+Jun 22 21:31 : client: [1402] closed
+Jun 22 21:31 : client: [1403] opened from 127.0.0.1:46206
+Jun 22 21:31 : client: [1403] closed
+Jun 22 21:31 : client: [1404] opened from 127.0.0.1:46210
+Jun 22 21:31 : client: [1404] closed
+Jun 22 21:31 : client: [1405] opened from 127.0.0.1:46214
+Jun 22 21:31 : client: [1406] opened from 127.0.0.1:46218
+Jun 22 21:31 : client: [1405] closed
+Jun 22 21:31 : client: [1406] closed
+Jun 22 21:31 : client: [1407] opened from 127.0.0.1:46222
+Jun 22 21:31 : client: [1407] closed
+Jun 22 21:31 : client: [1408] opened from 127.0.0.1:46226
+Jun 22 21:32 : client: [1409] opened from 127.0.0.1:46230
+Jun 22 21:32 : client: [1408] closed
+Jun 22 21:32 : client: [1409] closed
+Jun 22 21:32 : client: [1410] opened from 127.0.0.1:46234
+Jun 22 21:32 : client: [1410] closed
+Jun 22 21:32 : client: [1411] opened from 127.0.0.1:46238
+Jun 22 21:32 : client: [1411] closed
+Jun 22 21:32 : client: [1412] opened from 127.0.0.1:46244
+Jun 22 21:32 : client: [1412] closed
+Jun 22 21:32 : client: [1413] opened from 127.0.0.1:46248
+Jun 22 21:33 : client: [1414] opened from 127.0.0.1:46264
+Jun 22 21:33 : client: [1413] closed
+Jun 22 21:33 : client: [1414] closed
+Jun 22 21:33 : client: [1415] opened from 127.0.0.1:46268
+Jun 22 21:33 : client: [1415] closed
+Jun 22 21:33 : client: [1416] opened from 127.0.0.1:46272
+Jun 22 21:34 : client: [1417] opened from 127.0.0.1:46282
+Jun 22 21:34 : client: [1416] closed
+Jun 22 21:34 : client: [1417] closed
+Jun 22 21:34 : client: [1418] opened from 127.0.0.1:46286
+Jun 22 21:34 : client: [1418] closed
+Jun 22 21:34 : client: [1419] opened from 127.0.0.1:46290
+Jun 22 21:35 : client: [1420] opened from 127.0.0.1:46296
+Jun 22 21:35 : client: [1419] closed
+Jun 22 21:35 : client: [1420] closed
+Jun 22 21:35 : client: [1421] opened from 127.0.0.1:46300
+Jun 22 21:35 : client: [1421] closed
+Jun 22 21:35 : client: [1422] opened from 127.0.0.1:46304
+Jun 22 21:35 : client: [1422] closed
+Jun 22 21:35 : client: [1423] opened from 127.0.0.1:46308
+Jun 22 21:35 : client: [1424] opened from 127.0.0.1:46314
+Jun 22 21:35 : client: [1423] closed
+Jun 22 21:35 : client: [1424] closed
+Jun 22 21:35 : client: [1425] opened from 127.0.0.1:46318
+Jun 22 21:35 : client: [1425] closed
+Jun 22 21:35 : client: [1426] opened from 127.0.0.1:46322
+Jun 22 21:36 : client: [1427] opened from 127.0.0.1:46328
+Jun 22 21:36 : client: [1426] closed
+Jun 22 21:36 : client: [1427] closed
+Jun 22 21:36 : client: [1428] opened from 127.0.0.1:46332
+Jun 22 21:36 : client: [1428] closed
+Jun 22 21:36 : client: [1429] opened from 127.0.0.1:46336
+Jun 22 21:37 : client: [1430] opened from 127.0.0.1:46344
+Jun 22 21:37 : client: [1429] closed
+Jun 22 21:37 : client: [1430] closed
+Jun 22 21:37 : client: [1431] opened from 127.0.0.1:46350
+Jun 22 21:37 : client: [1431] closed
+Jun 22 21:37 : client: [1432] opened from 127.0.0.1:46354
+Jun 22 21:39 : client: [1432] closed
+Jun 22 21:39 : client: [1433] opened from 127.0.0.1:46360
+Jun 22 21:39 : client: [1433] closed
+Jun 22 21:39 : client: [1434] opened from 127.0.0.1:46364
+Jun 22 21:39 : client: [1434] closed
+Jun 22 21:39 : client: [1435] opened from 127.0.0.1:46368
+Jun 22 21:39 : client: [1435] closed
+Jun 22 21:39 : client: [1436] opened from 127.0.0.1:46374
+Jun 22 21:39 : client: [1436] closed
+Jun 22 21:39 : client: [1437] opened from 127.0.0.1:46378
+Jun 22 21:39 : client: [1437] closed
+Jun 22 21:39 : client: [1438] opened from 127.0.0.1:46382
+Jun 22 21:41 : client: [1439] opened from 127.0.0.1:46388
+Jun 22 21:41 : client: [1438] closed
+Jun 22 21:41 : client: [1439] closed
+Jun 22 21:41 : client: [1440] opened from 127.0.0.1:46392
+Jun 22 21:41 : client: [1440] closed
+Jun 22 21:41 : client: [1441] opened from 127.0.0.1:46396
+Jun 22 21:41 : client: [1441] closed
+Jun 22 21:41 : client: [1442] opened from 127.0.0.1:46400
+Jun 22 21:42 : client: [1443] opened from 127.0.0.1:46404
+Jun 22 21:42 : client: [1442] closed
+Jun 22 21:42 : client: [1443] closed
+Jun 22 21:42 : client: [1444] opened from 127.0.0.1:46408
+Jun 22 21:42 : client: [1444] closed
+Jun 22 21:42 : client: [1445] opened from 127.0.0.1:46412
+Jun 22 21:42 : client: [1446] opened from 127.0.0.1:46420
+Jun 22 21:42 : client: [1445] closed
+Jun 22 21:42 : client: [1446] closed
+Jun 22 21:42 : client: [1447] opened from 127.0.0.1:46424
+Jun 22 21:42 : client: [1447] closed
+Jun 22 21:42 : client: [1448] opened from 127.0.0.1:46428
+Jun 22 21:43 : client: [1448] closed
+Jun 22 21:43 : client: [1449] opened from 127.0.0.1:46434
+Jun 22 21:43 : client: [1449] closed
+Jun 22 21:43 : client: [1450] opened from 127.0.0.1:46438
+Jun 22 21:43 : client: [1450] closed
+Jun 22 21:43 : client: [1451] opened from 127.0.0.1:46442
+Jun 22 21:44 : client: [1451] closed
+Jun 22 21:44 : client: [1452] opened from 127.0.0.1:46446
+Jun 22 21:44 : client: [1452] closed
+Jun 22 21:44 : client: [1453] opened from 127.0.0.1:46450
+Jun 22 21:44 : client: [1453] closed
+Jun 22 21:44 : client: [1454] opened from 127.0.0.1:46454
+Jun 22 21:44 : client: [1454] closed
+Jun 22 21:44 : client: [1455] opened from 127.0.0.1:46458
+Jun 22 21:44 : client: [1455] closed
+Jun 22 21:44 : client: [1456] opened from 127.0.0.1:46462
+Jun 22 21:44 : client: [1456] closed
+Jun 22 21:44 : client: [1457] opened from 127.0.0.1:46466
+Jun 22 21:44 : client: [1457] closed
+Jun 22 21:44 : client: [1458] opened from 127.0.0.1:46470
+Jun 22 21:44 : client: [1458] closed
+Jun 22 21:44 : client: [1459] opened from 127.0.0.1:46474
+Jun 22 21:44 : client: [1459] closed
+Jun 22 21:44 : client: [1460] opened from 127.0.0.1:46478
+Jun 22 21:44 : player: played "Nujabes/Modal Soul/01. Feather (ft. Cise Starr & Akin).mp3"
+Jun 22 21:44 : client: [1460] closed
+Jun 22 21:44 : client: [1461] opened from 127.0.0.1:46482
+Jun 22 21:44 : client: [1461] closed
+Jun 22 21:44 : client: [1462] opened from 127.0.0.1:46486
+Jun 22 21:44 : client: [1462] closed
+Jun 22 21:44 : client: [1463] opened from 127.0.0.1:46490
+Jun 22 21:44 : client: [1463] closed
+Jun 22 21:44 : client: [1464] opened from 127.0.0.1:46496
+Jun 22 21:44 : client: [1464] closed
+Jun 22 21:44 : client: [1465] opened from 127.0.0.1:46500
+Jun 22 21:44 : client: [1465] closed
+Jun 22 21:44 : client: [1466] opened from 127.0.0.1:46504
+Jun 22 21:44 : client: [1466] closed
+Jun 22 21:44 : client: [1467] opened from 127.0.0.1:46508
+Jun 22 21:44 : client: [1467] closed
+Jun 22 21:44 : client: [1468] opened from 127.0.0.1:46512
+Jun 22 21:44 : client: [1468] closed
+Jun 22 21:44 : client: [1469] opened from 127.0.0.1:46516
+Jun 22 21:44 : client: [1469] closed
+Jun 22 21:44 : client: [1470] opened from 127.0.0.1:46520
+Jun 22 21:44 : client: [1470] closed
+Jun 22 21:44 : client: [1471] opened from 127.0.0.1:46524
+Jun 22 21:46 : client: [1471] closed
+Jun 22 21:46 : client: [1472] opened from 127.0.0.1:46550
+Jun 22 21:46 : client: [1472] closed
+Jun 22 21:46 : client: [1473] opened from 127.0.0.1:46554
+Jun 22 21:46 : client: [1473] closed
+Jun 22 21:46 : client: [1474] opened from 127.0.0.1:46558
+Jun 23 01:41 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Jun 25 10:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 25 10:39 : config: option 'device' on line 209 was not recognized
+Jun 25 10:39 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jun 25 11:38 : client: [0] opened from 127.0.0.1:33170
+Jun 25 11:38 : client: [0] closed
+Jun 25 11:38 : client: [1] opened from 127.0.0.1:33174
+Jun 25 11:38 : client: [1] closed
+Jun 25 11:38 : client: [2] opened from 127.0.0.1:33178
+Jun 25 11:38 : client: [2] closed
+Jun 25 11:38 : client: [3] opened from 127.0.0.1:33182
+Jun 25 11:38 : client: [3] closed
+Jun 25 11:39 : client: [4] opened from 127.0.0.1:33190
+Jun 25 11:39 : client: [4] closed
+Jun 25 11:39 : client: [5] opened from 127.0.0.1:33196
+Jun 25 11:39 : client: [5] closed
+Jun 25 11:40 : client: [6] opened from 127.0.0.1:33222
+Jun 25 11:40 : client: [6] closed
+Jun 25 11:40 : client: [7] opened from 127.0.0.1:33226
+Jun 25 11:40 : exception: No such directory
+Jun 25 11:40 : client: [7] closed
+Jun 25 11:40 : client: [8] opened from 127.0.0.1:33230
+Jun 25 11:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 25 11:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 25 11:40 : client: [8] closed
+Jun 25 11:42 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Jun 25 11:46 : player: played "Nujabes/2nd Collection/02. Sky is falling (featuring C.L. Smooth).mp3"
+Jun 25 11:49 : player: played "Nujabes/2nd Collection/03. Waltz for life will born.mp3"
+Jun 25 11:49 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jun 26 09:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 09:31 : config: option 'device' on line 209 was not recognized
+Jun 26 09:31 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jun 26 09:36 : client: [0] opened from 127.0.0.1:56456
+Jun 26 09:36 : client: [0] closed
+Jun 26 09:36 : client: [1] opened from 127.0.0.1:56462
+Jun 26 09:36 : client: [1] closed
+Jun 26 09:36 : client: [2] opened from 127.0.0.1:56466
+Jun 26 09:36 : exception: No such directory
+Jun 26 09:36 : client: [2] closed
+Jun 26 09:36 : client: [3] opened from 127.0.0.1:56470
+Jun 26 09:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 09:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 26 09:39 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Jun 26 09:42 : client: [4] opened from 127.0.0.1:56676
+Jun 26 09:42 : client: [4] closed
+Jun 26 09:42 : client: [5] opened from 127.0.0.1:56680
+Jun 26 09:42 : client: [5] closed
+Jun 26 09:43 : client: [6] opened from 127.0.0.1:56688
+Jun 26 09:43 : client: [6] closed
+Jun 26 09:43 : client: [7] opened from 127.0.0.1:56700
+Jun 26 09:43 : client: [7] closed
+Jun 26 18:00 : player: played "Nujabes/2nd Collection/02. Sky is falling (featuring C.L. Smooth).mp3"
+Jun 26 18:02 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Jun 26 18:06 : client: [3] closed
+Jun 26 18:06 : player: played "Nujabes/2nd Collection/02. Sky is falling (featuring C.L. Smooth).mp3"
+Jun 26 18:06 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jun 27 09:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 27 09:17 : config: option 'device' on line 209 was not recognized
+Jun 27 09:17 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jun 27 09:17 : client: [0] opened from 127.0.0.1:54660
+Jun 27 09:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 27 09:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 27 09:19 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Jun 27 09:24 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Jun 27 09:28 : player: played "Nujabes/2nd Collection/02. Sky is falling (featuring C.L. Smooth).mp3"
+Jun 27 09:33 : player: played "Nujabes/2nd Collection/03. Waltz for life will born.mp3"
+Jun 27 09:38 : player: played "Nujabes/2nd Collection/04. Imaginary Folklore.mp3"
+Jun 27 09:46 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack (FLAC)/光田康典 _ ACE(工藤ともり、CHiCO) _ 平松建治 _ 清田愛未/ゼノブレイド2 オリジナル・サウンドトラック/45. Counterattack.flac"
+Jun 27 09:46 : client: [1] opened from 127.0.0.1:55172
+Jun 27 09:51 : client: [1] closed
+Jun 27 17:23 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack (FLAC)/光田康典 _ ACE(工藤ともり、CHiCO) _ 平松建治 _ 清田愛未/ゼノブレイド2 オリジナル・サウンドトラック/44. Drifting Soul.flac"
+Jun 27 17:30 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack (FLAC)/光田康典 _ ACE(工藤ともり、CHiCO) _ 平松建治 _ 清田愛未/ゼノブレイド2 オリジナル・サウンドトラック/44. Drifting Soul.flac"
+Jun 27 17:41 : player: played "Jinsang/Life (Album)/20 Pereceptionz.mp3"
+Jun 27 17:43 : player: played "Jinsang/Life (Album)/21 Alone Together.mp3"
+Jun 27 17:48 : player: played "Illenium/Awake (Album)/01 Needed You.mp3"
+Jun 28 01:55 : player: played "After the Rain/Mafumafu x Soraru クロクレストストーリー/[Disc 1] After the Rain – Kuro Crest Story/01. 桜花ニ月夜ト袖シグレ.mp3"
+Jun 28 10:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 10:17 : config: option 'device' on line 209 was not recognized
+Jun 28 10:17 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jun 28 12:11 : client: [0] opened from 127.0.0.1:57680
+Jun 28 12:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 12:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 12:12 : player: played "Yorushika (ヨルシカ)/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/02. カトレア.mp3"
+Jun 28 18:19 : player: played "Yorushika (ヨルシカ)/Yorushika - Makeinu ni Alcohol wa Iranai/02. 負け犬にアンコールはいらない.mp3"
+Jun 28 18:20 : player: played "Yorushika (ヨルシカ)/Yorushika - Makeinu ni Alcohol wa Iranai/05. 落下.mp3"
+Jun 28 18:27 : player: played "Primary x yuiko/From GardeN/06. in the Garden.mp3"
+Jun 28 18:30 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/01. プロローグ~金剛型戦艦の誕生.mp3"
+Jun 28 18:33 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/03. 昼戦戦乙女の行進.mp3"
+Jun 28 18:36 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/02. 海上護衛戦.mp3"
+Jun 28 18:40 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/05 波濤を越えて.mp3"
+Jun 28 18:45 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/05. 眼下の伊号.mp3"
+Jun 28 18:46 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/02. 近代化改装.mp3"
+Jun 28 18:50 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/05. もう歌しか聞こえない 〜 夜雀の歌声.mp3"
+Jun 28 18:53 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/04. 工廠ワルツ.mp3"
+Jun 28 18:56 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/03 第五戦隊の出撃.mp3"
+Jun 28 18:58 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/06. 南方海域を突破せよ.mp3"
+Jun 28 19:02 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/02. 士魂の護り.mp3"
+Jun 28 19:05 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/01. 鎮守府の序曲.mp3"
+Jun 28 19:07 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/03. 金剛型第三戦隊.mp3"
+Jun 28 19:10 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/03. 我、敵機動部隊ト交戦ス.mp3"
+Jun 28 19:13 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/06. 壱幕：MI作戦発動.mp3"
+Jun 28 19:17 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/07. 恋色マスタースパーク.mp3"
+Jun 28 19:21 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/07. 加賀岬.mp3"
+Jun 28 19:25 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/03. 索敵機、発艦始め！.mp3"
+Jun 28 19:28 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/05. 栄光への夜戦.mp3"
+Jun 28 19:31 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/05. 次発装填、再突入！.mp3"
+Jun 28 19:34 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/04 冬の艦隊.mp3"
+Jun 28 19:37 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/07. 鉄底海峡の死闘.mp3"
+Jun 28 19:40 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/04. 連合艦隊、西へ.mp3"
+Jun 28 19:43 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/01. ヴォヤージュ1969.mp3"
+Jun 28 19:46 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/02. 水雷戦隊の反撃.mp3"
+Jun 28 19:49 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/06. SAYONARA.mp3"
+Jun 28 19:52 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/07. 飛龍の反撃2016.mp3"
+Jun 28 21:11 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/07. エピローグ〜金剛型戦艦の最期.mp3"
+Jun 28 21:16 : player: played "After the Rain/Mafumafu x Soraru クロクレストストーリー/[Disc 1] After the Rain – Kuro Crest Story/01. 桜花ニ月夜ト袖シグレ.mp3"
+Jun 28 21:19 : player: played "mafumafu/明日色ワールドエンド/08. [Anonymous].mp3"
+Jun 28 21:23 : player: played "EXIT TUNES/[豚乙女] - 実は繊細な貴女とたまに勇敢な私のなんだか騒いでるって話。(Reitaisai9)/08 - 水際の草.mp3"
+Jun 28 21:26 : player: played "mafumafu/夢色シグナル/10. ポーカーフェイス feat.スズム.mp3"
+Jun 28 21:30 : player: played "FELT/Rebirth Story 4/Rebirth Story 4 -Sapphire/03. IN THE RAIN.mp3"
+Jun 28 21:35 : player: played "FELT/Rebirth Story Ⅲ/DISC 1/06.Goldrop.mp3"
+Jun 28 21:39 : player: played "mafumafu/夢色シグナル/07. イカサマライフゲイム.mp3"
+Jun 28 21:43 : player: played "Yorushika (ヨルシカ)/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/04. あの夏に咲け.mp3"
+Jun 28 21:43 : player: played "mafumafu/夢色シグナル/12. AM 4-00.mp3"
+Jun 28 21:47 : player: played "FELT/Rebirth Story Ⅲ/DISC 2/14. Landscape.mp3"
+Jun 28 21:51 : player: played "Daoko/Thank You Blue/Disc 1/03. Juicy.mp3"
+Jun 28 21:55 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Jun 28 21:59 : player: played "Daoko/Thank You Blue/Disc 1/11. もしも僕らが GAME の主役で.mp3"
+Jun 28 22:02 : player: played "mafumafu/刹那色シンドローム/15. 仇返しシンドローム(Instrumental setsunairo +3 ver).mp3"
+Jun 28 22:05 : player: played "mafumafu/Mafumafu - Meikyou Shisui/04. 後書きの始まり、虚無の行方.mp3"
+Jun 28 22:08 : player: played "mafumafu/明日色ワールドエンド/13. 常夜の国の遊びかた.mp3"
+Jun 28 22:13 : player: played "After the Rain/Soraru×Mafumafu - After Rain Quest/07 入り江の国.mp3"
+Jun 28 22:17 : player: played "FELT/Rebirth Story 4/Rebirth Story 4 -Ruby/06. our song.mp3"
+Jun 28 22:20 : player: played "H△G/声 ~VOCALOID Cover Album~/10. タイムマシン.mp3"
+Jun 29 02:38 : player: played "H△G/声 ~VOCALOID Cover Album~/03. glow.mp3"
+Jun 29 02:55 : client: [0] closed
+Jun 29 02:55 : player: played "The Chainsmokers/The Chainsmokers - Something Just Like This/1 - The Chainsmokers - Something Just Like This.mp3"
+Jun 29 02:55 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jun 29 17:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 29 17:54 : config: option 'device' on line 209 was not recognized
+Jun 29 17:54 : avahi: Service 'Music Player @ zephyr' successfully established.

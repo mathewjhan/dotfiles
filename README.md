@@ -71,3 +71,5 @@ The dotfiles I am currently using on Arch Linux
     - vimtex
     - vpmp-togglable (modified vim-pandoc-markdown-preview)
     - wal.vim (theme that works with pywal)
+
+
