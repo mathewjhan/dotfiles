@@ -3319,3 +3319,417 @@ Jun 29 02:55 : exception: Failed to play on "pulse audio" (pulse): disconnected
 Jun 29 17:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jun 29 17:54 : config: option 'device' on line 209 was not recognized
 Jun 29 17:54 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jun 29 19:45 : client: [0] opened from 127.0.0.1:34310
+Jun 29 19:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 29 19:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 29 19:48 : client: [1] opened from 127.0.0.1:34404
+Jun 29 19:48 : client: [1] closed
+Jun 29 19:48 : client: [2] opened from 127.0.0.1:34408
+Jun 29 19:48 : client: [2] closed
+Jun 29 19:48 : client: [3] opened from 127.0.0.1:34412
+Jun 29 19:50 : client: [3] closed
+Jun 29 19:50 : client: [4] opened from 127.0.0.1:34430
+Jun 29 19:50 : client: [4] closed
+Jun 29 19:50 : client: [5] opened from 127.0.0.1:34434
+Jun 29 19:50 : client: [5] closed
+Jun 29 19:50 : client: [6] opened from 127.0.0.1:34438
+Jun 29 19:50 : client: [6] closed
+Jun 29 19:50 : client: [7] opened from 127.0.0.1:34442
+Jun 29 19:50 : client: [7] closed
+Jun 29 19:50 : client: [8] opened from 127.0.0.1:34446
+Jun 29 19:50 : client: [8] closed
+Jun 29 19:50 : client: [9] opened from 127.0.0.1:34450
+Jun 29 19:53 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/10. Mor Ardain - Roaming the Wastes -.mp3"
+Jun 29 19:53 : client: [9] closed
+Jun 29 19:53 : client: [10] opened from 127.0.0.1:34532
+Jun 29 19:53 : client: [10] closed
+Jun 29 19:53 : client: [11] opened from 127.0.0.1:34536
+Jun 29 19:53 : client: [11] closed
+Jun 29 19:53 : client: [12] opened from 127.0.0.1:34540
+Jun 29 19:54 : client: [12] closed
+Jun 29 19:54 : client: [13] opened from 127.0.0.1:34544
+Jun 29 19:54 : client: [13] closed
+Jun 29 19:54 : client: [14] opened from 127.0.0.1:34548
+Jun 29 19:54 : client: [14] closed
+Jun 29 19:54 : client: [15] opened from 127.0.0.1:34552
+Jun 29 19:55 : client: [15] closed
+Jun 29 19:55 : client: [16] opened from 127.0.0.1:34566
+Jun 29 19:55 : client: [16] closed
+Jun 29 19:55 : client: [17] opened from 127.0.0.1:34570
+Jun 29 19:55 : client: [17] closed
+Jun 29 19:55 : client: [18] opened from 127.0.0.1:34574
+Jun 29 19:56 : client: [18] closed
+Jun 29 19:56 : client: [19] opened from 127.0.0.1:34580
+Jun 29 19:56 : client: [19] closed
+Jun 29 19:56 : client: [20] opened from 127.0.0.1:34584
+Jun 29 19:56 : client: [20] closed
+Jun 29 19:56 : client: [21] opened from 127.0.0.1:34588
+Jun 29 19:56 : client: [21] closed
+Jun 29 19:56 : client: [22] opened from 127.0.0.1:34592
+Jun 29 19:56 : client: [22] closed
+Jun 29 19:56 : client: [23] opened from 127.0.0.1:34596
+Jun 29 19:56 : client: [23] closed
+Jun 29 19:56 : client: [24] opened from 127.0.0.1:34600
+Jun 29 19:56 : client: [24] closed
+Jun 29 19:56 : client: [25] opened from 127.0.0.1:34604
+Jun 29 19:56 : client: [25] closed
+Jun 29 19:56 : client: [26] opened from 127.0.0.1:34608
+Jun 29 19:56 : client: [26] closed
+Jun 29 19:56 : client: [27] opened from 127.0.0.1:34612
+Jun 29 19:56 : client: [27] closed
+Jun 29 19:56 : client: [28] opened from 127.0.0.1:34616
+Jun 29 19:56 : client: [28] closed
+Jun 29 19:56 : client: [29] opened from 127.0.0.1:34620
+Jun 29 19:56 : client: [29] closed
+Jun 29 19:56 : client: [30] opened from 127.0.0.1:34624
+Jun 29 19:56 : client: [30] closed
+Jun 29 19:56 : client: [31] opened from 127.0.0.1:34628
+Jun 29 19:56 : client: [31] closed
+Jun 29 19:56 : client: [32] opened from 127.0.0.1:34632
+Jun 29 19:56 : client: [32] closed
+Jun 29 19:56 : client: [33] opened from 127.0.0.1:34636
+Jun 29 19:56 : client: [33] closed
+Jun 29 19:56 : client: [34] opened from 127.0.0.1:34640
+Jun 29 19:56 : client: [34] closed
+Jun 29 19:56 : client: [35] opened from 127.0.0.1:34644
+Jun 29 19:56 : client: [35] closed
+Jun 29 19:56 : client: [36] opened from 127.0.0.1:34648
+Jun 29 19:56 : client: [36] closed
+Jun 29 19:56 : client: [37] opened from 127.0.0.1:34652
+Jun 29 19:56 : client: [37] closed
+Jun 29 19:56 : client: [38] opened from 127.0.0.1:34656
+Jun 29 19:56 : client: [38] closed
+Jun 29 19:56 : client: [39] opened from 127.0.0.1:34660
+Jun 29 19:56 : client: [39] closed
+Jun 29 19:56 : client: [40] opened from 127.0.0.1:34664
+Jun 29 19:56 : client: [40] closed
+Jun 29 19:56 : client: [41] opened from 127.0.0.1:34668
+Jun 29 19:56 : client: [41] closed
+Jun 29 19:56 : client: [42] opened from 127.0.0.1:34672
+Jun 29 19:57 : client: [42] closed
+Jun 29 19:57 : client: [43] opened from 127.0.0.1:34680
+Jun 29 19:57 : client: [43] closed
+Jun 29 19:57 : client: [44] opened from 127.0.0.1:34684
+Jun 29 19:57 : client: [44] closed
+Jun 29 19:57 : client: [45] opened from 127.0.0.1:34688
+Jun 29 19:57 : client: [45] closed
+Jun 29 19:57 : client: [46] opened from 127.0.0.1:34692
+Jun 29 19:57 : client: [46] closed
+Jun 29 19:57 : client: [47] opened from 127.0.0.1:34696
+Jun 29 19:57 : client: [47] closed
+Jun 29 19:57 : client: [48] opened from 127.0.0.1:34700
+Jun 29 19:58 : client: [48] closed
+Jun 29 19:58 : client: [49] opened from 127.0.0.1:34730
+Jun 29 19:58 : client: [49] closed
+Jun 29 19:58 : client: [50] opened from 127.0.0.1:34734
+Jun 29 19:58 : client: [50] closed
+Jun 29 19:58 : client: [51] opened from 127.0.0.1:34738
+Jun 29 19:58 : client: [51] closed
+Jun 29 19:58 : client: [52] opened from 127.0.0.1:34742
+Jun 29 19:58 : client: [52] closed
+Jun 29 19:58 : client: [53] opened from 127.0.0.1:34746
+Jun 29 19:58 : client: [53] closed
+Jun 29 19:58 : client: [54] opened from 127.0.0.1:34750
+Jun 29 19:58 : client: [54] closed
+Jun 29 19:58 : client: [55] opened from 127.0.0.1:34754
+Jun 29 19:58 : client: [55] closed
+Jun 29 19:58 : client: [56] opened from 127.0.0.1:34758
+Jun 29 19:58 : client: [56] closed
+Jun 29 19:58 : client: [57] opened from 127.0.0.1:34762
+Jun 29 19:58 : client: [57] closed
+Jun 29 19:58 : client: [58] opened from 127.0.0.1:34766
+Jun 29 19:58 : client: [58] closed
+Jun 29 19:58 : client: [59] opened from 127.0.0.1:34770
+Jun 29 19:58 : client: [59] closed
+Jun 29 19:58 : client: [60] opened from 127.0.0.1:34774
+Jun 29 19:58 : client: [60] closed
+Jun 29 19:58 : client: [61] opened from 127.0.0.1:34778
+Jun 29 19:58 : client: [61] closed
+Jun 29 19:58 : client: [62] opened from 127.0.0.1:34782
+Jun 29 19:58 : client: [62] closed
+Jun 29 19:58 : client: [63] opened from 127.0.0.1:34786
+Jun 29 19:58 : client: [63] closed
+Jun 29 19:58 : client: [64] opened from 127.0.0.1:34790
+Jun 29 19:58 : client: [64] closed
+Jun 29 19:59 : client: [65] opened from 127.0.0.1:34794
+Jun 29 19:59 : client: [65] closed
+Jun 29 19:59 : client: [66] opened from 127.0.0.1:34798
+Jun 29 19:59 : client: [66] closed
+Jun 29 19:59 : client: [67] opened from 127.0.0.1:34802
+Jun 29 19:59 : client: [67] closed
+Jun 29 19:59 : client: [68] opened from 127.0.0.1:34806
+Jun 29 19:59 : client: [68] closed
+Jun 29 19:59 : client: [69] opened from 127.0.0.1:34810
+Jun 29 19:59 : client: [69] closed
+Jun 29 19:59 : client: [70] opened from 127.0.0.1:34814
+Jun 29 19:59 : client: [70] closed
+Jun 29 19:59 : client: [71] opened from 127.0.0.1:34818
+Jun 29 19:59 : client: [71] closed
+Jun 29 19:59 : client: [72] opened from 127.0.0.1:34822
+Jun 29 20:00 : client: [72] closed
+Jun 29 20:00 : client: [73] opened from 127.0.0.1:34964
+Jun 29 20:00 : client: [73] closed
+Jun 29 20:00 : client: [74] opened from 127.0.0.1:34968
+Jun 29 20:00 : client: [74] closed
+Jun 29 20:00 : client: [75] opened from 127.0.0.1:34972
+Jun 29 20:02 : client: [75] closed
+Jun 29 20:02 : client: [76] opened from 127.0.0.1:35058
+Jun 29 20:02 : client: [76] closed
+Jun 29 20:02 : client: [77] opened from 127.0.0.1:35062
+Jun 29 20:02 : client: [77] closed
+Jun 29 20:02 : client: [78] opened from 127.0.0.1:35066
+Jun 29 20:03 : client: [78] closed
+Jun 29 20:03 : client: [79] opened from 127.0.0.1:35070
+Jun 29 20:03 : client: [79] closed
+Jun 29 20:03 : client: [80] opened from 127.0.0.1:35074
+Jun 29 20:03 : client: [80] closed
+Jun 29 20:03 : client: [81] opened from 127.0.0.1:35078
+Jun 29 20:03 : client: [81] closed
+Jun 29 20:03 : client: [82] opened from 127.0.0.1:35096
+Jun 29 20:03 : client: [82] closed
+Jun 29 20:03 : client: [83] opened from 127.0.0.1:35100
+Jun 29 20:03 : client: [83] closed
+Jun 29 20:03 : client: [84] opened from 127.0.0.1:35104
+Jun 29 20:04 : client: [84] closed
+Jun 29 20:04 : client: [85] opened from 127.0.0.1:35108
+Jun 29 20:04 : client: [85] closed
+Jun 29 20:04 : client: [86] opened from 127.0.0.1:35112
+Jun 29 20:04 : client: [86] closed
+Jun 29 20:04 : client: [87] opened from 127.0.0.1:35116
+Jun 29 20:04 : client: [87] closed
+Jun 29 20:04 : client: [88] opened from 127.0.0.1:35120
+Jun 29 20:04 : client: [88] closed
+Jun 29 20:04 : client: [89] opened from 127.0.0.1:35124
+Jun 29 20:04 : client: [89] closed
+Jun 29 20:04 : client: [90] opened from 127.0.0.1:35128
+Jun 29 20:04 : client: [90] closed
+Jun 29 20:04 : client: [91] opened from 127.0.0.1:35160
+Jun 29 20:04 : client: [91] closed
+Jun 29 20:04 : client: [92] opened from 127.0.0.1:35164
+Jun 29 20:04 : client: [92] closed
+Jun 29 20:04 : client: [93] opened from 127.0.0.1:35168
+Jun 29 20:04 : client: [93] closed
+Jun 29 20:04 : client: [94] opened from 127.0.0.1:35176
+Jun 29 20:04 : client: [94] closed
+Jun 29 20:04 : client: [95] opened from 127.0.0.1:35180
+Jun 29 20:04 : client: [95] closed
+Jun 29 20:04 : client: [96] opened from 127.0.0.1:35184
+Jun 29 21:26 : client: [96] closed
+Jun 29 21:26 : client: [97] opened from 127.0.0.1:37054
+Jun 29 21:26 : client: [97] closed
+Jun 29 21:26 : client: [98] opened from 127.0.0.1:37058
+Jun 29 21:26 : client: [98] closed
+Jun 29 21:26 : client: [99] opened from 127.0.0.1:37062
+Jun 30 00:40 : client: [99] closed
+Jun 30 00:40 : client: [100] opened from 127.0.0.1:41076
+Jun 30 00:40 : client: [100] closed
+Jun 30 00:40 : client: [101] opened from 127.0.0.1:41080
+Jun 30 00:40 : client: [101] closed
+Jun 30 00:40 : client: [102] opened from 127.0.0.1:41084
+Jun 30 00:40 : client: [102] closed
+Jun 30 00:40 : client: [103] opened from 127.0.0.1:41088
+Jun 30 00:40 : client: [103] closed
+Jun 30 00:40 : client: [104] opened from 127.0.0.1:41092
+Jun 30 00:40 : client: [104] closed
+Jun 30 00:40 : client: [105] opened from 127.0.0.1:41096
+Jun 30 00:40 : client: [105] closed
+Jun 30 00:40 : client: [106] opened from 127.0.0.1:41100
+Jun 30 00:40 : client: [106] closed
+Jun 30 00:40 : client: [107] opened from 127.0.0.1:41104
+Jun 30 00:40 : client: [107] closed
+Jun 30 00:40 : client: [108] opened from 127.0.0.1:41108
+Jun 30 00:40 : client: [108] closed
+Jun 30 00:40 : client: [109] opened from 127.0.0.1:41112
+Jun 30 00:40 : client: [109] closed
+Jun 30 00:40 : client: [110] opened from 127.0.0.1:41116
+Jun 30 00:40 : client: [110] closed
+Jun 30 00:40 : client: [111] opened from 127.0.0.1:41120
+Jun 30 00:40 : client: [111] closed
+Jun 30 00:40 : client: [112] opened from 127.0.0.1:41124
+Jun 30 00:40 : client: [112] closed
+Jun 30 00:40 : client: [113] opened from 127.0.0.1:41128
+Jun 30 00:40 : client: [113] closed
+Jun 30 00:40 : client: [114] opened from 127.0.0.1:41132
+Jun 30 00:40 : client: [114] closed
+Jun 30 00:40 : client: [115] opened from 127.0.0.1:41136
+Jun 30 00:40 : client: [115] closed
+Jun 30 00:40 : client: [116] opened from 127.0.0.1:41140
+Jun 30 00:40 : client: [116] closed
+Jun 30 00:40 : client: [117] opened from 127.0.0.1:41144
+Jun 30 00:40 : client: [117] closed
+Jun 30 00:40 : client: [118] opened from 127.0.0.1:41148
+Jun 30 00:40 : client: [118] closed
+Jun 30 00:40 : client: [119] opened from 127.0.0.1:41152
+Jun 30 00:40 : client: [119] closed
+Jun 30 00:40 : client: [120] opened from 127.0.0.1:41156
+Jun 30 00:40 : client: [120] closed
+Jun 30 00:40 : client: [121] opened from 127.0.0.1:41168
+Jun 30 00:40 : client: [121] closed
+Jun 30 00:40 : client: [122] opened from 127.0.0.1:41172
+Jun 30 00:40 : client: [122] closed
+Jun 30 00:40 : client: [123] opened from 127.0.0.1:41176
+Jun 30 00:40 : client: [123] closed
+Jun 30 00:40 : client: [124] opened from 127.0.0.1:41182
+Jun 30 00:40 : client: [124] closed
+Jun 30 00:40 : client: [125] opened from 127.0.0.1:41186
+Jun 30 00:40 : client: [125] closed
+Jun 30 00:40 : client: [126] opened from 127.0.0.1:41190
+Jun 30 00:40 : client: [126] closed
+Jun 30 00:40 : client: [127] opened from 127.0.0.1:41194
+Jun 30 00:40 : client: [127] closed
+Jun 30 00:40 : client: [128] opened from 127.0.0.1:41198
+Jun 30 00:40 : client: [128] closed
+Jun 30 00:40 : client: [129] opened from 127.0.0.1:41202
+Jun 30 00:40 : client: [129] closed
+Jun 30 00:40 : client: [130] opened from 127.0.0.1:41206
+Jun 30 00:40 : client: [130] closed
+Jun 30 00:40 : client: [131] opened from 127.0.0.1:41210
+Jun 30 00:40 : client: [131] closed
+Jun 30 00:40 : client: [132] opened from 127.0.0.1:41214
+Jun 30 00:40 : client: [132] closed
+Jun 30 00:40 : client: [133] opened from 127.0.0.1:41226
+Jun 30 00:40 : client: [133] closed
+Jun 30 00:40 : client: [134] opened from 127.0.0.1:41230
+Jun 30 00:40 : client: [134] closed
+Jun 30 00:40 : client: [135] opened from 127.0.0.1:41234
+Jun 30 00:40 : client: [135] closed
+Jun 30 00:40 : client: [136] opened from 127.0.0.1:41238
+Jun 30 00:40 : client: [136] closed
+Jun 30 00:40 : client: [137] opened from 127.0.0.1:41242
+Jun 30 00:40 : client: [137] closed
+Jun 30 00:40 : client: [138] opened from 127.0.0.1:41246
+Jun 30 00:41 : client: [138] closed
+Jun 30 00:41 : client: [139] opened from 127.0.0.1:41250
+Jun 30 00:41 : client: [139] closed
+Jun 30 00:41 : client: [140] opened from 127.0.0.1:41254
+Jun 30 00:41 : client: [140] closed
+Jun 30 00:41 : client: [141] opened from 127.0.0.1:41258
+Jun 30 00:41 : client: [141] closed
+Jun 30 00:41 : client: [142] opened from 127.0.0.1:41262
+Jun 30 00:41 : client: [142] closed
+Jun 30 00:41 : client: [143] opened from 127.0.0.1:41266
+Jun 30 00:41 : client: [143] closed
+Jun 30 00:41 : client: [144] opened from 127.0.0.1:41270
+Jun 30 00:41 : client: [144] closed
+Jun 30 00:41 : client: [145] opened from 127.0.0.1:41274
+Jun 30 00:41 : client: [145] closed
+Jun 30 00:41 : client: [146] opened from 127.0.0.1:41278
+Jun 30 00:41 : client: [146] closed
+Jun 30 00:41 : client: [147] opened from 127.0.0.1:41282
+Jun 30 01:53 : client: [147] closed
+Jun 30 01:53 : client: [148] opened from 127.0.0.1:42836
+Jun 30 01:53 : client: [148] closed
+Jun 30 01:53 : client: [149] opened from 127.0.0.1:42840
+Jun 30 01:53 : client: [149] closed
+Jun 30 01:53 : client: [150] opened from 127.0.0.1:42844
+Jun 30 02:25 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/04. The Power of Jin.mp3"
+Jun 30 17:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 30 17:15 : config: option 'device' on line 209 was not recognized
+Jun 30 17:15 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 01 12:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 01 12:23 : config: option 'device' on line 209 was not recognized
+Jul 01 12:23 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 02 08:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 02 08:24 : config: option 'device' on line 209 was not recognized
+Jul 02 08:24 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 02 16:28 : client: [0] opened from 127.0.0.1:32976
+Jul 02 16:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 02 16:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 02 16:32 : player: played "a_hisa/a_hisa - colors 4/Mint Parfait.mp3"
+Jul 02 16:51 : client: [0] closed
+Jul 03 16:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 16:03 : config: option 'device' on line 209 was not recognized
+Jul 03 16:03 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 03 16:04 : client: [0] opened from 127.0.0.1:53018
+Jul 03 16:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 16:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 03 16:11 : player: played "fhána/Outside of Melancholy/01. Outside of Melancholy 〜憂鬱の向こう側〜.mp3"
+Jul 03 16:16 : player: played "FELT/Rebirth Story 4/Rebirth Story 4 -Ruby/14. Time and Again [BYPT Deep memories REMIX].mp3"
+Jul 03 16:21 : player: played "H△G/声 ~VOCALOID Cover Album~/03. glow.mp3"
+Jul 03 16:25 : player: played "H△G/声 ~VOCALOID Cover Album~/08. ハローハロー.mp3"
+Jul 03 16:37 : player: played "H△G/声 ~VOCALOID Cover Album~/12. ティーンエイジ・ネクラポップ.mp3"
+Jul 03 16:37 : client: [1] opened from 127.0.0.1:53608
+Jul 03 16:37 : client: [1] closed
+Jul 03 16:38 : client: [2] opened from 127.0.0.1:53630
+Jul 03 16:40 : client: [2] closed
+Jul 03 16:43 : client: [3] opened from 127.0.0.1:53650
+Jul 03 16:45 : player: played "Lost Garden/BAYSIDE DREAMER/01. Invidia.mp3"
+Jul 03 16:50 : player: played "Lost Garden/BAYSIDE DREAMER/02. Fresh Air.mp3"
+Jul 03 16:57 : player: played "Lost Garden/BAYSIDE DREAMER/03. Purl.mp3"
+Jul 03 17:03 : player: played "Lost Garden/BAYSIDE DREAMER/04. Hand in hand.mp3"
+Jul 03 17:09 : player: played "Lost Garden/BAYSIDE DREAMER/05. Avantia.mp3"
+Jul 03 17:13 : client: [0] closed
+Jul 03 17:15 : player: played "Lost Garden/BAYSIDE DREAMER/06. Summertime rendezvous.mp3"
+Jul 03 17:20 : player: played "Lost Garden/BAYSIDE DREAMER/07. Gula.mp3"
+Jul 03 17:21 : player: played "Lost Garden/BAYSIDE DREAMER/08. Sunset of recollection.mp3"
+Jul 03 17:21 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jul 04 18:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 04 18:07 : config: option 'device' on line 209 was not recognized
+Jul 04 18:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 05 03:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 03:03 : config: option 'device' on line 209 was not recognized
+Jul 05 03:03 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 05 03:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 05 03:24 : config: option 'device' on line 209 was not recognized
+Jul 05 03:24 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 05 03:58 : client: [0] opened from 127.0.0.1:58628
+Jul 05 03:58 : client: [0] closed
+Jul 06 20:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 06 20:09 : config: option 'device' on line 209 was not recognized
+Jul 06 20:09 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 07 03:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 07 03:43 : config: option 'device' on line 209 was not recognized
+Jul 07 03:43 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 08 05:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 08 05:49 : config: option 'device' on line 209 was not recognized
+Jul 08 05:49 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 08 06:12 : client: [0] opened from 127.0.0.1:46892
+Jul 08 06:13 : client: [1] opened from 127.0.0.1:46900
+Jul 08 06:13 : client: [1] closed
+Jul 08 06:13 : client: [2] opened from 127.0.0.1:46904
+Jul 08 06:13 : client: [2] closed
+Jul 08 06:13 : client: [3] opened from 127.0.0.1:46908
+Jul 08 06:13 : client: [3] closed
+Jul 08 06:13 : client: [4] opened from 127.0.0.1:46914
+Jul 08 06:13 : client: [4] closed
+Jul 08 06:13 : client: [5] opened from 127.0.0.1:46918
+Jul 08 06:14 : client: [0] closed
+Jul 08 06:14 : client: [6] opened from 127.0.0.1:46930
+Jul 08 06:14 : client: [5] closed
+Jul 08 06:14 : client: [7] opened from 127.0.0.1:46934
+Jul 08 06:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 08 06:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 08 06:14 : client: [7] closed
+Jul 08 06:15 : client: [8] opened from 127.0.0.1:46938
+Jul 08 06:15 : client: [8] closed
+Jul 08 06:15 : client: [9] opened from 127.0.0.1:46942
+Jul 08 06:15 : client: [6] closed
+Jul 08 06:15 : client: [10] opened from 127.0.0.1:46948
+Jul 08 06:16 : client: [9] closed
+Jul 08 06:17 : client: [10] closed
+Jul 08 06:17 : client: [11] opened from 127.0.0.1:46956
+Jul 08 06:17 : client: [11] closed
+Jul 08 06:43 : client: [12] opened from 127.0.0.1:47092
+Jul 08 06:43 : client: [12] closed
+Jul 08 06:45 : player: played "a_hisa/a_hisa - Single Collection/₧Oæzé╨ÄUéΘéΘîÄëe.mp3"
+Jul 08 15:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 08 15:42 : config: option 'device' on line 209 was not recognized
+Jul 08 15:42 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 09 00:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 09 00:54 : config: option 'device' on line 209 was not recognized
+Jul 09 00:54 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 10 03:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 10 03:56 : config: option 'device' on line 209 was not recognized
+Jul 10 03:56 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 10 05:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 10 05:30 : config: option 'device' on line 209 was not recognized
+Jul 10 05:30 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 10 15:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 10 15:28 : config: option 'device' on line 209 was not recognized
+Jul 10 15:28 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 10 16:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 10 16:14 : config: option 'device' on line 209 was not recognized
+Jul 10 16:14 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 11 01:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 11 01:43 : config: option 'device' on line 209 was not recognized
+Jul 11 01:43 : avahi: Service 'Music Player @ zephyr' successfully established.

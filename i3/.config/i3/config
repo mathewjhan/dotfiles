@@ -84,8 +84,8 @@ bindsym $mod+f fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+s layout stacking
-bindsym $mod+w layout tabbed
-bindsym $mod+e layout toggle split
+bindsym $mod+t layout tabbed
+bindsym $mod+n layout toggle split
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -169,6 +169,50 @@ mode "resize" {
 }
 
 bindsym $mod+r mode "resize"
+
+# Save workspace mode.
+mode "save" {
+  bindsym 1 exec "i3-resurrect save -w 1"
+  bindsym 2 exec "i3-resurrect save -w 2"
+  bindsym 3 exec "i3-resurrect save -w 3"
+  bindsym 4 exec "i3-resurrect save -w 4"
+  bindsym 5 exec "i3-resurrect save -w 5"
+  bindsym 6 exec "i3-resurrect save -w 6"
+  bindsym 7 exec "i3-resurrect save -w 7"
+  bindsym 8 exec "i3-resurrect save -w 8"
+  bindsym 9 exec "i3-resurrect save -w 9"
+  bindsym 0 exec "i3-resurrect save -w 0"
+
+  # Back to normal: Enter, Escape, or s
+  bindsym Return mode "default"
+  bindsym Escape mode "default"
+  bindsym u mode "default"
+  bindsym $mod+u mode "default"
+}
+
+bindsym $mod+u mode "save"
+
+# Restore workspace mode.
+mode "restore" {
+  bindsym 1 exec "i3-resurrect restore -w 1"
+  bindsym 2 exec "i3-resurrect restore -w 2"
+  bindsym 3 exec "i3-resurrect restore -w 3"
+  bindsym 4 exec "i3-resurrect restore -w 4"
+  bindsym 5 exec "i3-resurrect restore -w 5"
+  bindsym 6 exec "i3-resurrect restore -w 6"
+  bindsym 7 exec "i3-resurrect restore -w 7"
+  bindsym 8 exec "i3-resurrect restore -w 8"
+  bindsym 9 exec "i3-resurrect restore -w 9"
+  bindsym 0 exec "i3-resurrect restore -w 0"
+
+  # Back to normal: Enter, Escape, or n
+  bindsym Return mode "default"
+  bindsym Escape mode "default"
+  bindsym i mode "default"
+  bindsym $mod+i mode "default"
+}
+
+bindsym $mod+i mode "restore"
 
 # Press $mod+Shift+g to enter the gap mode. Choose o or i for modifying outer/inner gaps. Press one of + / - (in-/decrement for current workspace) or 0 (remove gaps for current workspace). If you also press Shift with these keys, the change will be global for all workspaces.
 set $mode_gaps Gaps: (o) outer, (i) inner
@@ -270,7 +314,7 @@ exec_always --no-startup-id python /usr/bin/alternating_layouts.py
 
 # Flash focus
 exec --no-startup-id flashfocus
-bindsym $mod+n exec --no-startup-id flash_window
+bindsym $mod+e exec --no-startup-id flash_window
 
 # Nm-applet
 exec --no-startup-id nm-applet

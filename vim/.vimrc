@@ -251,11 +251,10 @@ vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Moving around, tabs, windows and buffers
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Map gh to <Esc>
+" Map jk to <Esc>
 inoremap jk  <Esc>
 vnoremap jk  <Esc>
 cnoremap jk  <Esc>
-nnoremap jk  <Esc>
 onoremap jk  <Esc>
 
 " Disable highlight when <leader><cr> is pressed

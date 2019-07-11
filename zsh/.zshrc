@@ -35,13 +35,15 @@ alias lsnet="nmcli dev wifi"
 alias connet="nmcli dev wifi connect"
 
 # Misc
-alias ll="exa"
+alias ls="exa"
+alias rm="rm -I"
 alias icat="kitty icat"
 alias clipboard="xclip -selection clipboard"
 alias gohome="cd /media/data/mathew/Home"
 alias whalefetch="neofetch --ascii \"$(fortune -s | cowthink -W 30 -f whale)\""
 alias wiki="wiki-search"
 alias wolfram="tungsten"
+alias temps="paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'"
 
 alias ..="cd .."
 alias ...="cd ../.."
@@ -105,6 +107,9 @@ zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
 # prompt
 autoload -U promptinit; promptinit
 prompt pure
+
+# zsh syntax highlighitng
+source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # z
 [[ -r "/usr/share/z/z.sh" ]] && source /usr/share/z/z.sh

@@ -57,7 +57,7 @@ font-6 = Iosevka Nerd Font Mono:fontformat=truetype:size=14:antialias=true;3
 
 modules-left = i3
 modules-center = xwindow 
-modules-right = battery cpu memory temperature filesystem gap wifi eth gap music volume pulseaudio pulseaudio-tail gap date gap
+modules-right = battery cpu memory temp filesystem gap wifi eth gap music volume pulseaudio pulseaudio-tail gap date gap
 
 tray-position = none 
 tray-padding = 2
@@ -160,16 +160,24 @@ interval = 1
 [module/cpu]
 type = internal/cpu
 interval = 2
-format-prefix = 
+format-prefix = ""
 format-prefix-foreground=${colors.foreground-prefix}
 label = %percentage:2%%
 
 [module/memory]
 type = internal/memory
 interval = 2
-format-prefix = 
+format-prefix = " "
 format-prefix-foreground=${colors.foreground-prefix}
 label = %percentage_used%%
+
+[module/temp]
+type = custom/script
+interval = 5 
+exec = "cat /sys/class/thermal/thermal_zone2/temp | sed 's/\(.\)...$/\1°C/'"
+
+format-prefix = " "
+format-prefix-foreground = ${colors.foreground-prefix}
 
 [module/wifi]
 type = custom/script
@@ -180,7 +188,7 @@ exec = "if [[ $(iwgetid -r) ]]; then iwgetid -r; else echo '---'; fi"
 click-left = exec nm-connection-editor 
 
 format-prefix = " "
-format-prefix-foreground = ${colors.foreground}
+format-prefix-foreground = ${colors.foreground-prefix}
 
 [module/wlan]
 type = internal/network
