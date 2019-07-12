@@ -1,15 +1,15 @@
 # Dotfiles
 Most of the dotfiles I am using on my current linux distro =)
 
-OS: Arch Linux
+**OS**: Arch Linux
 
-Host: XPS 15 9750
+**Host**: XPS 15 9750
 
-DE: Xfce4
+**DE**: Xfce4
 
-WM: i3-gaps
+**WM**: i3-gaps
 
-Shell: zsh
+**Shell**: zsh
 
 # Currently in use:
 - pywal
