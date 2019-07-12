@@ -3745,3 +3745,9 @@ Jul 12 02:51 : avahi: Service 'Music Player @ zephyr' successfully established.
 Jul 12 05:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jul 12 05:51 : config: option 'device' on line 209 was not recognized
 Jul 12 05:51 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 12 06:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 12 06:36 : config: option 'device' on line 209 was not recognized
+Jul 12 06:36 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jul 13 09:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 13 09:53 : config: option 'device' on line 209 was not recognized
+Jul 13 09:53 : avahi: Service 'Music Player @ zephyr' successfully established.
