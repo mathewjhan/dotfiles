@@ -61,7 +61,6 @@ Shell: zsh
     - coc.nvim
     - goyo.vim
     - nerdcommenter
-    - nerdtree
     - tabular
     - vim-airline
     - vim-auto-save
