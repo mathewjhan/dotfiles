@@ -1,10 +1,12 @@
 # Dotfiles
-The dotfiles I am currently using on Arch Linux
+Most of the dotfiles I am using on my current linux distro =)
+OS: Arch Linux
+Host: XPS 15 9750
+DE: Xfce4
+WM: i3-gaps
+Shell: zsh
 
 # Currently in use:
-- xfce4
-- i3-gaps
-- zsh
 - pywal
 - polybar
 - neovim (with vim8 plugins)
@@ -15,7 +17,7 @@ The dotfiles I am currently using on Arch Linux
 - tlp (power management)
 - stow + git (dotfile management)
 - fireshot (screenshots)
-- vifm (vim style file manager)
+- vifm (file manager)
 - mpd + ncmpcpp (music player)
 
 # Requirements

@@ -116,3 +116,5 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
