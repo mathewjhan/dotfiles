@@ -8,19 +8,19 @@ Most of the dotfiles I am using on my current Linux distro =)
 **Shell**: zsh
 
 # Currently in use:
-- Theming: pywal
-- Taskbar: polybar
-- Text editor: neovim (with vim8 plugins)
-- Compositor: compton
-- Launcher/Window swapper: rofi
-- Terminal: kitty
-- Touchpad: libinput-gestures
-- Power management: tlp
-- Dotfile management: stow + git
-- Screenshot tool: fireshot
-- File manager: vifm
-- Music player: mpd + ncmpcpp
-- PDF reader: zathura
+- Theming: `pywal`
+- Taskbar: `polybar`
+- Text editor: `nvim` (with vim8 plugins)
+- Compositor: `compton`
+- Launcher/Window swapper: `rofi`
+- Terminal: `kitty`
+- Touchpad: `libinput-gestures`
+- Power management: `tlp`
+- Dotfile management: `stow` + `git`
+- Screenshot tool: `fireshot`
+- File manager: `vifm`
+- Music player: `mpd` + `ncmpcpp`
+- PDF reader: `zathura`
 
 # Requirements
 - i3-gaps
