@@ -1,29 +1,26 @@
 # Dotfiles
-Most of the dotfiles I am using on my current linux distro =)
+Most of the dotfiles I am using on my current Linux distro =)
 
-**OS**: Arch Linux
-
-**Host**: XPS 15 9750
-
-**DE**: Xfce4
-
-**WM**: i3-gaps
-
-**Shell**: zsh
+**OS**: Arch Linux\
+**Host**: XPS 15 9750\
+**DE**: Xfce4\
+**WM**: i3-gaps\
+**Shell**: zsh\
 
 # Currently in use:
-- pywal
-- polybar
-- neovim (with vim8 plugins)
-- compton
-- rofi (launcher/window swapper)
-- kitty (terminal)
-- libinput-gestures
-- tlp (power management)
-- stow + git (dotfile management)
-- fireshot (screenshots)
-- vifm (file manager)
-- mpd + ncmpcpp (music player)
+- Theming: pywal
+- Taskbar: polybar
+- Text editor: neovim (with vim8 plugins)
+- Compositor: compton
+- Launcher/Window swapper: rofi
+- Terminal: kitty
+- Touchpad: libinput-gestures
+- Power management: tlp
+- Dotfile management: stow + git
+- Screenshot tool: fireshot
+- File manager: vifm
+- Music player: mpd + ncmpcpp
+- PDF reader: zathura
 
 # Requirements
 - i3-gaps
@@ -40,15 +37,14 @@ Most of the dotfiles I am using on my current linux distro =)
         - redshift
     - fireshot (screenshot bindings)
     - kitty (main term)
-    - tmux (dropdown multiplexer)
     - pulseaudio (audio controls)
     - rofi (launcher/workspace swapper)
 
 - polybar 
     - pulseaudio (module)
     - pavucontrol (open pulseaudio controls)
-    - connman 
-    - cmst 
+    - network manager
+    - nm-connection-editor 
     - i3wm
     - fonts: inconsolata, font awesome 5, hack
 
@@ -77,5 +73,3 @@ Most of the dotfiles I am using on my current linux distro =)
     - vimtex
     - vpmp-togglable (modified vim-pandoc-markdown-preview)
     - wal.vim (theme that works with pywal)
-
-

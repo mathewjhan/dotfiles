@@ -28,11 +28,13 @@ te(){
 
 # Network Manager
 
+connet(){
+    nmcli dev wifi connect "$(nmcli -f SSID dev wifi | grep -m 1 "$@" | sed 's/^ *//;s/ *$//')"
+}
 copynet(){
-    nmcli dev wifi connect $(nmcli -f SSID dev wifi | grep -m 1 "$@" | awk '{$1=$1};1')
+    nmcli -f SSID dev wifi | grep -m 1 "$@" | sed 's/^ *//;s/ *$//' | xclip -selection clipboard
 }
 alias lsnet="nmcli dev wifi"
-alias connet="nmcli dev wifi connect"
 
 # Misc
 alias ls="exa"

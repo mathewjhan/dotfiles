@@ -8,7 +8,7 @@ lyrics_directory  = ~/.config/ncmpcpp/lyrics
 mpd_connection_timeout = "5"
 mpd_crossfade_time = "5"
 
- # Playlist
+# Playlist
  playlist_disable_highlight_delay = "0"  
  playlist_display_mode = "columns"  
  playlist_show_remaining_time = "yes"
@@ -59,8 +59,6 @@ lines_scrolled = "2"
 system_encoding = "utf-8"
 regular_expressions = "extended"
 
-
-
 ## Selected tracks ##
 selected_item_prefix = "* "
 discard_colors_if_item_is_selected = "no"
@@ -74,8 +72,7 @@ header_visibility = "yes"
 statusbar_visibility = "yes"
 titles_visibility = "yes"
 
-
-progressbar_look = "━━─"
+progressbar_look = "─╼·"
 progressbar_boldness = "yes"
 progressbar_elapsed_color = "white"
 

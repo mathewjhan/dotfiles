@@ -50,10 +50,15 @@ bindsym $mod+d exec rofi -show drun #dmenu_run
 bindsym $mod+Tab exec rofi -show window
 
 # change focus
-bindsym $mod+j focus left
-bindsym $mod+k focus down
-bindsym $mod+l focus up
-bindsym $mod+semicolon focus right
+# bindsym $mod+j focus left
+# bindsym $mod+k focus down
+# bindsym $mod+l focus up
+# bindsym $mod+semicolon focus right
+
+bindsym $mod+h exec --no-startup-id "window-tool focus left && flash_window"
+bindsym $mod+j exec --no-startup-id "window-tool focus down && flash_window"
+bindsym $mod+k exec --no-startup-id "window-tool focus up && flash_window"
+bindsym $mod+l exec --no-startup-id "window-tool focus right && flash_window"
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Left focus left
@@ -62,10 +67,15 @@ bindsym $mod+Up focus up
 bindsym $mod+Right focus right
 
 # move focused window
-bindsym $mod+Shift+j move left
-bindsym $mod+Shift+k move down
-bindsym $mod+Shift+l move up
-bindsym $mod+Shift+semicolon move right
+# bindsym $mod+Shift+j move left
+# bindsym $mod+Shift+k move down
+# bindsym $mod+Shift+l move up
+# bindsym $mod+Shift+semicolon move right
+
+bindsym $mod+Shift+h exec --no-startup-id "window-tool swap left"
+bindsym $mod+Shift+j exec --no-startup-id "window-tool swap down"
+bindsym $mod+Shift+k exec --no-startup-id "window-tool swap up"
+bindsym $mod+Shift+l exec --no-startup-id "window-tool swap right"
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Shift+Left move left
@@ -74,7 +84,7 @@ bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
 # split in horizontal orientation
-bindsym $mod+h split h
+bindsym $mod+c split b
 
 # split in vertical orientation
 bindsym $mod+v split v
@@ -98,6 +108,9 @@ bindsym $mod+a focus parent
 
 # focus the child container
 #bindsym $mod+d focus child
+
+bindsym $mod+Shift+comma move workspace to output left
+bindsym $mod+Shift+period move workspace to output right
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
@@ -170,50 +183,6 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-# Save workspace mode.
-mode "save" {
-  bindsym 1 exec "i3-resurrect save -w 1"
-  bindsym 2 exec "i3-resurrect save -w 2"
-  bindsym 3 exec "i3-resurrect save -w 3"
-  bindsym 4 exec "i3-resurrect save -w 4"
-  bindsym 5 exec "i3-resurrect save -w 5"
-  bindsym 6 exec "i3-resurrect save -w 6"
-  bindsym 7 exec "i3-resurrect save -w 7"
-  bindsym 8 exec "i3-resurrect save -w 8"
-  bindsym 9 exec "i3-resurrect save -w 9"
-  bindsym 0 exec "i3-resurrect save -w 0"
-
-  # Back to normal: Enter, Escape, or s
-  bindsym Return mode "default"
-  bindsym Escape mode "default"
-  bindsym u mode "default"
-  bindsym $mod+u mode "default"
-}
-
-bindsym $mod+u mode "save"
-
-# Restore workspace mode.
-mode "restore" {
-  bindsym 1 exec "i3-resurrect restore -w 1"
-  bindsym 2 exec "i3-resurrect restore -w 2"
-  bindsym 3 exec "i3-resurrect restore -w 3"
-  bindsym 4 exec "i3-resurrect restore -w 4"
-  bindsym 5 exec "i3-resurrect restore -w 5"
-  bindsym 6 exec "i3-resurrect restore -w 6"
-  bindsym 7 exec "i3-resurrect restore -w 7"
-  bindsym 8 exec "i3-resurrect restore -w 8"
-  bindsym 9 exec "i3-resurrect restore -w 9"
-  bindsym 0 exec "i3-resurrect restore -w 0"
-
-  # Back to normal: Enter, Escape, or n
-  bindsym Return mode "default"
-  bindsym Escape mode "default"
-  bindsym i mode "default"
-  bindsym $mod+i mode "default"
-}
-
-bindsym $mod+i mode "restore"
-
 # Press $mod+Shift+g to enter the gap mode. Choose o or i for modifying outer/inner gaps. Press one of + / - (in-/decrement for current workspace) or 0 (remove gaps for current workspace). If you also press Shift with these keys, the change will be global for all workspaces.
 set $mode_gaps Gaps: (o) outer, (i) inner
 set $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)
@@ -269,7 +238,7 @@ bindsym Mod1+Tab workspace back_and_forth
 bindsym Mod1+Shift+Tab workspace prev
 
 # Screenshot
-bindsym $mod+shift+s exec flameshot gui
+bindsym $mod+shift+s exec --no-startup-id flameshot gui
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
@@ -327,7 +296,7 @@ exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 exec_always --no-startup-id xinput set-prop 12 "libinput Disable While Typing Enabled" 0
 
 # Blurwal
-exec --no-startup-id blurwal -m 1
+exec --no-startup-id blurwal --backend feh -m 1
 
 # Redshift
 exec --no-startup-id redshift -l 37.548271:-121.988571

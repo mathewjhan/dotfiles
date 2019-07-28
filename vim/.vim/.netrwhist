@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/mathew/.config/polybar'
 let g:netrw_dirhist_2='/home/mathew/.config/wal/templates'
 let g:netrw_dirhist_3='/home/mathew/.config/kitty'
+let g:netrw_dirhist_4='/home/mathew/dotfiles/polybar/.config/polybar'

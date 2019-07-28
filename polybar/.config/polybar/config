@@ -55,6 +55,8 @@ font-4 = Font Awesome 5 Free:style=Solid:pixelsize=12; 2
 font-5 = hack:pixelsize=12; 2
 font-6 = Iosevka Nerd Font Mono:fontformat=truetype:size=14:antialias=true;3 
 
+;enable-ipc = true
+
 modules-left = i3
 modules-center = xwindow 
 modules-right = battery cpu memory temp filesystem gap wifi eth gap music volume pulseaudio pulseaudio-tail gap date gap
