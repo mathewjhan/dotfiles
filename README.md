@@ -5,7 +5,7 @@ Most of the dotfiles I am using on my current Linux distro =)
 **Host**: XPS 15 9750\
 **DE**: Xfce4\
 **WM**: i3-gaps\
-**Shell**: zsh\
+**Shell**: zsh
 
 # Currently in use:
 - Theming: pywal
