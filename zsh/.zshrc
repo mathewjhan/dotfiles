@@ -6,16 +6,27 @@
 export FZF_DEFAULT_COMMAND="rg --files --hidden"
 export EDITOR="nvim"
 export WINHOME="/media/data/mathew/Home"
+export MUSIC="/media/data/mathew/Music"
 export LC_CTYPE=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export GOPATH="$HOME/go"
 export PATH="$HOME/go/bin:$PATH"
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
-# Defaults
+# Convenient aliases
 alias e="nvim"
 alias fm="vifm-ueberzug"
+alias mp="ncmpcpp"
+## View files
+vf(){
+    case $(sed 's/^\w\+.//' <<< $@) in
+        pdf)
+            zth "$@"
+            ;;
 
+    esac
+}
+## Touch + edit
 te(){
     touch "$@"
     nvim "$@"
@@ -25,9 +36,8 @@ te(){
 #alias lsnet="connmanctl scan wifi && connmanctl services"
 #alias connet="connmanctl connect"
 
-
 # Network Manager
-
+## Gets first network that matches and asks to connect
 connet(){
     nmcli dev wifi connect "$(nmcli -f SSID dev wifi | grep -m 1 "$@" | sed 's/^ *//;s/ *$//')"
 }
@@ -35,6 +45,12 @@ copynet(){
     nmcli -f SSID dev wifi | grep -m 1 "$@" | sed 's/^ *//;s/ *$//' | xclip -selection clipboard
 }
 alias lsnet="nmcli dev wifi"
+
+# Restart pulseaudio
+paudio-restart(){
+    pulseaudio -k
+    pulseaudio -D
+}
 
 # Misc
 alias ls="exa"

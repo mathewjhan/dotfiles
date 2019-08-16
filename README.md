@@ -17,7 +17,7 @@ Most of the dotfiles I am using on my current Linux distro =)
 - Touchpad: `libinput-gestures`
 - Power management: `tlp`
 - Dotfile management: `stow` + `git`
-- Screenshot tool: `fireshot`
+- Screenshot tool: `flameshot`
 - File manager: `vifm`
 - Music player: `mpd` + `ncmpcpp`
 - PDF reader: `zathura`
@@ -35,7 +35,7 @@ Most of the dotfiles I am using on my current Linux distro =)
         - libinput (may require libinput gestures as well)
         - blurwal
         - redshift
-    - fireshot (screenshot bindings)
+    - flameshot (screenshot bindings)
     - kitty (main term)
     - pulseaudio (audio controls)
     - rofi (launcher/workspace swapper)

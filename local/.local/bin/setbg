@@ -8,6 +8,7 @@ usage(){
 
 setlight(){
     wal -l -n --backend "$1" -i "$2"
+    echo "$(pwd)/$2" > ~/.wallpaper
     walnotify4
     feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
     sudo convert "$2" -resize 1920x1080 /usr/share/lightdm-webkit/themes/modern/bg
@@ -16,6 +17,7 @@ setlight(){
 
 setdark(){
     wal -n --backend "$1" -i "$2"
+    echo "$(pwd)/$2" > ~/.wallpaper
     walnotify4
     feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
     sudo convert "$2" -resize 1920x1080 /usr/share/lightdm-webkit/themes/modern/bg

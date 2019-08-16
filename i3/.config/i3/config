@@ -27,8 +27,7 @@ font pango:monospace 8
 # font, it doesn’t scale on retina/hidpi displays.
 
 # Disable borders
-for_window [class="^.*"] border pixel 0
-
+for_window [class="^.*"] border pixel 4
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -84,7 +83,7 @@ bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
 # split in horizontal orientation
-bindsym $mod+c split b
+bindsym $mod+b split h
 
 # split in vertical orientation
 bindsym $mod+v split v
@@ -227,10 +226,10 @@ bindsym $mod+F2 exec pactl set-sink-volume 0 -5%
 bindsym $mod+F3 exec pactl set-sink-volume 0 +5%
 
 # gaps config
-gaps inner 5 
+gaps inner 8 
 gaps outer 0
 
-#smart_gaps on
+# smart_gaps on
 smart_borders on
 
 # workspace swap (alt+tab functionality)
@@ -272,8 +271,20 @@ exec_always --no-startup-id wal -R
 # Xresources
 exec --no-startup-id xrdb merge ~/.Xresources
 
+# i3 pywal config
+set_from_resource $fg i3wm.color7 #f0f0f0
+set_from_resource $bg i3wm.color4 #f0f0f0
+
+# class                 border  backgr. text indicator child_border
+client.focused          $bg     $bg     $fg  $fg       $fg
+client.focused_inactive $bg     $bg     $fg  $bg       $bg
+client.unfocused        $bg     $bg     $fg  $bg       $bg
+client.urgent           $bg     $bg     $fg  $bg       $bg
+client.placeholder      $bg     $bg     $fg  $bg       $bg
+
+client.background       $fg
 # Background with Feh
-exec --no-startup-id ~/.fehbg
+exec --no-startup-id feh --bg-scale "$(cat ~/.wallpaper)" 
 
 # Start Compton
 exec --no-startup-id compton --config ~/.config/compton.conf 
@@ -282,8 +293,11 @@ exec --no-startup-id compton --config ~/.config/compton.conf
 exec_always --no-startup-id python /usr/bin/alternating_layouts.py
 
 # Flash focus
-exec --no-startup-id flashfocus
-bindsym $mod+e exec --no-startup-id flash_window
+# exec --no-startup-id flashfocus
+# bindsym $mod+e exec --no-startup-id flash_window
+
+# Blurwal
+# exec --no-startup-id blurwal --backend feh -m 1
 
 # Nm-applet
 exec --no-startup-id nm-applet
@@ -294,9 +308,6 @@ exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 
 # Enable touchpad while typing
 exec_always --no-startup-id xinput set-prop 12 "libinput Disable While Typing Enabled" 0
-
-# Blurwal
-exec --no-startup-id blurwal --backend feh -m 1
 
 # Redshift
 exec --no-startup-id redshift -l 37.548271:-121.988571

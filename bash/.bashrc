@@ -15,6 +15,7 @@ export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 # Defaults
 alias e="nvim"
 alias fm="vifm-ueberzug"
+alias pdfr="zth"
 
 te(){
     touch "$@"
