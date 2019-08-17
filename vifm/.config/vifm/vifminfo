@@ -14,7 +14,7 @@
 
 # TUI:
 al
-q1
+q0
 v2
 ov
 m-1
@@ -22,9 +22,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/media/data/mathew/Home/trash/Fullmetal Alchemist Brotherhood + OVAs + Specials [BD 1080p Hi10 FLAC] [Dual Audio]
-	[ShadyCrab] Fullmetal Alchemist Brotherhood OVA - S00E04 [BD][1080p][Hi10][Dual][B4374ACF].mkv
-52
 d/media/data/mathew/Home/trash/[SallySubs] Yahari Ore no Sheishun Love Comedy wa Machigatteiru Zoku
 	[SallySubs] Yahari Ore no Seishun Love Comedy wa Machigatteiru Zoku - 13 [BD 1080p FLAC] [894DC8B6].mkv
 13
@@ -322,6 +319,9 @@ d/home/mathew/Pictures
 d/home/mathew
 	..
 0
+d/home/mathew/Pictures/Wallpapers
+	plumblossoms.jpg
+27
 d
 
 # Right window history (oldest to newest):

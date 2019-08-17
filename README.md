@@ -22,6 +22,8 @@ Most of the dotfiles I am using on my current Linux distro =)
 - Music player: `mpd` + `ncmpcpp`
 - PDF reader: `zathura`
 
+![neofetch & cava](rice.png?raw=true "Title")
+
 # Requirements
 - i3-gaps
     - Autorun/Startup
@@ -29,11 +31,9 @@ Most of the dotfiles I am using on my current Linux distro =)
         - feh
         - compton
         - alternating_layouts.py
-        - flashfocus
         - nm-applet
         - polybar (with scripts)
         - libinput (may require libinput gestures as well)
-        - blurwal
         - redshift
     - flameshot (screenshot bindings)
     - kitty (main term)

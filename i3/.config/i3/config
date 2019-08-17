@@ -230,7 +230,7 @@ gaps inner 8
 gaps outer 0
 
 # smart_gaps on
-smart_borders on
+# smart_borders on
 
 # workspace swap (alt+tab functionality)
 bindsym Mod1+Tab workspace back_and_forth

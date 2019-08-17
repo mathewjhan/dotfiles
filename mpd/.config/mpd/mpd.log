@@ -6973,3 +6973,13 @@ Aug 16 11:33 : exception: RTIOThread could not get realtime scheduling, continui
 Aug 16 11:33 : config: option 'device' on line 209 was not recognized
 Aug 16 11:33 : client: [0] opened from 127.0.0.1:37484
 Aug 16 11:33 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 16 12:14 : client: [1] opened from 127.0.0.1:38566
+Aug 16 12:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 12:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 17:56 : player: played "Symphonic Xizer/SymphonicXize-002/03. Beautifu Looping.mp3"
+Aug 16 18:01 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 16 18:08 : player: played "Minami/Minami – Kawaki wo Ameku (Single)/01. Kawaki wo Ameku.mp3"
+Aug 16 18:16 : client: [1] closed
+Aug 16 18:19 : player: played "H△G/Everlasting Night of Teenage Girls (Album)/02 Syoujyotachinoowaranaiyoru -Everlasting Night of Teenage Girls-.mp3"
+Aug 16 18:23 : player: played "HoneyWorks/HKUM2-M/04 第一次ジブン戦争.mp3"
+Aug 16 18:27 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/2. Keep Changing.flac"
