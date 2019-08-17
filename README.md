@@ -7,6 +7,8 @@ Most of the dotfiles I am using on my current Linux distro =)
 **WM**: i3-gaps\
 **Shell**: zsh
 
+![neofetch & cava](rice.png?raw=true "Title")
+
 # Currently in use:
 - Theming: `pywal`
 - Taskbar: `polybar`
@@ -21,8 +23,6 @@ Most of the dotfiles I am using on my current Linux distro =)
 - File manager: `vifm`
 - Music player: `mpd` + `ncmpcpp`
 - PDF reader: `zathura`
-
-![neofetch & cava](rice.png?raw=true "Title")
 
 # Requirements
 - i3-gaps
