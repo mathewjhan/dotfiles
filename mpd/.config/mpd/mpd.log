@@ -6983,3 +6983,692 @@ Aug 16 18:16 : client: [1] closed
 Aug 16 18:19 : player: played "H△G/Everlasting Night of Teenage Girls (Album)/02 Syoujyotachinoowaranaiyoru -Everlasting Night of Teenage Girls-.mp3"
 Aug 16 18:23 : player: played "HoneyWorks/HKUM2-M/04 第一次ジブン戦争.mp3"
 Aug 16 18:27 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/2. Keep Changing.flac"
+Aug 16 18:31 : player: played "H△G/声 ~VOCALOID Cover Album~/13. からふる日和.mp3"
+Aug 16 18:32 : client: [2] opened from 127.0.0.1:40200
+Aug 16 18:32 : client: [2] closed
+Aug 16 18:32 : client: [0] closed
+Aug 16 18:32 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/04 Kirara.mp3"
+Aug 16 19:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 19:41 : config: option 'device' on line 209 was not recognized
+Aug 16 19:41 : client: [0] opened from 127.0.0.1:33074
+Aug 16 19:41 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 16 20:26 : client: [0] closed
+Aug 16 20:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 20:27 : config: option 'device' on line 209 was not recognized
+Aug 16 20:27 : client: [0] opened from 127.0.0.1:33560
+Aug 16 20:27 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 16 20:46 : client: [1] opened from 127.0.0.1:33856
+Aug 16 20:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 20:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 20:59 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Aug 16 21:09 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 16 21:45 : client: [1] closed
+Aug 16 21:45 : client: [0] closed
+Aug 16 21:45 : player: played "H△G/声 ~VOCALOID Cover Album~/10. タイムマシン.mp3"
+Aug 16 23:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 23:10 : config: option 'device' on line 209 was not recognized
+Aug 16 23:10 : client: [0] opened from 127.0.0.1:58768
+Aug 16 23:10 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 16 23:11 : client: [1] opened from 127.0.0.1:58788
+Aug 16 23:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 23:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 23:18 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 16 23:22 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Aug 16 23:27 : player: played "Daoko/Thank You Blue/Disc 1/03. Juicy.mp3"
+Aug 16 23:31 : player: played "Daoko/Thank You Blue/Disc 1/04. さみしいかみさま.mp3"
+Aug 16 23:36 : player: played "Daoko/Thank You Blue/Disc 1/05. ShibuyaK.mp3"
+Aug 16 23:36 : player: played "Daoko/Thank You Blue/Disc 1/05. ShibuyaK.mp3"
+Aug 16 23:43 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 16 23:48 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Aug 16 23:49 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 16 23:58 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 17 00:03 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Aug 17 00:07 : player: played "Daoko/Thank You Blue/Disc 1/03. Juicy.mp3"
+Aug 17 00:11 : player: played "Daoko/Thank You Blue/Disc 1/04. さみしいかみさま.mp3"
+Aug 17 00:15 : player: played "Daoko/Thank You Blue/Disc 1/05. ShibuyaK.mp3"
+Aug 17 00:19 : player: played "Daoko/Thank You Blue/Disc 1/06. BANG!.mp3"
+Aug 17 00:22 : player: played "Daoko/Thank You Blue/Disc 1/07. ダイスキ with TeddyLoid.mp3"
+Aug 17 00:26 : player: played "Daoko/Thank You Blue/Disc 1/08. 拝啓グッバイさようなら.mp3"
+Aug 17 00:32 : player: played "Daoko/Thank You Blue/Disc 1/09. 同じ夜.mp3"
+Aug 17 00:35 : player: played "Daoko/Thank You Blue/Disc 1/10. GRY.mp3"
+Aug 17 00:38 : player: played "Daoko/Thank You Blue/Disc 1/11. もしも僕らが GAME の主役で.mp3"
+Aug 17 00:43 : player: played "Daoko/Thank You Blue/Disc 1/12. ゆめみてたのあたし.mp3"
+Aug 17 00:47 : player: played "Daoko/Thank You Blue/Disc 1/13. Cinderella step.mp3"
+Aug 17 00:51 : player: played "Daoko/Thank You Blue/Disc 1/14. ワンルーム・シーサイド・ステップ.mp3"
+Aug 17 00:52 : player: played "Daoko/Thank You Blue/Disc 2/01. チャームポイント.mp3"
+Aug 17 00:57 : player: played "Daoko/Thank You Blue/Disc 2/02. 歌舞伎町の女王.mp3"
+Aug 17 01:19 : client: [1] closed
+Aug 17 01:19 : client: [2] opened from 127.0.0.1:59188
+Aug 17 01:19 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 17 01:19 : client: [2] closed
+Aug 17 02:24 : client: [3] opened from 127.0.0.1:33300
+Aug 17 02:24 : client: [3] closed
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/01--Remind-.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/02-First Step.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/03-Summer Triangle_ginkiha.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/04-Skyscape.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/05-Nonstop Girl.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/06-Aozora Dash.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/07-Traveler.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/08-Short Break.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/09-Paroles.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/10-Little By Little.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/11--Answer-.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/12-Never Ending.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/banbanshi - -Remind-.flac
+Aug 17 02:24 : update: added banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.01. ばんし — -Retry-.mp3
+Aug 17 02:24 : update: added banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.02. ばんし — Snowmelt.mp3
+Aug 17 02:24 : update: added banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.03. ばんし — New step.mp3
+Aug 17 02:24 : update: added banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.04. ばんし — Frisk.mp3
+Aug 17 02:24 : update: added banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.05. ばんし — Colorful Line.mp3
+Aug 17 02:24 : update: added banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.06. ばんし — Little box.mp3
+Aug 17 02:24 : update: added banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.07. ばんし — Standby.mp3
+Aug 17 02:24 : update: added banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.08. ばんし — Farewell message.mp3
+Aug 17 02:24 : update: added banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.09. ばんし — Souhait.mp3
+Aug 17 02:24 : client: [4] opened from 127.0.0.1:33304
+Aug 17 02:25 : client: [5] opened from 127.0.0.1:33308
+Aug 17 02:25 : client: [5] closed
+Aug 17 02:25 : client: [6] opened from 127.0.0.1:33314
+Aug 17 02:25 : client: [6] closed
+Aug 17 02:25 : client: [7] opened from 127.0.0.1:33318
+Aug 17 02:25 : client: [7] closed
+Aug 17 02:25 : client: [8] opened from 127.0.0.1:33322
+Aug 17 02:25 : client: [8] closed
+Aug 17 02:25 : client: [9] opened from 127.0.0.1:33326
+Aug 17 02:25 : client: [9] closed
+Aug 17 02:25 : client: [4] closed
+Aug 17 02:25 : client: [10] opened from 127.0.0.1:33332
+Aug 17 02:25 : player: played "banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/01--Remind-.flac"
+Aug 17 02:25 : client: [10] closed
+Aug 17 02:32 : client: [11] opened from 127.0.0.1:33450
+Aug 17 02:32 : client: [11] closed
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/04-Skyscape.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/03-Summer Triangle_ginkiha.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/02-First Step.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/01--Remind-.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/07-Traveler.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/06-Aozora Dash.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/05-Nonstop Girl.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/08-Short Break.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/11--Answer-.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/10-Little By Little.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/09-Paroles.flac
+Aug 17 02:32 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/12-Never Ending.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/01 - -Remind-.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/02 - First Step.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/03 - Summer Triangle_ginkiha.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/04 - Skyscape.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/05 - Nonstop Girl.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/06 - Aozora Dash.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/07 - Traveler.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/08 - Short Break.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/09 - Paroles.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/10 - Little By Little.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/11 - -Answer-.flac
+Aug 17 02:32 : update: added banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/12 - Never Ending.flac
+Aug 17 02:32 : client: [12] opened from 127.0.0.1:33454
+Aug 17 02:32 : client: [13] opened from 127.0.0.1:33460
+Aug 17 02:32 : client: [13] closed
+Aug 17 02:32 : client: [14] opened from 127.0.0.1:33464
+Aug 17 02:32 : client: [14] closed
+Aug 17 02:32 : client: [15] opened from 127.0.0.1:33468
+Aug 17 02:32 : client: [15] closed
+Aug 17 02:32 : client: [12] closed
+Aug 17 02:32 : client: [16] opened from 127.0.0.1:33472
+Aug 17 02:32 : player: played "banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/06 - Aozora Dash.flac"
+Aug 17 02:32 : client: [16] closed
+Aug 17 02:33 : client: [17] opened from 127.0.0.1:33480
+Aug 17 02:33 : client: [17] closed
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/banbanshi - -Remind-.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/12 - Never Ending.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/11 - -Answer-.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/10 - Little By Little.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/09 - Paroles.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/08 - Short Break.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/07 - Traveler.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/06 - Aozora Dash.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/05 - Nonstop Girl.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/04 - Skyscape.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/03 - Summer Triangle_ginkiha.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/02 - First Step.flac
+Aug 17 02:33 : update: removing banbanshi/banbanshi - -Remind-/2016.10.30 [BNST-0012] -Remind- [M3-38]/.banbanshi/2016 - -Remind-/01 - -Remind-.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/01 - -Remind-.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/02 - First Step.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/03 - Summer Triangle_ginkiha.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/04 - Skyscape.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/05 - Nonstop Girl.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/06 - Aozora Dash.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/07 - Traveler.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/08 - Short Break.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/09 - Paroles.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/10 - Little By Little.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/11 - -Answer-.flac
+Aug 17 02:33 : update: added banbanshi/2016 - -Remind-/12 - Never Ending.flac
+Aug 17 02:33 : client: [18] opened from 127.0.0.1:33484
+Aug 17 02:33 : client: [18] closed
+Aug 17 02:33 : client: [19] opened from 127.0.0.1:33488
+Aug 17 02:33 : client: [19] closed
+Aug 17 02:33 : client: [20] opened from 127.0.0.1:33492
+Aug 17 02:33 : client: [20] closed
+Aug 17 02:33 : client: [21] opened from 127.0.0.1:33498
+Aug 17 02:33 : client: [21] closed
+Aug 17 02:33 : client: [22] opened from 127.0.0.1:33502
+Aug 17 02:34 : client: [22] closed
+Aug 17 02:34 : client: [23] opened from 127.0.0.1:33506
+Aug 17 02:34 : player: played "banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.03. ばんし — New step.mp3"
+Aug 17 02:35 : client: [23] closed
+Aug 17 02:37 : client: [24] opened from 127.0.0.1:33586
+Aug 17 02:37 : player: played "banbanshi/2016 - -Remind-/10 - Little By Little.flac"
+Aug 17 02:43 : player: played "banbanshi/2016 - -Remind-/02 - First Step.flac"
+Aug 17 02:45 : client: [24] closed
+Aug 17 02:47 : player: played "banbanshi/2016 - -Remind-/03 - Summer Triangle_ginkiha.flac"
+Aug 17 02:49 : client: [25] opened from 127.0.0.1:34298
+Aug 17 02:49 : player: played "banbanshi/2016 - -Remind-/04 - Skyscape.flac"
+Aug 17 02:49 : client: [25] closed
+Aug 17 02:49 : client: [0] closed
+Aug 17 10:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 10:51 : config: option 'device' on line 209 was not recognized
+Aug 17 10:51 : client: [0] opened from 127.0.0.1:57438
+Aug 17 10:51 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 17 12:05 : client: [1] opened from 127.0.0.1:58556
+Aug 17 12:05 : client: [1] closed
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_00.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_00_cl.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_01.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_01_cl.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_01_ct.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_02.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_02_cl.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_03.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_03_cl.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_04.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_04_cl.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_boss.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_l05_boss.ogg
+Aug 17 12:05 : update: added Video Game OST/Bullet Hell Monday/bgm_title.ogg
+Aug 17 12:05 : client: [2] opened from 127.0.0.1:58560
+Aug 17 12:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 12:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 12:06 : client: [2] closed
+Aug 17 12:06 : client: [3] opened from 127.0.0.1:58574
+Aug 17 12:10 : exception: Failed to decode /home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg
+Aug 17 12:10 : exception: nested: Failed to open '/home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg': No such file or directory
+Aug 17 12:10 : player: played "Video Game OST/Bullet Hell Monday/bgm_00.ogg"
+Aug 17 12:10 : exception: Failed to decode /home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg
+Aug 17 12:10 : exception: nested: Failed to open '/home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg': No such file or directory
+Aug 17 12:10 : exception: Failed to decode /home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg
+Aug 17 12:10 : exception: nested: Failed to open '/home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg': No such file or directory
+Aug 17 12:10 : player: played "Video Game OST/Bullet Hell Monday/bgm_00.ogg"
+Aug 17 12:10 : exception: Failed to decode /home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg
+Aug 17 12:10 : exception: nested: Failed to open '/home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg': No such file or directory
+Aug 17 12:15 : exception: Failed to decode /home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg
+Aug 17 12:15 : exception: nested: Failed to open '/home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg': No such file or directory
+Aug 17 12:15 : player: played "Video Game OST/Bullet Hell Monday/bgm_00.ogg"
+Aug 17 12:15 : exception: Failed to decode /home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg
+Aug 17 12:15 : exception: nested: Failed to open '/home/mathew/Music/Video Game OST/Bullet Hell Monday/bgm_00.ogg': No such file or directory
+Aug 17 12:15 : update: removing Video Game OST/Bullet Hell Monday/bgm_00.ogg
+Aug 17 12:15 : update: removing Video Game OST/Bullet Hell Monday/bgm_01.ogg
+Aug 17 12:15 : update: removing Video Game OST/Bullet Hell Monday/bgm_02.ogg
+Aug 17 12:15 : update: removing Video Game OST/Bullet Hell Monday/bgm_boss.ogg
+Aug 17 12:15 : update: removing Video Game OST/Bullet Hell Monday/bgm_04.ogg
+Aug 17 12:15 : update: removing Video Game OST/Bullet Hell Monday/bgm_03.ogg
+Aug 17 12:15 : update: added Video Game OST/Bullet Hell Monday/Boss.ogg
+Aug 17 12:15 : update: added Video Game OST/Bullet Hell Monday/Chapter 1.ogg
+Aug 17 12:15 : update: added Video Game OST/Bullet Hell Monday/Chapter 2.ogg
+Aug 17 12:15 : update: added Video Game OST/Bullet Hell Monday/Chapter 3.ogg
+Aug 17 12:15 : update: added Video Game OST/Bullet Hell Monday/Chapter 4.ogg
+Aug 17 12:15 : update: added Video Game OST/Bullet Hell Monday/Chapter 5.ogg
+Aug 17 12:15 : player: played "Video Game OST/Bullet Hell Monday/bgm_01_cl.ogg"
+Aug 17 12:21 : update: removing Video Game OST/Bullet Hell Monday/bgm_01_ct.ogg
+Aug 17 12:21 : update: added Video Game OST/Bullet Hell Monday/Extra.ogg
+Aug 17 12:28 : update: updating Video Game OST/Bullet Hell Monday/bgm_01_cl.ogg
+Aug 17 12:28 : update: updating Video Game OST/Bullet Hell Monday/Boss.ogg
+Aug 17 12:28 : update: updating Video Game OST/Bullet Hell Monday/Chapter 1.ogg
+Aug 17 12:28 : update: updating Video Game OST/Bullet Hell Monday/Chapter 2.ogg
+Aug 17 12:28 : update: updating Video Game OST/Bullet Hell Monday/Chapter 3.ogg
+Aug 17 12:28 : update: updating Video Game OST/Bullet Hell Monday/Chapter 4.ogg
+Aug 17 12:28 : update: updating Video Game OST/Bullet Hell Monday/Chapter 5.ogg
+Aug 17 12:28 : update: updating Video Game OST/Bullet Hell Monday/Extra.ogg
+Aug 17 12:28 : client: [3] closed
+Aug 17 12:28 : client: [4] opened from 127.0.0.1:58802
+Aug 17 12:28 : update: removing Video Game OST/Bullet Hell Monday/bgm_03_cl.ogg
+Aug 17 12:28 : update: removing Video Game OST/Bullet Hell Monday/bgm_02_cl.ogg
+Aug 17 12:28 : update: removing Video Game OST/Bullet Hell Monday/bgm_00_cl.ogg
+Aug 17 12:28 : update: removing Video Game OST/Bullet Hell Monday/bgm_title.ogg
+Aug 17 12:28 : update: removing Video Game OST/Bullet Hell Monday/bgm_l05_boss.ogg
+Aug 17 12:28 : update: removing Video Game OST/Bullet Hell Monday/bgm_04_cl.ogg
+Aug 17 12:28 : update: removing Video Game OST/Bullet Hell Monday/bgm_01_cl.ogg
+Aug 17 12:28 : player: played "Video Game OST/Bullet Hell Monday/Chapter 1.ogg"
+Aug 17 12:31 : update: updating Video Game OST/Bullet Hell Monday/Boss.ogg
+Aug 17 12:31 : update: updating Video Game OST/Bullet Hell Monday/Chapter 1.ogg
+Aug 17 12:31 : update: updating Video Game OST/Bullet Hell Monday/Chapter 2.ogg
+Aug 17 12:31 : update: updating Video Game OST/Bullet Hell Monday/Chapter 3.ogg
+Aug 17 12:31 : update: updating Video Game OST/Bullet Hell Monday/Chapter 4.ogg
+Aug 17 12:31 : update: updating Video Game OST/Bullet Hell Monday/Chapter 5.ogg
+Aug 17 12:31 : update: updating Video Game OST/Bullet Hell Monday/Extra.ogg
+Aug 17 12:34 : player: played "Video Game OST/Bullet Hell Monday/Boss.ogg"
+Aug 17 12:35 : player: played "Video Game OST/Bullet Hell Monday/Chapter 1.ogg"
+Aug 17 12:35 : client: [4] closed
+Aug 17 12:35 : client: [5] opened from 127.0.0.1:58990
+Aug 17 12:35 : client: [5] closed
+Aug 17 12:35 : client: [6] opened from 127.0.0.1:58994
+Aug 17 12:35 : player: played "Video Game OST/Bullet Hell Monday/Chapter 1.ogg"
+Aug 17 12:36 : client: [6] closed
+Aug 17 12:37 : client: [7] opened from 127.0.0.1:59004
+Aug 17 12:37 : client: [7] closed
+Aug 17 12:37 : client: [8] opened from 127.0.0.1:59008
+Aug 17 12:37 : client: [8] closed
+Aug 17 12:38 : client: [9] opened from 127.0.0.1:59014
+Aug 17 12:38 : player: played "Video Game OST/Bullet Hell Monday/Chapter 1.ogg"
+Aug 17 12:38 : client: [9] closed
+Aug 17 12:46 : client: [0] closed
+Aug 17 22:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 22:31 : config: option 'device' on line 209 was not recognized
+Aug 17 22:31 : client: [0] opened from 127.0.0.1:37722
+Aug 17 22:31 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 17 22:31 : client: [1] opened from 127.0.0.1:37728
+Aug 17 22:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 22:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 22:35 : player: played "banbanshi/2016 - -Remind-/08 - Short Break.flac"
+Aug 17 22:38 : player: played "banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.04. ばんし — Frisk.mp3"
+Aug 17 22:41 : player: played "banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.09. ばんし — Souhait.mp3"
+Aug 17 22:44 : player: played "banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.06. ばんし — Little box.mp3"
+Aug 17 22:47 : player: played "banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.03. ばんし — New step.mp3"
+Aug 17 22:50 : player: played "banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.05. ばんし — Colorful Line.mp3"
+Aug 17 22:53 : player: played "banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.08. ばんし — Farewell message.mp3"
+Aug 17 22:56 : player: played "banbanshi/2016 - -Remind-/03 - Summer Triangle_ginkiha.flac"
+Aug 17 22:59 : player: played "banbanshi/2016 - -Remind-/05 - Nonstop Girl.flac"
+Aug 17 23:02 : player: played "banbanshi/2016 - -Remind-/12 - Never Ending.flac"
+Aug 17 23:04 : player: played "banbanshi/2016 - -Remind-/06 - Aozora Dash.flac"
+Aug 17 23:07 : player: played "banbanshi/2016 - -Remind-/10 - Little By Little.flac"
+Aug 17 23:12 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 17 23:16 : player: played "H△G/声 ~VOCALOID Cover Album~/16. カラフル.mp3"
+Aug 17 23:20 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/07. yuiko — 傷口.mp3"
+Aug 18 00:18 : player: played "REOL/No title−/07. Echo.mp3"
+Aug 18 00:19 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/05. 7_13.mp3"
+Aug 18 00:23 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/03. Tetragon.mp3"
+Aug 18 00:28 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/01 Koino Code.mp3"
+Aug 18 00:33 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/15. Vidro Moyou.mp3"
+Aug 18 01:06 : player: played "HoneyWorks/HKUM4-M/05 キミがまた歌いたくなる頃に。.mp3"
+Aug 18 01:13 : player: played "H△G/声 ~VOCALOID Cover Album~/05. from Y to Y.mp3"
+Aug 18 01:14 : player: played "H△G/声 ~VOCALOID Cover Album~/03. glow.mp3"
+Aug 18 01:17 : client: [1] closed
+Aug 18 01:38 : client: [2] opened from 127.0.0.1:39374
+Aug 18 01:40 : player: played "beignet/MOMO SYRUP/03. MOMO SYRUP.mp3"
+Aug 18 01:41 : player: played "beignet/MOMO SYRUP/05. Happy Skip.mp3"
+Aug 18 01:42 : exception: Failed to decode /home/mathew/Music/Video Game OST/Bullet Hell Monday/Boss.ogg
+Aug 18 01:42 : exception: nested: Failed to open '/home/mathew/Music/Video Game OST/Bullet Hell Monday/Boss.ogg': No such file or directory
+Aug 18 01:42 : player: played "Video Game OST/Bullet Hell Monday/Boss.ogg"
+Aug 18 01:42 : exception: Failed to decode /home/mathew/Music/Video Game OST/Bullet Hell Monday/Boss.ogg
+Aug 18 01:42 : exception: nested: Failed to open '/home/mathew/Music/Video Game OST/Bullet Hell Monday/Boss.ogg': No such file or directory
+Aug 18 01:42 : exception: Failed to decode /home/mathew/Music/Video Game OST/Bullet Hell Monday/Chapter 1.ogg
+Aug 18 01:42 : exception: nested: Failed to open '/home/mathew/Music/Video Game OST/Bullet Hell Monday/Chapter 1.ogg': No such file or directory
+Aug 18 01:42 : player: played "Video Game OST/Bullet Hell Monday/Chapter 1.ogg"
+Aug 18 01:42 : exception: Failed to decode /home/mathew/Music/Video Game OST/Bullet Hell Monday/Chapter 1.ogg
+Aug 18 01:42 : exception: nested: Failed to open '/home/mathew/Music/Video Game OST/Bullet Hell Monday/Chapter 1.ogg': No such file or directory
+Aug 18 01:42 : update: removing Video Game OST/Bullet Hell Monday/Extra.ogg
+Aug 18 01:42 : update: removing Video Game OST/Bullet Hell Monday/Boss.ogg
+Aug 18 01:42 : update: removing Video Game OST/Bullet Hell Monday/Chapter 5.ogg
+Aug 18 01:42 : update: removing Video Game OST/Bullet Hell Monday/Chapter 4.ogg
+Aug 18 01:42 : update: removing Video Game OST/Bullet Hell Monday/Chapter 3.ogg
+Aug 18 01:42 : update: removing Video Game OST/Bullet Hell Monday/Chapter 2.ogg
+Aug 18 01:42 : update: removing Video Game OST/Bullet Hell Monday/Chapter 1.ogg
+Aug 18 01:42 : exception: No such directory
+Aug 18 01:51 : player: played "Xi/World Fragments [320]/03 xi feat.Sta - Tiferet 2015.mp3"
+Aug 18 01:52 : client: [2] closed
+Aug 18 01:52 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 18 01:52 : client: [0] closed
+Aug 18 01:52 : player: played "机上の空想理論/机上の空想理論 - Breath - ブレス - - 01 つとめて.mp3"
+Aug 18 15:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 15:41 : config: option 'device' on line 209 was not recognized
+Aug 18 15:41 : client: [0] opened from 127.0.0.1:53496
+Aug 18 15:41 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 18 15:44 : client: [1] opened from 127.0.0.1:53724
+Aug 18 15:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 15:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 15:49 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 18 15:54 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/10. Crossroad.mp3"
+Aug 18 15:59 : exception: Playlist already exists
+Aug 18 15:59 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Aug 18 15:59 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Aug 18 16:02 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Aug 18 16:04 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-02-石の都アストルム(天と魔法のリゼロット).mp3"
+Aug 18 16:07 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-09-開店(2019新企画).mp3"
+Aug 18 16:11 : player: played "Sakuzyo/Food and Musik/09 - Closing Time.mp3"
+Aug 18 16:14 : player: played "Sakuzyo/Food and Musik/11 - Overdrunk.mp3"
+Aug 18 16:16 : player: played "Masaki Mizusato/The daily life of cats in Paris/14 - お出かけ日和 (ピアノソロ) - C'est une belle journée (piano solo).flac"
+Aug 18 16:18 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-06-一日の始まり(2019新企画).mp3"
+Aug 18 16:22 : player: played "Sakuzyo/Food and Musik/07 - nightbird.mp3"
+Aug 18 16:23 : player: played "a_hisa/a_hisa - shizuku/07 - outro.mp3"
+Aug 18 16:27 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Aug 18 16:30 : player: played "a_hisa/a_hisa - shizuku/06 - Whisper of Stream.mp3"
+Aug 18 16:35 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Aug 18 16:37 : player: played "Sakuzyo/Food and Musik/05 - Afternoon Tea.mp3"
+Aug 18 17:16 : player: played "Really Slow Motion/Elevation (Album)/01 Aligning Hearts.mp3"
+Aug 18 17:17 : player: played "Evergreen/Somnium - 2015-12-31 - 波が涙になって [C89] [MP3 320]/01. 深海 ~Abyssal~.mp3"
+Aug 18 17:22 : player: played "Evergreen/Somnium - 2015-12-31 - 波が涙になって [C89] [MP3 320]/04. 工廠 ~Arsenal~.mp3"
+Aug 18 17:27 : exception: Playlist already exists
+Aug 18 17:31 : player: played "Gareth Meek Compositions/Edge of Phantasm/09 Broken World.mp3"
+Aug 18 17:34 : player: played "Really Slow Motion/Elevation (Album)/02 Suns and Stars.mp3"
+Aug 18 17:36 : client: [1] closed
+Aug 18 18:26 : client: [2] opened from 127.0.0.1:55880
+Aug 18 18:26 : player: played "Evergreen/Somnium - 2015-12-31 - 波が涙になって [C89] [MP3 320]/09. 轟沈 ~Sinking~.mp3"
+Aug 18 18:29 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Aug 18 18:31 : player: played "Masaki Mizusato/The daily life of cats in Paris/14 - お出かけ日和 (ピアノソロ) - C'est une belle journée (piano solo).flac"
+Aug 18 19:23 : client: [2] closed
+Aug 18 19:23 : client: [0] closed
+Aug 18 19:23 : player: played "Sakuzyo/Food and Musik/10 - Moan.mp3"
+Aug 18 21:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 21:04 : config: option 'device' on line 209 was not recognized
+Aug 18 21:04 : client: [0] opened from 127.0.0.1:59848
+Aug 18 21:04 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 18 21:05 : client: [1] opened from 127.0.0.1:59856
+Aug 18 21:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 21:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 21:07 : player: played "ARForest/Coloridium/01. CoLOLar.mp3"
+Aug 18 21:10 : player: played "ARForest/Coloridium/02. Melon Cream Soda.mp3"
+Aug 18 21:13 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/01. プロローグ~金剛型戦艦の誕生.mp3"
+Aug 18 21:17 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/05. 新編「海上護衛隊」抜錨！.mp3"
+Aug 18 21:19 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/02. 出撃水平線の彼方へ.mp3"
+Aug 18 21:22 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/01. 特型駆逐艦.mp3"
+Aug 18 21:25 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/05. もう歌しか聞こえない 〜 夜雀の歌声.mp3"
+Aug 18 21:29 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/04. 秋月の空.mp3"
+Aug 18 21:33 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/03 第五戦隊の出撃.mp3"
+Aug 18 21:35 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/02. 近代化改装.mp3"
+Aug 18 21:37 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/03. 金剛型第三戦隊.mp3"
+Aug 18 21:40 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/03. 飛龍の反撃.mp3"
+Aug 18 21:44 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/05. 眼下の伊号.mp3"
+Aug 18 21:47 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/06. SAYONARA.mp3"
+Aug 18 21:49 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/05. アイアンボトム・サウンド.mp3"
+Aug 18 21:52 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/07 二水戦の航跡20.mp3"
+Aug 18 21:54 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/04. 鎮守府のアフタヌン・ティー.mp3"
+Aug 18 21:57 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/01 マレー沖の激闘.mp3"
+Aug 18 22:00 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/01. ヴォヤージュ1969.mp3"
+Aug 18 22:03 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/03. 我、敵機動部隊ト交戦ス.mp3"
+Aug 18 22:06 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/06. 壱幕：MI作戦発動.mp3"
+Aug 18 22:08 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/03. 昼戦戦乙女の行進.mp3"
+Aug 18 22:14 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/03. プレインエイジア 〜 懐かしき東方の血.mp3"
+Aug 18 22:20 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/02. 月まで届け、不死の煙.mp3"
+Aug 18 22:23 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/04. 工廠ワルツ.mp3"
+Aug 18 22:26 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/07. 飛龍の反撃2016.mp3"
+Aug 18 22:30 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/06. 鎮守府の午後.mp3"
+Aug 18 22:34 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/06. 提督との絆.mp3"
+Aug 18 22:37 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/01. 海原へ（AL道中）.mp3"
+Aug 18 22:40 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/02 士魂の反撃.mp3"
+Aug 18 22:44 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/07. 弐幕：運命の5分間.mp3"
+Aug 18 22:46 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/06. 南方海域を突破せよ.mp3"
+Aug 18 22:49 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/07. 鉄底海峡の死闘.mp3"
+Aug 18 22:52 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/04. 連合艦隊、西へ.mp3"
+Aug 18 22:55 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/01. 冬の抜錨！.mp3"
+Aug 18 22:58 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/06. シンデレラケージ.mp3"
+Aug 18 23:01 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/01. 鎮守府の序曲.mp3"
+Aug 18 23:05 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/06 連合艦隊の出撃.mp3"
+Aug 18 23:08 : client: [1] closed
+Aug 18 23:08 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 18 23:08 : client: [0] closed
+Aug 18 23:08 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/03. 索敵機、発艦始め！.mp3"
+Aug 19 12:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 12:34 : config: option 'device' on line 209 was not recognized
+Aug 19 12:34 : client: [0] opened from 127.0.0.1:39502
+Aug 19 12:34 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 19 16:42 : client: [1] opened from 127.0.0.1:43284
+Aug 19 16:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 16:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 16:43 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 19 16:47 : player: played "Really Slow Motion/Elevation (Album)/01 Aligning Hearts.mp3"
+Aug 19 16:50 : player: played "Really Slow Motion/Elevation (Album)/02 Suns and Stars.mp3"
+Aug 19 16:53 : player: played "Really Slow Motion/Elevation (Album)/03 Fjord Keeper.mp3"
+Aug 19 16:56 : player: played "Really Slow Motion/Elevation (Album)/04 The Space Between Us.mp3"
+Aug 19 16:57 : player: played "Really Slow Motion/Elevation (Album)/05 Cascade of Emotions.mp3"
+Aug 19 17:01 : player: played "Really Slow Motion/Elevation (Album)/06 Zion.mp3"
+Aug 19 18:59 : player: played "Really Slow Motion/Elevation (Album)/07 The Gravity of Love.mp3"
+Aug 19 19:02 : player: played "Really Slow Motion/Elevation (Album)/08 Hero.mp3"
+Aug 19 19:04 : player: played "Really Slow Motion/Elevation (Album)/09 Eternal Courage.mp3"
+Aug 19 19:06 : player: played "Really Slow Motion/Elevation (Album)/10 The Birth of a Soul.mp3"
+Aug 19 19:09 : player: played "Really Slow Motion/Elevation (Album)/11 Remembrance.mp3"
+Aug 19 19:12 : player: played "Really Slow Motion/Elevation (Album)/12 Iridescence.mp3"
+Aug 19 19:15 : player: played "Really Slow Motion/Elevation (Album)/13 Against All Hope.mp3"
+Aug 19 19:18 : player: played "Really Slow Motion/Elevation (Album)/14 Elevation.mp3"
+Aug 19 19:21 : player: played "Really Slow Motion/Elevation (Album)/15 Until the End.mp3"
+Aug 19 19:24 : player: played "Really Slow Motion/Elevation (Album)/16 The End of the Beginning.mp3"
+Aug 19 19:27 : player: played "Really Slow Motion/Elevation (Album)/17 Heretics and Angels.mp3"
+Aug 19 19:28 : player: played "Really Slow Motion/Elevation (Album)/18 Illusions of Life.mp3"
+Aug 19 19:30 : player: played "Really Slow Motion/Elevation (Album)/19 The Road.mp3"
+Aug 19 19:32 : player: played "Powerless/Instrumental Works Vol.2/Sky Falls Down.mp3"
+Aug 19 19:35 : player: played "Powerless/Instrumental Works Vol.2/Dominator.mp3"
+Aug 19 19:38 : player: played "Powerless/Instrumental Works Vol.2/Liberty.mp3"
+Aug 19 19:41 : player: played "Fearless Motivation/Sounds of Power/01. Never Give Up (Epic Instrumental).mp3"
+Aug 19 19:44 : player: played "Fearless Motivation/Sounds of Power/02. Faith (Epic Instrumental).mp3"
+Aug 19 19:52 : player: played "Fearless Motivation/Sounds of Power/03. Revival (Orchestral Instrumental).mp3"
+Aug 19 19:56 : player: played "Fearless Motivation/Sounds of Power/04. Your Why (Epic Instrumental).mp3"
+Aug 19 20:01 : player: played "Fearless Motivation/Sounds of Power/05. Carpe Diem (Orchestral Instrumental).mp3"
+Aug 19 20:05 : player: played "Fearless Motivation/Sounds of Power/06. Got Fight (Epic Instrumental).mp3"
+Aug 19 20:09 : player: played "Fearless Motivation/Sounds of Power/07. Just Don't Get It (Epic Instrumental).mp3"
+Aug 19 20:12 : player: played "Fearless Motivation/Sounds of Power/08. I Made It (Epic Instrumental).mp3"
+Aug 19 20:16 : player: played "Fearless Motivation/Sounds of Power/09. Thank You (Epic Instrumental).mp3"
+Aug 19 20:19 : player: played "Fearless Motivation/Sounds of Power/10. The Key (Epic Instrumental).mp3"
+Aug 19 20:23 : player: played "Fearless Motivation/Sounds of Power/11. Addicted to Success (Epic Instrumental).mp3"
+Aug 19 20:23 : player: played "Fearless Motivation/Sounds of Power/12. Better Than Yesterday (Epic Instrumental).mp3"
+Aug 19 20:24 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 19 20:29 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 19 20:35 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/06. Circus Night.mp3"
+Aug 19 20:39 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/14 だから僕は音楽を辞めた.mp3"
+Aug 19 20:44 : player: played "H△G/A Place in the Sun (Album)/01 A Place in the Sun.mp3"
+Aug 19 20:47 : player: played "soraru/Wonder (Album)/11 Orange No Yakusoku.mp3"
+Aug 19 20:52 : player: played "Primary x yuiko/[2016.12.31] (C91) Primary - イノセンス Depressing/02 Depressing.flac"
+Aug 19 20:54 : exception: Failed to play on "pulse audio" (pulse): suspended
+Aug 19 20:56 : player: played "HoneyWorks/HKUM3-M/16 セツナトリップ (HoneyWorks REMIX).mp3"
+Aug 19 21:01 : player: played "Daoko/Thank You Blue/Disc 2/03. BOY (Re-Arrange).mp3"
+Aug 19 21:05 : player: played "Daoko/Thank You Blue/Disc 1/03. Juicy.mp3"
+Aug 19 21:07 : client: [1] closed
+Aug 19 21:07 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 19 21:07 : client: [0] closed
+Aug 19 21:07 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/11. yuiko — ノゾミ.mp3"
+Aug 19 21:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 21:08 : config: option 'device' on line 209 was not recognized
+Aug 19 21:08 : client: [0] opened from 127.0.0.1:41356
+Aug 19 21:08 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 19 22:27 : client: [1] opened from 127.0.0.1:42340
+Aug 19 22:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 22:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 22:29 : player: played "ARForest/Coloridium/01. CoLOLar.mp3"
+Aug 19 22:33 : player: played "ARForest/Coloridium/03. Colourless.mp3"
+Aug 19 22:38 : player: played "Various Artists/Artifacts_of_Artcore/reliquia.mp3"
+Aug 19 22:40 : client: [1] closed
+Aug 19 22:40 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 19 22:40 : client: [0] closed
+Aug 19 22:40 : player: played "Various Artists/Artifacts_of_Artcore/Fortun Machete.mp3"
+Aug 19 22:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 22:41 : config: option 'device' on line 209 was not recognized
+Aug 19 22:41 : client: [0] opened from 127.0.0.1:46424
+Aug 19 22:41 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 19 22:42 : client: [1] opened from 127.0.0.1:46582
+Aug 19 22:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 22:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 22:45 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Aug 19 22:47 : player: played "Masaki Mizusato/The daily life of cats in Paris/14 - お出かけ日和 (ピアノソロ) - C'est une belle journée (piano solo).flac"
+Aug 19 22:49 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-06-一日の始まり(2019新企画).mp3"
+Aug 19 22:52 : player: played "Sakuzyo/Food and Musik/07 - nightbird.mp3"
+Aug 19 22:56 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-10-アウトロ(CD書き下ろし).mp3"
+Aug 19 22:57 : player: played "a_hisa/a_hisa - shizuku/01 - intro.mp3"
+Aug 19 22:59 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-01-メインテーマ(天と魔法のリゼロット).mp3"
+Aug 19 23:02 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-05-バトル1(暁工房のコートニー).mp3"
+Aug 19 23:04 : player: played "Sakuzyo/Food and Musik/12 - For tomorrow.mp3"
+Aug 19 23:07 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/06. シンデレラケージ.mp3"
+Aug 19 23:11 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/03 第五戦隊の出撃.mp3"
+Aug 19 23:15 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/04. 秋月の空.mp3"
+Aug 19 23:17 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/04 冬の艦隊.mp3"
+Aug 19 23:20 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/07. 鉄底海峡の死闘.mp3"
+Aug 19 23:23 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/01. 鎮守府の序曲.mp3"
+Aug 19 23:27 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/05 波濤を越えて.mp3"
+Aug 19 23:29 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/04. 鎮守府のアフタヌン・ティー.mp3"
+Aug 19 23:32 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/07. 弐幕：運命の5分間.mp3"
+Aug 19 23:36 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/02. 水雷戦隊の反撃.mp3"
+Aug 19 23:39 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/07. 飛龍の反撃2016.mp3"
+Aug 19 23:42 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/02 士魂の反撃.mp3"
+Aug 19 23:44 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/03. 金剛型第三戦隊.mp3"
+Aug 19 23:47 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/01. ヴォヤージュ1969.mp3"
+Aug 19 23:50 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/04. 二水戦の航跡.mp3"
+Aug 19 23:54 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/07. 加賀岬.mp3"
+Aug 19 23:57 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/01. 特型駆逐艦.mp3"
+Aug 20 00:00 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/04. 工廠ワルツ.mp3"
+Aug 20 00:03 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/06. SAYONARA.mp3"
+Aug 20 00:07 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/08. 加賀岬（カラオケver.）.mp3"
+Aug 20 00:11 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/04. 連合艦隊、西へ.mp3"
+Aug 20 00:15 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/05. 眼下の伊号.mp3"
+Aug 20 00:21 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/03. プレインエイジア 〜 懐かしき東方の血.mp3"
+Aug 20 00:24 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/01. 冬の抜錨！.mp3"
+Aug 20 00:27 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/05. 新編「海上護衛隊」抜錨！.mp3"
+Aug 20 00:30 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/03. 昼戦戦乙女の行進.mp3"
+Aug 20 00:31 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/06. 南方海域を突破せよ.mp3"
+Aug 20 00:40 : client: [2] opened from 127.0.0.1:48100
+Aug 20 00:40 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/01. 海原へ（AL道中）.mp3"
+Aug 20 00:42 : client: [2] closed
+Aug 20 01:03 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/01 - 萃う夢を想う.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/02 - この青空と流れる雲に.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/03 - 天人の優雅な休日.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/04 - さんぽみち.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/05 - 獅子奮迅.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/06 - 路地裏から覗く瞳.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/07 - 歳月-雲流れ-.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/01 - Morning Breaking.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/02 - Claire.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/03 - おでかけ気分で.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/04 - 靴下をはいた猫.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/05 - Roundspace.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/06 - いつのも場所.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/07 - A_LDK.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/08 - Pacemaker.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/09 - マーブル模様.mp3
+Aug 20 01:03 : update: added Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/10 - ゆめみごこち.mp3
+Aug 20 01:04 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/08 - Pacemaker.mp3"
+Aug 20 01:04 : exception: Playlist already exists
+Aug 20 02:21 : client: [1] closed
+Aug 20 02:21 : client: [0] closed
+Aug 20 02:21 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Aug 20 09:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 09:57 : config: option 'device' on line 209 was not recognized
+Aug 20 09:57 : client: [0] opened from 127.0.0.1:43786
+Aug 20 09:57 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 20 09:58 : client: [1] opened from 127.0.0.1:43970
+Aug 20 14:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 14:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 14:54 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Aug 20 14:57 : player: played "Sakuzyo/Food and Musik/04 - Cake.mp3"
+Aug 20 15:03 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/05 - Roundspace.mp3"
+Aug 20 15:05 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-09-開店(2019新企画).mp3"
+Aug 20 15:08 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/05 - 獅子奮迅.mp3"
+Aug 20 15:11 : player: played "Masaki Mizusato/The daily life of cats in Paris/12 - 猫と道化師 - Un clown et les chats.flac"
+Aug 20 15:11 : player: played "a_hisa/a_hisa - shizuku/01 - intro.mp3"
+Aug 20 15:16 : player: played "Video Game OST/The Sound of Kirby Café/04. At the Floating Paradise.mp3"
+Aug 20 15:20 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Aug 20 15:23 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/03 - 天人の優雅な休日.mp3"
+Aug 20 15:26 : player: played "Sakuzyo/Food and Musik/05 - Afternoon Tea.mp3"
+Aug 20 15:28 : player: played "Masaki Mizusato/The daily life of cats in Paris/14 - お出かけ日和 (ピアノソロ) - C'est une belle journée (piano solo).flac"
+Aug 20 15:30 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-01-メインテーマ(天と魔法のリゼロット).mp3"
+Aug 20 15:32 : player: played "Masaki Mizusato/The daily life of cats in Paris/10 - カフェでひと息 - Une pause au café.flac"
+Aug 20 15:34 : player: played "Masaki Mizusato/The daily life of cats in Paris/6 - お屋敷のジェントルキャット - Le chat gentilhomme du manoir.flac"
+Aug 20 15:37 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/06 - 路地裏から覗く瞳.mp3"
+Aug 20 15:40 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/01 - 萃う夢を想う.mp3"
+Aug 20 15:42 : player: played "Masaki Mizusato/The daily life of cats in Paris/8 - ボス猫がやってきた！ - Le chat patron est venu!.flac"
+Aug 20 15:45 : player: played "Masaki Mizusato/The daily life of cats in Paris/13 - 夕焼け空の下で - Sous le ciel rouge.flac"
+Aug 20 15:48 : player: played "Masaki Mizusato/The daily life of cats in Paris/15 - いつも通りのこの街に - Pour cette ville comme d'habitude.flac"
+Aug 20 15:51 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/06 - いつのも場所.mp3"
+Aug 20 15:53 : player: played "Masaki Mizusato/The daily life of cats in Paris/5 - 泥棒ネコを捕まえろ！ - Chasse le chat voleur!.flac"
+Aug 20 15:57 : player: played "a_hisa/a_hisa - shizuku/04 - Suiren.mp3"
+Aug 20 16:00 : player: played "Sakuzyo/Food and Musik/07 - nightbird.mp3"
+Aug 20 16:04 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/02 - この青空と流れる雲に.mp3"
+Aug 20 16:08 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/08 - Pacemaker.mp3"
+Aug 20 16:11 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/03 - おでかけ気分で.mp3"
+Aug 20 16:16 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Aug 20 16:17 : player: played "a_hisa/a_hisa - shizuku/07 - outro.mp3"
+Aug 20 16:19 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-08-礼拝堂(2019新企画).mp3"
+Aug 20 16:23 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/07 - A_LDK.mp3"
+Aug 20 16:25 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-02-石の都アストルム(天と魔法のリゼロット).mp3"
+Aug 20 16:26 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/10 - ゆめみごこち.mp3"
+Aug 20 16:30 : player: played "Video Game OST/The Sound of Kirby Café/08. Sweet Honey, Blooming Flower.mp3"
+Aug 20 16:36 : player: played "Sakuzyo/Food and Musik/12 - For tomorrow.mp3"
+Aug 20 16:40 : player: played "Sakuzyo/Food and Musik/02 - Light Meal.mp3"
+Aug 20 16:40 : player: played "Masaki Mizusato/The daily life of cats in Paris/4 - 街角のアコーディオン弾き - L'accordéoniste dans une rue.flac"
+Aug 20 16:44 : player: played "Minami/Minami – Kawaki wo Ameku (Single)/01. Kawaki wo Ameku.mp3"
+Aug 20 18:22 : player: played "Primary x yuiko/[2016.12.31] (C91) Primary - イノセンス Depressing/01 イノセンス.flac"
+Aug 20 18:26 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/11. Satoudama no Tsuki.mp3"
+Aug 20 18:30 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/07. 六月は雨上がりの街を書く.mp3"
+Aug 20 18:35 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/04. Tokohana.mp3"
+Aug 20 20:59 : client: [1] closed
+Aug 20 20:59 : client: [0] closed
+Aug 20 20:59 : player: played "Primary x yuiko/[2016.12.31] (C91) Primary - イノセンス Depressing/03 イノセンス -without yuiko-.flac"
+Aug 21 00:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 00:36 : config: option 'device' on line 209 was not recognized
+Aug 21 00:36 : client: [0] opened from 127.0.0.1:60892
+Aug 21 00:36 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 21 00:36 : client: [1] opened from 127.0.0.1:60902
+Aug 21 00:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 00:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 00:36 : player: played "ARForest/Coloridium/01. CoLOLar.mp3"
+Aug 21 01:29 : client: [1] closed
+Aug 21 01:29 : client: [0] closed
+Aug 21 01:29 : player: played "re-plus/re-plus - (2010) Everlasting Truth [320]/09. Sol feat. Cise Star.mp3"
+Aug 21 12:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 12:37 : config: option 'device' on line 209 was not recognized
+Aug 21 12:37 : client: [0] opened from 127.0.0.1:45480
+Aug 21 12:37 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 21 13:05 : client: [1] opened from 127.0.0.1:45894
+Aug 21 14:15 : client: [1] closed
+Aug 21 19:49 : client: [2] opened from 127.0.0.1:36772
+Aug 21 19:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 19:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 19:54 : player: played "Uyama Hiroto/A Son of the Sun (Album)/12 Stratus.mp3"
+Aug 21 19:59 : player: played "Nujabes/2nd Collection/13. Winter Lane (Nujabes Remix).mp3"
+Aug 21 20:04 : player: played "Nujabes/2nd Collection/03. Waltz for life will born.mp3"
+Aug 21 20:07 : player: played "Float 11/Daydream (Album)/06 calm life.mp3"
+Aug 21 20:13 : player: played "Nujabes/Modal Soul/09. World's End Rhapsody.mp3"
+Aug 21 20:17 : player: played "Uyama Hiroto/A Son of the Sun (Album)/02 Climbed Mountain.mp3"
+Aug 21 20:21 : player: played "Nujabes/Modal Soul/03. Reflection Eternal.mp3"
+Aug 21 20:24 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/11. Yes.mp3"
+Aug 21 20:29 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/01. Amber Light.mp3"
+Aug 21 20:30 : player: played "Uyama Hiroto/A Son of the Sun (Album)/07 Port51 (Interlude).mp3"
+Aug 21 20:35 : player: played "Nujabes/Modal Soul/05. Music Is Mine.mp3"
+Aug 21 20:40 : player: played "re-plus/re-plus - (2010) Everlasting Truth [320]/06. Imagine feat. The 49ers.mp3"
+Aug 21 20:43 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/07. Going Out (Rest In Beats).mp3"
+Aug 21 20:46 : player: played "Nujabes/2nd Collection/08. Fly by night (featuring Five Deez).mp3"
+Aug 21 20:50 : player: played "Uyama Hiroto/Freeform Jazz (Album)/15 Spacemountain.mp3"
+Aug 21 20:53 : player: played "Float 11/Daydream (Album)/07 sleet.mp3"
+Aug 21 20:59 : player: played "Nujabes/Modal Soul/04. Luv (sic.), Part 3 (ft. Shing02).mp3"
+Aug 21 21:01 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/06. Kindness.mp3"
+Aug 21 21:05 : player: played "Nujabes/Metaphorical Music [320] [2003]/04. Kumomi.mp3"
+Aug 21 21:11 : player: played "re-plus/re-plus - (2010) Everlasting Truth [320]/14. 4 AM feat. I Hate This Place.mp3"
+Aug 21 21:15 : player: played "Uyama Hiroto/A Son of the Sun (Album)/03 One Dream.mp3"
+Aug 21 21:18 : player: played "Nujabes/Metaphorical Music [320] [2003]/03. Lady Brown (ft. Cise Starr).mp3"
+Aug 21 21:23 : player: played "Nujabes/2nd Collection/11. Luv(sic.) modal soul remix.mp3"
+Aug 21 21:26 : player: played "Uyama Hiroto/Freeform Jazz (Album)/09 Waltz for Real World.mp3"
+Aug 21 21:29 : player: played "Nujabes/Metaphorical Music [320] [2003]/12. F.I.L.O. (ft. Shing02).mp3"
+Aug 21 21:33 : player: played "Float 11/Daydream (Album)/04 brilliant colors.mp3"
+Aug 21 21:38 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/02. Dreams.mp3"
+Aug 21 21:42 : player: played "Nujabes/Metaphorical Music [320] [2003]/02. Horn in the Middle.mp3"
+Aug 21 21:46 : player: played "Uyama Hiroto/A Son of the Sun (Album)/10 Fly Love Song (feat. Pase Rock).mp3"
+Aug 21 21:50 : player: played "Nujabes/2nd Collection/07. Another Reflection.mp3"
+Aug 21 21:54 : player: played "Uyama Hiroto/A Son of the Sun (Album)/06 Ribbon in the Sea.mp3"
+Aug 21 23:38 : client: [2] closed
+Aug 21 23:38 : client: [0] closed
+Aug 21 23:38 : avahi: Client Disconnected, will reconnect shortly
+Aug 21 23:38 : player: played "Blazo/Alone Journey/04. Alone Journey.mp3"
+Aug 22 00:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 00:19 : config: option 'device' on line 209 was not recognized
+Aug 22 00:19 : client: [0] opened from 127.0.0.1:49646
+Aug 22 00:19 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 22 01:10 : client: [1] opened from 127.0.0.1:50274
+Aug 22 01:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 01:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 01:15 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 22 01:19 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Aug 22 01:23 : player: played "Daoko/Thank You Blue/Disc 1/03. Juicy.mp3"
+Aug 22 01:28 : player: played "Daoko/Thank You Blue/Disc 1/04. さみしいかみさま.mp3"
+Aug 22 01:34 : player: played "fhána/Outside of Melancholy/05. スウィンギングシティ.mp3"
+Aug 22 01:38 : player: played "HoneyWorks/HKUM4-M/04 学級レジスタンス.mp3"
+Aug 22 01:43 : player: played "H△G/声 ~VOCALOID Cover Album~/11. 星屑オーケストラ.mp3"
+Aug 22 01:47 : player: played "HoneyWorks/HKUM3-M/13 道名津 (HoneyWorks REMIX).mp3"
+Aug 22 01:53 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/01. Yukitoki.mp3"
+Aug 22 01:58 : player: played "Yuaru/Asu no Yozora Shoukaihan.mp3"
+Aug 22 01:59 : client: [1] closed

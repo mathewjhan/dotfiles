@@ -52,6 +52,10 @@ paudio-restart(){
     pulseaudio -D
 }
 
+# gpu switch modes (requires restart)
+alias mode-bumblebee="sudo systemctl disable optimus-manager.service && sudo systemctl enable bumblebeed"
+alias mode-optimanager="sudo systemctl disable bumblebeed && sudo systemctl enable optimus-manager.service"
+
 # Misc
 alias ls="exa"
 alias rm="rm -I"
@@ -79,26 +83,18 @@ alias i3config="vim ~/.config/i3/config"
 # Lock
 alias lock="xflock4"
 
+# Dell configuration
+alias dellconf="sudo cctk"
+
 # MPD
 alias remove-playlist-dupes="mpc playlist | sort | uniq -d -c | while read song; do count=$(echo "$song" | sed -e "s/^[ \t]*//" | cut -d" " -f1); song=$(echo "$song" | sed -e "s/^[ \t]*//" | cut -d" " -f2-); for (( i = 2 ; i <= $count; i++ )); do mpc playlist | grep -n "$song" | tail -n 1 | cut -d: -f1 | mpc del; done; done"
 
-# Set wallpapers with pywal
-set-bg(){
-    wal -n -i "$@" 
-    walnotify4
-    feh --bg-scale "$(< "${HOME}/.cache/wal/wal")" 
-    sudo cp "$@" /usr/share/lightdm-webkit/themes/modern/bg
-    sudo convert "$@" -blur 0x8 /usr/share/lightdm-webkit/themes/modern/bg-blurred
-}
-
-set-light-bg(){
-	wal -n -l -i "$@"
-	walnotify4
-    feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
-    oomoxify-cli -s /usr/share/spotify/Apps ~/.cache/wal/colors-oomox
-    sudo cp "$@" /usr/share/lightdm-webkit/themes/modern/bg
-    sudo convert "$@" -blur 0x8 /usr/share/lightdm-webkit/themes/modern/bg-blurred
-
+# Extract all archives in directory and make subdirectory
+# with same name as archive
+extract-all(){
+    for archive in "*.$@"; do
+        7z x -o"`basename \"$archive\" .$@`" "$archive"
+    done
 }
 
 # Theme spotify
@@ -111,7 +107,15 @@ commit-dots(){
     git commit -m "$@"  
 }
 
-## ZSH SPECIFIC 
+## ZSH SPECIFIC
+# vi mode
+set -o vi
+export KEYTIMEOUT=2
+bindkey -v
+bindkey "^?" backward-delete-char
+bindkey '^h' backward-delete-char
+bindkey '^w' backward-kill-word
+
 # better tab completion
 autoload -U compinit
 compinit

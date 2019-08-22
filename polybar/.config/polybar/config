@@ -18,6 +18,7 @@ foreground-faded = ${xrdb:color7:#222}
 background-raised = ${xrdb:color0:#222}
 
 foreground-prefix = ${xrdb:color5:#222}
+underline-prefix = ${xrdb:color3:#222}
 
 warning = ${xrdb:color3:#222}
 active-led = ${xrdb:color1:#222}
@@ -176,8 +177,8 @@ label = %percentage_used%%
 [module/temp]
 type = custom/script
 interval = 5 
-exec = "cat /sys/class/thermal/thermal_zone2/temp | sed 's/\(.\)...$/\1°C/'"
-
+; exec = "cat /sys/class/thermal/thermal_zone2/temp | sed 's/\(.\)...$/\1°C/'"
+exec = "cat /sys/devices/platform/coretemp.0/hwmon/hwmon3/temp1_input | sed 's/\(.\)...$/\1°C/'"
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground-prefix}
 
