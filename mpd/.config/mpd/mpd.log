@@ -7672,3 +7672,568 @@ Aug 22 01:47 : player: played "HoneyWorks/HKUM3-M/13 道名津 (HoneyWorks REMIX
 Aug 22 01:53 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/01. Yukitoki.mp3"
 Aug 22 01:58 : player: played "Yuaru/Asu no Yozora Shoukaihan.mp3"
 Aug 22 01:59 : client: [1] closed
+Aug 22 02:16 : client: [0] closed
+Aug 22 02:16 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/10 Lokubell.mp3"
+Aug 22 11:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 11:28 : config: option 'device' on line 209 was not recognized
+Aug 22 11:28 : client: [0] opened from 127.0.0.1:49688
+Aug 22 11:28 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 22 11:47 : client: [0] closed
+Aug 22 11:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 11:48 : config: option 'device' on line 209 was not recognized
+Aug 22 11:48 : client: [0] opened from 127.0.0.1:35196
+Aug 22 11:48 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 22 12:15 : client: [1] opened from 127.0.0.1:35866
+Aug 22 15:06 : client: [1] closed
+Aug 22 15:22 : client: [0] closed
+Aug 22 15:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 15:22 : config: option 'device' on line 209 was not recognized
+Aug 22 15:22 : client: [0] opened from 127.0.0.1:60976
+Aug 22 15:23 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 22 15:51 : client: [0] closed
+Aug 22 15:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 15:52 : config: option 'device' on line 209 was not recognized
+Aug 22 15:52 : client: [0] opened from 127.0.0.1:53532
+Aug 22 15:52 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 22 19:37 : client: [1] opened from 127.0.0.1:55792
+Aug 22 19:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 19:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 19:39 : player: played "Video Game OST/The World Ends with You Original Soundtrack/01. It's So Wonderful.mp3"
+Aug 22 19:43 : player: played "Video Game OST/The World Ends with You Original Soundtrack/13. Satisfy.mp3"
+Aug 22 19:43 : player: played "Video Game OST/The World Ends with You Original Soundtrack/19. Rush Hour.mp3"
+Aug 22 19:44 : player: played "Video Game OST/The World Ends with You Original Soundtrack/27. Black Market.mp3"
+Aug 22 19:45 : player: played "Video Game OST/The World Ends with You Original Soundtrack/20. Imprinting.mp3"
+Aug 22 19:48 : player: played "Video Game OST/The World Ends with You Original Soundtrack/09. O-Parts.mp3"
+Aug 22 19:49 : player: played "Video Game OST/The World Ends with You Original Soundtrack/31. Economical Shoppers.mp3"
+Aug 22 19:52 : player: played "Video Game OST/The World Ends with You Original Soundtrack/35. Emptiness And.mp3"
+Aug 22 19:54 : player: played "Video Game OST/The World Ends with You Original Soundtrack/32. Shibuya.mp3"
+Aug 22 19:58 : player: played "Video Game OST/The World Ends with You Original Soundtrack/11. Give Me All Your Love.mp3"
+Aug 22 19:59 : player: played "Video Game OST/The World Ends with You Original Soundtrack/06. Despair.mp3"
+Aug 22 20:03 : player: played "Video Game OST/The World Ends with You Original Soundtrack/34. Twister -Remix-.mp3"
+Aug 22 20:04 : player: played "Video Game OST/The World Ends with You Original Soundtrack/10. Forebode.mp3"
+Aug 22 20:08 : player: played "Video Game OST/The World Ends with You Original Soundtrack/33. Make or Break.mp3"
+Aug 22 20:09 : player: played "Video Game OST/The World Ends with You Original Soundtrack/18. Amnesia.mp3"
+Aug 22 20:12 : player: played "Video Game OST/The World Ends with You Original Soundtrack/07. Hybrid.mp3"
+Aug 22 20:15 : player: played "Video Game OST/The World Ends with You Original Soundtrack/15. Twister.mp3"
+Aug 22 20:19 : player: played "Video Game OST/The World Ends with You Original Soundtrack/14. Someday.mp3"
+Aug 22 20:21 : player: played "Video Game OST/The World Ends with You Original Soundtrack/22. Psychedelic.mp3"
+Aug 22 20:22 : player: played "Video Game OST/The World Ends with You Original Soundtrack/16. Let's Get Together.mp3"
+Aug 22 20:22 : player: played "Video Game OST/The World Ends with You Original Soundtrack/29. It Is Fashionable.mp3"
+Aug 22 20:24 : player: played "Video Game OST/The World Ends with You Original Soundtrack/05. Calling.mp3"
+Aug 22 20:27 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/05 - 獅子奮迅.mp3"
+Aug 22 20:31 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/03 - おでかけ気分で.mp3"
+Aug 22 20:34 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/06 - いつのも場所.mp3"
+Aug 22 20:38 : player: played "Sakuzyo/Food and Musik/06 - Works and Coffee.mp3"
+Aug 22 20:42 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Aug 22 20:45 : player: played "Sakuzyo/Food and Musik/11 - Overdrunk.mp3"
+Aug 22 20:48 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-04-街道(暁工房のコートニー).mp3"
+Aug 22 20:51 : player: played "Video Game OST/The Sound of Kirby Café/08. Sweet Honey, Blooming Flower.mp3"
+Aug 22 20:54 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-05-バトル1(暁工房のコートニー).mp3"
+Aug 22 20:58 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/07 - A_LDK.mp3"
+Aug 22 21:01 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-10-アウトロ(CD書き下ろし).mp3"
+Aug 22 21:03 : player: played "Masaki Mizusato/The daily life of cats in Paris/10 - カフェでひと息 - Une pause au café.flac"
+Aug 22 21:05 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-08-礼拝堂(2019新企画).mp3"
+Aug 22 21:08 : player: played "a_hisa/a_hisa - shizuku/04 - Suiren.mp3"
+Aug 22 21:11 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-09-開店(2019新企画).mp3"
+Aug 22 21:14 : player: played "Sakuzyo/Food and Musik/08 - imp.mp3"
+Aug 22 21:18 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Aug 22 21:21 : client: [1] closed
+Aug 22 21:21 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 22 21:21 : client: [0] closed
+Aug 22 21:21 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/02 - Claire.mp3"
+Aug 23 14:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 14:49 : config: option 'device' on line 209 was not recognized
+Aug 23 14:49 : client: [0] opened from 127.0.0.1:55540
+Aug 23 14:49 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 23 15:12 : client: [1] opened from 127.0.0.1:56250
+Aug 23 15:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 15:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 15:17 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 23 15:19 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/01. 夏陰、ピアノを弾く.mp3"
+Aug 23 15:23 : player: played "REOL/REOL – Gokusaishoku (1st Album)/09. Syrup.mp3"
+Aug 23 15:28 : player: played "H△G/A Place in the Sun (Album)/01 A Place in the Sun.mp3"
+Aug 23 15:33 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/11. パレード.mp3"
+Aug 23 15:36 : player: played "HoneyWorks/HKUM4-M/05 キミがまた歌いたくなる頃に。.mp3"
+Aug 23 15:40 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/06 Identity.mp3"
+Aug 23 15:44 : player: played "HoneyWorks/HKUM3-M/12 ロクベル.mp3"
+Aug 23 15:49 : player: played "Primary x yuiko/STRUGGLES - ひとつの願い/04. ひとつの願い -without yuiko-.mp3"
+Aug 23 15:49 : client: [1] closed
+Aug 23 15:49 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 23 15:49 : client: [0] closed
+Aug 23 15:49 : player: played "H△G/声 ~VOCALOID Cover Album~/03. glow.mp3"
+Aug 24 11:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 11:07 : config: option 'device' on line 209 was not recognized
+Aug 24 11:07 : client: [0] opened from 127.0.0.1:43508
+Aug 24 11:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 24 11:09 : client: [0] closed
+Aug 24 11:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 11:10 : config: option 'device' on line 209 was not recognized
+Aug 24 11:10 : client: [0] opened from 127.0.0.1:55650
+Aug 24 11:10 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 24 11:12 : client: [0] closed
+Aug 24 11:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 11:13 : config: option 'device' on line 209 was not recognized
+Aug 24 11:13 : client: [0] opened from 127.0.0.1:47154
+Aug 24 11:13 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 24 14:03 : client: [0] closed
+Aug 25 09:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 09:45 : config: option 'device' on line 209 was not recognized
+Aug 25 09:45 : client: [0] opened from 127.0.0.1:49672
+Aug 25 09:45 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 25 11:55 : client: [1] opened from 127.0.0.1:51698
+Aug 25 11:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 11:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 25 12:00 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - DON'T EVER FORGET - Orchestral Remix.mp3"
+Aug 25 12:04 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - FOGBOUND LAKE - Orchestral Remix.mp3"
+Aug 25 12:06 : client: [1] closed
+Aug 25 12:08 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - GUILD _ ENDING THEME - Orchestral Remix.mp3"
+Aug 25 12:10 : client: [2] opened from 127.0.0.1:52042
+Aug 25 12:10 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - HIDDEN HIGHLAND - Orchestral Remix.mp3"
+Aug 25 12:10 : client: [2] closed
+Aug 25 12:10 : client: [0] closed
+Aug 26 11:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 11:58 : config: option 'device' on line 209 was not recognized
+Aug 26 11:58 : client: [0] opened from 127.0.0.1:57174
+Aug 26 11:58 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 26 18:18 : client: [0] closed
+Aug 27 10:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 10:02 : config: option 'device' on line 209 was not recognized
+Aug 27 10:02 : client: [0] opened from 127.0.0.1:49334
+Aug 27 10:02 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 27 11:58 : client: [0] closed
+Aug 28 10:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 10:37 : config: option 'device' on line 209 was not recognized
+Aug 28 10:37 : client: [0] opened from 127.0.0.1:49430
+Aug 28 10:37 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 28 10:43 : client: [1] opened from 127.0.0.1:49852
+Aug 28 13:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 13:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 13:55 : player: played "H△G/Everlasting Night of Teenage Girls (Album)/08 Hoshimirukorowosugitemo -Past the Stargazing Season- (English Version).mp3"
+Aug 28 14:00 : player: played "Primary x yuiko/Seven'th Color/01. Primary world.mp3"
+Aug 28 14:04 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/03 Heart No Shucho.mp3"
+Aug 28 14:08 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/14. Harumodoki.mp3"
+Aug 28 14:13 : player: played "Aimer/Sun Dance (Album)/08 Monochrome Syndrome.mp3"
+Aug 28 14:17 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/03. Tetragon.mp3"
+Aug 28 14:21 : player: played "ZUTOMAYO/Imawa Imade Chikaiwa Emide (Album)/03 Matane Maboroshi.mp3"
+Aug 28 14:25 : player: played "Sana/Sana x Honeyworks - Suki na Hito/03 - テレカクシ思春期.mp3"
+Aug 28 14:30 : player: played "ZUTOMAYO/Imawa Imade Chikaiwa Emide (Album)/05 Samayoi Yoi Ondo.mp3"
+Aug 28 14:34 : player: played "HoneyWorks/HKUM4-M/09 ハジマリノサヨナラ.mp3"
+Aug 28 14:39 : player: played "HoneyWorks/HKUM5-M/11 病名恋ワズライ.mp3"
+Aug 28 14:43 : player: played "H△G/A Place in the Sun (Album)/09 Solfeggio.mp3"
+Aug 28 14:49 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/14 Okuriuta.mp3"
+Aug 28 14:52 : player: played "Aimer/Sun Dance (Album)/04 3min.mp3"
+Aug 28 14:55 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/06. Kazakiri.mp3"
+Aug 28 14:59 : player: played "Sana/Sana x Honeyworks - Suki na Hito/04 - 初恋の絵本.mp3"
+Aug 28 15:04 : player: played "Aimer/Dawn (Album)/04 Broken Night.mp3"
+Aug 28 15:09 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/15. You can count on me.mp3"
+Aug 28 16:36 : client: [1] closed
+Aug 28 21:46 : client: [0] closed
+Aug 28 21:46 : player: played "HoneyWorks/HKUM5-M/04 終わらない英雄の記憶.mp3"
+Aug 30 13:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 13:03 : config: option 'device' on line 209 was not recognized
+Aug 30 13:03 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 30 13:03 : client: [0] opened from 127.0.0.1:44750
+Aug 30 13:58 : client: [0] closed
+Aug 30 18:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 18:21 : config: option 'device' on line 209 was not recognized
+Aug 30 18:21 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 30 18:21 : client: [0] opened from 127.0.0.1:58830
+Aug 30 23:21 : client: [0] closed
+Aug 31 00:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 00:04 : config: option 'device' on line 209 was not recognized
+Aug 31 00:04 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 31 00:04 : client: [0] opened from 127.0.0.1:39534
+Aug 31 00:04 : client: [1] opened from 127.0.0.1:39540
+Aug 31 00:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 00:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 00:04 : player: played "Masaki Mizusato/The daily life of cats in Paris/2 - ロマンス - Romance.flac"
+Aug 31 00:06 : player: played "Jabberloop/OOParts (Album)/05 Golden Jet.mp3"
+Aug 31 00:11 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Aug 31 00:15 : player: played "HoneyWorks/HKUM5-M/02 告白ライバル宣言.mp3"
+Aug 31 00:18 : player: played "REOL/REOL – Gokusaishoku (1st Album)/11. ミッドナイトストロウラ.mp3"
+Aug 31 00:23 : player: played "HoneyWorks/HKUM5-M/14 さよなら両片想.mp3"
+Aug 31 00:26 : player: played "HoneyWorks/HKUM4-M/04 学級レジスタンス.mp3"
+Aug 31 00:31 : player: played "HoneyWorks/HKUM4-M/09 ハジマリノサヨナラ.mp3"
+Aug 31 00:36 : player: played "fhána/Outside of Melancholy/02. tiny lamp.mp3"
+Aug 31 00:36 : player: played "HoneyWorks/HKUM3-M/14 ハニワの日常～松葉杖～.mp3"
+Aug 31 00:38 : player: played "Aimer/Sun Dance (Album)/01 soleil.mp3"
+Aug 31 00:43 : player: played "H△G/Everlasting Night of Teenage Girls (Album)/06 Paralogics Note.mp3"
+Aug 31 00:46 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/10. yuiko — ぱいろっと☆ぱにっく.mp3"
+Aug 31 00:51 : player: played "Aimer/Dawn (Album)/02 Believe Be Leave.mp3"
+Aug 31 00:54 : player: played "REOL/No title−/03. オオエドランヴ.mp3"
+Aug 31 00:58 : player: played "fhána/Outside of Melancholy/05. スウィンギングシティ.mp3"
+Aug 31 01:02 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/17. yuiko — Fix.mp3"
+Aug 31 01:08 : player: played "Minami/Minami – Kawaki wo Ameku (Single)/05. Prologue.mp3"
+Aug 31 01:10 : player: played "REOL/REOL – Gokusaishoku (1st Album)/07. -orderly-.mp3"
+Aug 31 01:13 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/09. 夜紛い.mp3"
+Aug 31 01:14 : client: [1] closed
+Aug 31 01:16 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 31 01:16 : client: [0] closed
+Aug 31 01:16 : player: played "REOL/No title−/10. ギガンティックO.T.N -Big Death Edition-.mp3"
+Aug 31 01:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 01:17 : config: option 'device' on line 209 was not recognized
+Aug 31 01:17 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 31 01:17 : client: [0] opened from 127.0.0.1:48842
+Aug 31 01:23 : client: [1] opened from 127.0.0.1:49062
+Aug 31 01:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 01:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 01:23 : client: [1] closed
+Aug 31 01:23 : client: [2] opened from 127.0.0.1:49070
+Aug 31 01:23 : player: played "Uyama Hiroto/Freeform Jazz (Album)/04 Skipper.mp3"
+Aug 31 01:24 : client: [2] closed
+Aug 31 01:24 : client: [0] closed
+Aug 31 14:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 14:22 : config: option 'device' on line 209 was not recognized
+Aug 31 14:22 : client: [0] opened from 127.0.0.1:51532
+Aug 31 14:22 : avahi: Service 'Music Player @ zephyr' successfully established.
+Aug 31 14:36 : client: [1] opened from 127.0.0.1:51950
+Aug 31 14:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 14:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 14:41 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Aug 31 14:46 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Aug 31 14:49 : player: played "Daoko/Thank You Blue/Disc 1/03. Juicy.mp3"
+Aug 31 14:54 : player: played "Daoko/Thank You Blue/Disc 1/04. さみしいかみさま.mp3"
+Aug 31 14:58 : player: played "Daoko/Thank You Blue/Disc 1/05. ShibuyaK.mp3"
+Aug 31 15:02 : player: played "Daoko/Thank You Blue/Disc 1/06. BANG!.mp3"
+Aug 31 15:07 : player: played "REOL/REOL – Gokusaishoku (1st Album)/16. 染.mp3"
+Aug 31 15:11 : player: played "REOL/No title−/04. drop pop candy.mp3"
+Aug 31 15:14 : player: played "H△G/声 ~VOCALOID Cover Album~/14. 声.mp3"
+Aug 31 16:55 : player: played "fhána/Outside of Melancholy/09. ARE YOU SLEEPING.mp3"
+Aug 31 17:00 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/09. mnemonic.mp3"
+Aug 31 17:03 : player: played "HoneyWorks/HKUM4-M/13 ヤキモチの答え-another story-.mp3"
+Aug 31 17:08 : player: played "Aimer/Dawn (Album)/03 Kimi Wo Matsu.mp3"
+Aug 31 17:11 : player: played "Aimer/Sun Dance (Album)/06 hanabiratachinomarch.mp3"
+Aug 31 17:15 : player: played "Daoko/Thank You Blue/Disc 2/07. Fog (Re-Arrange).mp3"
+Aug 31 17:20 : player: played "Daoko/Thank You Blue/Disc 1/04. さみしいかみさま.mp3"
+Aug 31 17:23 : player: played "Primary x yuiko/From GardeN/06. in the Garden.mp3"
+Aug 31 17:28 : player: played "H△G/声 ~VOCALOID Cover Album~/07. アイロニ.mp3"
+Aug 31 17:32 : player: played "H△G/声 ~VOCALOID Cover Album~/13. からふる日和.mp3"
+Aug 31 17:36 : player: played "soraru/Wonder (Album)/09 Oshiete Kamisama.mp3"
+Aug 31 17:41 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/11 Love Letter.mp3"
+Aug 31 17:44 : player: played "fhána/Outside of Melancholy/04. lyrical sentence.mp3"
+Aug 31 17:49 : player: played "Primary x yuiko/From GardeN/03. cling.mp3"
+Aug 31 17:52 : player: played "H△G/声 ~VOCALOID Cover Album~/08. ハローハロー.mp3"
+Aug 31 17:57 : player: played "Aimer/Dawn (Album)/06 Refar.mp3"
+Aug 31 18:00 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/06 Love Whistle.mp3"
+Aug 31 18:04 : player: played "HoneyWorks/HKUM3-M/07 初恋の絵本 (WINTER MIX).mp3"
+Aug 31 18:09 : player: played "HoneyWorks/HKUM2-M/12 スキキライ -リモコゲ-.mp3"
+Aug 31 18:13 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/01. over and over.mp3"
+Aug 31 18:18 : player: played "Primary x yuiko/fragile garden _ 翳り空/翳り空.mp3"
+Aug 31 18:23 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/02. point at infinity.mp3"
+Aug 31 18:26 : player: played "Aimer/Sun Dance (Album)/05 Koiwazurai.mp3"
+Aug 31 18:31 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/11. yuiko — ノゾミ.mp3"
+Aug 31 18:33 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/01. 8_31.mp3"
+Aug 31 18:38 : player: played "HoneyWorks/HKUM4-M/09 ハジマリノサヨナラ.mp3"
+Aug 31 18:41 : player: played "Primary x yuiko/From GardeN/02. invalidism.mp3"
+Aug 31 18:47 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/06. Circus Night.mp3"
+Aug 31 18:51 : player: played "H△G/A Place in the Sun (Album)/01 A Place in the Sun.mp3"
+Aug 31 18:58 : player: played "fhána/Outside of Melancholy/13. 星屑のインターリュード.mp3"
+Aug 31 19:02 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/02 Nostalgic Rainfall.mp3"
+Aug 31 19:06 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/14 Holly Flag.mp3"
+Aug 31 19:10 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/05. Kazakiri.mp3"
+Aug 31 19:14 : player: played "REOL/REOL – Gokusaishoku (1st Album)/10. ラ・タタン.mp3"
+Aug 31 19:17 : player: played "REOL/REOL – Gokusaishoku (1st Album)/05. ハルシアン.mp3"
+Aug 31 19:20 : player: played "H△G/声 ~VOCALOID Cover Album~/10. タイムマシン.mp3"
+Aug 31 19:24 : player: played "fhána/Outside of Melancholy/07. いつかの、いくつかのきみとのせかい.mp3"
+Aug 31 19:28 : player: played "HoneyWorks/HKUM4-M/05 キミがまた歌いたくなる頃に。.mp3"
+Aug 31 19:31 : player: played "HoneyWorks/HKUM1-M/03 パジャマっ子.mp3"
+Aug 31 19:35 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/07 Kimiga Sorakoso Kanashikere.mp3"
+Aug 31 19:39 : player: played "Aimer/Dawn (Album)/05 Noir Noir.mp3"
+Aug 31 19:45 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/05. yuiko — 箱庭迷路.mp3"
+Aug 31 19:49 : player: played "HoneyWorks/HKUM5-M/05 今好きになる。.mp3"
+Aug 31 19:54 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/07. Meimoku no Kanata.mp3"
+Aug 31 20:00 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/02. Laterality.mp3"
+Aug 31 20:06 : player: played "Sana/Sana x Honeyworks - Suki na Hito/08 - イノコリ先生.mp3"
+Aug 31 20:10 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/05. Zoetrope.mp3"
+Aug 31 20:20 : player: played "Yunomi/ゆのみっくにお茶して EP/01. ゆのみっくにお茶して.mp3"
+Aug 31 20:21 : player: played "Yorushika/Yorushika - Makeinu ni Alcohol wa Iranai/05. 落下.mp3"
+Aug 31 20:26 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/05 Tsunoru Kimochi.mp3"
+Aug 31 20:29 : player: played "Primary x yuiko/Seven'th Color/03. Dear scarlet sky.mp3"
+Aug 31 20:33 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/01 Watashi Idol Sengen.mp3"
+Sep 01 00:38 : client: [1] closed
+Sep 01 00:38 : client: [0] closed
+Sep 01 00:38 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/09. yuiko — solitary flower.mp3"
+Sep 01 00:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 00:42 : config: option 'device' on line 209 was not recognized
+Sep 01 00:42 : client: [0] opened from 127.0.0.1:60816
+Sep 01 00:42 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 01 01:45 : client: [0] closed
+Sep 01 09:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 09:33 : config: option 'device' on line 209 was not recognized
+Sep 01 09:33 : client: [0] opened from 127.0.0.1:48344
+Sep 01 09:33 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 01 12:03 : client: [1] opened from 127.0.0.1:38216
+Sep 01 12:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 12:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 12:08 : player: played "while (true)/[2018.04.29] One For All, All For One/01. For You.flac"
+Sep 01 12:12 : player: played "while (true)/[2018.04.29] One For All, All For One/02. VS Nāga.flac"
+Sep 01 12:16 : player: played "while (true)/[2018.04.29] One For All, All For One/03. NozPath.flac"
+Sep 01 12:19 : player: played "while (true)/[2018.04.29] One For All, All For One/04. Singularity.flac"
+Sep 01 12:25 : player: played "while (true)/[2018.04.29] One For All, All For One/05. Revelation of Silence.flac"
+Sep 01 12:30 : player: played "while (true)/[2018.04.29] One For All, All For One/06. Abysswalker.flac"
+Sep 01 12:35 : player: played "while (true)/[2018.04.29] One For All, All For One/07. KaTharsis.flac"
+Sep 01 12:37 : player: played "while (true)/While True - Merge/Tongue Twister.mp3"
+Sep 01 12:41 : player: played "while (true)/While True - Merge/Eze.mp3"
+Sep 01 12:47 : player: played "while (true)/While True - Merge/Sidekick.mp3"
+Sep 01 12:52 : player: played "while (true)/While True - Merge/fall into oblivion.mp3"
+Sep 01 12:57 : player: played "while (true)/While True - Merge/Violet Lily.mp3"
+Sep 01 15:34 : player: played "while (true)/While True - Merge/Violet Lily.mp3"
+Sep 01 15:39 : player: played "while (true)/[2018.04.29] One For All, All For One/05. Revelation of Silence.flac"
+Sep 01 15:44 : player: played "while (true)/[2018.04.29] One For All, All For One/07. KaTharsis.flac"
+Sep 01 15:49 : player: played "while (true)/[2018.04.29] One For All, All For One/01. For You.flac"
+Sep 01 15:54 : player: played "while (true)/While True - Merge/Sidekick.mp3"
+Sep 01 15:57 : player: played "while (true)/While True - Merge/Tongue Twister.mp3"
+Sep 01 16:01 : player: played "while (true)/While True - Merge/Eze.mp3"
+Sep 01 16:05 : player: played "while (true)/[2018.04.29] One For All, All For One/03. NozPath.flac"
+Sep 01 16:10 : player: played "while (true)/[2018.04.29] One For All, All For One/06. Abysswalker.flac"
+Sep 01 16:15 : player: played "while (true)/While True - Merge/fall into oblivion.mp3"
+Sep 01 16:19 : player: played "while (true)/[2018.04.29] One For All, All For One/02. VS Nāga.flac"
+Sep 01 16:23 : player: played "while (true)/[2018.04.29] One For All, All For One/04. Singularity.flac"
+Sep 01 16:27 : player: played "while (true)/[2018.04.29] One For All, All For One/07. KaTharsis.flac"
+Sep 01 16:31 : player: played "while (true)/[2018.04.29] One For All, All For One/03. NozPath.flac"
+Sep 01 16:37 : player: played "while (true)/While True - Merge/Sidekick.mp3"
+Sep 01 16:40 : player: played "while (true)/While True - Merge/Tongue Twister.mp3"
+Sep 01 16:45 : player: played "while (true)/[2018.04.29] One For All, All For One/05. Revelation of Silence.flac"
+Sep 01 16:49 : player: played "while (true)/[2018.04.29] One For All, All For One/02. VS Nāga.flac"
+Sep 01 16:54 : player: played "while (true)/While True - Merge/fall into oblivion.mp3"
+Sep 01 16:59 : player: played "while (true)/[2018.04.29] One For All, All For One/06. Abysswalker.flac"
+Sep 01 17:03 : player: played "while (true)/[2018.04.29] One For All, All For One/01. For You.flac"
+Sep 01 17:07 : player: played "while (true)/[2018.04.29] One For All, All For One/04. Singularity.flac"
+Sep 01 17:12 : player: played "while (true)/While True - Merge/Violet Lily.mp3"
+Sep 01 17:16 : player: played "while (true)/While True - Merge/Eze.mp3"
+Sep 01 17:21 : player: played "while (true)/[2018.04.29] One For All, All For One/07. KaTharsis.flac"
+Sep 01 17:27 : player: played "while (true)/While True - Merge/Sidekick.mp3"
+Sep 01 17:31 : player: played "while (true)/[2018.04.29] One For All, All For One/01. For You.flac"
+Sep 01 17:36 : player: played "while (true)/While True - Merge/Violet Lily.mp3"
+Sep 01 17:40 : player: played "while (true)/[2018.04.29] One For All, All For One/04. Singularity.flac"
+Sep 01 17:43 : player: played "while (true)/While True - Merge/Tongue Twister.mp3"
+Sep 01 17:48 : player: played "while (true)/While True - Merge/fall into oblivion.mp3"
+Sep 01 17:52 : player: played "while (true)/[2018.04.29] One For All, All For One/06. Abysswalker.flac"
+Sep 01 17:56 : player: played "while (true)/[2018.04.29] One For All, All For One/02. VS Nāga.flac"
+Sep 01 18:00 : player: played "while (true)/[2018.04.29] One For All, All For One/03. NozPath.flac"
+Sep 01 18:06 : player: played "while (true)/[2018.04.29] One For All, All For One/05. Revelation of Silence.flac"
+Sep 01 18:10 : player: played "while (true)/While True - Merge/Eze.mp3"
+Sep 01 18:15 : player: played "while (true)/[2018.04.29] One For All, All For One/07. KaTharsis.flac"
+Sep 01 18:20 : player: played "while (true)/While True - Merge/Violet Lily.mp3"
+Sep 01 18:24 : player: played "while (true)/[2018.04.29] One For All, All For One/03. NozPath.flac"
+Sep 01 18:27 : player: played "while (true)/[2018.04.29] One For All, All For One/04. Singularity.flac"
+Sep 01 18:30 : player: played "while (true)/While True - Merge/Tongue Twister.mp3"
+Sep 01 18:36 : player: played "while (true)/While True - Merge/Sidekick.mp3"
+Sep 01 18:40 : player: played "while (true)/[2018.04.29] One For All, All For One/01. For You.flac"
+Sep 01 18:45 : player: played "while (true)/[2018.04.29] One For All, All For One/06. Abysswalker.flac"
+Sep 01 18:50 : player: played "while (true)/[2018.04.29] One For All, All For One/05. Revelation of Silence.flac"
+Sep 01 18:54 : player: played "while (true)/[2018.04.29] One For All, All For One/02. VS Nāga.flac"
+Sep 01 19:38 : player: played "while (true)/While True - Merge/fall into oblivion.mp3"
+Sep 01 19:42 : player: played "while (true)/While True - Merge/Eze.mp3"
+Sep 01 19:46 : player: played "while (true)/[2018.04.29] One For All, All For One/03. NozPath.flac"
+Sep 01 19:50 : player: played "while (true)/While True - Merge/Eze.mp3"
+Sep 01 19:54 : player: played "while (true)/[2018.04.29] One For All, All For One/02. VS Nāga.flac"
+Sep 01 19:59 : player: played "while (true)/While True - Merge/Violet Lily.mp3"
+Sep 01 20:04 : player: played "while (true)/While True - Merge/fall into oblivion.mp3"
+Sep 01 20:06 : player: played "while (true)/[2018.04.29] One For All, All For One/01. For You.flac"
+Sep 01 20:06 : client: [1] closed
+Sep 01 20:17 : avahi: Client Disconnected, will reconnect shortly
+Sep 01 20:18 : client: [0] closed
+Sep 02 00:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 00:38 : config: option 'device' on line 209 was not recognized
+Sep 02 00:38 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 02 00:38 : client: [0] opened from 127.0.0.1:46124
+Sep 02 00:50 : client: [1] opened from 127.0.0.1:46488
+Sep 02 00:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 00:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 00:52 : player: played "ARForest/Coloridium/01. CoLOLar.mp3"
+Sep 02 00:55 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Sep 02 01:20 : client: [1] closed
+Sep 02 01:20 : client: [0] closed
+Sep 02 11:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 11:02 : config: option 'device' on line 209 was not recognized
+Sep 02 11:02 : client: [0] opened from 127.0.0.1:35504
+Sep 02 11:02 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 02 18:22 : client: [1] opened from 127.0.0.1:45840
+Sep 02 18:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 18:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 18:25 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Sep 02 18:28 : player: played "a_hisa/a_hisa - shizuku/06 - Whisper of Stream.mp3"
+Sep 02 18:29 : player: played "Masaki Mizusato/The daily life of cats in Paris/2 - ロマンス - Romance.flac"
+Sep 02 18:31 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-08-礼拝堂(2019新企画).mp3"
+Sep 02 18:36 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Sep 02 18:37 : player: played "Masaki Mizusato/The daily life of cats in Paris/10 - カフェでひと息 - Une pause au café.flac"
+Sep 02 18:37 : client: [1] closed
+Sep 02 20:02 : client: [0] closed
+Sep 03 11:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 11:43 : config: option 'device' on line 209 was not recognized
+Sep 03 11:43 : client: [0] opened from 127.0.0.1:54262
+Sep 03 11:43 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 03 11:47 : client: [1] opened from 127.0.0.1:54484
+Sep 03 11:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 11:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 11:52 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Sep 03 11:56 : player: played "HoneyWorks/HKUM2-M/07 桜と僕とあの子にhshsな気持ち.mp3"
+Sep 03 12:01 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/11. パレード.mp3"
+Sep 03 12:06 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/11 Heisei Bubble.mp3"
+Sep 03 12:10 : player: played "HoneyWorks/HKUM4-M/02 ヤキモチの答え.mp3"
+Sep 03 12:13 : player: played "Daoko/Thank You Blue/Disc 1/11. もしも僕らが GAME の主役で.mp3"
+Sep 03 12:19 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/07. 雲と幽霊.mp3"
+Sep 03 15:45 : client: [1] closed
+Sep 03 15:45 : client: [0] closed
+Sep 03 15:45 : player: played "Sana/Sana x Honeyworks - Suki na Hito/06 - ヤキモチの答え.mp3"
+Sep 03 16:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 16:05 : config: option 'device' on line 209 was not recognized
+Sep 03 16:05 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 03 16:05 : client: [0] opened from 127.0.0.1:55588
+Sep 03 16:52 : client: [0] closed
+Sep 03 16:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 16:57 : config: option 'device' on line 209 was not recognized
+Sep 03 16:57 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 03 16:57 : client: [0] opened from 127.0.0.1:51590
+Sep 03 17:21 : client: [0] closed
+Sep 03 18:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 18:32 : config: option 'device' on line 209 was not recognized
+Sep 03 18:32 : client: [0] opened from 127.0.0.1:49734
+Sep 03 18:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 03 22:38 : client: [1] opened from 127.0.0.1:52212
+Sep 03 22:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 22:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 22:38 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Sep 03 22:38 : exception: Failed to open "pulse audio" (pulse)
+Sep 03 22:38 : exception: nested: pa_context_connect() has failed: Connection refused
+Sep 03 22:44 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Sep 03 23:29 : client: [1] closed
+Sep 03 23:29 : client: [0] closed
+Sep 03 23:29 : player: played "HoneyWorks/HKUM3-M/03 スキキライ (ギガP REMIX).mp3"
+Sep 04 11:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 11:09 : config: option 'device' on line 209 was not recognized
+Sep 04 11:09 : client: [0] opened from 127.0.0.1:50982
+Sep 04 11:09 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 04 13:15 : client: [0] closed
+Sep 04 13:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 13:16 : config: option 'device' on line 209 was not recognized
+Sep 04 13:16 : client: [0] opened from 127.0.0.1:60232
+Sep 04 13:16 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 04 13:19 : client: [0] closed
+Sep 04 14:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 14:31 : config: option 'device' on line 209 was not recognized
+Sep 04 14:31 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 04 14:31 : client: [0] opened from 127.0.0.1:48628
+Sep 04 15:33 : client: [0] closed
+Sep 04 17:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 17:54 : config: option 'device' on line 209 was not recognized
+Sep 04 17:54 : client: [0] opened from 127.0.0.1:43160
+Sep 04 17:54 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 04 19:20 : client: [1] opened from 127.0.0.1:43938
+Sep 04 19:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 19:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 19:23 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Sep 04 19:25 : player: played "Masaki Mizusato/The daily life of cats in Paris/2 - ロマンス - Romance.flac"
+Sep 04 19:27 : player: played "Masaki Mizusato/The daily life of cats in Paris/4 - 街角のアコーディオン弾き - L'accordéoniste dans une rue.flac"
+Sep 04 19:29 : player: played "Masaki Mizusato/The daily life of cats in Paris/6 - お屋敷のジェントルキャット - Le chat gentilhomme du manoir.flac"
+Sep 04 19:31 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/04 - さんぽみち.mp3"
+Sep 04 19:34 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-04-街道(暁工房のコートニー).mp3"
+Sep 04 19:37 : player: played "Sakuzyo/Food and Musik/06 - Works and Coffee.mp3"
+Sep 04 19:39 : client: [1] closed
+Sep 04 19:39 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Sep 04 19:39 : client: [0] closed
+Sep 04 19:39 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-03-バトル1(天と魔法のリゼロット).mp3"
+Sep 05 10:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 10:14 : config: option 'device' on line 209 was not recognized
+Sep 05 10:14 : client: [0] opened from 127.0.0.1:46586
+Sep 05 10:14 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 05 11:42 : client: [0] closed
+Sep 05 11:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 11:48 : config: option 'device' on line 209 was not recognized
+Sep 05 11:48 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 05 11:48 : client: [0] opened from 127.0.0.1:55424
+Sep 05 11:49 : client: [0] closed
+Sep 06 11:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 06 11:10 : config: option 'device' on line 209 was not recognized
+Sep 06 11:10 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 06 11:10 : client: [0] opened from 127.0.0.1:34828
+Sep 06 14:46 : client: [1] opened from 127.0.0.1:35590
+Sep 06 14:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 06 14:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 06 14:51 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Sep 06 14:56 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/4. 嘘偽リノ世界.flac"
+Sep 06 15:02 : player: played "Aimer/Sun Dance (Album)/09 SUN DANCE.mp3"
+Sep 06 15:07 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/01. Futatsu no Tsuki.mp3"
+Sep 06 15:11 : player: played "HoneyWorks/HKUM4-M/06 HELLO.mp3"
+Sep 06 15:16 : player: played "fhána/Outside of Melancholy/03. divine intervention.mp3"
+Sep 06 15:20 : player: played "Aimer/Sun Dance (Album)/05 Koiwazurai.mp3"
+Sep 06 15:24 : player: played "HoneyWorks/HKUM5-M/14 さよなら両片想.mp3"
+Sep 06 15:29 : player: played "H△G/A Place in the Sun (Album)/07 Seventeen.mp3"
+Sep 06 15:33 : player: played "Aimer/Dawn (Album)/03 Kimi Wo Matsu.mp3"
+Sep 06 15:38 : player: played "Daoko/Thank You Blue/Disc 2/04. ぼく (Re-Arrange).mp3"
+Sep 06 15:43 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/14. Harumodoki.mp3"
+Sep 06 15:45 : client: [1] closed
+Sep 06 15:45 : client: [0] closed
+Sep 06 15:45 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/02. 藍二乗.mp3"
+Sep 06 15:45 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Sep 06 16:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 06 16:40 : config: option 'device' on line 209 was not recognized
+Sep 06 16:40 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 06 16:40 : client: [0] opened from 127.0.0.1:41370
+Sep 07 01:18 : client: [0] closed
+Sep 07 11:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 07 11:44 : config: option 'device' on line 209 was not recognized
+Sep 07 11:44 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 07 11:44 : client: [0] opened from 127.0.0.1:33772
+Sep 08 00:52 : client: [1] opened from 127.0.0.1:41012
+Sep 08 00:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 00:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 01:09 : player: played "Jabberloop/OOParts (Album)/08 Behind The Wind (Heavygrinder Remix).mp3"
+Sep 08 01:09 : client: [1] closed
+Sep 08 01:09 : client: [0] closed
+Sep 08 11:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 11:37 : config: option 'device' on line 209 was not recognized
+Sep 08 11:37 : client: [0] opened from 127.0.0.1:33170
+Sep 08 11:37 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 08 12:08 : client: [1] opened from 127.0.0.1:33822
+Sep 08 20:34 : client: [1] closed
+Sep 08 20:34 : client: [0] closed
+Sep 09 12:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 12:11 : config: option 'device' on line 209 was not recognized
+Sep 09 12:11 : client: [0] opened from 127.0.0.1:34086
+Sep 09 12:11 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 09 12:47 : client: [0] closed
+Sep 09 14:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 14:34 : config: option 'device' on line 209 was not recognized
+Sep 09 14:34 : client: [0] opened from 127.0.0.1:45746
+Sep 09 14:34 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 09 15:45 : client: [0] closed
+Sep 10 09:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:46 : config: option 'device' on line 209 was not recognized
+Sep 10 09:46 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 10 09:46 : client: [0] opened from 127.0.0.1:43398
+Sep 10 09:50 : client: [1] opened from 127.0.0.1:43582
+Sep 10 09:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 09:52 : player: played "ARForest/Coloridium/01. CoLOLar.mp3"
+Sep 10 09:52 : exception: Playlist already exists
+Sep 10 10:00 : player: played "NiZi RiNGO/Ne_nuit/03. Paroles.mp3"
+Sep 10 10:05 : player: played "Various Artists/Artifacts_of_Artcore/reliquia.mp3"
+Sep 10 10:08 : player: played "NiZi RiNGO/Athenarium/09. 百九十.mp3"
+Sep 10 10:09 : player: played "NiZi RiNGO/Ne_nuit/07. Skip!!.mp3"
+Sep 10 10:09 : client: [1] closed
+Sep 10 10:49 : client: [2] opened from 127.0.0.1:44242
+Sep 10 10:52 : player: played "NiZi RiNGO/Ne_nuit/07. Skip!!.mp3"
+Sep 10 10:56 : player: played "Various Artists/Artifacts_of_Artcore/Äcû]é╠ßP.mp3"
+Sep 10 10:58 : player: played "Various Artists/Artifacts_of_Artcore/ù┤ûΣôSï╛.mp3"
+Sep 10 10:58 : client: [2] closed
+Sep 10 10:58 : client: [3] opened from 127.0.0.1:44370
+Sep 10 10:58 : client: [3] closed
+Sep 10 10:58 : client: [4] opened from 127.0.0.1:44374
+Sep 10 11:02 : player: played "NiZi RiNGO/Athenarium/05. 霜月.mp3"
+Sep 10 11:06 : player: played "NiZi RiNGO/Ne_nuit/06. sparkling illumination.mp3"
+Sep 10 11:08 : player: played "Xi/World Fragments [320]/10 xi - World Fragments II 2015.mp3"
+Sep 10 11:14 : player: played "Symphonic Xizer/SymphonicXize-002/06. Orbit.mp3"
+Sep 10 11:16 : player: played "Various Artists/Artifacts_of_Artcore/Tank of ROME water.mp3"
+Sep 10 11:21 : player: played "Xi/World Fragments [320]/04 xi - ANiMA 2015.mp3"
+Sep 10 11:27 : player: played "Symphonic Xizer/SymphonicXize-002/01. Lithosphere.mp3"
+Sep 10 11:30 : player: played "ARForest/Coloridium/02. Melon Cream Soda.mp3"
+Sep 10 11:35 : player: played "Xi/World Fragments [320]/11 xi - World Fragments III 2015.mp3"
+Sep 10 11:40 : player: played "NiZi RiNGO/Athenarium/10. Dimension Ninja.mp3"
+Sep 10 11:43 : player: played "Various Artists/Artifacts_of_Artcore/Phaistos Disc.mp3"
+Sep 10 11:47 : client: [4] closed
+Sep 10 11:48 : player: played "Xi/World Fragments [320]/08 xi - Hesperides 2015.mp3"
+Sep 10 11:51 : player: played "Various Artists/Artifacts_of_Artcore/Knife of Amber.mp3"
+Sep 10 11:54 : player: played "NiZi RiNGO/Athenarium/09. 百九十.mp3"
+Sep 10 11:58 : player: played "Xi/World Fragments [320]/01 xi - Aragami 2015.mp3"

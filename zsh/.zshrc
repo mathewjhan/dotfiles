@@ -13,6 +13,8 @@ export GOPATH="$HOME/go"
 export PATH="$HOME/go/bin:$PATH"
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
+export CS187="/media/data/mathew/Home/College/CS187"
+
 # Convenient aliases
 alias e="nvim"
 alias fm="vifm-ueberzug"
@@ -52,9 +54,24 @@ paudio-restart(){
     pulseaudio -D
 }
 
-# gpu switch modes (requires restart)
-alias mode-bumblebee="sudo systemctl disable optimus-manager.service && sudo systemctl enable bumblebeed"
-alias mode-optimanager="sudo systemctl disable bumblebeed && sudo systemctl enable optimus-manager.service"
+# gpu switch modes (requires gpu-enable run already)
+mode-bumblebee(){
+    echo "Make sure you are not in optimus-manager nvidia"
+    sudo modprobe -r nouveau
+    sudo modprobe nvidia 
+    sudo systemctl stop optimus-manager.service
+    sudo systemctl disable optimus-manager.service
+    sudo systemctl enable bumblebeed
+    sudo systemctl start bumblebeed
+    echo "Successfully changed to bumblebee"
+}
+mode-optimanager(){
+    sudo systemctl stop bumblebeed
+    sudo systemctl disable bumblebeed
+    sudo systemctl enable optimus-manager.service
+    sudo systemctl start optimus-manager.service
+    echo "Successfully changed to optimus-manager"
+}
 
 # Misc
 alias ls="exa"
@@ -66,6 +83,7 @@ alias whalefetch="neofetch --ascii \"$(fortune -s | cowthink -W 30 -f whale)\" -
 alias wiki="wiki-search"
 alias wolfram="tungsten"
 alias temps="paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'"
+alias weather="curl wttr.in"
 
 alias ..="cd .."
 alias ...="cd ../.."
