@@ -22,96 +22,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/media/data/mathew/Pictures/Pictures
-	2018_Djikstra and Salt
-2
-d/media/data/mathew/Pictures/Pictures/2018_Djikstra and Salt
-	0A7A6707.JPG
-1
-d/media/data/mathew/Pictures/Pictures
-	2015_HC
-1
-d/media/data/mathew/Pictures/Pictures/2015_HC
-	14429086_881969838602763_1556035321_n.jpg
-1
-d/media/data/mathew/Pictures/Pictures
-	2018_cmu
-3
-d/media/data/mathew/Pictures/Pictures/2018_cmu
-	20180810_185621.jpg
-3
-d/media/data/mathew/Pictures/Pictures
-	2019_graduation
-4
-d/media/data/mathew/Pictures/Pictures/2019_graduation
-	People
-1
-d/media/data/mathew/Pictures/Pictures/2019_graduation/People
-	20190613_171802.jpg
-1
-d/media/data/mathew/Pictures/Pictures/2019_graduation
-	People
-1
-d/media/data/mathew/Pictures/Pictures
-	misc
-6
-d/media/data/mathew/Pictures/Pictures/misc
-	A1C07EA0-17CF-4AC9-82CF-1AE003136A3E.JPG
-1
-d/media/data/mathew/Pictures/Pictures
-	old_lightroom
-7
-d/media/data/mathew/Pictures/Pictures/old_lightroom
-	Alaska_2016
-1
-d/media/data/mathew/Pictures/Pictures/old_lightroom/Alaska_2016
-	Waterfall_HigherQuality (1 of 1).jpg
-20
-d/media/data/mathew/Pictures/Pictures/old_lightroom
-	moved
-4
-d/media/data/mathew/Pictures/Pictures/old_lightroom/moved
-	IMG_1309.JPG
-2
-d/media/data/mathew/Pictures/Pictures/old_lightroom
-	Sunset1 (1 of 1).jpg
-5
-d/media/data/mathew/Pictures/Pictures
-	old_lightroom
-7
-d/media/data/mathew/Pictures
-	Pictures
-5
-d/media/data/mathew/Pictures/Pictures
-	pics_old_laptop
-8
-d/media/data/mathew/Pictures/Pictures/pics_old_laptop
-	105___09
-1
-d/media/data/mathew/Pictures/Pictures/pics_old_laptop/105___09
-	IMG_4614.JPG
-5
-d/media/data/mathew/Pictures/Pictures/pics_old_laptop
-	106___10
-2
-d/media/data/mathew/Pictures/Pictures/pics_old_laptop/106___10
-	IMG_4619.JPG
-4
-d/media/data/mathew/Pictures/Pictures/pics_old_laptop
-	109___08
-5
-d/media/data/mathew/Pictures/Pictures/pics_old_laptop/109___08
-	IMG_5220.JPG
-7
-d/media/data/mathew/Pictures/Pictures/pics_old_laptop
-	2015
-6
-d/media/data/mathew/Pictures/Pictures/pics_old_laptop/2015
-	2015-04-07
-2
-d/media/data/mathew/Pictures/Pictures/pics_old_laptop/2015/2015-04-07
-	IMG_6728.JPG
-2
 d/media/data/mathew/Pictures/Pictures/pics_old_laptop/2015
 	2015-04-07
 2
@@ -322,6 +232,96 @@ d/media/data/mathew/Home/trash
 d/home/mathew/Pictures/Wallpapers
 	traffic-lights-2.0-by-lucas-zimmermann-1920×1080.jpg
 36
+d/home/mathew
+	go
+9
+d/media/data/mathew/Home
+	resume
+8
+d/media/data/mathew/Home/resume
+	college_resume.pdf
+2
+d/media/data/mathew/Home
+	resume
+8
+d/media/data/mathew
+	Music
+3
+d/media/data
+	mathew
+3
+d/media/data/mathew
+	Pictures
+4
+d/media/data/mathew/Pictures
+	Wallpapers
+8
+d/media/data/mathew/Pictures/Wallpapers
+	to be organized
+6
+d/media/data/mathew/Pictures/Wallpapers/to be organized
+	tree.jpg
+29
+d/media/data/mathew/Pictures/Wallpapers
+	to be organized
+6
+d/media/data/mathew/Pictures/Wallpapers/to be organized
+	sunset_scenery_minimal_4k.jpg
+26
+d/home/mathew
+	dotfiles
+8
+d/home
+	mathew
+1
+d/home/mathew
+	Pictures
+5
+d/home/mathew/Pictures
+	Wallpapers
+1
+d/home/mathew/Pictures/Wallpapers
+	sunrise-7-1920×1080.jpg
+34
+d/home/mathew/Pictures
+	Wallpapers
+1
+d/media/data/mathew/Home/College/BIO109/notes
+	notes_190909.md
+3
+d/media/data/mathew/Home/resume
+	college_resume.pdf
+2
+d/home/mathew/Downloads
+	mystery
+25
+d/home/mathew/picoctf
+	flags.txt
+1
+d/home/mathew
+	Downloads
+3
+d/home/mathew/Downloads
+	flag.png
+24
+d/home/mathew
+	Downloads
+3
+d/home/mathew/Downloads
+	mystery (2).png
+27
+d/media/data/mathew/Home/College/BIO109/notes
+	notes_190930.pdf
+16
+d/home/mathew/Pictures/Wallpapers
+	..
+0
+d/home/mathew/Pictures
+	Wallpapers
+1
+d/home/mathew
+	Videos
+6
 d
 
 # Right window history (oldest to newest):
@@ -455,12 +455,13 @@ D
 :open
 :! optirun
 :! optirun mpv %c
-:cd $WINHOME
 :cd $WINHOME/trash
+:cd $WINHOME
 :view
 :q
 
 # Search history (oldest to newest):
+/flag
 /Pi
 /ap_
 /media
@@ -478,7 +479,7 @@ D
 # Local filter history (oldest to newest):
 
 # Registers:
-""/media/data/.vifm-Trash-1000/000_[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
+""/home/mathew/.local/share/vifm/Trash/000_mystery.png
 
 # Directory stack (oldest to newest):
 
@@ -523,6 +524,32 @@ t/media/data/.vifm-Trash-1000/000_[EG] Tengen Toppa Gurren Lagann BD
 	/media/data/mathew/Home/trash/[EG] Tengen Toppa Gurren Lagann BD
 t/media/data/.vifm-Trash-1000/000_[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
 	/media/data/mathew/Home/trash/[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
+t/home/mathew/.local/share/vifm/Trash/000_mystery.OfficeRecovery Online Demo.png
+	/home/mathew/Downloads/mystery.OfficeRecovery Online Demo.png
+t/home/mathew/.local/share/vifm/Trash/000_mystery (3).OfficeRecovery Online Demo.png
+	/home/mathew/Downloads/mystery (3).OfficeRecovery Online Demo.png
+t/home/mathew/.local/share/vifm/Trash/000_mystery (3).png
+	/home/mathew/Downloads/mystery (3).png
+t/home/mathew/.local/share/vifm/Trash/000_mystery (1).png
+	/home/mathew/Downloads/mystery (1).png
+t/home/mathew/.local/share/vifm/Trash/000_mystery (1)
+	/home/mathew/Downloads/mystery (1)
+t/home/mathew/.local/share/vifm/Trash/000_pico_img.png
+	/home/mathew/Downloads/pico_img.png
+t/home/mathew/.local/share/vifm/Trash/000_strings
+	/home/mathew/Downloads/strings
+t/home/mathew/.local/share/vifm/Trash/000_vuln.c
+	/home/mathew/Downloads/vuln.c
+t/home/mathew/.local/share/vifm/Trash/000_flag.png
+	/home/mathew/Downloads/flag.png
+t/home/mathew/.local/share/vifm/Trash/000_garden.jpg
+	/home/mathew/Downloads/garden.jpg
+t/home/mathew/.local/share/vifm/Trash/000_message.wav
+	/home/mathew/Downloads/message.wav
+t/home/mathew/.local/share/vifm/Trash/000_mystery
+	/home/mathew/Downloads/mystery
+t/home/mathew/.local/share/vifm/Trash/000_mystery.png
+	/home/mathew/Downloads/mystery.png
 
 # State:
 f

@@ -8237,3 +8237,772 @@ Sep 10 11:48 : player: played "Xi/World Fragments [320]/08 xi - Hesperides 2015.
 Sep 10 11:51 : player: played "Various Artists/Artifacts_of_Artcore/Knife of Amber.mp3"
 Sep 10 11:54 : player: played "NiZi RiNGO/Athenarium/09. 百九十.mp3"
 Sep 10 11:58 : player: played "Xi/World Fragments [320]/01 xi - Aragami 2015.mp3"
+Sep 10 12:01 : player: played "Various Artists/Artifacts_of_Artcore/Ancient Gear Vimana.mp3"
+Sep 10 12:03 : client: [5] opened from 127.0.0.1:45080
+Sep 10 12:03 : player: played "Various Artists/Artifacts_of_Artcore/Ark.mp3"
+Sep 10 12:07 : player: played "banbanshi/2016 - -Remind-/01 - -Remind-.flac"
+Sep 10 12:08 : client: [5] closed
+Sep 10 12:08 : client: [6] opened from 127.0.0.1:45108
+Sep 10 12:08 : player: played "banbanshi/2016 - -Remind-/10 - Little By Little.flac"
+Sep 10 12:08 : client: [6] closed
+Sep 10 15:47 : client: [0] closed
+Sep 10 15:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 15:57 : config: option 'device' on line 209 was not recognized
+Sep 10 15:57 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 10 15:57 : client: [0] opened from 127.0.0.1:51456
+Sep 10 20:42 : client: [0] closed
+Sep 10 23:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 10 23:27 : config: option 'device' on line 209 was not recognized
+Sep 10 23:27 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 10 23:27 : client: [0] opened from 127.0.0.1:48366
+Sep 11 00:33 : client: [0] closed
+Sep 11 08:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 08:53 : config: option 'device' on line 209 was not recognized
+Sep 11 08:53 : client: [0] opened from 127.0.0.1:60688
+Sep 11 08:53 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 11 09:35 : client: [0] closed
+Sep 11 11:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 11:13 : config: option 'device' on line 209 was not recognized
+Sep 11 11:13 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 11 11:13 : client: [0] opened from 127.0.0.1:44354
+Sep 11 12:05 : client: [0] closed
+Sep 11 13:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 13:34 : config: option 'device' on line 209 was not recognized
+Sep 11 13:34 : client: [0] opened from 127.0.0.1:44124
+Sep 11 13:34 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 11 14:10 : client: [0] closed
+Sep 11 14:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 14:32 : config: option 'device' on line 209 was not recognized
+Sep 11 14:32 : client: [0] opened from 127.0.0.1:54172
+Sep 11 14:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 11 15:45 : client: [0] closed
+Sep 11 18:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 18:42 : config: option 'device' on line 209 was not recognized
+Sep 11 18:42 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 11 18:42 : client: [0] opened from 127.0.0.1:56188
+Sep 11 18:44 : client: [1] opened from 127.0.0.1:56492
+Sep 11 18:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 18:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 18:47 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Sep 11 18:51 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Sep 11 18:54 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-04-街道(暁工房のコートニー).mp3"
+Sep 11 18:56 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/09 - マーブル模様.mp3"
+Sep 11 19:00 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/04 - 靴下をはいた猫.mp3"
+Sep 11 19:03 : player: played "a_hisa/a_hisa - shizuku/04 - Suiren.mp3"
+Sep 11 19:09 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/05 - Roundspace.mp3"
+Sep 11 19:11 : player: played "Masaki Mizusato/The daily life of cats in Paris/10 - カフェでひと息 - Une pause au café.flac"
+Sep 11 19:12 : player: played "a_hisa/a_hisa - shizuku/07 - outro.mp3"
+Sep 11 19:19 : player: played "Sakuzyo/Food and Musik/12 - For tomorrow.mp3"
+Sep 11 19:23 : player: played "Video Game OST/The Sound of Kirby Café/11. Eating a Meal and Having a Dream.mp3"
+Sep 11 19:26 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/06 - いつのも場所.mp3"
+Sep 11 19:30 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-03-バトル1(天と魔法のリゼロット).mp3"
+Sep 11 19:34 : player: played "Sakuzyo/Food and Musik/01 - Trattoria.mp3"
+Sep 11 19:37 : player: played "a_hisa/a_hisa - shizuku/05 - Rainy Waltz.mp3"
+Sep 11 19:40 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/03 - おでかけ気分で.mp3"
+Sep 11 19:43 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/04 - さんぽみち.mp3"
+Sep 11 19:46 : player: played "Sakuzyo/Food and Musik/06 - Works and Coffee.mp3"
+Sep 11 19:47 : client: [1] closed
+Sep 11 19:47 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Sep 11 19:47 : client: [0] closed
+Sep 11 19:47 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-05-バトル1(暁工房のコートニー).mp3"
+Sep 11 22:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 22:52 : config: option 'device' on line 209 was not recognized
+Sep 11 22:52 : client: [0] opened from 127.0.0.1:36580
+Sep 11 22:52 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 11 22:52 : client: [1] opened from 127.0.0.1:36584
+Sep 11 22:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 22:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 11 22:54 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Sep 11 22:59 : player: played "Nujabes/2nd Collection/02. Sky is falling (featuring C.L. Smooth).mp3"
+Sep 11 23:01 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/10. Shooting Star (Dear Nujabes).mp3"
+Sep 11 23:04 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/07. Going Out (Rest In Beats).mp3"
+Sep 11 23:09 : player: played "Nujabes/2nd Collection/12. windspeaks.mp3"
+Sep 11 23:14 : player: played "Nujabes/Modal Soul/07. The Sign (ft. Pase Rock).mp3"
+Sep 11 23:18 : player: played "Nujabes/Metaphorical Music [320] [2003]/09. A Day by Atmosphere Supreme.mp3"
+Sep 11 23:21 : player: played "Float 11/Daydream (Album)/11 surf.mp3"
+Sep 11 23:25 : player: played "Uyama Hiroto/A Son of the Sun (Album)/09 Vision Eyes (feat. Golden Boy).mp3"
+Sep 11 23:27 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/05. Jazz Meditation.mp3"
+Sep 11 23:29 : player: played "Uyama Hiroto/Freeform Jazz (Album)/11 Departure.mp3"
+Sep 11 23:31 : player: played "Blazo/Alone Journey/02. Righteous Path.mp3"
+Sep 11 23:35 : player: played "Float 11/Daydream (Album)/13 drop.mp3"
+Sep 11 23:37 : player: played "Blazo/Alone Journey/05. Flute Story.mp3"
+Sep 11 23:42 : player: played "Nujabes/2nd Collection/03. Waltz for life will born.mp3"
+Sep 11 23:47 : player: played "Nujabes/2nd Collection/10. with rainy eyes.mp3"
+Sep 11 23:51 : player: played "Nujabes/Modal Soul/08. Thank You (ft. Apani B).mp3"
+Sep 11 23:56 : player: played "Nujabes/Modal Soul/05. Music Is Mine.mp3"
+Sep 11 23:59 : player: played "re-plus/re-plus - (2010) Everlasting Truth [320]/02. Never Looking Back feat. Nick Smalc from Vitium.mp3"
+Sep 12 00:03 : player: played "Uyama Hiroto/Freeform Jazz (Album)/13 Posse.mp3"
+Sep 12 00:06 : player: played "Float 11/Daydream (Album)/10 daydream.mp3"
+Sep 12 00:07 : client: [2] opened from 127.0.0.1:38354
+Sep 12 00:07 : player: played "re-plus/re-plus - (2010) Everlasting Truth [320]/12. White Avenue.mp3"
+Sep 12 00:17 : client: [1] closed
+Sep 12 00:17 : client: [2] closed
+Sep 12 00:17 : client: [0] closed
+Sep 12 12:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 12:01 : config: option 'device' on line 209 was not recognized
+Sep 12 12:01 : client: [0] opened from 127.0.0.1:55702
+Sep 12 12:01 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 12 13:33 : client: [0] closed
+Sep 12 13:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 13:34 : config: option 'device' on line 209 was not recognized
+Sep 12 13:34 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 12 13:34 : client: [0] opened from 127.0.0.1:46712
+Sep 12 15:01 : client: [1] opened from 127.0.0.1:47554
+Sep 12 15:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 15:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 15:06 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Sep 12 15:10 : player: played "HoneyWorks/HKUM2-M/12 スキキライ -リモコゲ-.mp3"
+Sep 12 15:16 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/06. Circus Night.mp3"
+Sep 12 15:18 : player: played "Yorushika/Yorushika - Makeinu ni Alcohol wa Iranai/09. 夏、バス停、君を待つ.mp3"
+Sep 12 15:23 : player: played "Yorushika/Yorushika - Makeinu ni Alcohol wa Iranai/06. 準透明少年.mp3"
+Sep 12 15:26 : player: played "Yorushika/Yorushika - Makeinu ni Alcohol wa Iranai/07. ただ君に晴れ.mp3"
+Sep 12 15:31 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/04. Tokohana.mp3"
+Sep 12 15:34 : player: played "HoneyWorks/HKUM4-M/03 今ちょっとだけ話題の神様.mp3"
+Sep 12 15:38 : player: played "fhána/Outside of Melancholy/05. スウィンギングシティ.mp3"
+Sep 12 15:41 : player: played "H△G/声 ~VOCALOID Cover Album~/08. ハローハロー.mp3"
+Sep 12 15:46 : player: played "Aimer/Dawn (Album)/07 AM0400.mp3"
+Sep 12 15:48 : player: played "HoneyWorks/HKUM3-M/17 告白予行練習 -another story-.mp3"
+Sep 12 15:49 : client: [1] closed
+Sep 12 15:49 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Sep 12 15:49 : client: [0] closed
+Sep 12 15:49 : player: played "Sana/Sana x Honeyworks - Suki na Hito/09 - ロリババアに恋をした.mp3"
+Sep 12 17:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 17:15 : config: option 'device' on line 209 was not recognized
+Sep 12 17:15 : client: [0] opened from 127.0.0.1:43242
+Sep 12 17:15 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 12 20:18 : client: [0] closed
+Sep 12 22:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 12 22:12 : config: option 'device' on line 209 was not recognized
+Sep 12 22:12 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 12 22:12 : client: [0] opened from 127.0.0.1:55220
+Sep 12 23:51 : client: [1] opened from 127.0.0.1:56360
+Sep 12 23:52 : client: [1] closed
+Sep 13 00:08 : client: [2] opened from 127.0.0.1:56754
+Sep 13 00:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 00:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 00:17 : player: played "Thousand Foot Krutch/The End Is Where We Begin [2012]/09. Courtesy Call.mp3"
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/15. Outroduction.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/14. So Far Gone.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/13. Fly On The Wall.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/12. All I Need To Know.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/11. Down.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/10. War Of Change.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/09. Courtesy Call.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/08. This Is A Warning (Intro).mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/07. Be Somebody.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/06. I Get Wicked.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/05. Let The Sparks Fly.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/04. The End Is Where We Begin.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/03. Light Up The Sky.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/02. We Are.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/The End Is Where We Begin [2012]/01. The Introduction.mp3
+Sep 13 00:17 : update: removing Thousand Foot Krutch/Oxygen_ Inhale/10. Glow.flac
+Sep 13 00:17 : update: removing Thousand Foot Krutch/Oxygen_ Inhale/09. Oxygen.flac
+Sep 13 00:17 : update: removing Thousand Foot Krutch/Oxygen_ Inhale/08. In My Room.flac
+Sep 13 00:17 : update: removing Thousand Foot Krutch/Oxygen_ Inhale/07. Light Up.flac
+Sep 13 00:17 : update: removing Thousand Foot Krutch/Oxygen_ Inhale/06. I See Red.flac
+Sep 13 00:17 : update: removing Thousand Foot Krutch/Oxygen_ Inhale/05. Give It to Me.flac
+Sep 13 00:17 : update: removing Thousand Foot Krutch/Oxygen_ Inhale/04. Set Me on Fire.flac
+Sep 13 00:17 : update: removing Thousand Foot Krutch/Oxygen_ Inhale/03. Born This Way.flac
+Sep 13 00:17 : update: removing Thousand Foot Krutch/Oxygen_ Inhale/02. Untraveled Road.flac
+Sep 13 00:17 : update: removing Thousand Foot Krutch/Oxygen_ Inhale/01. Like a Machine.flac
+Sep 13 00:17 : update: added Thousand Foot Krutch/OXYGENINHALE (Album)/01 Like a Machine.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/OXYGENINHALE (Album)/02 Untraveled Road.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/OXYGENINHALE (Album)/03 Born This Way.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/OXYGENINHALE (Album)/04 Set Me on Fire.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/OXYGENINHALE (Album)/05 Give It to Me.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/OXYGENINHALE (Album)/06 I See Red.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/OXYGENINHALE (Album)/07 Light Up.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/OXYGENINHALE (Album)/08 In My Room.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/OXYGENINHALE (Album)/09 Oxygen.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/OXYGENINHALE (Album)/10 Glow.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/01 The Introduction.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/02 We Are.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/03 Light Up the Sky.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/04 The End Is Where We Begin.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/05 Let the Sparks Fly.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/06 I Get Wicked.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/07 Be Somebody.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/08 This Is a Warning.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/09 Courtesy Call.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/10 War of Change.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/11 Down.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/12 All I Need to Know.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/13 Fly On the Wall.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/14 So Far Gone.mp3
+Sep 13 00:17 : update: added Thousand Foot Krutch/The End Is Where We Begin (Album)/15 Outroduction.mp3
+Sep 13 00:21 : player: played "Thousand Foot Krutch/OXYGENINHALE (Album)/02 Untraveled Road.mp3"
+Sep 13 00:23 : client: [2] closed
+Sep 13 00:23 : client: [0] closed
+Sep 13 09:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 09:00 : config: option 'device' on line 209 was not recognized
+Sep 13 09:00 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 13 09:00 : client: [0] opened from 127.0.0.1:53056
+Sep 13 09:34 : client: [0] closed
+Sep 13 11:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 11:07 : config: option 'device' on line 209 was not recognized
+Sep 13 11:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 13 11:07 : client: [0] opened from 127.0.0.1:39356
+Sep 13 13:22 : client: [0] closed
+Sep 13 13:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 13:22 : config: option 'device' on line 209 was not recognized
+Sep 13 13:22 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 13 13:22 : client: [0] opened from 127.0.0.1:51148
+Sep 13 13:24 : client: [1] opened from 127.0.0.1:51152
+Sep 13 13:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 13:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 13:24 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Sep 13 13:24 : client: [1] closed
+Sep 13 13:24 : client: [0] closed
+Sep 13 13:24 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Sep 13 13:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 13:25 : config: option 'device' on line 209 was not recognized
+Sep 13 13:25 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 13 13:25 : client: [0] opened from 127.0.0.1:37174
+Sep 13 15:49 : client: [0] closed
+Sep 13 17:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 17:18 : config: option 'device' on line 209 was not recognized
+Sep 13 17:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 13 17:18 : client: [0] opened from 127.0.0.1:57332
+Sep 13 21:18 : client: [0] closed
+Sep 13 21:18 : avahi: Client Disconnected, will reconnect shortly
+Sep 13 22:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 22:23 : config: option 'device' on line 209 was not recognized
+Sep 13 22:23 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 13 22:23 : client: [0] opened from 127.0.0.1:53162
+Sep 13 23:22 : client: [0] closed
+Sep 13 23:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 13 23:46 : config: option 'device' on line 209 was not recognized
+Sep 13 23:46 : client: [0] opened from 127.0.0.1:59882
+Sep 13 23:46 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 14 00:47 : client: [0] closed
+Sep 14 08:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 08:47 : config: option 'device' on line 209 was not recognized
+Sep 14 08:47 : client: [0] opened from 127.0.0.1:37654
+Sep 14 08:47 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 14 13:51 : client: [0] closed
+Sep 14 14:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 14:56 : config: option 'device' on line 209 was not recognized
+Sep 14 14:56 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 14 14:56 : client: [0] opened from 127.0.0.1:53420
+Sep 14 16:32 : client: [0] closed
+Sep 14 22:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 22:22 : config: option 'device' on line 209 was not recognized
+Sep 14 22:22 : client: [0] opened from 127.0.0.1:56890
+Sep 14 22:22 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 14 23:46 : client: [0] closed
+Sep 15 09:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 09:28 : config: option 'device' on line 209 was not recognized
+Sep 15 09:28 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 15 09:28 : client: [0] opened from 127.0.0.1:54822
+Sep 15 10:34 : client: [1] opened from 127.0.0.1:55992
+Sep 15 10:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 10:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 10:40 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - DON'T EVER FORGET - Orchestral Remix.mp3"
+Sep 15 10:40 : exception: Not playing
+Sep 15 10:44 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - NORTHERN DESERT - Orchestral Remix.mp3"
+Sep 15 10:45 : client: [1] closed
+Sep 15 10:45 : client: [0] closed
+Sep 15 20:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 20:19 : config: option 'device' on line 209 was not recognized
+Sep 15 20:19 : client: [0] opened from 127.0.0.1:44680
+Sep 15 20:19 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 16 00:25 : client: [0] closed
+Sep 16 11:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 11:18 : config: option 'device' on line 209 was not recognized
+Sep 16 11:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 16 11:18 : client: [0] opened from 127.0.0.1:44016
+Sep 16 14:18 : client: [0] closed
+Sep 16 14:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 14:32 : config: option 'device' on line 209 was not recognized
+Sep 16 14:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 16 14:32 : client: [0] opened from 127.0.0.1:35258
+Sep 16 15:45 : client: [0] closed
+Sep 16 17:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 17:34 : config: option 'device' on line 209 was not recognized
+Sep 16 17:34 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 16 17:34 : client: [0] opened from 127.0.0.1:32948
+Sep 16 21:45 : client: [0] closed
+Sep 16 23:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 23:07 : config: option 'device' on line 209 was not recognized
+Sep 16 23:07 : client: [0] opened from 127.0.0.1:56356
+Sep 16 23:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 16 23:53 : client: [0] closed
+Sep 17 08:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 17 08:32 : config: option 'device' on line 209 was not recognized
+Sep 17 08:32 : client: [0] opened from 127.0.0.1:41376
+Sep 17 08:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 17 12:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 17 12:41 : config: option 'device' on line 209 was not recognized
+Sep 17 12:41 : client: [0] opened from 127.0.0.1:59932
+Sep 17 12:41 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 17 12:45 : client: [1] opened from 127.0.0.1:60038
+Sep 17 12:46 : client: [1] closed
+Sep 17 12:46 : client: [2] opened from 127.0.0.1:60074
+Sep 17 13:32 : client: [2] closed
+Sep 17 15:35 : client: [0] closed
+Sep 17 20:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 17 20:34 : config: option 'device' on line 209 was not recognized
+Sep 17 20:34 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 17 20:34 : client: [0] opened from 127.0.0.1:56134
+Sep 17 21:48 : client: [0] closed
+Sep 17 23:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 17 23:56 : config: option 'device' on line 209 was not recognized
+Sep 17 23:56 : client: [0] opened from 127.0.0.1:54030
+Sep 17 23:56 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 18 00:27 : client: [0] closed
+Sep 18 11:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 11:07 : config: option 'device' on line 209 was not recognized
+Sep 18 11:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 18 11:07 : client: [0] opened from 127.0.0.1:49800
+Sep 18 12:01 : client: [0] closed
+Sep 18 13:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 13:10 : config: option 'device' on line 209 was not recognized
+Sep 18 13:10 : client: [0] opened from 127.0.0.1:37922
+Sep 18 13:10 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 18 14:20 : client: [0] closed
+Sep 18 14:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 14:36 : config: option 'device' on line 209 was not recognized
+Sep 18 14:36 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 18 14:36 : client: [0] opened from 127.0.0.1:40214
+Sep 18 15:44 : client: [0] closed
+Sep 18 18:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 18:39 : config: option 'device' on line 209 was not recognized
+Sep 18 18:39 : client: [0] opened from 127.0.0.1:48666
+Sep 18 18:39 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 18 18:46 : client: [0] closed
+Sep 19 11:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 19 11:51 : config: option 'device' on line 209 was not recognized
+Sep 19 11:51 : client: [0] opened from 127.0.0.1:47034
+Sep 19 11:51 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 19 11:51 : client: [1] opened from 127.0.0.1:47038
+Sep 19 11:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 19 11:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 19 11:52 : client: [1] closed
+Sep 19 11:52 : client: [2] opened from 127.0.0.1:47050
+Sep 19 11:56 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Sep 19 12:40 : player: played "Daoko/Thank You Blue/Disc 1/03. Juicy.mp3"
+Sep 19 12:53 : player: played "Daoko/Thank You Blue/Disc 1/04. さみしいかみさま.mp3"
+Sep 19 13:17 : player: played "H△G/声 ~VOCALOID Cover Album~/14. 声.mp3"
+Sep 19 13:21 : player: played "HoneyWorks/HKUM2-M/06 The Bandits.mp3"
+Sep 19 13:27 : player: played "Aimer/Sun Dance (Album)/09 SUN DANCE.mp3"
+Sep 19 13:30 : player: played "Primary x yuiko/[2016.12.31] (C91) Primary - イノセンス Depressing/01 イノセンス.flac"
+Sep 19 13:34 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/07. yuiko — 傷口.mp3"
+Sep 19 13:40 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/07. 雲と幽霊.mp3"
+Sep 19 13:44 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/10. Orarion.mp3"
+Sep 19 13:48 : player: played "HoneyWorks/HKUM3-M/02 竹取オーバーナイトセンセーション.mp3"
+Sep 19 13:51 : player: played "HoneyWorks/HKUM5-M/07 未来図.mp3"
+Sep 19 13:55 : player: played "H△G/声 ~VOCALOID Cover Album~/12. ティーンエイジ・ネクラポップ.mp3"
+Sep 19 13:59 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/6. petit bonheur.flac"
+Sep 19 14:04 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/06. 靴の花火.mp3"
+Sep 19 14:09 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/01 Watashi Idol Sengen.mp3"
+Sep 19 14:14 : player: played "H△G/声 ~VOCALOID Cover Album~/01. 心拍数#0822.mp3"
+Sep 19 14:18 : player: played "Daoko/Thank You Blue/Disc 2/05. okay!.mp3"
+Sep 19 14:21 : player: played "Sana/Sana x Honeyworks - Suki na Hito/01 - 未来図.mp3"
+Sep 19 23:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 19 23:42 : config: option 'device' on line 209 was not recognized
+Sep 19 23:42 : client: [0] opened from 127.0.0.1:49140
+Sep 19 23:42 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 20 00:16 : client: [0] closed
+Sep 20 11:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 11:07 : config: option 'device' on line 209 was not recognized
+Sep 20 11:07 : client: [0] opened from 127.0.0.1:51612
+Sep 20 11:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 20 12:57 : client: [0] closed
+Sep 20 14:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 14:59 : config: option 'device' on line 209 was not recognized
+Sep 20 14:59 : client: [0] opened from 127.0.0.1:39992
+Sep 20 14:59 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 20 15:41 : client: [0] closed
+Sep 20 17:26 : config: option 'device' on line 209 was not recognized
+Sep 20 17:26 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 20 17:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 17:26 : client: [0] opened from 127.0.0.1:45522
+Sep 20 18:23 : client: [0] closed
+Sep 20 18:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 18:43 : config: option 'device' on line 209 was not recognized
+Sep 20 18:43 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 20 18:43 : client: [0] opened from 127.0.0.1:59446
+Sep 20 22:57 : client: [0] closed
+Sep 20 22:57 : avahi: Client Disconnected, will reconnect shortly
+Sep 20 23:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 23:54 : config: option 'device' on line 209 was not recognized
+Sep 20 23:54 : client: [0] opened from 127.0.0.1:51496
+Sep 20 23:54 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 20 23:54 : client: [1] opened from 127.0.0.1:51502
+Sep 20 23:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 23:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 20 23:59 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Sep 21 00:04 : player: played "soraru/Wonder (Album)/06 Eureka.mp3"
+Sep 21 00:06 : player: played "Sana/Sana x Honeyworks - Suki na Hito/09 - ロリババアに恋をした.mp3"
+Sep 21 00:11 : player: played "Daoko/Thank You Blue/Disc 2/04. ぼく (Re-Arrange).mp3"
+Sep 21 00:15 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/5. 小さな甘い恋.flac"
+Sep 21 00:20 : player: played "Primary x yuiko/Seven'th Color/01. Primary world.mp3"
+Sep 21 00:21 : client: [1] closed
+Sep 21 00:21 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Sep 21 00:21 : client: [0] closed
+Sep 21 00:21 : player: played "Daoko/Thank You Blue/Disc 2/02. 歌舞伎町の女王.mp3"
+Sep 21 09:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 21 09:26 : config: option 'device' on line 209 was not recognized
+Sep 21 09:26 : client: [0] opened from 127.0.0.1:56058
+Sep 21 09:26 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 21 13:52 : client: [0] closed
+Sep 21 14:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 21 14:11 : config: option 'device' on line 209 was not recognized
+Sep 21 14:11 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 21 14:11 : client: [0] opened from 127.0.0.1:44172
+Sep 21 14:11 : client: [1] opened from 127.0.0.1:44184
+Sep 21 14:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 21 14:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 21 14:11 : client: [2] opened from 127.0.0.1:44194
+Sep 21 14:11 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Sep 21 14:12 : client: [2] closed
+Sep 21 14:12 : client: [1] closed
+Sep 21 14:16 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Sep 21 14:19 : client: [3] opened from 127.0.0.1:44346
+Sep 21 14:20 : player: played "Yunomi/ゆのみっくにお茶して EP/02. 明けない夜、醒めない夢.mp3"
+Sep 21 14:23 : player: played "HoneyWorks/HKUM3-M/10 Break Through.mp3"
+Sep 21 14:29 : player: played "fhána/Outside of Melancholy/13. 星屑のインターリュード.mp3"
+Sep 21 14:33 : player: played "Primary x yuiko/STRUGGLES - ひとつの願い/01. STRUGGLES.mp3"
+Sep 21 14:38 : player: played "H△G/A Place in the Sun (Album)/03 Nazuna.mp3"
+Sep 21 14:42 : player: played "Daoko/Thank You Blue/Disc 2/05. okay!.mp3"
+Sep 21 14:46 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/13. Yoru Tenmaku.mp3"
+Sep 21 14:51 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/16. yuiko — Butterfly.mp3"
+Sep 21 14:54 : player: played "HoneyWorks/HKUM4-M/02 ヤキモチの答え.mp3"
+Sep 21 14:58 : player: played "soraru/Wonder (Album)/02 I Fake Me.mp3"
+Sep 21 15:02 : player: played "HoneyWorks/HKUM3-M/13 道名津 (HoneyWorks REMIX).mp3"
+Sep 21 15:06 : player: played "Yunomi/ゆのみっくにお茶して EP/01. ゆのみっくにお茶して.mp3"
+Sep 21 15:11 : player: played "Sana/Sana x Honeyworks - Suki na Hito/08 - イノコリ先生.mp3"
+Sep 21 15:16 : player: played "HoneyWorks/HKUM4-M/16 ロクベル（Acoustic arrangement）.mp3"
+Sep 21 15:20 : player: played "REOL/REOL – Gokusaishoku (1st Album)/16. 染.mp3"
+Sep 21 15:25 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/13. Satoudama no Tsuki.mp3"
+Sep 21 15:30 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/15. Vidro Moyou.mp3"
+Sep 21 15:44 : player: played "Really Slow Motion/Elevation (Album)/01 Aligning Hearts.mp3"
+Sep 21 15:48 : player: played "Really Slow Motion/Elevation (Album)/01 Aligning Hearts.mp3"
+Sep 21 15:53 : player: played "Gareth Meek Compositions/Edge of Phantasm/02 Force of Will.mp3"
+Sep 21 15:56 : player: played "Really Slow Motion/Elevation (Album)/09 Eternal Courage.mp3"
+Sep 21 16:00 : player: played "Gareth Meek Compositions/Edge of Phantasm/09 Broken World.mp3"
+Sep 21 16:04 : player: played "Gareth Meek Compositions/Edge of Phantasm/01 Edge of Phantasm.mp3"
+Sep 21 16:07 : player: played "Really Slow Motion/Elevation (Album)/06 Zion.mp3"
+Sep 21 16:18 : player: played "Evergreen/Somnium - 2015-12-31 - 波が涙になって [C89] [MP3 320]/08. 決戰 ~Decisive Battle~.mp3"
+Sep 21 16:23 : player: played "Gareth Meek Compositions/Edge of Phantasm/04 The Horizon is Scarlet.mp3"
+Sep 21 16:28 : player: played "Fearless Motivation/Sounds of Power/13. Past and Future (Epic Instrumental).mp3"
+Sep 21 16:32 : player: played "Gareth Meek Compositions/Edge of Phantasm/03 Those Who Rend Asunder.mp3"
+Sep 21 16:35 : player: played "Fearless Motivation/Sounds of Power/10. The Key (Epic Instrumental).mp3"
+Sep 21 16:38 : player: played "Really Slow Motion/Elevation (Album)/08 Hero.mp3"
+Sep 21 16:41 : player: played "Fearless Motivation/Sounds of Power/08. I Made It (Epic Instrumental).mp3"
+Sep 21 16:42 : player: played "Really Slow Motion/Elevation (Album)/05 Cascade of Emotions.mp3"
+Sep 21 16:47 : player: played "Fearless Motivation/Sounds of Power/04. Your Why (Epic Instrumental).mp3"
+Sep 21 16:52 : player: played "Evergreen/Somnium - 2015-12-31 - 波が涙になって [C89] [MP3 320]/02. 誕生 ~Awake~.mp3"
+Sep 21 16:55 : client: [3] closed
+Sep 21 16:55 : client: [0] closed
+Sep 21 16:55 : player: played "Really Slow Motion/Elevation (Album)/10 The Birth of a Soul.mp3"
+Sep 22 09:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 09:28 : config: option 'device' on line 209 was not recognized
+Sep 22 09:28 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 22 09:28 : client: [0] opened from 127.0.0.1:33418
+Sep 22 13:23 : client: [0] closed
+Sep 22 13:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 22 13:26 : config: option 'device' on line 209 was not recognized
+Sep 22 13:26 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 22 13:26 : client: [0] opened from 127.0.0.1:45180
+Sep 22 14:13 : client: [0] closed
+Sep 23 11:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 23 11:59 : config: option 'device' on line 209 was not recognized
+Sep 23 11:59 : client: [0] opened from 127.0.0.1:57236
+Sep 23 11:59 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 23 12:02 : client: [1] opened from 127.0.0.1:57366
+Sep 23 12:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 23 12:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 23 12:02 : client: [1] closed
+Sep 23 12:03 : client: [2] opened from 127.0.0.1:57382
+Sep 23 12:03 : player: played "ARForest/Coloridium/01. CoLOLar.mp3"
+Sep 23 12:03 : client: [2] closed
+Sep 23 12:06 : player: played "Symphonic Xizer/SymphonicXize-002/08. Unscientific blue.mp3"
+Sep 23 12:09 : player: played "Various Artists/Artifacts_of_Artcore/Thaumatological Artifact,No.0039.mp3"
+Sep 23 12:12 : client: [3] opened from 127.0.0.1:57654
+Sep 23 12:28 : player: played "NiZi RiNGO/Ne_nuit/09. Parodia Sonatina.mp3"
+Sep 23 12:33 : player: played "NiZi RiNGO/Athenarium/06. 祭.mp3"
+Sep 23 12:36 : player: played "NiZi RiNGO/Ne_nuit/03. Paroles.mp3"
+Sep 23 12:40 : player: played "NiZi RiNGO/Ne_nuit/10. nightfall (full ver).mp3"
+Sep 23 12:43 : player: played "NiZi RiNGO/Athenarium/09. 百九十.mp3"
+Sep 23 12:47 : player: played "NiZi RiNGO/Athenarium/05. 霜月.mp3"
+Sep 23 12:49 : client: [3] closed
+Sep 23 12:49 : client: [4] opened from 127.0.0.1:58002
+Sep 23 12:49 : player: played "NiZi RiNGO/Ne_nuit/06. sparkling illumination.mp3"
+Sep 23 12:53 : player: played "Blazo/Alone Journey/14. Through The Way (feat. 2 Mo' Key Of Stilla-Mode).mp3"
+Sep 23 13:56 : client: [4] closed
+Sep 23 13:56 : client: [0] closed
+Sep 23 13:56 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/08. Late Blossom.mp3"
+Sep 23 14:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 23 14:36 : config: option 'device' on line 209 was not recognized
+Sep 23 14:36 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 23 14:36 : client: [0] opened from 127.0.0.1:44216
+Sep 23 15:43 : client: [0] closed
+Sep 23 17:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 23 17:25 : config: option 'device' on line 209 was not recognized
+Sep 23 17:25 : client: [0] opened from 127.0.0.1:50664
+Sep 23 17:25 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 23 22:00 : client: [1] opened from 127.0.0.1:51426
+Sep 23 22:00 : update: added bohemianvoodoo/Echoes (Album)/01 Chill Out.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Echoes (Album)/02 Get Dressed Up.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Echoes (Album)/03 Nomad.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Echoes (Album)/04 Ishi No Kyoukai.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Echoes (Album)/05 El Ron Zacapa.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Echoes (Album)/06 A Peacock.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Echoes (Album)/07 Flyaway.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Echoes (Album)/08 Adria Blue.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Echoes (Album)/09 Aquarium.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Echoes (Album)/10 Lapis Lazuli.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/01 Ishinokyokai.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/02 Gypsy Funk.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/03 Once Upon a Moon.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/04 Theme of the Strollin'.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/05 Casa Batllo.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/06 A Seaside Hut.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/07 Anise.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/08 Painagama.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/09 Montage.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/10 Morning Glow.mp3
+Sep 23 22:00 : update: added bohemianvoodoo/Moments (Album)/11 The Moments.mp3
+Sep 23 22:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 23 22:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 23 22:07 : player: played "bohemianvoodoo/Echoes (Album)/01 Chill Out.mp3"
+Sep 23 22:16 : player: played "bohemianvoodoo/Echoes (Album)/02 Get Dressed Up.mp3"
+Sep 23 22:22 : player: played "bohemianvoodoo/Echoes (Album)/03 Nomad.mp3"
+Sep 23 22:28 : player: played "bohemianvoodoo/Echoes (Album)/04 Ishi No Kyoukai.mp3"
+Sep 23 22:33 : player: played "bohemianvoodoo/Echoes (Album)/05 El Ron Zacapa.mp3"
+Sep 23 22:39 : player: played "bohemianvoodoo/Echoes (Album)/06 A Peacock.mp3"
+Sep 23 22:45 : player: played "bohemianvoodoo/Echoes (Album)/07 Flyaway.mp3"
+Sep 23 22:51 : player: played "bohemianvoodoo/Echoes (Album)/08 Adria Blue.mp3"
+Sep 23 22:56 : player: played "bohemianvoodoo/Echoes (Album)/09 Aquarium.mp3"
+Sep 23 23:04 : player: played "bohemianvoodoo/Echoes (Album)/10 Lapis Lazuli.mp3"
+Sep 23 23:08 : player: played "bohemianvoodoo/Moments (Album)/01 Ishinokyokai.mp3"
+Sep 23 23:12 : player: played "bohemianvoodoo/Moments (Album)/02 Gypsy Funk.mp3"
+Sep 23 23:27 : player: played "The Chainsmokers/The Chainsmokers - Something Just Like This/1 - The Chainsmokers - Something Just Like This.mp3"
+Sep 23 23:32 : player: played "The Script/#3 (Album)/06 Give the Love Around.mp3"
+Sep 23 23:36 : player: played "OneRepublic/Dreaming Out Loud (Album)/08 Prodigal (Album Version).mp3"
+Sep 23 23:40 : player: played "Tristam & Braken/Frame of Mind (Single)/01 Frame of Mind.mp3"
+Sep 23 23:44 : player: played "OneRepublic/Dreaming Out Loud (Album)/04 Apologize (Album Version).mp3"
+Sep 23 23:48 : player: played "The Script/The Script (Album)/10 I'm Yours.mp3"
+Sep 23 23:52 : player: played "OneRepublic/Dreaming Out Loud (Album)/02 Mercy (Album Version).mp3"
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/01 You Won't Feel a Thing.mp3
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/02 For the First Time.mp3
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/03 Nothing.mp3
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/04 Science & Faith.mp3
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/05 If You Ever Come Back.mp3
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/06 Long Gone and Moved On.mp3
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/07 Dead Man Walking.mp3
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/08 This = Love.mp3
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/10 Exit Wounds.mp3
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/11 Bullet From A Gun.mp3
+Sep 23 23:55 : update: added The Script/Science & Faith (Album)/12 Walk Away.mp3
+Sep 23 23:55 : exception: Playlist already exists
+Sep 24 00:00 : player: played "The Script/Science & Faith (Album)/02 For the First Time.mp3"
+Sep 24 00:03 : player: played "The Script/#3 (Album)/10 Millionaires.mp3"
+Sep 24 00:03 : client: [1] closed
+Sep 24 00:03 : client: [2] opened from 127.0.0.1:53132
+Sep 24 00:03 : player: played "OneRepublic/Native (Album)/09 Au Revoir.mp3"
+Sep 24 00:03 : client: [2] closed
+Sep 24 00:03 : client: [0] closed
+Sep 24 10:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 24 10:42 : config: option 'device' on line 209 was not recognized
+Sep 24 10:42 : client: [0] opened from 127.0.0.1:57458
+Sep 24 10:42 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 24 14:59 : client: [1] opened from 127.0.0.1:60114
+Sep 24 14:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 24 14:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 24 14:59 : client: [1] closed
+Sep 24 15:03 : player: played "The Chainsmokers/The Chainsmokers - Something Just Like This/1 - The Chainsmokers - Something Just Like This.mp3"
+Sep 24 15:07 : player: played "Maroon 5/Maroon 5 - Overexposed/1 - Maroon 5 - One More Night.mp3"
+Sep 24 15:11 : player: played "Maroon 5/Maroon 5 - Overexposed/2 - Maroon 5 - Payphone.mp3"
+Sep 24 15:14 : player: played "Maroon 5/Maroon 5 - Overexposed/3 - Maroon 5 - Daylight.mp3"
+Sep 24 15:18 : player: played "Maroon 5/Maroon 5 - Overexposed/4 - Maroon 5 - Lucky Strike.mp3"
+Sep 24 15:21 : player: played "Maroon 5/Maroon 5 - Overexposed/5 - Maroon 5 - The Man Who Never Lied.mp3"
+Sep 24 15:25 : player: played "Maroon 5/Maroon 5 - Overexposed/6 - Maroon 5 - Love Somebody.mp3"
+Sep 24 15:27 : player: played "Maroon 5/Maroon 5 - Overexposed/7 - Maroon 5 - Ladykiller.mp3"
+Sep 24 15:31 : player: played "Maroon 5/Maroon 5 - Overexposed/8 - Maroon 5 - Fortune Teller.mp3"
+Sep 24 15:34 : player: played "Maroon 5/Maroon 5 - Overexposed/9 - Maroon 5 - Sad.mp3"
+Sep 24 15:34 : client: [2] opened from 127.0.0.1:60760
+Sep 24 15:38 : player: played "OneRepublic/Native (Album)/11 Something I Need.mp3"
+Sep 24 15:42 : player: played "Maroon 5/Maroon 5 - Overexposed/3 - Maroon 5 - Daylight.mp3"
+Sep 24 15:46 : player: played "OneRepublic/Dreaming Out Loud (Album)/06 All Fall Down (Album Version).mp3"
+Sep 24 15:49 : player: played "OneRepublic/Dreaming Out Loud (Album)/11 Someone To Save You (Album Version).mp3"
+Sep 24 15:49 : client: [2] closed
+Sep 24 15:50 : client: [0] closed
+Sep 24 23:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 24 23:49 : config: option 'device' on line 209 was not recognized
+Sep 24 23:49 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 24 23:49 : client: [0] opened from 127.0.0.1:34936
+Sep 25 00:15 : client: [0] closed
+Sep 25 11:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 11:08 : config: option 'device' on line 209 was not recognized
+Sep 25 11:08 : client: [0] opened from 127.0.0.1:47646
+Sep 25 11:08 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 25 12:07 : client: [0] closed
+Sep 25 12:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 12:23 : config: option 'device' on line 209 was not recognized
+Sep 25 12:23 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 25 12:23 : client: [0] opened from 127.0.0.1:52102
+Sep 25 14:18 : client: [0] closed
+Sep 25 14:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 14:33 : config: option 'device' on line 209 was not recognized
+Sep 25 14:33 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 25 14:33 : client: [0] opened from 127.0.0.1:44600
+Sep 25 15:45 : client: [0] closed
+Sep 25 23:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 25 23:05 : config: option 'device' on line 209 was not recognized
+Sep 25 23:05 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 25 23:05 : client: [0] opened from 127.0.0.1:34030
+Sep 25 23:16 : client: [0] closed
+Sep 27 11:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 11:07 : config: option 'device' on line 209 was not recognized
+Sep 27 11:07 : client: [0] opened from 127.0.0.1:54080
+Sep 27 11:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 27 14:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 14:02 : config: option 'device' on line 209 was not recognized
+Sep 27 14:02 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 27 14:02 : client: [0] opened from 127.0.0.1:37702
+Sep 27 15:29 : client: [0] closed
+Sep 27 15:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 15:49 : config: option 'device' on line 209 was not recognized
+Sep 27 15:49 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 27 15:49 : client: [0] opened from 127.0.0.1:37974
+Sep 28 01:22 : client: [0] closed
+Sep 28 09:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 28 09:49 : config: option 'device' on line 209 was not recognized
+Sep 28 09:49 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 28 09:49 : client: [0] opened from 127.0.0.1:55296
+Sep 28 15:50 : client: [1] opened from 127.0.0.1:58800
+Sep 28 15:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 28 15:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 28 15:54 : player: played "The Chainsmokers/The Chainsmokers - Something Just Like This/1 - The Chainsmokers - Something Just Like This.mp3"
+Sep 28 15:57 : player: played "Tove Styrke/Sway (Album)/01 Sway.mp3"
+Sep 28 16:01 : player: played "OneRepublic/Native (Album)/14 Life In Color.mp3"
+Sep 28 16:04 : player: played "The Script/The Script (Album)/06 Rusty Halo.mp3"
+Sep 28 16:07 : player: played "The Script/#3 (Album)/10 Millionaires.mp3"
+Sep 28 16:11 : player: played "Maroon 5/Maroon 5 - Overexposed/8 - Maroon 5 - Fortune Teller.mp3"
+Sep 28 16:15 : player: played "The Script/Science & Faith (Album)/10 Exit Wounds.mp3"
+Sep 28 16:19 : player: played "The Script/Science & Faith (Album)/11 Bullet From A Gun.mp3"
+Sep 28 16:22 : player: played "The Script/#3 (Album)/08 Kaleidoscope.mp3"
+Sep 28 16:26 : player: played "OneRepublic/Dreaming Out Loud (Album)/05 Goodbye Apathy (Album Version).mp3"
+Sep 28 16:29 : player: played "OneRepublic/Dreaming Out Loud (Album)/04 Apologize (Album Version).mp3"
+Sep 28 16:33 : player: played "Maroon 5/Maroon 5 - Overexposed/11 - Maroon 5 - Doin’ Dirt.mp3"
+Sep 28 16:36 : player: played "The Script/#3 (Album)/04 If You Could See Me Now.mp3"
+Sep 28 16:40 : player: played "The Script/The Script (Album)/04 The Man Who Can't Be Moved.mp3"
+Sep 28 16:44 : player: played "OneRepublic/Dreaming Out Loud (Album)/13 Apologize.mp3"
+Sep 28 16:48 : player: played "Tristam & Braken/The Vine (Single)/01 The Vine.mp3"
+Sep 28 16:52 : player: played "OneRepublic/Dreaming Out Loud (Album)/12 Come Home (Album Version).mp3"
+Sep 28 16:55 : player: played "Vanic/Samurai (Single)/01 Samurai.mp3"
+Sep 28 17:00 : player: played "The Script/#3 (Album)/01 Good Ol' Days.mp3"
+Sep 28 17:02 : client: [1] closed
+Sep 28 17:02 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Sep 28 17:02 : client: [0] closed
+Sep 28 17:02 : player: played "The Script/Science & Faith (Album)/05 If You Ever Come Back.mp3"
+Sep 29 22:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 29 22:31 : config: option 'device' on line 209 was not recognized
+Sep 29 22:31 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 29 22:31 : client: [0] opened from 127.0.0.1:46684
+Sep 30 00:09 : client: [1] opened from 127.0.0.1:47622
+Sep 30 00:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 00:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 00:14 : player: played "OneRepublic/Dreaming Out Loud (Album)/07 Tyrant (Album Version).mp3"
+Sep 30 00:19 : player: played "OneRepublic/Dreaming Out Loud (Album)/09 Won't Stop (Album Version).mp3"
+Sep 30 00:23 : player: played "OneRepublic/Native (Album)/02 Love Runs Out.mp3"
+Sep 30 00:27 : player: played "The Script/Science & Faith (Album)/07 Dead Man Walking.mp3"
+Sep 30 00:31 : player: played "The Script/Science & Faith (Album)/11 Bullet From A Gun.mp3"
+Sep 30 00:35 : player: played "OneRepublic/Dreaming Out Loud (Album)/10 All We Are (Album Version).mp3"
+Sep 30 00:38 : player: played "The Script/#3 (Album)/03 Hall of Fame.mp3"
+Sep 30 00:42 : player: played "OneRepublic/Native (Album)/06 I Lived.mp3"
+Sep 30 00:46 : player: played "The Script/The Script (Album)/02 Before the Worst.mp3"
+Sep 30 00:49 : player: played "OneRepublic/Dreaming Out Loud (Album)/05 Goodbye Apathy (Album Version).mp3"
+Sep 30 00:54 : player: played "The Script/#3 (Album)/01 Good Ol' Days.mp3"
+Sep 30 00:56 : client: [1] closed
+Sep 30 00:58 : client: [0] closed
+Sep 30 00:58 : player: played "OneRepublic/Dreaming Out Loud (Album)/02 Mercy (Album Version).mp3"
+Sep 30 11:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 11:17 : config: option 'device' on line 209 was not recognized
+Sep 30 11:17 : client: [0] opened from 127.0.0.1:33054
+Sep 30 11:17 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 30 11:18 : client: [1] opened from 127.0.0.1:33058
+Sep 30 11:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 11:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 11:24 : player: played "OneRepublic/Dreaming Out Loud (Album)/10 All We Are (Album Version).mp3"
+Sep 30 11:28 : player: played "The Script/Science & Faith (Album)/08 This = Love.mp3"
+Sep 30 11:32 : player: played "Maroon 5/Maroon 5 - Overexposed/11 - Maroon 5 - Doin’ Dirt.mp3"
+Sep 30 11:36 : player: played "The Script/The Script (Album)/08 Fall for Anything.mp3"
+Sep 30 11:40 : player: played "Tove Styrke/Borderline (Vanic Remix) (Single)/01 Borderline (Vanic Remix).mp3"
+Sep 30 11:44 : player: played "OneRepublic/Native (Album)/12 Preacher.mp3"
+Sep 30 11:48 : player: played "Maroon 5/Maroon 5 - Overexposed/3 - Maroon 5 - Daylight.mp3"
+Sep 30 11:52 : player: played "The Script/Science & Faith (Album)/12 Walk Away.mp3"
+Sep 30 11:55 : player: played "The Script/#3 (Album)/03 Hall of Fame.mp3"
+Sep 30 11:59 : player: played "OneRepublic/Dreaming Out Loud (Album)/11 Someone To Save You (Album Version).mp3"
+Sep 30 12:03 : player: played "Vanic/Samurai (Single)/01 Samurai.mp3"
+Sep 30 12:07 : player: played "The Script/#3 (Album)/07 Broken Arrow.mp3"
+Sep 30 12:11 : player: played "OneRepublic/Native (Album)/03 If I Lose Myself.mp3"
+Sep 30 12:15 : player: played "OneRepublic/Native (Album)/14 Life In Color.mp3"
+Sep 30 12:18 : player: played "Maroon 5/Maroon 5 - Overexposed/10 - Maroon 5 - Tickets.mp3"
+Sep 30 12:22 : player: played "Maroon 5/Maroon 5 - Overexposed/1 - Maroon 5 - One More Night.mp3"
+Sep 30 12:27 : player: played "OneRepublic/Dreaming Out Loud (Album)/09 Won't Stop (Album Version).mp3"
+Sep 30 12:30 : player: played "The Script/The Script (Album)/09 If You See Kay.mp3"
+Sep 30 12:34 : player: played "Maroon 5/Maroon 5 - Overexposed/8 - Maroon 5 - Fortune Teller.mp3"
+Sep 30 12:38 : player: played "OneRepublic/Dreaming Out Loud (Album)/02 Mercy (Album Version).mp3"
+Sep 30 12:41 : player: played "Tove Styrke/Sway (Album)/07 On a Level.mp3"
+Sep 30 12:45 : player: played "The Script/The Script (Album)/10 I'm Yours.mp3"
+Sep 30 12:48 : player: played "OneRepublic/Native (Album)/04 Feel Again.mp3"
+Sep 30 12:52 : player: played "OneRepublic/Native (Album)/05 What You Wanted.mp3"
+Sep 30 12:54 : player: played "OneRepublic/Native (Album)/13 Don't Look Down.mp3"
+Sep 30 12:57 : player: played "Maroon 5/Maroon 5 - Overexposed/7 - Maroon 5 - Ladykiller.mp3"
+Sep 30 13:00 : player: played "The Script/The Script (Album)/06 Rusty Halo.mp3"
+Sep 30 13:04 : player: played "The Script/The Script (Album)/04 The Man Who Can't Be Moved.mp3"
+Sep 30 13:08 : player: played "OneRepublic/Dreaming Out Loud (Album)/04 Apologize (Album Version).mp3"
+Sep 30 13:11 : player: played "The Script/The Script (Album)/02 Before the Worst.mp3"
+Sep 30 13:15 : player: played "OneRepublic/Native (Album)/08 Can’t Stop.mp3"
+Sep 30 13:20 : player: played "OneRepublic/Dreaming Out Loud (Album)/12 Come Home (Album Version).mp3"
+Sep 30 13:23 : player: played "The Script/#3 (Album)/10 Millionaires.mp3"
+Sep 30 13:26 : player: played "Steve Aoki/Just Hold On (Single)/01 Just Hold On.mp3"
+Sep 30 13:30 : player: played "Tristam & Braken/The Vine (Single)/01 The Vine.mp3"
+Sep 30 13:34 : player: played "Maroon 5/Maroon 5 - Overexposed/2 - Maroon 5 - Payphone.mp3"
+Sep 30 13:38 : player: played "Tove Styrke/Sway (Album)/02 Say My Name.mp3"
+Sep 30 13:41 : player: played "Tove Styrke/Sway (Album)/05 Changed My Mind.mp3"
+Sep 30 13:45 : player: played "OneRepublic/Native (Album)/01 Counting Stars.mp3"
+Sep 30 13:49 : player: played "OneRepublic/Native (Album)/07 Light It Up.mp3"
+Sep 30 13:53 : player: played "OneRepublic/Dreaming Out Loud (Album)/03 Stop And Stare (Album Version).mp3"
+Sep 30 13:57 : player: played "Maroon 5/Maroon 5 - Overexposed/12 - Maroon 5 - Beautiful Goodbye.mp3"
+Sep 30 14:01 : player: played "OneRepublic/Native (Album)/11 Something I Need.mp3"
+Sep 30 14:06 : player: played "OneRepublic/Native (Album)/09 Au Revoir.mp3"
+Sep 30 14:10 : player: played "The Script/The Script (Album)/01 We Cry.mp3"
+Sep 30 14:14 : player: played "The Script/Science & Faith (Album)/07 Dead Man Walking.mp3"
+Sep 30 14:14 : client: [1] closed
+Sep 30 14:14 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Sep 30 14:14 : client: [0] closed
+Sep 30 14:14 : player: played "The Script/Science & Faith (Album)/02 For the First Time.mp3"
+Sep 30 14:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 14:33 : config: option 'device' on line 209 was not recognized
+Sep 30 14:33 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 30 14:33 : client: [0] opened from 127.0.0.1:37886
+Sep 30 15:39 : client: [0] closed
+Sep 30 18:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 18:15 : config: option 'device' on line 209 was not recognized
+Sep 30 18:15 : client: [0] opened from 127.0.0.1:40142
+Sep 30 18:15 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 30 18:16 : client: [1] opened from 127.0.0.1:40152
+Sep 30 18:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 18:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 18:20 : player: played "The Chainsmokers/The Chainsmokers - Something Just Like This/1 - The Chainsmokers - Something Just Like This.mp3"
+Sep 30 18:20 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Sep 30 18:20 : client: [2] opened from 127.0.0.1:40264
+Sep 30 20:04 : player: played "The Script/Science & Faith (Album)/08 This = Love.mp3"
+Sep 30 20:08 : player: played "Maroon 5/Maroon 5 - Overexposed/6 - Maroon 5 - Love Somebody.mp3"
+Sep 30 20:12 : player: played "OneRepublic/Native (Album)/08 Can’t Stop.mp3"
+Sep 30 20:15 : player: played "Maroon 5/Maroon 5 - Overexposed/5 - Maroon 5 - The Man Who Never Lied.mp3"
+Sep 30 20:16 : client: [1] closed
+Sep 30 20:16 : client: [2] closed
+Sep 30 20:16 : client: [0] closed
+Sep 30 20:16 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Sep 30 20:16 : avahi: Client Disconnected, will reconnect shortly
+Sep 30 20:16 : player: played "OneRepublic/Dreaming Out Loud (Album)/11 Someone To Save You (Album Version).mp3"
+Sep 30 22:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 30 22:45 : config: option 'device' on line 209 was not recognized
+Sep 30 22:45 : client: [0] opened from 127.0.0.1:43452
+Sep 30 22:45 : avahi: Service 'Music Player @ zephyr' successfully established.

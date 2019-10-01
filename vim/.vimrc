@@ -6,11 +6,10 @@
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-source $HOME/.vim/vimrc.d/general.vim
-source $HOME/.vim/vimrc.d/plugins.vim
-source $HOME/.vim/vimrc.d/mappings.vim
-source $HOME/.vim/vimrc.d/interface.vim
-
+runtime! vimrc.d/general.vim
+runtime! vimrc.d/plugins.vim
+runtime! vimrc.d/mappings.vim
+runtime! vimrc.d/interface.vim
 
 
 

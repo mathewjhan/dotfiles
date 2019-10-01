@@ -13,26 +13,26 @@ export GOPATH="$HOME/go"
 export PATH="$HOME/go/bin:$PATH"
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
+export COLLEGE="/media/data/mathew/Home/College"
 export CS187="/media/data/mathew/Home/College/CS187"
 
 # Convenient aliases
 alias e="nvim"
 alias fm="vifm-ueberzug"
 alias mp="ncmpcpp"
-## View files
-vf(){
-    case $(sed 's/^\w\+.//' <<< $@) in
-        pdf)
-            zth "$@"
-            ;;
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias pls="sudo !!"
 
-    esac
-}
 ## Touch + edit
 te(){
     touch "$@"
     nvim "$@"
 }
+
+# School
+alias checkstyle="java -jar checkstyle-8.18-all.jar -c 187style.xml"
 
 # Connman
 #alias lsnet="connmanctl scan wifi && connmanctl services"
@@ -47,12 +47,6 @@ copynet(){
     nmcli -f SSID dev wifi | grep -m 1 "$@" | sed 's/^ *//;s/ *$//' | xclip -selection clipboard
 }
 alias lsnet="nmcli dev wifi"
-
-# Restart pulseaudio
-paudio-restart(){
-    pulseaudio -k
-    pulseaudio -D
-}
 
 # gpu switch modes (requires gpu-enable run already)
 mode-bumblebee(){
@@ -83,17 +77,11 @@ alias whalefetch="neofetch --ascii \"$(fortune -s | cowthink -W 30 -f whale)\" -
 alias wiki="wiki-search"
 alias wolfram="tungsten"
 alias temps="paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'"
-alias weather="curl wttr.in"
-
-alias ..="cd .."
-alias ...="cd ../.."
-alias ....="cd ../../.."
-alias pls="sudo !!"
 
 eval $(thefuck --alias fuck)
 
 # Fast configs
-alias vimrc="vim ~/.vimrc"
+alias vimrc="cd ~/.vim/vimrc.d && echo 'Changed directories to vimrc.d'"
 alias bashrc="vim ~/.bashrc && source ~/.bashrc && clear"
 alias zshrc="vim ~/.zshrc && source ~/.zshrc && clear"
 alias i3config="vim ~/.config/i3/config"
@@ -124,6 +112,9 @@ commit-dots(){
     git add .
     git commit -m "$@"  
 }
+
+# Clean pacman/yay cache
+alias clean-pkg="sudo paccache -r -k 1 && yay -Sc"
 
 ## ZSH SPECIFIC
 # vi mode
