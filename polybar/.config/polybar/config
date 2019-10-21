@@ -12,12 +12,12 @@ foreground = ${xrdb:color7:#222}
 background = ${xrdb:color0:#222}
 
 foreground-inverse = ${xrdb:color0:#222}
-background-inverse = ${xrdb:color5:#222}
+background-inverse = ${xrdb:color1:#222}
 
 foreground-faded = ${xrdb:color7:#222}
 background-raised = ${xrdb:color0:#222}
 
-foreground-prefix = ${xrdb:color5:#222}
+foreground-prefix = ${xrdb:color1:#222}
 underline-prefix = ${xrdb:color3:#222}
 
 warning = ${xrdb:color3:#222}
@@ -31,7 +31,7 @@ height = 33
 ;offset-x = 1%
 ;override-redirect = true
 
-fixed-center = false
+fixed-center = true 
 
 background = ${colors.background}
 foreground = ${colors.foreground}
@@ -48,19 +48,20 @@ padding-right = 0
 module-margin-left = 2
 module-margin-right = 0
 
-font-0 = inconsolata:pixelsize=12; 2
+font-0 = inconsolata:style=regular:pixelsize=11; 2
 font-1 = Font Awesome 5 Free:style=Solid:pixelsize=12; 2
 font-2 = Font Awesome 5 Free:style=Regular:pixelsize=12; 2
 font-3 = Font Awesome 5 Brands:pixelsize=12; 2
 font-4 = Font Awesome 5 Free:style=Solid:pixelsize=12; 2
 font-5 = hack:pixelsize=12; 2
 font-6 = Iosevka Nerd Font Mono:fontformat=truetype:size=14:antialias=true;3 
+font-7 = Noto Sans CJK JP:regular:pixelsize=11; 2
 
 ;enable-ipc = true
 
-modules-left = i3
-modules-center = xwindow 
-modules-right = battery cpu memory temp filesystem gap wifi eth gap music volume pulseaudio pulseaudio-tail gap date gap
+modules-left = i3 xwindow
+modules-center = music date 
+modules-right = battery cpu memory temp filesystem gap wifi eth gap volume pulseaudio pulseaudio-tail gap
 
 tray-position = none 
 tray-padding = 2
@@ -163,9 +164,9 @@ interval = 1
 [module/cpu]
 type = internal/cpu
 interval = 2
-format-prefix = ""
+format-prefix = " "
 format-prefix-foreground=${colors.foreground-prefix}
-label = %percentage:2%%
+label = %percentage:1%%
 
 [module/memory]
 type = internal/memory
@@ -188,7 +189,8 @@ interval = 3
 ; exec = "nmcli d show wlp59s0 | grep 'GENERAL.CONNECTION' | awk '{ print $2 }'"
 exec = "if [[ $(iwgetid -r) ]]; then iwgetid -r; else echo '---'; fi"
 
-click-left = exec nm-connection-editor 
+; click-left = exec nm-connection-editor 
+click-left = exec nmguish
 
 format-prefix = " "
 format-prefix-foreground = ${colors.foreground-prefix}
@@ -242,13 +244,20 @@ type = internal/date
 interval = 5
 
 date =
-date-alt = " %Y-%m-%d"
+date-alt = " %A | %B %e, %Y |"
+time = "%H:%M "
+time-alt = "%H:%M:%S "
 
-time = %H:%M
-time-alt = %H:%M:%S
+;format-prefix = ""
+format-prefix-foreground =
+;format-underline = #e6c9c4
 
-label = %date% %time%
+label =%date% %time%%{A} %{A}
+;label = %date% %time%'
+format-background =
+label-foreground = ${root.foreground}
 
+format-padding = 
 [module/pulseaudio-tail]
 type = custom/script
 exec = ~/.config/polybar/pulseaudio-tail.sh

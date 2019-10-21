@@ -10,6 +10,7 @@ export MUSIC="/media/data/mathew/Music"
 export LC_CTYPE=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export GOPATH="$HOME/go"
+export ANDROID_HOME="/opt/android-sdk"
 export PATH="$HOME/go/bin:$PATH"
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
@@ -23,7 +24,6 @@ alias mp="ncmpcpp"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
-alias pls="sudo !!"
 
 ## Touch + edit
 te(){
@@ -104,7 +104,7 @@ extract-all(){
 }
 
 # Theme spotify
-alias theme-spotify="oomoxify-cli -s /usr/share/spotify/Apps ~/.cache/wal/colors-oomox"
+alias theme-spotify="oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox"
 
 # Manage dots
 commit-dots(){

@@ -9006,3 +9006,414 @@ Sep 30 22:45 : exception: RTIOThread could not get realtime scheduling, continui
 Sep 30 22:45 : config: option 'device' on line 209 was not recognized
 Sep 30 22:45 : client: [0] opened from 127.0.0.1:43452
 Sep 30 22:45 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 30 23:31 : client: [0] closed
+Oct 01 09:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 09:15 : config: option 'device' on line 209 was not recognized
+Oct 01 09:15 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 01 09:15 : client: [0] opened from 127.0.0.1:39940
+Oct 01 12:43 : client: [1] opened from 127.0.0.1:42404
+Oct 01 12:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 12:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 12:48 : player: played "The Script/Science & Faith (Album)/05 If You Ever Come Back.mp3"
+Oct 01 12:52 : player: played "OneRepublic/Native (Album)/03 If I Lose Myself.mp3"
+Oct 01 12:55 : player: played "Maroon 5/Maroon 5 - Overexposed/6 - Maroon 5 - Love Somebody.mp3"
+Oct 01 12:59 : player: played "OneRepublic/Dreaming Out Loud (Album)/04 Apologize (Album Version).mp3"
+Oct 01 13:03 : player: played "The Script/#3 (Album)/02 Six Degrees of Separation.mp3"
+Oct 01 13:07 : player: played "OneRepublic/Native (Album)/05 What You Wanted.mp3"
+Oct 01 13:11 : player: played "Tristam & Braken/The Vine (Single)/01 The Vine.mp3"
+Oct 01 13:16 : player: played "The Script/#3 (Album)/05 Glowing.mp3"
+Oct 01 13:19 : player: played "The Script/The Script (Album)/07 The End Where I Begin.mp3"
+Oct 01 13:23 : player: played "OneRepublic/Native (Album)/02 Love Runs Out.mp3"
+Oct 01 13:27 : player: played "OneRepublic/Native (Album)/01 Counting Stars.mp3"
+Oct 01 13:30 : player: played "Tove Styrke/Sway (Album)/06 I Lied.mp3"
+Oct 01 13:34 : player: played "Tove Styrke/Sway (Album)/07 On a Level.mp3"
+Oct 01 13:38 : player: played "The Script/The Script (Album)/05 Breakeven.mp3"
+Oct 01 13:43 : player: played "The Script/#3 (Album)/07 Broken Arrow.mp3"
+Oct 01 13:47 : player: played "Maroon 5/Maroon 5 - Overexposed/3 - Maroon 5 - Daylight.mp3"
+Oct 01 13:50 : player: played "Tove Styrke/Sway (Album)/05 Changed My Mind.mp3"
+Oct 01 13:53 : player: played "Maroon 5/Maroon 5 - Overexposed/8 - Maroon 5 - Fortune Teller.mp3"
+Oct 01 13:57 : player: played "The Script/#3 (Album)/09 No Words.mp3"
+Oct 01 14:01 : player: played "OneRepublic/Native (Album)/07 Light It Up.mp3"
+Oct 01 14:04 : client: [1] closed
+Oct 01 14:04 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Oct 01 14:04 : client: [0] closed
+Oct 01 14:04 : player: played "The Script/The Script (Album)/06 Rusty Halo.mp3"
+Oct 01 14:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 14:18 : config: option 'device' on line 209 was not recognized
+Oct 01 14:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 01 14:18 : client: [0] opened from 127.0.0.1:39164
+Oct 01 15:21 : client: [0] closed
+Oct 01 15:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 15:36 : config: option 'device' on line 209 was not recognized
+Oct 01 15:36 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 01 15:36 : client: [0] opened from 127.0.0.1:33106
+Oct 01 16:01 : client: [0] closed
+Oct 01 19:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 01 19:09 : config: option 'device' on line 209 was not recognized
+Oct 01 19:09 : client: [0] opened from 127.0.0.1:44194
+Oct 01 19:09 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 01 19:16 : client: [1] opened from 127.0.0.1:44350
+Oct 01 19:16 : client: [1] closed
+Oct 01 23:14 : client: [0] closed
+Oct 02 11:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 11:16 : config: option 'device' on line 209 was not recognized
+Oct 02 11:16 : client: [0] opened from 127.0.0.1:35164
+Oct 02 11:16 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 02 12:12 : client: [0] closed
+Oct 02 13:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 13:28 : config: option 'device' on line 209 was not recognized
+Oct 02 13:28 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 02 13:28 : client: [0] opened from 127.0.0.1:57992
+Oct 02 14:04 : client: [1] opened from 127.0.0.1:58504
+Oct 02 14:04 : client: [1] closed
+Oct 02 14:15 : client: [0] closed
+Oct 02 14:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 14:35 : config: option 'device' on line 209 was not recognized
+Oct 02 14:35 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 02 14:35 : client: [0] opened from 127.0.0.1:56658
+Oct 02 15:44 : client: [0] closed
+Oct 02 16:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 16:01 : config: option 'device' on line 209 was not recognized
+Oct 02 16:01 : client: [0] opened from 127.0.0.1:54804
+Oct 02 16:01 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 02 20:09 : client: [0] closed
+Oct 02 23:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 02 23:24 : config: option 'device' on line 209 was not recognized
+Oct 02 23:24 : client: [0] opened from 127.0.0.1:33936
+Oct 02 23:25 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 02 23:49 : client: [0] closed
+Oct 03 12:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 03 12:02 : config: option 'device' on line 209 was not recognized
+Oct 03 12:02 : client: [0] opened from 127.0.0.1:59266
+Oct 03 12:02 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 03 18:37 : client: [0] closed
+Oct 04 11:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 11:07 : config: option 'device' on line 209 was not recognized
+Oct 04 11:07 : client: [0] opened from 127.0.0.1:41406
+Oct 04 11:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 04 15:13 : client: [1] opened from 127.0.0.1:43810
+Oct 04 15:13 : client: [1] closed
+Oct 04 15:46 : client: [0] closed
+Oct 04 15:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 15:55 : config: option 'device' on line 209 was not recognized
+Oct 04 15:55 : client: [0] opened from 127.0.0.1:57770
+Oct 04 15:55 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 04 16:54 : client: [0] closed
+Oct 04 17:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 17:10 : config: option 'device' on line 209 was not recognized
+Oct 04 17:10 : client: [0] opened from 127.0.0.1:40222
+Oct 04 17:10 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 04 17:57 : client: [1] opened from 127.0.0.1:41294
+Oct 04 17:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 17:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 04 18:00 : player: played "ARForest/Coloridium/02. Melon Cream Soda.mp3"
+Oct 04 18:03 : player: played "ARForest/Coloridium/03. Colourless.mp3"
+Oct 04 18:06 : player: played "ARForest/Coloridium/04. Water Color.mp3"
+Oct 04 18:08 : player: played "ARForest/Coloridium/05. Take A Kick.mp3"
+Oct 04 18:11 : player: played "ARForest/Coloridium/06. Rudia.mp3"
+Oct 04 18:12 : player: played "ARForest/Coloridium/07. Save us.mp3"
+Oct 04 18:17 : player: played "ARForest/Coloridium/08. Ink.mp3"
+Oct 04 19:48 : client: [1] closed
+Oct 04 19:48 : client: [0] closed
+Oct 04 19:48 : player: played "Symphonic Xizer/SymphonicXize-002/01. Lithosphere.mp3"
+Oct 05 13:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 13:24 : config: option 'device' on line 209 was not recognized
+Oct 05 13:24 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 05 13:24 : client: [0] opened from 127.0.0.1:40834
+Oct 05 15:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 15:47 : config: option 'device' on line 209 was not recognized
+Oct 05 15:47 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 05 15:47 : client: [0] opened from 127.0.0.1:32872
+Oct 05 21:49 : client: [1] opened from 127.0.0.1:38736
+Oct 05 21:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 21:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 05 21:52 : player: played "Masaki Mizusato/The daily life of cats in Paris/3 - お出かけ日和 - C'est une belle journée.flac"
+Oct 05 21:55 : player: played "Masaki Mizusato/The daily life of cats in Paris/4 - 街角のアコーディオン弾き - L'accordéoniste dans une rue.flac"
+Oct 05 21:56 : player: played "Masaki Mizusato/The daily life of cats in Paris/5 - 泥棒ネコを捕まえろ！ - Chasse le chat voleur!.flac"
+Oct 05 22:00 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-01-メインテーマ(天と魔法のリゼロット).mp3"
+Oct 05 22:04 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Oct 05 22:05 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Oct 05 22:09 : player: played "The Script/Science & Faith (Album)/02 For the First Time.mp3"
+Oct 05 22:13 : player: played "The Script/#3 (Album)/04 If You Could See Me Now.mp3"
+Oct 05 22:17 : player: played "OneRepublic/Dreaming Out Loud (Album)/12 Come Home (Album Version).mp3"
+Oct 05 22:21 : client: [1] closed
+Oct 05 22:21 : client: [2] opened from 127.0.0.1:39236
+Oct 05 22:21 : player: played "OneRepublic/Native (Album)/09 Au Revoir.mp3"
+Oct 05 22:22 : client: [2] closed
+Oct 05 22:22 : client: [0] closed
+Oct 06 10:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 10:48 : config: option 'device' on line 209 was not recognized
+Oct 06 10:48 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 06 10:48 : client: [0] opened from 127.0.0.1:58066
+Oct 06 20:44 : client: [1] opened from 127.0.0.1:36680
+Oct 06 20:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 20:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 06 20:48 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/17. yuiko — Fix.mp3"
+Oct 06 20:51 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/12 Inokori Sensei.mp3"
+Oct 06 20:55 : player: played "Onlap/The Awakening [EP]/04. Still Alive (feat. Charline Max).mp3"
+Oct 06 20:59 : player: played "Onlap/The Awakening [EP]/02. The Awakening.mp3"
+Oct 06 21:03 : player: played "Onlap/The Awakening [EP]/05. Whispers in My Head.mp3"
+Oct 06 21:07 : player: played "Onlap/The Awakening [EP]/01. Out of My Way.mp3"
+Oct 06 21:09 : player: played "Onlap/The Awakening [EP]/03. From Dust to Ashes.mp3"
+Oct 06 21:13 : player: played "Onlap/The Awakening [EP]/06. The Awakening (Acoustic, Bonus Track).mp3"
+Oct 06 21:16 : player: played "Onlap/The Awakening [EP]/03. From Dust to Ashes.mp3"
+Oct 06 21:20 : player: played "Onlap/The Awakening [EP]/02. The Awakening.mp3"
+Oct 06 21:24 : player: played "Onlap/The Awakening [EP]/05. Whispers in My Head.mp3"
+Oct 06 21:28 : player: played "Onlap/The Awakening [EP]/04. Still Alive (feat. Charline Max).mp3"
+Oct 06 21:32 : player: played "Onlap/The Awakening [EP]/01. Out of My Way.mp3"
+Oct 06 21:35 : player: played "Onlap/The Awakening [EP]/06. The Awakening (Acoustic, Bonus Track).mp3"
+Oct 06 21:40 : player: played "Onlap/The Awakening [EP]/05. Whispers in My Head.mp3"
+Oct 06 21:43 : player: played "Onlap/The Awakening [EP]/02. The Awakening.mp3"
+Oct 06 21:47 : player: played "Onlap/The Awakening [EP]/01. Out of My Way.mp3"
+Oct 06 21:51 : player: played "Onlap/The Awakening [EP]/06. The Awakening (Acoustic, Bonus Track).mp3"
+Oct 06 21:54 : player: played "Onlap/The Awakening [EP]/03. From Dust to Ashes.mp3"
+Oct 06 22:52 : client: [1] closed
+Oct 06 22:52 : client: [2] opened from 127.0.0.1:38368
+Oct 06 22:52 : player: played "Onlap/The Awakening [EP]/04. Still Alive (feat. Charline Max).mp3"
+Oct 06 22:56 : player: played "Thousand Foot Krutch/The End Is Where We Begin (Album)/02 We Are.mp3"
+Oct 06 23:27 : client: [2] closed
+Oct 06 23:27 : client: [0] closed
+Oct 06 23:27 : player: played "Thousand Foot Krutch/OXYGENINHALE (Album)/08 In My Room.mp3"
+Oct 07 11:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 11:22 : config: option 'device' on line 209 was not recognized
+Oct 07 11:22 : client: [0] opened from 127.0.0.1:44508
+Oct 07 11:22 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 07 14:14 : avahi: Client Disconnected, will reconnect shortly
+Oct 07 14:14 : client: [0] closed
+Oct 07 14:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 14:32 : config: option 'device' on line 209 was not recognized
+Oct 07 14:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 07 14:32 : client: [0] opened from 127.0.0.1:55312
+Oct 07 15:44 : client: [0] closed
+Oct 07 18:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 07 18:46 : config: option 'device' on line 209 was not recognized
+Oct 07 18:46 : client: [0] opened from 127.0.0.1:33804
+Oct 07 18:46 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 07 22:35 : client: [0] closed
+Oct 07 22:35 : avahi: Client Disconnected, will reconnect shortly
+Oct 08 09:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 09:04 : config: option 'device' on line 209 was not recognized
+Oct 08 09:04 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 08 09:04 : client: [0] opened from 127.0.0.1:45472
+Oct 08 09:27 : client: [1] opened from 127.0.0.1:45924
+Oct 08 10:03 : client: [1] closed
+Oct 08 15:36 : avahi: Client Disconnected, will reconnect shortly
+Oct 08 15:36 : client: [0] closed
+Oct 08 19:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 08 19:12 : config: option 'device' on line 209 was not recognized
+Oct 08 19:12 : client: [0] opened from 127.0.0.1:47498
+Oct 08 19:12 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 08 22:43 : client: [0] closed
+Oct 09 11:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 09 11:06 : config: option 'device' on line 209 was not recognized
+Oct 09 11:06 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 09 11:06 : client: [0] opened from 127.0.0.1:45726
+Oct 09 11:07 : client: [0] closed
+Oct 09 11:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 09 11:08 : config: option 'device' on line 209 was not recognized
+Oct 09 11:08 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 09 11:08 : client: [0] opened from 127.0.0.1:40530
+Oct 09 12:11 : client: [0] closed
+Oct 09 13:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 09 13:35 : config: option 'device' on line 209 was not recognized
+Oct 09 13:35 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 09 13:35 : client: [0] opened from 127.0.0.1:46296
+Oct 09 14:07 : client: [0] closed
+Oct 09 14:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 09 14:32 : config: option 'device' on line 209 was not recognized
+Oct 09 14:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 09 14:32 : client: [0] opened from 127.0.0.1:47506
+Oct 09 15:44 : client: [0] closed
+Oct 10 12:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 12:40 : config: option 'device' on line 209 was not recognized
+Oct 10 12:40 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 10 12:40 : client: [0] opened from 127.0.0.1:56484
+Oct 10 15:50 : client: [0] closed
+Oct 10 17:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 17:55 : config: option 'device' on line 209 was not recognized
+Oct 10 17:55 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 10 17:55 : client: [0] opened from 127.0.0.1:44562
+Oct 10 19:17 : avahi: Client Disconnected, will reconnect shortly
+Oct 10 19:18 : client: [0] closed
+Oct 10 22:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 10 22:01 : config: option 'device' on line 209 was not recognized
+Oct 10 22:01 : client: [0] opened from 127.0.0.1:49360
+Oct 10 22:01 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 11 00:07 : client: [0] closed
+Oct 11 11:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 11 11:07 : config: option 'device' on line 209 was not recognized
+Oct 11 11:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 11 11:07 : client: [0] opened from 127.0.0.1:56488
+Oct 11 15:45 : client: [0] closed
+Oct 11 15:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 11 15:57 : config: option 'device' on line 209 was not recognized
+Oct 11 15:57 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 11 15:57 : client: [0] opened from 127.0.0.1:50688
+Oct 11 17:00 : client: [0] closed
+Oct 11 17:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 11 17:13 : config: option 'device' on line 209 was not recognized
+Oct 11 17:13 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 11 17:13 : client: [0] opened from 127.0.0.1:48568
+Oct 11 18:36 : client: [0] closed
+Oct 11 19:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 11 19:08 : config: option 'device' on line 209 was not recognized
+Oct 11 19:08 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 11 19:08 : client: [0] opened from 127.0.0.1:45684
+Oct 11 21:30 : client: [0] closed
+Oct 11 21:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 11 21:40 : config: option 'device' on line 209 was not recognized
+Oct 11 21:40 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 11 21:40 : client: [0] opened from 127.0.0.1:60704
+Oct 12 00:40 : client: [0] closed
+Oct 12 00:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 00:49 : config: option 'device' on line 209 was not recognized
+Oct 12 00:49 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 12 00:49 : client: [0] opened from 127.0.0.1:41012
+Oct 12 01:12 : client: [0] closed
+Oct 12 09:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 09:57 : config: option 'device' on line 209 was not recognized
+Oct 12 09:57 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 12 09:57 : client: [0] opened from 127.0.0.1:49442
+Oct 12 11:00 : client: [1] opened from 127.0.0.1:50596
+Oct 12 11:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 11:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 11:03 : player: played "a_hisa/a_hisa - shizuku/05 - Rainy Waltz.mp3"
+Oct 12 11:05 : player: played "Masaki Mizusato/The daily life of cats in Paris/2 - ロマンス - Romance.flac"
+Oct 12 12:07 : client: [1] closed
+Oct 12 15:56 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Oct 12 20:40 : client: [0] closed
+Oct 12 20:40 : player: played "Video Game OST/The Sound of Kirby Café/11. Eating a Meal and Having a Dream.mp3"
+Oct 13 09:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 09:40 : config: option 'device' on line 209 was not recognized
+Oct 13 09:40 : client: [0] opened from 127.0.0.1:36964
+Oct 13 09:40 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 13 14:04 : client: [1] opened from 127.0.0.1:39722
+Oct 13 14:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 14:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 13 14:07 : player: played "Really Slow Motion/Elevation (Album)/13 Against All Hope.mp3"
+Oct 13 14:11 : player: played "Really Slow Motion/Elevation (Album)/14 Elevation.mp3"
+Oct 13 14:14 : player: played "Fearless Motivation/Sounds of Power/02. Faith (Epic Instrumental).mp3"
+Oct 13 14:16 : player: played "Really Slow Motion/Elevation (Album)/18 Illusions of Life.mp3"
+Oct 13 14:16 : player: played "Evergreen/Somnium - 2015-12-31 - 波が涙になって [C89] [MP3 320]/02. 誕生 ~Awake~.mp3"
+Oct 13 14:20 : player: played "The Chainsmokers/The Chainsmokers - Something Just Like This/1 - The Chainsmokers - Something Just Like This.mp3"
+Oct 13 14:25 : player: played "The Script/#3 (Album)/07 Broken Arrow.mp3"
+Oct 13 14:30 : player: played "OneRepublic/Dreaming Out Loud (Album)/09 Won't Stop (Album Version).mp3"
+Oct 13 14:34 : player: played "OneRepublic/Native (Album)/12 Preacher.mp3"
+Oct 13 14:38 : player: played "OneRepublic/Native (Album)/05 What You Wanted.mp3"
+Oct 13 14:43 : client: [1] closed
+Oct 13 14:43 : client: [0] closed
+Oct 13 14:43 : player: played "Tove Styrke/Sway (Album)/05 Changed My Mind.mp3"
+Oct 14 11:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 14 11:53 : config: option 'device' on line 209 was not recognized
+Oct 14 11:53 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 14 11:53 : client: [0] opened from 127.0.0.1:36436
+Oct 14 12:49 : client: [1] opened from 127.0.0.1:37306
+Oct 14 12:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 14 12:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 14 12:50 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Oct 14 12:50 : exception: Playlist already exists
+Oct 14 12:52 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Oct 14 12:53 : player: played "机上の空想理論/机上の空想理論 - Breath - ブレス - - 04 雪花白息に舞う.mp3"
+Oct 14 12:54 : exception: Playlist already exists
+Oct 14 12:54 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Oct 14 12:56 : player: played "After the Rain/Soraru×Mafumafu - After Rain Quest/05 かくしごと.mp3"
+Oct 14 12:56 : exception: Playlist already exists
+Oct 14 12:57 : exception: Playlist already exists
+Oct 14 13:00 : player: played "After the Rain/Mafumafu x Soraru クロクレストストーリー/[Disc 1] After the Rain – Kuro Crest Story/06. わすれもの.mp3"
+Oct 14 13:01 : exception: Playlist already exists
+Oct 14 19:55 : client: [1] closed
+Oct 14 19:55 : avahi: Client Disconnected, will reconnect shortly
+Oct 14 19:55 : client: [0] closed
+Oct 14 19:55 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/03. 八月、某、月明かり.mp3"
+Oct 15 11:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 15 11:15 : config: option 'device' on line 209 was not recognized
+Oct 15 11:15 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 15 11:15 : client: [0] opened from 127.0.0.1:43906
+Oct 15 15:42 : client: [0] closed
+Oct 15 17:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 15 17:51 : config: option 'device' on line 209 was not recognized
+Oct 15 17:51 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 15 17:51 : client: [0] opened from 127.0.0.1:46924
+Oct 15 21:40 : client: [0] closed
+Oct 16 11:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 16 11:10 : config: option 'device' on line 209 was not recognized
+Oct 16 11:10 : client: [0] opened from 127.0.0.1:37014
+Oct 16 11:10 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 16 11:31 : client: [0] closed
+Oct 16 13:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 16 13:20 : config: option 'device' on line 209 was not recognized
+Oct 16 13:20 : client: [0] opened from 127.0.0.1:57414
+Oct 16 13:20 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 16 15:44 : client: [0] closed
+Oct 17 18:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 18:05 : config: option 'device' on line 209 was not recognized
+Oct 17 18:05 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 17 18:05 : client: [0] opened from 127.0.0.1:36334
+Oct 17 19:59 : client: [0] closed
+Oct 18 11:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 18 11:32 : config: option 'device' on line 209 was not recognized
+Oct 18 11:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 18 11:32 : client: [0] opened from 127.0.0.1:46026
+Oct 18 11:42 : client: [1] opened from 127.0.0.1:46330
+Oct 18 11:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 18 11:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 18 11:45 : exception: Playlist already exists
+Oct 18 11:46 : player: played "The Chainsmokers/The Chainsmokers - Something Just Like This/1 - The Chainsmokers - Something Just Like This.mp3"
+Oct 18 11:50 : player: played "Maroon 5/Maroon 5 - Overexposed/1 - Maroon 5 - One More Night.mp3"
+Oct 18 11:54 : player: played "Maroon 5/Maroon 5 - Overexposed/2 - Maroon 5 - Payphone.mp3"
+Oct 18 11:58 : player: played "Maroon 5/Maroon 5 - Overexposed/3 - Maroon 5 - Daylight.mp3"
+Oct 18 12:01 : player: played "Maroon 5/Maroon 5 - Overexposed/4 - Maroon 5 - Lucky Strike.mp3"
+Oct 18 12:04 : player: played "Maroon 5/Maroon 5 - Overexposed/5 - Maroon 5 - The Man Who Never Lied.mp3"
+Oct 18 13:17 : client: [1] closed
+Oct 18 13:17 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Oct 18 15:00 : client: [2] opened from 127.0.0.1:48412
+Oct 18 15:00 : player: played "Maroon 5/Maroon 5 - Overexposed/6 - Maroon 5 - Love Somebody.mp3"
+Oct 18 15:02 : player: played "The Cab/Symphony Soldier/1-12 Living Louder.mp3"
+Oct 18 15:06 : player: played "The Script/Science & Faith (Album)/10 Exit Wounds.mp3"
+Oct 18 15:10 : player: played "The Script/Science & Faith (Album)/11 Bullet From A Gun.mp3"
+Oct 18 15:13 : player: played "The Script/Science & Faith (Album)/12 Walk Away.mp3"
+Oct 18 15:19 : player: played "The Script/#3 (Album)/01 Good Ol' Days.mp3"
+Oct 18 15:23 : player: played "The Script/#3 (Album)/09 No Words.mp3"
+Oct 18 15:28 : player: played "The Script/The Script (Album)/08 Fall for Anything.mp3"
+Oct 18 15:39 : client: [2] closed
+Oct 18 15:39 : client: [0] closed
+Oct 18 15:39 : player: played "The Script/The Script (Album)/02 Before the Worst.mp3"
+Oct 18 16:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 18 16:03 : config: option 'device' on line 209 was not recognized
+Oct 18 16:03 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 18 16:03 : client: [0] opened from 127.0.0.1:51606
+Oct 18 17:00 : client: [0] closed
+Oct 18 19:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 18 19:39 : config: option 'device' on line 209 was not recognized
+Oct 18 19:39 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 18 19:39 : client: [0] opened from 127.0.0.1:59826
+Oct 18 21:42 : client: [0] closed
+Oct 19 14:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 19 14:27 : config: option 'device' on line 209 was not recognized
+Oct 19 14:27 : client: [0] opened from 127.0.0.1:46456
+Oct 19 14:27 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 19 22:59 : client: [0] closed
+Oct 19 23:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 19 23:13 : config: option 'device' on line 209 was not recognized
+Oct 19 23:13 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 19 23:13 : client: [0] opened from 127.0.0.1:49954
+Oct 19 23:34 : client: [0] closed
+Oct 20 09:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 20 09:38 : config: option 'device' on line 209 was not recognized
+Oct 20 09:38 : client: [0] opened from 127.0.0.1:52402
+Oct 20 09:38 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 20 14:33 : client: [0] closed
+Oct 20 14:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 20 14:39 : config: option 'device' on line 209 was not recognized
+Oct 20 14:39 : client: [0] opened from 127.0.0.1:34342
+Oct 20 14:39 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 20 14:55 : client: [0] closed
+Oct 20 16:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 20 16:52 : config: option 'device' on line 209 was not recognized
+Oct 20 16:52 : avahi: Service 'Music Player @ zephyr' successfully established.
+Oct 20 16:52 : client: [0] opened from 127.0.0.1:41254
+Oct 20 20:14 : client: [0] closed
+Oct 21 11:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 21 11:29 : config: option 'device' on line 209 was not recognized
+Oct 21 11:29 : client: [0] opened from 127.0.0.1:49716
+Oct 21 11:29 : avahi: Service 'Music Player @ zephyr' successfully established.
