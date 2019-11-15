@@ -1,5 +1,0 @@
-#!/bin/sh
-
-killall xfce4-notifyd
-cp ~/.cache/wal/colors-xfce-notifyd.conf ~/.themes/Pywal/xfce-notify-4.0/gtk.css
-notify-send "Successfully updated xfce4-notifyd theme!"
