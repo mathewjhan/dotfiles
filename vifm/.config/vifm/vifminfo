@@ -26,9 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home
-	mathew
-1
 d/home/mathew
 	Pictures
 5
@@ -326,6 +323,9 @@ d/home/mathew
 d/media/data/mathew/Home/resume
 	Han, Mathew - Resume.pdf
 1
+d/home/mathew
+	2019-11-15-004454_1920x1080_scrot.png
+18
 d
 
 # Right window history (oldest to newest):
@@ -487,7 +487,7 @@ D
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/mathew/.local/share/vifm/Trash/000_Copy of CS187_Lab06_Recursion.pdf
+""/home/mathew/.local/share/vifm/Trash/000_2019-11-15-004310_1920x1080_scrot.png
 
 # Directory stack (oldest to newest):
 
@@ -614,6 +614,8 @@ t/home/mathew/.local/share/vifm/Trash/000_CICS Event Assignment.pdf
 	/home/mathew/Downloads/CICS Event Assignment.pdf
 t/home/mathew/.local/share/vifm/Trash/000_Copy of CS187_Lab06_Recursion.pdf
 	/home/mathew/Downloads/Copy of CS187_Lab06_Recursion.pdf
+t/home/mathew/.local/share/vifm/Trash/000_2019-11-15-004310_1920x1080_scrot.png
+	/home/mathew/2019-11-15-004310_1920x1080_scrot.png
 
 # State:
 f
