@@ -18,7 +18,7 @@
 
 # TUI:
 al
-q1
+q0
 v2
 ov
 m-1
@@ -26,105 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home
-	mathew
-1
-d/
-	home
-4
-d/media/data/mathew/Home
-	trash
-10
-d/media/data/mathew/Home/trash
-	[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-3
-d/media/data/mathew/Home/trash/[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-	[HorribleSubs] Hunter x Hunter - 108 [1080p].mkv
-47
-d/media/data/mathew/Home/trash
-	[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-3
-d/media/data/mathew/Home/trash/[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-	[HorribleSubs] Hunter x Hunter - 113 [1080p].mkv
-47
-d/home/mathew
-	go
-9
-d/media/data/mathew/Home/trash
-	[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-3
-d/media/data/mathew/Home/trash/[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-	[HorribleSubs] Hunter x Hunter - 114 [1080p].mkv
-17
-d/home/mathew
-	go
-9
-d/media/data/mathew/Home/trash
-	[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-3
-d/media/data/mathew/Home/trash/[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-	[HorribleSubs] Hunter x Hunter - 132 [1080p].mkv
-35
-d/home/mathew
-	go
-9
-d/media/data/mathew/Home/trash
-	[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-3
-d/media/data/mathew/Home/trash/[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-	[HorribleSubs] Hunter x Hunter - 135 [1080p].mkv
-38
-d/media/data/mathew/Home/trash
-	[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-3
-d/media/data/mathew/Home/trash/[HorribleSubs] Hunter x Hunter (01-148) [1080p] (Batch)
-	[HorribleSubs] Hunter x Hunter - 148 [1080p].mkv
-51
-d/media/data/mathew/Home/trash
-	[Beatrice-Raws] Kokoro ga Sakebitagatterunda. [BDRip 1920x1080 x264 FLAC]
-2
-d/home/mathew/Pictures/Wallpapers
-	traffic-lights-2.0-by-lucas-zimmermann-1920×1080.jpg
-36
-d/home/mathew
-	go
-9
-d/media/data/mathew/Home
-	resume
-8
-d/media/data/mathew/Home/resume
-	college_resume.pdf
-2
-d/media/data/mathew/Home
-	resume
-8
-d/media/data/mathew
-	Music
-3
-d/media/data
-	mathew
-3
-d/media/data/mathew
-	Pictures
-4
-d/media/data/mathew/Pictures
-	Wallpapers
-8
-d/media/data/mathew/Pictures/Wallpapers
-	to be organized
-6
-d/media/data/mathew/Pictures/Wallpapers/to be organized
-	tree.jpg
-29
-d/media/data/mathew/Pictures/Wallpapers
-	to be organized
-6
-d/media/data/mathew/Pictures/Wallpapers/to be organized
-	sunset_scenery_minimal_4k.jpg
-26
-d/home/mathew
-	dotfiles
-8
 d/home
 	mathew
 1
@@ -326,6 +227,105 @@ d/home/mathew/rootersctf/programming
 d/home/mathew/rootersctf/programming/_CP.png.extracted
 	0
 1
+d/media/data/mathew/Home/resume
+	resume.pdf
+5
+d/media/data/mathew/Home/College/SOCIOL105
+	19.10.23-response.docx
+3
+d/home/mathew
+	Downloads
+3
+d/home/mathew/Downloads
+	Soc_105_Fall_19_final_syllabus.pdf
+11
+d/home/mathew
+	test.json
+19
+d/home/mathew/cifar-100
+	notes.xlsx
+5
+d/home/mathew
+	screenshot.png
+19
+d/home/mathew/cifar-100
+	notes.xlsx
+6
+d/home/mathew/Downloads
+	HorribleSubs-Boku-no-Hero-Academia-66-720p-mkv
+1
+d/home/mathew/Downloads/HorribleSubs-Boku-no-Hero-Academia-66-720p-mkv
+	[HorribleSubs] Boku no Hero Academia - 66 [720p].mkv
+1
+d/media/data/mathew/Home
+	resume
+7
+d/media/data/mathew/Home/resume
+	college_resume.docx
+1
+d/home/mathew/cifar-100
+	notes.xlsx
+6
+d/media/data/mathew/Home/resume
+	college_resume.docx
+1
+d/media/data/mathew/Home/College/BIO109/notes
+	notes_191028.pdf
+32
+d/media/data/mathew/Home/College/MATH132/exam2
+	Math-132-Exam-2-SP16.pdf
+4
+d/home/mathew/Downloads
+	rsz_79894.png
+27
+d/home/mathew
+	Desktop
+1
+d/home/mathew/Desktop
+	1910.01059.pdf
+1
+d/media/data/mathew/Home/resume
+	college_resume.docx
+2
+d/home/mathew/Downloads
+	687474703a2f2f7777772e616469756d78747261732e636f6d2f696d616765732f70696374757265732f7468655f776f726c645f656e64735f776974685f796f755f70696e735f646f636b5f69636f6e5f315f31363535365f353637325f696d6167655f383137342e706e67.png
+3
+d/media/data/mathew/Home/College/SOCIOL105
+	19.11.17-response.pdf
+6
+d/home/mathew
+	Desktop
+1
+d/home
+	mathew
+1
+d/
+	hostlvm
+5
+d/home/mathew
+	Videos
+6
+d/home
+	mathew
+1
+d/media/data/mathew/Home
+	resume
+7
+d/media/data/mathew/Home/resume
+	Han, Mathew - Resume.pdf
+1
+d/home/mathew/Downloads
+	COMPSCI 187-CORNER-ADAM-10_28_19 Midterm Review.docx
+5
+d/media/data/mathew/Home/resume
+	college_resume.docx
+2
+d/home/mathew
+	Videos
+6
+d/media/data/mathew/Home/resume
+	Han, Mathew - Resume.pdf
+1
 d
 
 # Right window history (oldest to newest):
@@ -465,6 +465,7 @@ D
 :q
 
 # Search history (oldest to newest):
+/tan
 /flag
 /Pi
 /ap_
@@ -479,13 +480,14 @@ D
 /reol
 /myster
 /gun
+/Crack
 
 # Prompt history (oldest to newest):
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/media/data/.vifm-Trash-1000/000_need_to_derive.png
+""/home/mathew/.local/share/vifm/Trash/000_Copy of CS187_Lab06_Recursion.pdf
 
 # Directory stack (oldest to newest):
 
@@ -596,6 +598,22 @@ t/media/data/.vifm-Trash-1000/000_dr_AoT_reference.PNG
 	/media/data/mathew/Home/misc/dr_AoT_reference.PNG
 t/media/data/.vifm-Trash-1000/000_need_to_derive.png
 	/media/data/mathew/Home/need_to_derive.png
+t/media/data/.vifm-Trash-1000/000_19.10.23-response.odt
+	/media/data/mathew/Home/College/SOCIOL105/19.10.23-response.odt
+t/home/mathew/.local/share/vifm/Trash/000_8e4274bb0a67535b_aesni.tar.gz
+	/home/mathew/Downloads/8e4274bb0a67535b_aesni.tar.gz
+t/home/mathew/.local/share/vifm/Trash/000_FullSizeRender.JPG
+	/home/mathew/Downloads/FullSizeRender.JPG
+t/home/mathew/.local/share/vifm/Trash/000_Getting Involved Presentation.pdf
+	/home/mathew/Downloads/Getting Involved Presentation.pdf
+t/home/mathew/.local/share/vifm/Trash/000_wifi_gmap_location.rb
+	/home/mathew/Downloads/wifi_gmap_location.rb
+t/home/mathew/.local/share/vifm/Trash/000_CICS 191S1 L4.pdf
+	/home/mathew/Downloads/CICS 191S1 L4.pdf
+t/home/mathew/.local/share/vifm/Trash/000_CICS Event Assignment.pdf
+	/home/mathew/Downloads/CICS Event Assignment.pdf
+t/home/mathew/.local/share/vifm/Trash/000_Copy of CS187_Lab06_Recursion.pdf
+	/home/mathew/Downloads/Copy of CS187_Lab06_Recursion.pdf
 
 # State:
 f

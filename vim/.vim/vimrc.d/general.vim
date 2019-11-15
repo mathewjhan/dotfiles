@@ -32,7 +32,7 @@ set tabstop=4
 " Formatting
 set ai "Auto indent
 set si "Smart indent
-set wrap "Wrap lines
+set wrap lbr "Wrap Linebreak"
 
 " Specify the behavior when switching between buffers 
 try

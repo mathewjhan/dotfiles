@@ -48,14 +48,14 @@ padding-right = 0
 module-margin-left = 2
 module-margin-right = 0
 
-font-0 = inconsolata:style=regular:pixelsize=11; 2
-font-1 = Font Awesome 5 Free:style=Solid:pixelsize=12; 2
-font-2 = Font Awesome 5 Free:style=Regular:pixelsize=12; 2
-font-3 = Font Awesome 5 Brands:pixelsize=12; 2
-font-4 = Font Awesome 5 Free:style=Solid:pixelsize=12; 2
-font-5 = hack:pixelsize=12; 2
+font-0 = inconsolata:style=regular:size=11; 2
+font-1 = Font Awesome 5 Free:style=Solid:size=12; 2
+font-2 = Font Awesome 5 Free:style=Regular:size=12; 2
+font-3 = Font Awesome 5 Brands:size=12; 2
+font-4 = Font Awesome 5 Free:style=Solid:size=12; 2
+font-5 = hack:size=12; 2
 font-6 = Iosevka Nerd Font Mono:fontformat=truetype:size=14:antialias=true;3 
-font-7 = Noto Sans CJK JP:regular:pixelsize=11; 2
+font-7 = Noto Sans CJK JP:regular:size=11; 2
 
 ;enable-ipc = true
 
