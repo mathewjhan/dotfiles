@@ -70,7 +70,7 @@ mode-optimanager(){
 alias nvtop="watch -n 0.5 nvidia-smi"
 
 # Misc
-#alias ls="exa"
+alias ls='exa'
 alias rm="rm -I"
 alias icat="kitty icat"
 alias clipboard="xclip -selection clipboard"

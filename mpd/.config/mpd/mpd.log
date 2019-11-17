@@ -10297,3 +10297,250 @@ Nov 14 21:50 : exception: RTIOThread could not get realtime scheduling, continui
 Nov 14 21:50 : config: option 'device' on line 209 was not recognized
 Nov 14 21:50 : client: [0] opened from 127.0.0.1:38612
 Nov 14 21:50 : avahi: Service 'Music Player @ zephyr' successfully established.
+Nov 15 01:06 : client: [0] closed
+Nov 15 09:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 09:25 : config: option 'device' on line 209 was not recognized
+Nov 15 09:25 : client: [0] opened from 127.0.0.1:52804
+Nov 15 09:25 : avahi: Service 'Music Player @ zephyr' successfully established.
+Nov 15 11:10 : client: [1] opened from 127.0.0.1:53488
+Nov 15 11:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 11:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 11:13 : player: played "Masaki Mizusato/The daily life of cats in Paris/3 - お出かけ日和 - C'est une belle journée.flac"
+Nov 15 11:15 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 03 降り積もる灰.mp3"
+Nov 15 11:19 : player: played "Sakuzyo/Food and Musik/02 - Light Meal.mp3"
+Nov 15 11:23 : player: played "mamomo/lostworld/01. 107α44yellow_city.flac"
+Nov 15 11:26 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-03-バトル1(天と魔法のリゼロット).mp3"
+Nov 15 11:30 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 04 絡繰師の里.mp3"
+Nov 15 11:34 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/06 - いつのも場所.mp3"
+Nov 15 11:37 : player: played "Sakuzyo/Food and Musik/05 - Afternoon Tea.mp3"
+Nov 15 11:41 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 07 精霊界.mp3"
+Nov 15 11:45 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Nov 15 11:50 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Nov 15 11:54 : player: played "Sakuzyo/Food and Musik/11 - Overdrunk.mp3"
+Nov 15 11:56 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/09 - マーブル模様.mp3"
+Nov 15 11:58 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-08-礼拝堂(2019新企画).mp3"
+Nov 15 12:02 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Nov 15 12:05 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/06 - 路地裏から覗く瞳.mp3"
+Nov 15 12:07 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-09-開店(2019新企画).mp3"
+Nov 15 12:11 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/07 - A_LDK.mp3"
+Nov 15 12:13 : player: played "mamomo/lostworld/06. 211αγ44slum_intrigue.flac"
+Nov 15 12:16 : player: played "mamomo/Hometown/10 - ペンギンが飛んだ.mp3"
+Nov 15 12:22 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 10 幻想図書館.mp3"
+Nov 15 12:26 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-10-アウトロ(CD書き下ろし).mp3"
+Nov 15 12:28 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-01-メインテーマ(天と魔法のリゼロット).mp3"
+Nov 15 12:32 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 05 せめて亡骸だけは.mp3"
+Nov 15 12:35 : player: played "Video Game OST/The Sound of Kirby Café/09. Rendezvous of the King and the Witch.mp3"
+Nov 15 12:39 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/01 - 萃う夢を想う.mp3"
+Nov 15 12:40 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/10 - ゆめみごこち.mp3"
+Nov 15 12:43 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 08 方舟.mp3"
+Nov 15 12:45 : player: played "Masaki Mizusato/The daily life of cats in Paris/6 - お屋敷のジェントルキャット - Le chat gentilhomme du manoir.flac"
+Nov 15 12:51 : player: played "Sakuzyo/Food and Musik/12 - For tomorrow.mp3"
+Nov 15 12:55 : player: played "mamomo/Hometown/03 - echo.mp3"
+Nov 15 13:00 : player: played "Sakuzyo/Food and Musik/10 - Moan.mp3"
+Nov 15 13:04 : player: played "Video Game OST/The Sound of Kirby Café/11. Eating a Meal and Having a Dream.mp3"
+Nov 15 13:07 : player: played "机上の空想理論/机上の空想理論 - Breath - ブレス - - 03 .x.bin - 48656C6C6F2E.mp3"
+Nov 15 13:16 : player: played "Masaki Mizusato/The daily life of cats in Paris/9 - 街はアスレチック - La ville est l'aire de jeux.flac"
+Nov 15 13:19 : player: played "a_hisa/a_hisa - shizuku/05 - Rainy Waltz.mp3"
+Nov 15 13:21 : player: played "mamomo/Hometown/02 - slope.mp3"
+Nov 15 13:23 : player: played "mamomo/lostworld/05. 135κ44trade_city.flac"
+Nov 15 13:26 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-04-街道(暁工房のコートニー).mp3"
+Nov 15 13:28 : player: played "Masaki Mizusato/The daily life of cats in Paris/15 - いつも通りのこの街に - Pour cette ville comme d'habitude.flac"
+Nov 15 13:31 : player: played "Masaki Mizusato/The daily life of cats in Paris/4 - 街角のアコーディオン弾き - L'accordéoniste dans une rue.flac"
+Nov 15 13:33 : player: played "Masaki Mizusato/The daily life of cats in Paris/13 - 夕焼け空の下で - Sous le ciel rouge.flac"
+Nov 15 13:37 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/05 - 獅子奮迅.mp3"
+Nov 15 13:39 : player: played "mamomo/Hometown/09 - penguin.mp3"
+Nov 15 13:44 : player: played "mamomo/Hometown/01 - around.mp3"
+Nov 15 13:48 : player: played "Video Game OST/The Sound of Kirby Café/04. At the Floating Paradise.mp3"
+Nov 15 13:51 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/03 - 天人の優雅な休日.mp3"
+Nov 15 13:55 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Nov 15 13:59 : player: played "Sakuzyo/Food and Musik/08 - imp.mp3"
+Nov 15 14:04 : player: played "机上の空想理論/机上の空想理論 - Breath - ブレス - - 01 つとめて.mp3"
+Nov 15 15:49 : client: [1] closed
+Nov 15 15:49 : client: [2] opened from 127.0.0.1:55850
+Nov 15 15:49 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/04 - 靴下をはいた猫.mp3"
+Nov 15 15:49 : client: [2] closed
+Nov 15 18:48 : client: [0] closed
+Nov 15 19:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 19:51 : config: option 'device' on line 209 was not recognized
+Nov 15 19:51 : client: [0] opened from 127.0.0.1:51380
+Nov 15 19:51 : avahi: Service 'Music Player @ zephyr' successfully established.
+Nov 15 19:51 : client: [1] opened from 127.0.0.1:51388
+Nov 15 19:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 19:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 19:53 : player: played "ARForest/Coloridium/01. CoLOLar.mp3"
+Nov 15 19:56 : player: played "ARForest/Coloridium/02. Melon Cream Soda.mp3"
+Nov 15 20:00 : player: played "ARForest/Coloridium/03. Colourless.mp3"
+Nov 15 20:02 : player: played "ARForest/Coloridium/04. Water Color.mp3"
+Nov 15 20:04 : player: played "ARForest/Coloridium/05. Take A Kick.mp3"
+Nov 15 20:07 : player: played "ARForest/Coloridium/06. Rudia.mp3"
+Nov 15 20:09 : player: played "ARForest/Coloridium/07. Save us.mp3"
+Nov 15 20:14 : player: played "ARForest/Coloridium/08. Ink.mp3"
+Nov 15 20:17 : client: [1] closed
+Nov 15 20:20 : player: played "Symphonic Xizer/SymphonicXize-002/01. Lithosphere.mp3"
+Nov 15 20:23 : player: played "Symphonic Xizer/SymphonicXize-002/02. Skymemory.mp3"
+Nov 15 20:27 : player: played "Symphonic Xizer/SymphonicXize-002/03. Beautifu Looping.mp3"
+Nov 15 20:30 : player: played "Symphonic Xizer/SymphonicXize-002/04. Ruler of stratification.mp3"
+Nov 15 20:35 : player: played "Symphonic Xizer/SymphonicXize-002/05. Rain ice.mp3"
+Nov 15 20:41 : player: played "Symphonic Xizer/SymphonicXize-002/06. Orbit.mp3"
+Nov 15 20:44 : player: played "Symphonic Xizer/SymphonicXize-002/07. 琴音小路.mp3"
+Nov 15 20:47 : player: played "Symphonic Xizer/SymphonicXize-002/08. Unscientific blue.mp3"
+Nov 15 20:53 : player: played "Symphonic Xizer/SymphonicXize-002/09. connect world.mp3"
+Nov 15 20:57 : player: played "Symphonic Xizer/SymphonicXize-002/10. Lost Eden.mp3"
+Nov 15 20:59 : player: played "Various Artists/Artifacts_of_Artcore/Knife of Amber.mp3"
+Nov 15 21:03 : player: played "Various Artists/Artifacts_of_Artcore/Dawn piecer ''Squallogram''.mp3"
+Nov 15 21:06 : player: played "Various Artists/Artifacts_of_Artcore/Phaistos Disc.mp3"
+Nov 15 21:10 : player: played "Various Artists/Artifacts_of_Artcore/Ark.mp3"
+Nov 15 21:14 : player: played "Various Artists/Artifacts_of_Artcore/Ancient Gear Vimana.mp3"
+Nov 15 21:17 : player: played "Various Artists/Artifacts_of_Artcore/Äcû]é╠ßP.mp3"
+Nov 15 21:22 : player: played "Various Artists/Artifacts_of_Artcore/reliquia.mp3"
+Nov 15 21:27 : player: played "Various Artists/Artifacts_of_Artcore/Ancient Stargazer - âAâôâeâBâLâeâBâëôçé╠ï@èB.mp3"
+Nov 15 21:30 : player: played "Various Artists/Artifacts_of_Artcore/ù┤ûΣôSï╛.mp3"
+Nov 15 21:33 : player: played "Various Artists/Artifacts_of_Artcore/Tank of ROME water.mp3"
+Nov 15 21:37 : player: played "Various Artists/Artifacts_of_Artcore/Tizona.mp3"
+Nov 15 21:39 : player: played "Various Artists/Artifacts_of_Artcore/ÄlïGé╠ÄvéóÅo.mp3"
+Nov 15 21:42 : player: played "Various Artists/Artifacts_of_Artcore/Fortun Machete.mp3"
+Nov 15 21:47 : player: played "Various Artists/Artifacts_of_Artcore/âhâëâxâbâëé╠ê├ìåfeat.MEIKO.mp3"
+Nov 15 21:49 : player: played "Various Artists/Artifacts_of_Artcore/Thaumatological Artifact,No.0039.mp3"
+Nov 15 21:53 : player: played "Xi/World Fragments [320]/01 xi - Aragami 2015.mp3"
+Nov 15 21:55 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Nov 15 21:55 : client: [0] closed
+Nov 15 21:55 : player: played "Xi/World Fragments [320]/02 xi - Double Helix 2015.mp3"
+Nov 16 00:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 00:57 : config: option 'device' on line 209 was not recognized
+Nov 16 00:57 : client: [0] opened from 127.0.0.1:54960
+Nov 16 00:57 : avahi: Service 'Music Player @ zephyr' successfully established.
+Nov 16 01:40 : client: [1] opened from 127.0.0.1:55730
+Nov 16 01:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 01:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 01:40 : player: played "The Chainsmokers/The Chainsmokers - Something Just Like This/1 - The Chainsmokers - Something Just Like This.mp3"
+Nov 16 01:45 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Nov 16 01:50 : player: played "Sana/Sana x Honeyworks - Suki na Hito/08 - イノコリ先生.mp3"
+Nov 16 01:57 : player: played "fhána/Outside of Melancholy/14. white light.mp3"
+Nov 16 02:01 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/1. オレンジ色の決意.flac"
+Nov 16 02:05 : player: played "HoneyWorks/HKUM3-M/05 090‐XXXX‐XXXX.mp3"
+Nov 16 02:09 : player: played "REOL/REOL – Gokusaishoku (1st Album)/10. ラ・タタン.mp3"
+Nov 16 02:12 : player: played "REOL/REOL – Gokusaishoku (1st Album)/05. ハルシアン.mp3"
+Nov 16 02:16 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/07. yuiko — 傷口.mp3"
+Nov 16 02:18 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/10. 5_6.mp3"
+Nov 16 02:20 : player: played "Yorushika/Yorushika - Makeinu ni Alcohol wa Iranai/09. 夏、バス停、君を待つ.mp3"
+Nov 16 02:22 : player: played "REOL/REOL – Gokusaishoku (1st Album)/11. ミッドナイトストロウラ.mp3"
+Nov 16 02:22 : client: [1] closed
+Nov 16 02:40 : client: [0] closed
+Nov 16 10:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 10:30 : config: option 'device' on line 209 was not recognized
+Nov 16 10:30 : avahi: Service 'Music Player @ zephyr' successfully established.
+Nov 16 10:30 : client: [0] opened from 127.0.0.1:40462
+Nov 16 15:44 : client: [1] opened from 127.0.0.1:44062
+Nov 16 15:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 15:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 15:46 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/1/01. Ace Attorney Investigatons 2 ~ Prologue.mp3"
+Nov 16 15:48 : player: played "Video Game OST/Ace Attorney/Apollo Justice_ Ace Attorney OST/22. Recollection ~ A Hurt Fox.mp3"
+Nov 16 15:51 : player: played "Video Game OST/Ace Attorney/Gyakuten Kenji Original Soundtrack (Disc 1)/22. Doubted People.mp3"
+Nov 16 15:53 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Ace Attorney OST/16. Dick Gumshoe ~ It's Detective Gumshoe.mp3"
+Nov 16 15:55 : player: played "Video Game OST/Ace Attorney/Apollo Justice_ Ace Attorney OST/24. Troupe Gramarye.mp3"
+Nov 16 15:58 : player: played "Video Game OST/Ace Attorney/Gyakuten Kenji Original Soundtrack (Disc 2)/07. Reproducing the Scene ~ The Gentleman Thief's Secret Weapon.mp3"
+Nov 16 16:03 : player: played "Video Game OST/Ace Attorney/Turnabout Jazz Soul/05. Miles Edgeworth ~ Great Revival.mp3"
+Nov 16 16:05 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Ace Attorney OST/09. Tell The Truth 2001.mp3"
+Nov 16 16:06 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/07. Phoenix Wright ~ Objection! 2002.mp3"
+Nov 16 16:09 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Ace Attorney OST/26. Ace Attorney ~ End.mp3"
+Nov 16 16:10 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/10. Tell The Truth 2002.mp3"
+Nov 16 16:12 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/27. Investigation ~ Middle 2002.mp3"
+Nov 16 16:13 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/29. Hotline To Destiny.mp3"
+Nov 16 16:13 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/1/09. Jingle ~  Unending Trouble.mp3"
+Nov 16 16:17 : player: played "Video Game OST/Ace Attorney/Gyakuten Meets Orchestra/02. Turnabout Sister's Theme.mp3"
+Nov 16 16:18 : player: played "Video Game OST/Ace Attorney/Apollo Justice_ Ace Attorney OST/10. Percieve ~ Surging Eyes.mp3"
+Nov 16 16:22 : player: played "Video Game OST/Ace Attorney/Gyakuten Saiban Special Courtroom 2008 Orchestra Concert ~Gyakuten Meets Orchestra~/01. Housuke Odoroki ~ A New Trial is in Session!.mp3"
+Nov 16 16:23 : player: played "Video Game OST/Ace Attorney/Gyakuten Kenji Original Soundtrack (Disc 1)/01. Gyakuten Kenji - Prologue.mp3"
+Nov 16 16:23 : player: played "Video Game OST/Ace Attorney/Apollo Justice_ Ace Attorney OST/21. Ringtone (Klavier Gavin).mp3"
+Nov 16 16:24 : player: played "Video Game OST/Ace Attorney/Apollo Justice_ Ace Attorney OST/01. Ace Attorney 4 - Prologue.mp3"
+Nov 16 16:26 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/08. Cross Examination ~ Allegro 2002.mp3"
+Nov 16 16:27 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Ace Attorney OST/08. Pursuit ~ Cornered.mp3"
+Nov 16 16:28 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Trials And Tribulations Bonus Disk/05. Sound Effects ~ Animals.mp3"
+Nov 16 16:30 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/2/02. Gregory Edgeworth ~ Defense Attorney's Knowledge.mp3"
+Nov 16 16:33 : player: played "Video Game OST/Ace Attorney/CADENZA (Phoenix Wright Remixes)/12. Epilogue.mp3"
+Nov 16 16:35 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Trials And Tribulations OST/34. Ringtone ~ Godot.mp3"
+Nov 16 16:39 : player: played "Video Game OST/Ace Attorney/Gyakuten Meets Orchestra/12. Odoroki Housuke - Start of a New Trial!.mp3"
+Nov 16 16:40 : player: played "Video Game OST/Ace Attorney/Apollo Justice_ Ace Attorney OST/15. Ema Skye ~ Scientific Detective.mp3"
+Nov 16 16:42 : player: played "Video Game OST/Ace Attorney/Gyakuten Kenji Original Soundtrack (Disc 2)/03. ''Swept-Away Turnabout'' ~ Tragedy in the Horror House.mp3"
+Nov 16 16:47 : player: played "Video Game OST/Ace Attorney/Gyakuten Meets Orchestra/08. Godot - Fragrance of Dark Coffee.mp3"
+Nov 16 16:48 : player: played "Video Game OST/Ace Attorney/Apollo Justice_ Ace Attorney OST/09. Thrill Theme ~ Suspense.mp3"
+Nov 16 16:51 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/2/15. The Great Monster Moozilla.mp3"
+Nov 16 16:51 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Trials And Tribulations OST/20. Recipe For Turnabout.mp3"
+Nov 16 16:53 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Trials And Tribulations OST/09. Pursuit ~ Caught (Variation).mp3"
+Nov 16 16:56 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/1/03. Logic ~ Truth of the Crime Scene.mp3"
+Nov 16 16:58 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/26. Pearl Fey ~ With Pearly.mp3"
+Nov 16 16:59 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Ace Attorney OST/31. The Blue Badger ~ I Want To Protect You.mp3"
+Nov 16 17:01 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Trials And Tribulations OST/16. Detention Center ~ Elegy Of The Detained.mp3"
+Nov 16 17:03 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/36. Prosecutors Path ~ Miles And Franziska.mp3"
+Nov 16 17:05 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Ace Attorney OST/29. Recollection ~ SL-9 Incident.mp3"
+Nov 16 17:07 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/1/13. Sebastian Debeste ~ First-Class Reasoning.mp3"
+Nov 16 17:13 : player: played "Video Game OST/Ace Attorney/Turnabout Jazz Soul/03. The Steel Samurai.mp3"
+Nov 16 17:15 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/2/01. ''The Inherited Turnabout''.mp3"
+Nov 16 17:15 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/13. Jingle ~ Can't Sleep On A Night Like This.mp3"
+Nov 16 17:17 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/1/04. Trick Analysis.mp3"
+Nov 16 17:19 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/31. Reminiscence ~ Steel Samurai's Ballad.mp3"
+Nov 16 17:21 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Trials And Tribulations OST/07. Pursuit ~ Caught.mp3"
+Nov 16 17:26 : player: played "Video Game OST/Ace Attorney/Gyakuten Kenji Original Soundtrack (Disc 2)/08. Court ~ Guardians of the Law.mp3"
+Nov 16 17:26 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/02. Ringtone ~ Richard Wellington.mp3"
+Nov 16 17:32 : player: played "Video Game OST/Ace Attorney/Turnabout Jazz Soul/08. Godot ~ The Fragrance Of Dark Coffee.mp3"
+Nov 16 17:39 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Trials And Tribulations Bonus Disk/10. Trials And Tribulations Special Blend Mix.mp3"
+Nov 16 17:40 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Trials And Tribulations Bonus Disk/01. Sound Effects ~ System.mp3"
+Nov 16 17:41 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Trials And Tribulations OST/25. Turnabout Beginnings.mp3"
+Nov 16 17:42 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Justice For All OST/01. Justice For All ~ Prologue.mp3"
+Nov 16 17:43 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/1/10. ''The Imprisoned Turnabout''.mp3"
+Nov 16 19:20 : client: [2] opened from 127.0.0.1:46566
+Nov 16 19:24 : player: played "Video Game OST/Ace Attorney/Gyakuten Kenji Original Soundtrack (Disc 1)/05. Logic ~ The Way to the Truth.mp3"
+Nov 16 19:25 : player: played "Video Game OST/Ace Attorney/Apollo Justice_ Ace Attorney OST/07. Cross Examination ~ Allegro 2007.mp3"
+Nov 16 19:31 : player: played "Video Game OST/Ace Attorney/Gyakuten Saiban Special Courtroom 2008 Orchestra Concert ~Gyakuten Meets Orchestra~/06. Gyakuten Saiban 4 Courtroom Suite.mp3"
+Nov 16 19:32 : player: played "Video Game OST/Ace Attorney/Apollo Justice_ Ace Attorney OST/16. Investigation ~ Opening 2007.mp3"
+Nov 16 19:36 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/1/05. Logic Chess ~ Opening.mp3"
+Nov 16 19:39 : player: played "Video Game OST/Ace Attorney/Ace Attorney Investigations 2 Original Soundtrack/1/14. Confrontation ~ Allegro 2011.mp3"
+Nov 16 19:41 : player: played "Video Game OST/Ace Attorney/Gyakuten Kenji Original Soundtrack (Disc 1)/08. Tricks and Gimmicks.mp3"
+Nov 16 19:44 : player: played "Video Game OST/Ace Attorney/Phoenix Wright - Trials And Tribulations OST/27. Hazakura Temple.mp3"
+Nov 16 19:44 : player: played "Video Game OST/Ace Attorney/Apollo Justice_ Ace Attorney OST/34. Ace Attorney 4 - End.mp3"
+Nov 16 19:49 : player: played "while (true)/[2018.04.29] One For All, All For One/01. For You.flac"
+Nov 16 19:55 : player: played "while (true)/While True - Merge/Sidekick.mp3"
+Nov 16 20:00 : player: played "while (true)/[2018.04.29] One For All, All For One/05. Revelation of Silence.flac"
+Nov 16 20:05 : player: played "while (true)/While True - Merge/Violet Lily.mp3"
+Nov 16 20:09 : player: played "while (true)/[2018.04.29] One For All, All For One/03. NozPath.flac"
+Nov 16 20:14 : player: played "while (true)/While True - Merge/fall into oblivion.mp3"
+Nov 16 20:17 : player: played "while (true)/While True - Merge/Tongue Twister.mp3"
+Nov 16 20:21 : player: played "while (true)/[2018.04.29] One For All, All For One/02. VS Nāga.flac"
+Nov 16 20:26 : player: played "while (true)/[2018.04.29] One For All, All For One/06. Abysswalker.flac"
+Nov 16 20:30 : player: played "while (true)/While True - Merge/Eze.mp3"
+Nov 16 20:35 : player: played "while (true)/[2018.04.29] One For All, All For One/07. KaTharsis.flac"
+Nov 16 20:38 : player: played "while (true)/[2018.04.29] One For All, All For One/04. Singularity.flac"
+Nov 16 20:38 : client: [2] closed
+Nov 16 21:15 : client: [1] closed
+Nov 16 22:08 : client: [3] opened from 127.0.0.1:48902
+Nov 16 22:10 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Nov 16 22:15 : player: played "Nujabes/Modal Soul/07. The Sign (ft. Pase Rock).mp3"
+Nov 16 22:20 : player: played "re-plus/re-plus - (2010) Everlasting Truth [320]/06. Imagine feat. The 49ers.mp3"
+Nov 16 22:21 : player: played "Uyama Hiroto/A Son of the Sun (Album)/07 Port51 (Interlude).mp3"
+Nov 16 22:24 : player: played "re-plus/re-plus - (2010) Everlasting Truth [320]/11. Moonscape.mp3"
+Nov 16 22:26 : player: played "Uyama Hiroto/Freeform Jazz (Album)/11 Departure.mp3"
+Nov 16 22:29 : player: played "Uyama Hiroto/A Son of the Sun (Album)/04 Nightwood.mp3"
+Nov 16 22:33 : player: played "Float 11/Daydream (Album)/09 across the air.mp3"
+Nov 16 22:35 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/09. Spring Melody.mp3"
+Nov 16 22:38 : player: played "Uyama Hiroto/A Son of the Sun (Album)/08 Carbon Rose.mp3"
+Nov 16 22:42 : player: played "Uyama Hiroto/Freeform Jazz (Album)/13 Posse.mp3"
+Nov 16 22:47 : player: played "Uyama Hiroto/Freeform Jazz (Album)/10 South Side.mp3"
+Nov 16 22:52 : player: played "Float 11/Daydream (Album)/14 no frames.mp3"
+Nov 16 22:55 : player: played "Blazo/Alone Journey/04. Alone Journey.mp3"
+Nov 16 22:59 : player: played "Uyama Hiroto/Freeform Jazz (Album)/06 Unconscious.mp3"
+Nov 16 23:01 : player: played "Blazo/Alone Journey/10. Little Piano.mp3"
+Nov 16 23:04 : player: played "Nujabes/Metaphorical Music [320] [2003]/01. Blessing It (remix) (ft. Substantial & Pase Rock).mp3"
+Nov 16 23:08 : player: played "Nujabes/Modal Soul/11. Flowers.mp3"
+Nov 16 23:12 : player: played "Float 11/Daydream (Album)/07 sleet.mp3"
+Nov 16 23:16 : player: played "Uyama Hiroto/A Son of the Sun (Album)/02 Climbed Mountain.mp3"
+Nov 16 23:18 : player: played "Uyama Hiroto/Freeform Jazz (Album)/09 Waltz for Real World.mp3"
+Nov 16 23:23 : player: played "Nujabes/2nd Collection/12. windspeaks.mp3"
+Nov 16 23:25 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Nov 16 23:28 : player: played "Float 11/Daydream (Album)/04 brilliant colors.mp3"
+Nov 17 01:18 : client: [3] closed
+Nov 17 01:18 : client: [0] closed
+Nov 17 01:18 : player: played "Uyama Hiroto/A Son of the Sun (Album)/11 Last Transit (Interlude).mp3"
+Nov 17 11:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 11:47 : config: option 'device' on line 209 was not recognized
+Nov 17 11:47 : avahi: Service 'Music Player @ zephyr' successfully established.
+Nov 17 11:47 : client: [0] opened from 127.0.0.1:57042

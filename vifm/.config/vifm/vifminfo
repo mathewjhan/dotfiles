@@ -18,7 +18,7 @@
 
 # TUI:
 al
-q0
+q1
 v2
 ov
 m-1
@@ -324,8 +324,8 @@ d/media/data/mathew/Home/resume
 	Han, Mathew - Resume.pdf
 1
 d/home/mathew
-	2019-11-15-004454_1920x1080_scrot.png
-18
+	5
+16
 d
 
 # Right window history (oldest to newest):
@@ -461,6 +461,7 @@ D
 :! optirun mpv %c
 :cd $WINHOME/trash
 :cd $WINHOME
+::q
 :view
 :q
 
