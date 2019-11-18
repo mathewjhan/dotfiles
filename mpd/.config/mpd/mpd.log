@@ -10544,3 +10544,26 @@ Nov 17 11:47 : exception: RTIOThread could not get realtime scheduling, continui
 Nov 17 11:47 : config: option 'device' on line 209 was not recognized
 Nov 17 11:47 : avahi: Service 'Music Player @ zephyr' successfully established.
 Nov 17 11:47 : client: [0] opened from 127.0.0.1:57042
+Nov 17 18:42 : client: [0] closed
+Nov 17 22:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 22:03 : config: option 'device' on line 209 was not recognized
+Nov 17 22:03 : client: [0] opened from 127.0.0.1:54600
+Nov 17 22:03 : avahi: Service 'Music Player @ zephyr' successfully established.
+Nov 17 23:52 : client: [0] closed
+Nov 18 11:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 11:17 : config: option 'device' on line 209 was not recognized
+Nov 18 11:17 : client: [0] opened from 127.0.0.1:49340
+Nov 18 11:17 : avahi: Service 'Music Player @ zephyr' successfully established.
+Nov 18 11:18 : client: [1] opened from 127.0.0.1:49392
+Nov 18 11:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 11:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 11:25 : player: played "bohemianvoodoo/Echoes (Album)/01 Chill Out.mp3"
+Nov 18 11:33 : player: played "bohemianvoodoo/Echoes (Album)/02 Get Dressed Up.mp3"
+Nov 18 11:36 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Nov 18 11:36 : client: [1] closed
+Nov 18 11:36 : client: [0] closed
+Nov 18 11:36 : player: played "bohemianvoodoo/Echoes (Album)/03 Nomad.mp3"
+Nov 18 11:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 11:37 : config: option 'device' on line 209 was not recognized
+Nov 18 11:37 : avahi: Service 'Music Player @ zephyr' successfully established.
+Nov 18 11:37 : client: [0] opened from 127.0.0.1:50942

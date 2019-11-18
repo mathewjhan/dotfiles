@@ -287,7 +287,7 @@ client.background       $fg
 exec --no-startup-id feh --bg-scale "$(cat ~/.wallpaper)" 
 
 # Start Compton
-exec --no-startup-id compton --config ~/.config/compton.conf 
+exec --no-startup-id picom --config ~/.config/picom.conf 
 
 # Spiral tiling
 exec_always --no-startup-id python /usr/bin/alternating_layouts.py
