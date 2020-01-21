@@ -15,7 +15,8 @@ export PATH="$HOME/go/bin:$PATH"
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
 export COLLEGE="/media/data/mathew/Home/College"
-export CS187="/media/data/mathew/Home/College/CS187"
+alias cs230="cd /media/data/mathew/Home/College/CS230"
+alias cs250="cd /media/data/mathew/Home/College/CS250"
 
 # Convenient aliases
 alias e="nvim"
@@ -25,10 +26,17 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 
-## Touch + edit
+# Touch + edit
 te(){
     touch "$@"
     nvim "$@"
+}
+
+# Vimtex
+vt(){
+    touch "$@"
+    nvim "$@"
+    latexmk -quiet -pdf -c "$@"
 }
 
 # School
@@ -84,8 +92,8 @@ eval $(thefuck --alias fuck)
 
 # Fast configs
 alias vimrc="cd ~/.vim/vimrc.d && echo 'Changed directories to vimrc.d'"
-alias bashrc="vim ~/.bashrc && source ~/.bashrc && clear"
-alias zshrc="vim ~/.zshrc && source ~/.zshrc && clear"
+alias bashrc="vim ~/.bashrc && source ~/.bashrc"
+alias zshrc="vim ~/.zshrc && source ~/.zshrc"
 alias i3config="vim ~/.config/i3/config"
 
 # Lock
@@ -107,6 +115,12 @@ extract-all(){
 
 # Theme spotify
 alias theme-spotify="oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox"
+
+# Update all themes not directly changed by wal
+update-theme(){
+    oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
+    zth & kill $(echo $!)
+}
 
 # Manage dots
 commit-dots(){

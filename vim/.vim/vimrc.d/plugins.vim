@@ -23,6 +23,7 @@ Plug 'tpope/vim-surround'
 Plug 'tmsvg/pear-tree'
 Plug 'scrooloose/nerdcommenter'
 Plug 'MattesGroeger/vim-bookmarks'
+Plug 'psliwka/vim-smoothie'
 Plug 'neoclide/coc.nvim', {'tag': '*', 'do': './install.sh'}
 
 " Local
@@ -58,7 +59,7 @@ endif
 " => Pandoc
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-" Disable spell-check as default
+" Disable spell-check as defauult
 let g:pandoc#spell#enabled = 0
 
 

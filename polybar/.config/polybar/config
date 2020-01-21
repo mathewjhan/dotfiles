@@ -12,12 +12,12 @@ foreground = ${xrdb:color7:#222}
 background = ${xrdb:color0:#222}
 
 foreground-inverse = ${xrdb:color0:#222}
-background-inverse = ${xrdb:color1:#222}
+background-inverse = ${xrdb:color4:#222}
 
 foreground-faded = ${xrdb:color7:#222}
 background-raised = ${xrdb:color0:#222}
 
-foreground-prefix = ${xrdb:color1:#222}
+foreground-prefix = ${xrdb:color2:#222}
 underline-prefix = ${xrdb:color3:#222}
 
 warning = ${xrdb:color3:#222}
@@ -48,14 +48,14 @@ padding-right = 0
 module-margin-left = 2
 module-margin-right = 0
 
-font-0 = inconsolata:style=regular:size=11; 2
-font-1 = Font Awesome 5 Free:style=Solid:size=12; 2
-font-2 = Font Awesome 5 Free:style=Regular:size=12; 2
-font-3 = Font Awesome 5 Brands:size=12; 2
-font-4 = Font Awesome 5 Free:style=Solid:size=12; 2
+font-0 = inconsolata:style=regular:size=10; 2
+font-1 = Font Awesome 5 Free:style=Solid:size=10; 2
+font-2 = Font Awesome 5 Free:style=Regular:size=10; 2
+font-3 = Font Awesome 5 Brands:size=10; 2
+font-4 = Font Awesome 5 Free:style=Solid:size=10; 2
 font-5 = hack:size=12; 2
 font-6 = Iosevka Nerd Font Mono:fontformat=truetype:size=14:antialias=true;3 
-font-7 = Noto Sans CJK JP:regular:size=11; 2
+font-7 = Noto Sans CJK JP:regular:size=10; 2
 
 ;enable-ipc = true
 
