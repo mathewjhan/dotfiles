@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/mathew/test'
 let g:netrw_dirhist_6='/home/mathew/.config'
 let g:netrw_dirhist_5='/home/mathew/.config/polybar'
 let g:netrw_dirhist_4='/home/mathew/.local/lib/python3.7/site-packages/pygle'

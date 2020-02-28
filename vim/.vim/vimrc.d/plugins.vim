@@ -71,6 +71,7 @@ let g:pandoc#spell#enabled = 0
 "" Zathura previews
 let g:md_pdf_viewer="zathura"
 let g:vimtex_view_method="zathura"
+let g:tex_flavor = 'latex'
 let g:pandoc#syntax#conceal#use = 0
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

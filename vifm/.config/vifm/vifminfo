@@ -18,7 +18,7 @@
 
 # TUI:
 al
-q1
+q0
 v2
 ov
 m-1
@@ -26,171 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/media/data/mathew/Home/resume
-	Han, Mathew - Resume.pdf
-1
-d/home/mathew
-	5
-16
-d/media/data/mathew/Home/trash/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai
-	Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai_04.mp4
-4
-d/home/mathew
-	screenshot.png
-20
-d/media/data/mathew/Home/trash
-	Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai
-2
-d/media/data/mathew/Home/trash/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai
-	Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai_08.mp4
-8
-d/media/data/mathew/Home/trash
-	Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai
-2
-d/media/data/mathew/Home/trash/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai
-	Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai_13.mp4
-13
-d/media/data/mathew/Home/trash
-	[Beatrice-Raws] Kokoro ga Sakebitagatterunda. [BDRip 1920x1080 x264 FLAC]
-2
-d/media/data/mathew/Home
-	trash
-9
-d/media/data/mathew/Home/trash
-	[Beatrice-Raws] Kokoro ga Sakebitagatterunda. [BDRip 1920x1080 x264 FLAC]
-2
-d/media/data/mathew/Home
-	trash
-9
-d/media/data/mathew
-	Home
-2
-d/media/data
-	..
-0
-d/home/mathew
-	Documents
-2
-d/home/mathew/Documents
-	IRS
-1
-d/home/mathew/Documents/IRS
-	Blackface Deluxe.irs
-2
-d/home/mathew/Documents
-	ctf
-2
-d/home/mathew/Documents/ctf
-	rootersctf
-1
-d/home/mathew/Documents/ctf/rootersctf
-	programming
-1
-d/home/mathew/Documents/ctf/rootersctf/programming
-	CP.png
-2
-d/media/data/mathew/Home/College/SOCIOL105
-	Affective forecasting copy.pdf
-9
-d/media/data/mathew/Home/High School/2018-2019/Cohen
-	Cohen_Q1Project_Scene.docx
-4
-d/media/data/mathew/Home/College/SOCIOL105
-	bookreview.docx
-15
-d/media/data/mathew/Home/resume
-	..
-0
-d/media/data/mathew/Home/College/SOCIOL105
-	19.11.17-response.pdf
-6
-d/home/mathew/Downloads
-	Soc 105 final Fall 2019.pdf
-18
-d/media/data/mathew/Home/resume
-	Han, Mathew - Resume.pdf
-1
-d/home/mathew/Pictures/Wallpapers
-	pastelmoon.png
-35
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew
-	Pictures
-5
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew/Pictures/Wallpapers
-	space-graphics-1920×1080.jpg
-42
-d/media/data/mathew/Pictures/Wallpapers/real
-	wallhaven-329775.jpg
-29
-d/media/data/mathew/Pictures/Wallpapers
-	to be organized
-6
-d/media/data/mathew/Pictures/Wallpapers/to be organized
-	wrywjpghzgi11.png
-33
-d/media/data/mathew/Pictures/Wallpapers
-	real
-4
-d/media/data/mathew/Pictures/Wallpapers/real
-	36978499711_bbaa112c94_o.jpg
-7
-d/media/data/mathew/Pictures/Wallpapers
-	michael
-3
-d/media/data/mathew/Pictures
-	Wallpapers
-8
-d/media/data/mathew/Pictures/Wallpapers
-	4K
-1
-d/media/data/mathew/Pictures/Wallpapers/4K
-	thumb-1920-906150_waifu2x_art_noise0_scale_tta_1.png
-7
-d/media/data/mathew/Pictures/Wallpapers
-	4K
-1
-d/media/data/mathew/Pictures
-	Wallpapers
-8
-d/media/data/mathew
-	Pictures
-4
-d/home/mathew/Pictures/Wallpapers
-	..
-0
-d/media/data/mathew/Home/High School/AP Resources
-	AP Practice
-2
-d/media/data/mathew/Home/High School/AP Resources/AP Practice
-	Computer Science AB
-6
-d/media/data/mathew/Home/High School/AP Resources
-	2016 AP Practice Exams
-1
-d/media/data/mathew/Home/High School/AP Resources/2016 AP Practice Exams
-	AP Bio 2016.pdf
-1
-d/media/data/mathew/Home/High School/AP Resources
-	AP Practice
-2
-d/media/data/mathew/Home/High School/AP Resources/AP Practice
-	Macroeconomics
-12
-d/media/data/mathew/Home/High School/AP Resources/AP Practice/Macroeconomics
-	5 Steps to a 5 - AP Microeconomics & Macroeconomics [2008-2009].pdf
-1
-d/media/data/mathew/Home/High School/AP Resources/AP Practice
-	Macroeconomics
-12
-d/media/data/mathew/Home/High School/AP Resources
-	2016 AP Practice Exams
-1
 d/media/data/mathew/Home/High School
 	AP Resources
 6
@@ -326,6 +161,171 @@ d/media/data/mathew/Home/trash
 d/media/data/mathew/Home/trash/Kimetsu_no_Yaiba
 	Kimetsu_no_Yaiba_15.mp4
 15
+d/media/data/mathew/Home/trash
+	Kaguya-sama wa Kokurasetai 01-12 (1920x1080 HEVC2 AAC) (Batch)
+1
+d/media/data/mathew/Home/trash/Kaguya-sama wa Kokurasetai 01-12 (1920x1080 HEVC2 AAC) (Batch)
+	Kaguya-sama wa Kokurasetai - 12 (1920x1080 HEVC2 AAC).mkv
+12
+d/home/mathew
+	Pictures
+5
+d/home
+	mathew
+1
+d/
+	usr
+19
+d/usr
+	share
+9
+d/usr/share
+	backgrounds
+26
+d/usr/share/backgrounds
+	gnome
+1
+d/usr/share/backgrounds/gnome
+	Road.jpg
+8
+d/usr/share/backgrounds
+	xfce
+2
+d/usr/share/backgrounds/xfce
+	Szarkakoi_fa.jpg
+8
+d/media/data/mathew/Home/resume
+	college_resume.docx
+2
+d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+	[Reaktor] Your Lie in April - E03 [1080p][x265][10-bit][Dual-Audio].mkv
+3
+d/media/data/mathew/Home/trash
+	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+3
+d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+	[Reaktor] Your Lie in April - E03 [1080p][x265][10-bit][Dual-Audio].mkv
+3
+d/media/data/mathew/Home/trash
+	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+3
+d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+	[Reaktor] Your Lie in April - E04 [1080p][x265][10-bit][Dual-Audio].mkv
+4
+d/media/data/mathew/Home/College/ENGLWRIT112
+	cr_assignment.docx
+5
+d/media/data/mathew/Home/trash
+	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+3
+d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+	[Reaktor] Your Lie in April - E06 [1080p][x265][10-bit][Dual-Audio].mkv
+6
+d/media/data/mathew/Home/College/ENGLWRIT112
+	cr_assignment.docx
+5
+d/media/data/mathew/Home/trash
+	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+3
+d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+	[Reaktor] Your Lie in April - E12 [1080p][x265][10-bit][Dual-Audio].mkv
+12
+d/media/data/mathew/Home/trash
+	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+3
+d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+	[Reaktor] Your Lie in April - E18 [1080p][x265][10-bit][Dual-Audio].mkv
+18
+d/media/data/mathew/Home/trash
+	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+3
+d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
+	[Reaktor] Your Lie in April - E22 [1080p][x265][10-bit][Dual-Audio].mkv
+22
+d/home/mathew
+	2020-02-03 13-58-15.mp4
+20
+d/media/data/mathew/Home/College/ENGLWRIT112/critical writing essay
+	cr_essay_draft2.docx
+4
+d/media/data/mathew/Home/College/ENGLWRIT112
+	critical writing essay
+1
+d/media/data/mathew/Home/College/ENGLWRIT112/critical writing essay
+	cr_essay_draft2.docx
+4
+d/home/mathew/Pictures/Wallpapers
+	bubblesgirl.png
+6
+d/media/data/mathew/Home/College/ENGLWRIT112/critical writing essay
+	Critical Reading Assignment instructions.docx
+1
+d/media/data/mathew/Home/College/ENGLWRIT112
+	critical writing essay
+1
+d/media/data/mathew/Home/College
+	ENGLWRIT112
+6
+d/media/data/mathew/Home/College/ENGLWRIT112
+	critical writing essay
+1
+d/media/data/mathew/Home/College/ENGLWRIT112/critical writing essay
+	Rubric -- Academic Response -- Sp 20.docx
+3
+d/media/data/mathew/Home/College
+	ENGLWRIT112
+6
+d/media/data/mathew/Home/College/ENGLWRIT112
+	critical writing essay
+1
+d/media/data/mathew/Home/College/ENGLWRIT112/critical writing essay
+	..
+0
+d/media/data/mathew/Home/College/ENGLWRIT112/Academic Response Paper
+	..
+0
+d/media/data/mathew/Home/College/ENGLWRIT112
+	Academic Response Paper
+1
+d/media/data/mathew/Home/College/ENGLWRIT112/Academic Response Paper
+	revision_plan2.docx
+12
+d/media/data/mathew/Home/College/ENGLWRIT112
+	Academic Response Paper
+1
+d/home/mathew/Downloads
+	HorribleSubs-Boku-no-Hero-Academia-81-720p-mkv
+1
+d/home/mathew/Downloads/HorribleSubs-Boku-no-Hero-Academia-81-720p-mkv
+	..
+0
+d/home/mathew/Downloads
+	HorribleSubs-Boku-no-Hero-Academia-81-720p-mkv
+1
+d/home/mathew/Pictures/Wallpapers
+	moreblossoms.png
+32
+d/media/data/mathew/Home/College/ENGLWRIT112/Academic Response Paper
+	Reflection Paper Handout — Spring 20 Academic response.docx
+3
+d/media/data/mathew/Home/College/ENGLWRIT112
+	Research Paper Proposal Handout.pdf
+4
+d/media/data/mathew/Home/College/ENGLWRIT112/Research Paper
+	VanWel-Royakkers2004_Article_EthicalIssuesInWebDataMining.pdf
+5
+d/media/data/mathew/Home/College/ENGLWRIT112
+	Research Paper Proposal Handout.pdf
+4
+d/media/data/mathew/Home/College
+	ENGLWRIT112
+6
+d/media/data/mathew/Home/College/ENGLWRIT112
+	Research Paper
+2
+d/media/data/mathew/Home/College/ENGLWRIT112/Research Paper
+	annotated_bibliography.docx
+9
 d
 
 # Right window history (oldest to newest):
@@ -461,8 +461,9 @@ D
 :cd $WINHOME/trash
 :cd $WINHOME
 ::q
-:view
 :wq
+:View
+:view
 :q
 
 # Search history (oldest to newest):
@@ -482,13 +483,14 @@ D
 /myster
 /gun
 /Crack
+/back
 
 # Prompt history (oldest to newest):
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/mathew/.local/share/vifm/Trash/000_mpv-shot0001.jpg
+""/home/mathew/.local/share/vifm/Trash/000_races.go
 
 # Directory stack (oldest to newest):
 
@@ -625,6 +627,10 @@ t/home/mathew/.local/share/vifm/Trash/000_udagawa.png
 	/home/mathew/Pictures/Wallpapers/udagawa.png
 t/home/mathew/.local/share/vifm/Trash/000_mpv-shot0001.jpg
 	/home/mathew/mpv-shot0001.jpg
+t/home/mathew/.local/share/vifm/Trash/000_practice exam2_sol.pdf
+	/home/mathew/Downloads/practice exam2_sol.pdf
+t/home/mathew/.local/share/vifm/Trash/000_races.go
+	/home/mathew/Downloads/races.go
 
 # State:
 f

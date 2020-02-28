@@ -14,9 +14,12 @@ export ANDROID_HOME="/opt/android-sdk"
 export PATH="$HOME/go/bin:$PATH"
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
-export COLLEGE="/media/data/mathew/Home/College"
+# School
+alias college="cd /media/data/mathew/Home/College"
 alias cs230="cd /media/data/mathew/Home/College/CS230"
 alias cs250="cd /media/data/mathew/Home/College/CS250"
+alias math233="cd /media/data/mathew/Home/College/MATH233"
+alias eng112="cd /media/data/mathew/Home/College/ENGLWRIT112"
 
 # Convenient aliases
 alias e="nvim"
@@ -25,6 +28,9 @@ alias mp="ncmpcpp"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
+
+# Other stuff
+alias weebtrash="cd /media/data/mathew/Home/trash"
 
 # Touch + edit
 te(){
@@ -38,9 +44,6 @@ vt(){
     nvim "$@"
     latexmk -quiet -pdf -c "$@"
 }
-
-# School
-alias checkstyle="java -jar checkstyle-8.18-all.jar -c 187style.xml"
 
 # Connman
 #alias lsnet="connmanctl scan wifi && connmanctl services"
@@ -75,11 +78,11 @@ mode-optimanager(){
     echo "Successfully changed to optimus-manager"
 }
 
+
 alias nvtop="watch -n 0.5 nvidia-smi"
 
 # Misc
 alias ls='exa'
-alias rm="rm -I"
 alias icat="kitty icat"
 alias clipboard="xclip -selection clipboard"
 alias gohome="cd /media/data/mathew/Home"
@@ -120,6 +123,7 @@ alias theme-spotify="oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
 update-theme(){
     oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
     zth & kill $(echo $!)
+    xrdb -merge ~/.Xresources
 }
 
 # Manage dots

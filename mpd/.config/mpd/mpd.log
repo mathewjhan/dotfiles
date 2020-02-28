@@ -11581,3 +11581,1422 @@ Jan 20 22:47 : player: played "Anime OST/Weathering With You -Complete Version- 
 Jan 20 22:53 : player: played "Anime OST/Weathering With You -Complete Version- (Album)/06 Is There Still Anything That Love Can Do (English Version).mp3"
 Jan 20 22:57 : player: played "Anime OST/Weathering With You -Complete Version- (Album)/03 Grand Escape (feat. Toko Miura).mp3"
 Jan 20 22:57 : client: [3] closed
+Jan 20 23:10 : client: [0] closed
+Jan 21 21:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 21 21:37 : config: option 'device' on line 209 was not recognized
+Jan 21 21:37 : client: [0] opened from 127.0.0.1:42334
+Jan 21 21:37 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 21 22:46 : avahi: Client Disconnected, will reconnect shortly
+Jan 21 22:46 : client: [0] closed
+Jan 22 11:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 11:09 : config: option 'device' on line 209 was not recognized
+Jan 22 11:09 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 22 11:09 : client: [0] opened from 127.0.0.1:37486
+Jan 22 11:12 : client: [0] closed
+Jan 22 14:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 14:19 : config: option 'device' on line 209 was not recognized
+Jan 22 14:19 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 22 14:19 : client: [0] opened from 127.0.0.1:55982
+Jan 22 15:02 : client: [1] opened from 127.0.0.1:56604
+Jan 22 15:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 15:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 15:07 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Jan 22 15:12 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/14 Okuriuta.mp3"
+Jan 22 15:14 : player: played "HoneyWorks/HKUM2-M/01 Treasure story.mp3"
+Jan 22 15:18 : player: played "soraru/Wonder (Album)/09 Oshiete Kamisama.mp3"
+Jan 22 15:22 : player: played "Aimer/Dawn (Album)/03 Kimi Wo Matsu.mp3"
+Jan 22 15:27 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/08. Mukei no Outline.mp3"
+Jan 22 15:31 : player: played "HoneyWorks/HKUM5-M/06 リトルリグレット.mp3"
+Jan 22 15:34 : client: [1] closed
+Jan 22 15:34 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 22 15:34 : client: [0] closed
+Jan 22 15:34 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/15. Vidro Moyou.mp3"
+Jan 22 17:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 22 17:00 : config: option 'device' on line 209 was not recognized
+Jan 22 17:00 : client: [0] opened from 127.0.0.1:49710
+Jan 22 17:00 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 22 23:04 : avahi: Client Disconnected, will reconnect shortly
+Jan 22 23:04 : client: [0] closed
+Jan 23 09:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 23 09:12 : config: option 'device' on line 209 was not recognized
+Jan 23 09:12 : client: [0] opened from 127.0.0.1:47820
+Jan 23 09:12 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 23 16:44 : client: [1] opened from 127.0.0.1:55412
+Jan 23 16:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 23 16:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 23 16:47 : player: played "Xi/World Fragments [320]/04 xi - ANiMA 2015.mp3"
+Jan 23 17:15 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/01. Can Do.mp3"
+Jan 23 17:20 : player: played "Xi/World Fragments [320]/04 xi - ANiMA 2015.mp3"
+Jan 23 17:24 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/07. only my railgun.mp3"
+Jan 23 17:30 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/07. 境界の彼方.mp3"
+Jan 23 17:33 : player: played "Various Artists/Artifacts_of_Artcore/Knife of Amber.mp3"
+Jan 23 17:35 : player: played "ARForest/Coloridium/06. Rudia.mp3"
+Jan 23 17:41 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/10. HERO.mp3"
+Jan 23 17:44 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/03. 星間飛行.mp3"
+Jan 23 17:48 : player: played "Symphonic Xizer/SymphonicXize-002/03. Beautifu Looping.mp3"
+Jan 23 17:52 : player: played "Various Artists/Artifacts_of_Artcore/Fortun Machete.mp3"
+Jan 23 17:56 : player: played "NiZi RiNGO/Athenarium/05. 霜月.mp3"
+Jan 23 18:01 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/06. angel's night -祭りの後-.mp3"
+Jan 23 18:03 : player: played "ARForest/Coloridium/07. Save us.mp3"
+Jan 23 18:05 : player: played "ARForest/Coloridium/04. Water Color.mp3"
+Jan 23 18:10 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/09. Snow halation.mp3"
+Jan 23 18:12 : player: played "Various Artists/Artifacts_of_Artcore/ÄlïGé╠ÄvéóÅo.mp3"
+Jan 23 18:17 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/02. My Soul, Your Beats! -Zephyr Violin Edition-.mp3"
+Jan 23 18:20 : player: played "Various Artists/Artifacts_of_Artcore/ù┤ûΣôSï╛.mp3"
+Jan 23 18:25 : player: played "Xi/World Fragments [320]/02 xi - Double Helix 2015.mp3"
+Jan 23 18:27 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/01. Gentle Jena -はじまりのおと-.mp3"
+Jan 23 18:32 : player: played "Xi/World Fragments [320]/05 xi - over the top 2015.mp3"
+Jan 23 18:36 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/01. 海色.mp3"
+Jan 23 18:41 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/06. 創聖のアクエリオン.mp3"
+Jan 23 18:44 : player: played "Xi/World Fragments [320]/03 xi feat.Sta - Tiferet 2015.mp3"
+Jan 23 18:49 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/04. 風を待った日 -little wish-.mp3"
+Jan 23 18:53 : player: played "Various Artists/Artifacts_of_Artcore/Dawn piecer ''Squallogram''.mp3"
+Jan 23 18:57 : player: played "TAMUSIC/東方バイオリンロック 星-HOSHI-/02. 小さな小さな賢将.mp3"
+Jan 23 19:01 : player: played "TAMUSIC/東方バイオリンロック 星-HOSHI-/06. 虎柄の毘沙門天.mp3"
+Jan 23 19:04 : player: played "NiZi RiNGO/Athenarium/07. 喝.mp3"
+Jan 23 19:08 : player: played "TAMUSIC/東方バイオリンロック 星-HOSHI-/08. 夜空のユーフォーロマンス.mp3"
+Jan 23 19:14 : player: played "Symphonic Xizer/SymphonicXize-002/01. Lithosphere.mp3"
+Jan 23 19:20 : player: played "Symphonic Xizer/SymphonicXize-002/06. Orbit.mp3"
+Jan 23 19:24 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/05. Sparkling Daydream.mp3"
+Jan 23 19:28 : player: played "Xi/World Fragments [320]/01 xi - Aragami 2015.mp3"
+Jan 23 19:32 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/03. 新しき世界 -Unison of the Violization-.mp3"
+Jan 23 19:36 : player: played "TAMUSIC/東方バイオリンロック 星-HOSHI-/05. キャプテン・ムラサ.mp3"
+Jan 23 19:40 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 23 19:40 : client: [1] closed
+Jan 23 19:40 : client: [0] closed
+Jan 23 19:40 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/03. GONG.mp3"
+Jan 23 21:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 23 21:01 : config: option 'device' on line 209 was not recognized
+Jan 23 21:01 : client: [0] opened from 127.0.0.1:39740
+Jan 23 21:01 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 23 23:39 : client: [0] closed
+Jan 24 15:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 24 15:10 : config: option 'device' on line 209 was not recognized
+Jan 24 15:10 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 24 15:10 : client: [0] opened from 127.0.0.1:54630
+Jan 24 15:14 : client: [0] closed
+Jan 24 15:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 24 15:14 : config: option 'device' on line 209 was not recognized
+Jan 24 15:14 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 24 15:14 : client: [0] opened from 127.0.0.1:33506
+Jan 24 16:55 : client: [0] closed
+Jan 24 17:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 24 17:11 : config: option 'device' on line 209 was not recognized
+Jan 24 17:11 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 24 17:11 : client: [0] opened from 127.0.0.1:42512
+Jan 24 21:28 : client: [0] closed
+Jan 25 11:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 25 11:20 : config: option 'device' on line 209 was not recognized
+Jan 25 11:20 : client: [0] opened from 127.0.0.1:33176
+Jan 25 11:20 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 25 16:35 : client: [0] closed
+Jan 25 17:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 25 17:05 : config: option 'device' on line 209 was not recognized
+Jan 25 17:05 : client: [0] opened from 127.0.0.1:51010
+Jan 25 17:05 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 25 17:53 : client: [0] closed
+Jan 25 17:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 25 17:54 : config: option 'device' on line 209 was not recognized
+Jan 25 17:54 : client: [0] opened from 127.0.0.1:52962
+Jan 25 17:54 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 25 18:03 : client: [0] closed
+Jan 25 18:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 25 18:04 : config: option 'device' on line 209 was not recognized
+Jan 25 18:04 : client: [0] opened from 127.0.0.1:53188
+Jan 25 18:04 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 25 18:13 : client: [0] closed
+Jan 25 18:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 25 18:14 : config: option 'device' on line 209 was not recognized
+Jan 25 18:14 : client: [0] opened from 127.0.0.1:53362
+Jan 25 18:14 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 25 18:17 : client: [0] closed
+Jan 25 18:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 25 18:18 : config: option 'device' on line 209 was not recognized
+Jan 25 18:18 : client: [0] opened from 127.0.0.1:53508
+Jan 25 18:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 25 18:25 : client: [0] closed
+Jan 25 18:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 25 18:26 : config: option 'device' on line 209 was not recognized
+Jan 25 18:26 : client: [0] opened from 127.0.0.1:53706
+Jan 25 18:26 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 25 22:41 : client: [0] closed
+Jan 26 13:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 26 13:17 : config: option 'device' on line 209 was not recognized
+Jan 26 13:17 : client: [0] opened from 127.0.0.1:36190
+Jan 26 13:17 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 26 15:26 : client: [0] closed
+Jan 26 19:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 26 19:40 : config: option 'device' on line 209 was not recognized
+Jan 26 19:40 : client: [0] opened from 127.0.0.1:34394
+Jan 26 19:40 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 27 00:08 : client: [0] closed
+Jan 27 12:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 12:46 : config: option 'device' on line 209 was not recognized
+Jan 27 12:46 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 27 12:46 : client: [0] opened from 127.0.0.1:42432
+Jan 27 14:20 : client: [0] closed
+Jan 27 14:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 14:30 : config: option 'device' on line 209 was not recognized
+Jan 27 14:30 : client: [0] opened from 127.0.0.1:60070
+Jan 27 14:30 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 27 14:59 : client: [0] closed
+Jan 27 15:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 15:18 : config: option 'device' on line 209 was not recognized
+Jan 27 15:18 : client: [0] opened from 127.0.0.1:50710
+Jan 27 15:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 27 16:01 : client: [0] closed
+Jan 27 16:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 16:35 : config: option 'device' on line 209 was not recognized
+Jan 27 16:35 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 27 16:35 : client: [0] opened from 127.0.0.1:57336
+Jan 27 16:45 : client: [0] closed
+Jan 27 16:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 16:58 : config: option 'device' on line 209 was not recognized
+Jan 27 16:58 : client: [0] opened from 127.0.0.1:55828
+Jan 27 16:58 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 27 17:02 : client: [1] opened from 127.0.0.1:55948
+Jan 27 17:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 17:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 27 17:07 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Jan 27 17:11 : player: played "HoneyWorks/HKUM2-M/13 初恋の絵本 -another story-.mp3"
+Jan 27 17:15 : player: played "H△G/声 ~VOCALOID Cover Album~/14. 声.mp3"
+Jan 27 17:19 : player: played "H△G/A Place in the Sun (Album)/03 Nazuna.mp3"
+Jan 27 17:24 : player: played "H△G/A Place in the Sun (Album)/07 Seventeen.mp3"
+Jan 27 17:30 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/15 Kyomo Sakuramau Akatsukini.mp3"
+Jan 27 17:34 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/05. Laterality.mp3"
+Jan 27 17:39 : player: played "HoneyWorks/HKUM4-M/16 ロクベル（Acoustic arrangement）.mp3"
+Jan 27 17:44 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/14. Harumodoki.mp3"
+Jan 27 17:47 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/02. カトレア.mp3"
+Jan 27 17:52 : player: played "H△G/A Place in the Sun (Album)/10 Song for You.mp3"
+Jan 27 17:55 : player: played "Yorushika/Yorushika - Makeinu ni Alcohol wa Iranai/07. ただ君に晴れ.mp3"
+Jan 27 17:59 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Jan 27 18:02 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/12. yuiko — 月.mp3"
+Jan 27 18:07 : player: played "Primary x yuiko/From GardeN/03. cling.mp3"
+Jan 27 18:10 : player: played "Sana/Sana x Honeyworks - Suki na Hito/05 - 告白ライバル宣言.mp3"
+Jan 27 18:14 : player: played "H△G/A Place in the Sun (Album)/04 Nostalgia.mp3"
+Jan 27 18:18 : player: played "Aimer/Sun Dance (Album)/07 omoideha kireide.mp3"
+Jan 27 18:22 : player: played "Primary x yuiko/fragile garden _ 翳り空/fragile garden.mp3"
+Jan 27 18:25 : player: played "Yunomi/ゆのみっくにお茶して EP/06. おとぎ話の日々.mp3"
+Jan 27 18:30 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/4. 嘘偽リノ世界.flac"
+Jan 27 18:32 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/09. Souzou no Kimi.mp3"
+Jan 27 18:36 : player: played "Sana/Sana x Honeyworks - Suki na Hito/01 - 未来図.mp3"
+Jan 27 18:42 : player: played "soraru/Wonder (Album)/13 Wonder.mp3"
+Jan 27 18:46 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/02 Aino Scenario.mp3"
+Jan 27 18:50 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/5. 小さな甘い恋.flac"
+Jan 27 18:54 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/08. yuiko — in the past.mp3"
+Jan 27 18:58 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/04. yuiko — ASPIRE.mp3"
+Jan 27 19:01 : player: played "soraru/Wonder (Album)/07 Arifureta Mahou.mp3"
+Jan 27 19:05 : player: played "HoneyWorks/HKUM3-M/05 090‐XXXX‐XXXX.mp3"
+Jan 27 19:10 : player: played "ZUTOMAYO/Imawa Imade Chikaiwa Emide (Album)/02 Seigi.mp3"
+Jan 27 19:14 : player: played "soraru/Wonder (Album)/05 Kaichuuno Tsukiwo Sukuu.mp3"
+Jan 27 19:19 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/04. Jikan wa Mado no Mukougawa.mp3"
+Jan 27 19:21 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/05. 飛行.mp3"
+Jan 27 19:25 : player: played "REOL/REOL – Gokusaishoku (1st Album)/09. Syrup.mp3"
+Jan 27 19:29 : player: played "Aimer/Sun Dance (Album)/05 Koiwazurai.mp3"
+Jan 27 19:33 : player: played "ZUTOMAYO/Imawa Imade Chikaiwa Emide (Album)/06 Mabushii DNA Dake.mp3"
+Jan 27 19:41 : player: played "REOL/REOL – Gokusaishoku (1st Album)/03. 生命線.mp3"
+Jan 27 19:46 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/01 Koino Code.mp3"
+Jan 27 19:50 : player: played "Primary x yuiko/From GardeN/06. in the Garden.mp3"
+Jan 27 19:53 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/13. yuiko — wandering around without mind -Unpluged version-.mp3"
+Jan 27 19:57 : player: played "HoneyWorks/HKUM5-M/09 ママ.mp3"
+Jan 27 20:01 : player: played "HoneyWorks/HKUM2-M/02 初恋の絵本.mp3"
+Jan 27 20:05 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/10 Koiironi Sake.mp3"
+Jan 27 20:06 : client: [1] closed
+Jan 27 20:08 : player: played "HoneyWorks/HKUM3-M/04 ラズベリー＊モンスター.mp3"
+Jan 27 20:08 : client: [2] opened from 127.0.0.1:58250
+Jan 27 21:08 : client: [2] closed
+Jan 27 23:43 : client: [0] closed
+Jan 27 23:43 : player: played "HoneyWorks/HKUM5-M/10 バカ殿ヒーロー ～かけがえのない仲間達～.mp3"
+Jan 28 14:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 28 14:45 : config: option 'device' on line 209 was not recognized
+Jan 28 14:45 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 28 14:45 : client: [0] opened from 127.0.0.1:54970
+Jan 28 23:11 : client: [0] closed
+Jan 29 13:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 29 13:12 : config: option 'device' on line 209 was not recognized
+Jan 29 13:12 : client: [0] opened from 127.0.0.1:34430
+Jan 29 13:12 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 29 13:12 : client: [1] opened from 127.0.0.1:34486
+Jan 29 13:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 29 13:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 29 13:14 : player: played "ARForest/Coloridium/01. CoLOLar.mp3"
+Jan 29 13:17 : player: played "ARForest/Coloridium/02. Melon Cream Soda.mp3"
+Jan 29 13:22 : player: played "ARForest/Coloridium/08. Ink.mp3"
+Jan 29 13:25 : player: played "Various Artists/Artifacts_of_Artcore/Ancient Gear Vimana.mp3"
+Jan 29 13:29 : player: played "NiZi RiNGO/Ne_nuit/09. Parodia Sonatina.mp3"
+Jan 29 13:32 : player: played "NiZi RiNGO/Athenarium/03. 羽衣乃舞.mp3"
+Jan 29 13:36 : player: played "NiZi RiNGO/Athenarium/07. 喝.mp3"
+Jan 29 13:38 : player: played "ARForest/Coloridium/05. Take A Kick.mp3"
+Jan 29 13:41 : player: played "NiZi RiNGO/Athenarium/08. A Flat Minor.mp3"
+Jan 29 13:45 : player: played "NiZi RiNGO/Athenarium/05. 霜月.mp3"
+Jan 29 13:48 : player: played "NiZi RiNGO/Athenarium/04. 戦国HOP.mp3"
+Jan 29 13:51 : player: played "Various Artists/Artifacts_of_Artcore/Tank of ROME water.mp3"
+Jan 29 13:55 : player: played "Symphonic Xizer/SymphonicXize-002/02. Skymemory.mp3"
+Jan 29 14:00 : player: played "Symphonic Xizer/SymphonicXize-002/05. Rain ice.mp3"
+Jan 29 14:04 : player: played "NiZi RiNGO/Ne_nuit/06. sparkling illumination.mp3"
+Jan 29 14:10 : player: played "NiZi RiNGO/Ne_nuit/02. 雲の絃を紡ぎながら.mp3"
+Jan 29 15:39 : client: [1] closed
+Jan 29 15:39 : client: [0] closed
+Jan 29 15:39 : player: played "Various Artists/Artifacts_of_Artcore/Ark.mp3"
+Jan 29 17:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 29 17:05 : config: option 'device' on line 209 was not recognized
+Jan 29 17:05 : client: [0] opened from 127.0.0.1:51776
+Jan 29 17:05 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 29 22:54 : client: [0] closed
+Jan 30 11:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 30 11:32 : config: option 'device' on line 209 was not recognized
+Jan 30 11:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 30 11:32 : client: [0] opened from 127.0.0.1:51826
+Jan 30 12:45 : client: [0] closed
+Jan 30 13:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 30 13:52 : config: option 'device' on line 209 was not recognized
+Jan 30 13:52 : client: [0] opened from 127.0.0.1:51730
+Jan 30 13:52 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 30 19:50 : client: [0] closed
+Jan 30 22:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 30 22:09 : config: option 'device' on line 209 was not recognized
+Jan 30 22:09 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 30 22:09 : client: [0] opened from 127.0.0.1:54482
+Jan 30 23:50 : client: [0] closed
+Jan 31 16:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 31 16:36 : config: option 'device' on line 209 was not recognized
+Jan 31 16:36 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 31 16:36 : client: [0] opened from 127.0.0.1:60160
+Jan 31 17:21 : client: [0] closed
+Jan 31 18:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 31 18:21 : config: option 'device' on line 209 was not recognized
+Jan 31 18:21 : client: [0] opened from 127.0.0.1:60120
+Jan 31 18:21 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jan 31 18:28 : client: [1] opened from 127.0.0.1:60520
+Jan 31 18:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 31 18:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 31 18:33 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/01. Can Do.mp3"
+Jan 31 18:38 : player: played "TAMUSIC/東方バイオリンロック 星-HOSHI-/09. 平安のエイリアン.mp3"
+Jan 31 18:42 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/05. ETERNAL BLAZE.mp3"
+Jan 31 18:47 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/05. 時の回廊 -summer horizon-.mp3"
+Jan 31 18:53 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/04. 風を待った日 -little wish-.mp3"
+Jan 31 18:58 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/04. 翼はPleasure Line.mp3"
+Jan 31 19:00 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/04. ムーンライト伝説.mp3"
+Jan 31 19:06 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/10. 紅蓮の弓矢.mp3"
+Jan 31 19:11 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/05. Sparkling Daydream.mp3"
+Jan 31 21:24 : client: [2] opened from 127.0.0.1:35246
+Jan 31 21:24 : player: played "TAMUSIC/東方バイオリンロック 星-HOSHI-/05. キャプテン・ムラサ.mp3"
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/14. Haru no Kaori.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/23. Kujikesou ni Naru Watashi wo Sasaete Kudasai.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/01. Have a strong will ~Kogarashi~.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/01. Kimi wa Wasurerareru no.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/02. Nande Tokuige Nandaú+.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/02. Shigatsu wa Kimi no Uso.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/03. Chelsea.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/03. Shikai ga Akai!ú+.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/04. Minna Kowai yo.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/04. Yuuguredoki no Gekou.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/05. Tokutouseki.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/05. Watashi no Uso ~Piano Solo~.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/06. Haha no Yume.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/06. Kousei wa Tensai da yo!.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/07. Wakariyasui Yatsu.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/07. Yurusumaji Tousatsuma.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/08. Kyaaaaa.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/08. Onna Doushi no 'Kawaii'.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/09. Hiccho.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/09. Watashi, Violinist na no.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/10. For you ~Tsuki no Hikari ga Furisosogu Terrace~.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/10. Hibike.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/11. Kanojo wa Utsukushii.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/11. Otouto Mitai na Sonzai.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/12. Colorful ni Irozuki Hajimeta Sekai.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/12. Kyou no Koto wa Wasurerarenai yo.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/13. Marude Eiga no One Scene no you ni.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/13. Shigatsu wa Kimi no Uso ~Piano Solo~.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/14. Kaasan to no Omoide.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/15. Kimi wa Haru no Naka ni Iru.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/15. Kore wa Kitto.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/16. Ame no Nioi ga Suru.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/16. Bouryoku Joutou.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/17. Colorful ni Irozuite Yuku.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/17. Kouiu Kimochi wo Nante Itta kana.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/18. Hoshi wa Yoru Kagayakunda ze.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/18. Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/19. Modottekita Nichijou.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/19. Otonashiku Bansoushiro!!!.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/20. Anata no Shokuba.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/20. Bansou Bansou Bansou Bansou.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/21. Otouto Mitai na Sonzai ~Piano Solo~.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/21. Senobi ~Nemureru Mori no Bijo no 'Adagio'~.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/22. Kurai Umi no Soko.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/22. Shigatsu no Aru Hi.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/23. Jikan Nanka Tomareba ii noni.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/24. Boku no Sunde Iru Machi wa Colorful ni Irozuite Iru.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/24. Watashitachi Saikyou da mon.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/25. Isshou ni Ikou ze.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/25. My Truth ~Rondo Capriccioso~.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/26. Again.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/26. Ringo Ame.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/27. Kawaita Kuuki.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/27. Natsu no Hizashi.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/28. Kisetsu ga Kawaru.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/28. Watashitachi wa Sou Yatte Ikite Iku Jinshu na no.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/29. Jibun Rashiku.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/29. Suimen.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/30. Uso to Honto.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/30. Yuujin A.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/31. Kimi ga Iru.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/31. Uso to Honto ~Piano Solo~.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/32. Omotta yori Ookii na.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/32. Watashi no Uso.mp3
+Jan 31 21:24 : update: added Anime OST/Your Lie in April/33. Yuujin A ~Piano Solo~.mp3
+Jan 31 21:24 : client: [2] closed
+Jan 31 21:29 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jan 31 21:29 : client: [1] closed
+Jan 31 21:29 : client: [0] closed
+Jan 31 21:29 : player: played "Anime OST/Your Lie in April/19. Otonashiku Bansoushiro!!!.mp3"
+Feb 01 12:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 01 12:52 : config: option 'device' on line 209 was not recognized
+Feb 01 12:52 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 01 12:52 : client: [0] opened from 127.0.0.1:43670
+Feb 01 12:52 : client: [1] opened from 127.0.0.1:43680
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/12. Colorful ni Irozuki Hajimeta Sekai.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/11. Otouto Mitai na Sonzai.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/10. Hibike.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/09. Hiccho.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/08. Kyaaaaa.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/07. Wakariyasui Yatsu.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/06. Kousei wa Tensai da yo!.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/05. Tokutouseki.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/04. Minna Kowai yo.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/03. Chelsea.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/02. Nande Tokuige Nandaú+.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/01. Have a strong will ~Kogarashi~.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/33. Yuujin A ~Piano Solo~.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/32. Omotta yori Ookii na.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/31. Kimi ga Iru.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/30. Uso to Honto.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/29. Suimen.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/28. Kisetsu ga Kawaru.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/27. Natsu no Hizashi.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/26. Again.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/25. My Truth ~Rondo Capriccioso~.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/24. Boku no Sunde Iru Machi wa Colorful ni Irozuite Iru.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/23. Kujikesou ni Naru Watashi wo Sasaete Kudasai.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/22. Kurai Umi no Soko.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/21. Otouto Mitai na Sonzai ~Piano Solo~.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/20. Bansou Bansou Bansou Bansou.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/19. Otonashiku Bansoushiro!!!.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/18. Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/17. Kouiu Kimochi wo Nante Itta kana.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/16. Bouryoku Joutou.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/15. Kimi wa Haru no Naka ni Iru.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/14. Haru no Kaori.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/13. Marude Eiga no One Scene no you ni.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/12. Kyou no Koto wa Wasurerarenai yo.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/11. Kanojo wa Utsukushii.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/10. For you ~Tsuki no Hikari ga Furisosogu Terrace~.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/09. Watashi, Violinist na no.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/08. Onna Doushi no 'Kawaii'.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/07. Yurusumaji Tousatsuma.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/06. Haha no Yume.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/05. Watashi no Uso ~Piano Solo~.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/04. Yuuguredoki no Gekou.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/03. Shikai ga Akai!ú+.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/02. Shigatsu wa Kimi no Uso.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/01. Kimi wa Wasurerareru no.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/32. Watashi no Uso.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/31. Uso to Honto ~Piano Solo~.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/30. Yuujin A.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/29. Jibun Rashiku.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/28. Watashitachi wa Sou Yatte Ikite Iku Jinshu na no.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/27. Kawaita Kuuki.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/26. Ringo Ame.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/25. Isshou ni Ikou ze.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/24. Watashitachi Saikyou da mon.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/23. Jikan Nanka Tomareba ii noni.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/22. Shigatsu no Aru Hi.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/21. Senobi ~Nemureru Mori no Bijo no 'Adagio'~.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/20. Anata no Shokuba.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/19. Modottekita Nichijou.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/18. Hoshi wa Yoru Kagayakunda ze.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/17. Colorful ni Irozuite Yuku.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/16. Ame no Nioi ga Suru.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/15. Kore wa Kitto.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/14. Kaasan to no Omoide.mp3
+Feb 01 12:52 : update: removing Anime OST/Your Lie in April/13. Shigatsu wa Kimi no Uso ~Piano Solo~.mp3
+Feb 01 12:52 : update: added Anime OST/Coalamode. – Nanairo Symphony Single/01 七色シンフォニー.mp3
+Feb 01 12:52 : update: added Anime OST/Coalamode. – Nanairo Symphony Single/02 あのさ、あのね.mp3
+Feb 01 12:52 : update: added Anime OST/Coalamode. – Nanairo Symphony Single/03 We Are Coalamode.!!.mp3
+Feb 01 12:52 : update: added Anime OST/Coalamode. – Nanairo Symphony Single/04 七色シンフォニー -TV Size-.mp3
+Feb 01 12:52 : update: added Anime OST/Goose house - Hikaru nara (Single)/(01)光るなら.mp3
+Feb 01 12:52 : update: added Anime OST/Goose house - Hikaru nara (Single)/(02)冬のエピローグ.mp3
+Feb 01 12:52 : update: added Anime OST/Goose house - Hikaru nara (Single)/(03)光るなら -TV size-.mp3
+Feb 01 12:52 : update: added Anime OST/Goose house - Hikaru nara (Single)/(04)光るなら -instrumental-.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/14. Haru no Kaori.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/01. Kimi wa Wasurerareru no.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/02. Shigatsu wa Kimi no Uso.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/03. Shikai ga Akai!ú+.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/04. Yuuguredoki no Gekou.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/05. Watashi no Uso ~Piano Solo~.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/06. Haha no Yume.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/07. Yurusumaji Tousatsuma.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/08. Onna Doushi no 'Kawaii'.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/09. Watashi, Violinist na no.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/10. For you ~Tsuki no Hikari ga Furisosogu Terrace~.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/11. Kanojo wa Utsukushii.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/12. Kyou no Koto wa Wasurerarenai yo.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/13. Marude Eiga no One Scene no you ni.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/15. Kimi wa Haru no Naka ni Iru.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/16. Bouryoku Joutou.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/17. Kouiu Kimochi wo Nante Itta kana.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/18. Yuujin A-kun wo Watashi no Bansousha ni Ninmeishimasu.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/19. Otonashiku Bansoushiro!!!.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/20. Bansou Bansou Bansou Bansou.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/21. Otouto Mitai na Sonzai ~Piano Solo~.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/22. Kurai Umi no Soko.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/23. Kujikesou ni Naru Watashi wo Sasaete Kudasai.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/24. Boku no Sunde Iru Machi wa Colorful ni Irozuite Iru.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/25. My Truth ~Rondo Capriccioso~.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/26. Again.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/27. Natsu no Hizashi.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/28. Kisetsu ga Kawaru.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/29. Suimen.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/30. Uso to Honto.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/31. Kimi ga Iru.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/32. Omotta yori Ookii na.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/33. Yuujin A ~Piano Solo~.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/15. Kore wa Kitto.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/01. Have a strong will ~Kogarashi~.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/02. Nande Tokuige Nandaú+.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/03. Chelsea.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/04. Minna Kowai yo.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/05. Tokutouseki.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/06. Kousei wa Tensai da yo!.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/07. Wakariyasui Yatsu.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/08. Kyaaaaa.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/09. Hiccho.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/10. Hibike.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/11. Otouto Mitai na Sonzai.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/12. Colorful ni Irozuki Hajimeta Sekai.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/13. Shigatsu wa Kimi no Uso ~Piano Solo~.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/14. Kaasan to no Omoide.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/16. Ame no Nioi ga Suru.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/17. Colorful ni Irozuite Yuku.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/18. Hoshi wa Yoru Kagayakunda ze.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/19. Modottekita Nichijou.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/20. Anata no Shokuba.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/21. Senobi ~Nemureru Mori no Bijo no 'Adagio'~.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/22. Shigatsu no Aru Hi.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/23. Jikan Nanka Tomareba ii noni.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/24. Watashitachi Saikyou da mon.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/25. Isshou ni Ikou ze.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/26. Ringo Ame.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/27. Kawaita Kuuki.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/28. Watashitachi wa Sou Yatte Ikite Iku Jinshu na no.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/29. Jibun Rashiku.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/30. Yuujin A.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/31. Uso to Honto ~Piano Solo~.mp3
+Feb 01 12:52 : update: added Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/32. Watashi no Uso.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/01. ziiizz_uwo·xkzu14c _mj_ u3rw.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/02. ziiizz_avyeqz·xkzu9c _jtyebr_ u1rw.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/03. pz=pizt_bjqtzj·fxqbeix.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/04. rnrz_cblij wpvd kn10-4.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/05. rnrz_cblij yvd kn25-11 _sxxzwcblij_.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/06. rnrz_cblij bvd kn25-5.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/07. jpytpi_dwczn.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/08. pvelovs_dwczn (uwoojg).mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/09. tjqjitz_cblij wlvd kn8-12.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/10. jtldri_mwj.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/11. pabr_fprtwhpwravim.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/12. bjynvthi__yywewyt_wycvred(uwofug).mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/13. rnrz_cblij pvd kn10-12 _vxwcblij_.mp3
+Feb 01 12:52 : update: added Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/14. rnrz_qpiju1c ivd kn23.mp3
+Feb 01 12:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 01 12:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 01 12:57 : player: played "Anime OST/Coalamode. – Nanairo Symphony Single/01 七色シンフォニー.mp3"
+Feb 01 13:00 : player: played "Anime OST/Coalamode. – Nanairo Symphony Single/01 七色シンフォニー.mp3"
+Feb 01 13:02 : player: played "Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/01. Kimi wa Wasurerareru no.mp3"
+Feb 01 13:04 : player: played "Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/33. Yuujin A ~Piano Solo~.mp3"
+Feb 01 13:06 : player: played "Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/29. Suimen.mp3"
+Feb 01 13:11 : player: played "Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/10. For you ~Tsuki no Hikari ga Furisosogu Terrace~.mp3"
+Feb 01 13:12 : player: played "Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 2/17. Colorful ni Irozuite Yuku.mp3"
+Feb 01 13:20 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/01. ziiizz_uwo·xkzu14c _mj_ u3rw.mp3"
+Feb 01 13:27 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/11. pabr_fprtwhpwravim.mp3"
+Feb 01 13:29 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/04. rnrz_cblij wpvd kn10-4.mp3"
+Feb 01 13:33 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/07. jpytpi_dwczn.mp3"
+Feb 01 13:36 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/09. tjqjitz_cblij wlvd kn8-12.mp3"
+Feb 01 13:39 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/06. rnrz_cblij bvd kn25-5.mp3"
+Feb 01 14:17 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/13. rnrz_cblij pvd kn10-12 _vxwcblij_.mp3"
+Feb 01 14:26 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/03. pz=pizt_bjqtzj·fxqbeix.mp3"
+Feb 01 14:35 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/14. rnrz_qpiju1c ivd kn23.mp3"
+Feb 01 17:09 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/02. ziiizz_avyeqz·xkzu9c _jtyebr_ u1rw.mp3"
+Feb 01 17:13 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/12. bjynvthi__yywewyt_wycvred(uwofug).mp3"
+Feb 01 17:18 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/10. jtldri_mwj.mp3"
+Feb 01 17:22 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/05. rnrz_cblij yvd kn25-11 _sxxzwcblij_.mp3"
+Feb 01 17:26 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/08. pvelovs_dwczn (uwoojg).mp3"
+Feb 01 17:31 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/05. rnrz_cblij yvd kn25-11 _sxxzwcblij_.mp3"
+Feb 01 17:35 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/10. jtldri_mwj.mp3"
+Feb 01 17:43 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/01. ziiizz_uwo·xkzu14c _mj_ u3rw.mp3"
+Feb 01 17:48 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/08. pvelovs_dwczn (uwoojg).mp3"
+Feb 01 17:51 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/06. rnrz_cblij bvd kn25-5.mp3"
+Feb 01 17:55 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/12. bjynvthi__yywewyt_wycvred(uwofug).mp3"
+Feb 01 18:02 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/11. pabr_fprtwhpwravim.mp3"
+Feb 01 18:11 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/14. rnrz_qpiju1c ivd kn23.mp3"
+Feb 01 18:15 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/07. jpytpi_dwczn.mp3"
+Feb 01 18:17 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/04. rnrz_cblij wpvd kn10-4.mp3"
+Feb 01 18:26 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/03. pz=pizt_bjqtzj·fxqbeix.mp3"
+Feb 01 18:29 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/09. tjqjitz_cblij wlvd kn8-12.mp3"
+Feb 01 18:31 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/13. rnrz_cblij pvd kn10-12 _vxwcblij_.mp3"
+Feb 01 18:44 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/02. ziiizz_avyeqz·xkzu9c _jtyebr_ u1rw.mp3"
+Feb 01 18:46 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/13. rnrz_cblij pvd kn10-12 _vxwcblij_.mp3"
+Feb 01 18:56 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/03. pz=pizt_bjqtzj·fxqbeix.mp3"
+Feb 01 19:05 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/14. rnrz_qpiju1c ivd kn23.mp3"
+Feb 01 19:07 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/09. tjqjitz_cblij wlvd kn8-12.mp3"
+Feb 01 19:19 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/02. ziiizz_avyeqz·xkzu9c _jtyebr_ u1rw.mp3"
+Feb 01 19:23 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/06. rnrz_cblij bvd kn25-5.mp3"
+Feb 01 19:27 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/12. bjynvthi__yywewyt_wycvred(uwofug).mp3"
+Feb 01 19:34 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/11. pabr_fprtwhpwravim.mp3"
+Feb 01 19:38 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/08. pvelovs_dwczn (uwoojg).mp3"
+Feb 01 19:46 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/01. ziiizz_uwo·xkzu14c _mj_ u3rw.mp3"
+Feb 01 19:50 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/05. rnrz_cblij yvd kn25-11 _sxxzwcblij_.mp3"
+Feb 01 19:55 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/10. jtldri_mwj.mp3"
+Feb 01 19:57 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/04. rnrz_cblij wpvd kn10-4.mp3"
+Feb 01 20:01 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/07. jpytpi_dwczn.mp3"
+Feb 01 20:10 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/14. rnrz_qpiju1c ivd kn23.mp3"
+Feb 01 20:15 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/08. pvelovs_dwczn (uwoojg).mp3"
+Feb 01 20:21 : client: [1] closed
+Feb 01 20:21 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Feb 01 20:21 : client: [0] closed
+Feb 01 20:21 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/03. pz=pizt_bjqtzj·fxqbeix.mp3"
+Feb 03 11:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 03 11:37 : config: option 'device' on line 209 was not recognized
+Feb 03 11:37 : client: [0] opened from 127.0.0.1:35352
+Feb 03 11:37 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 03 11:48 : client: [1] opened from 127.0.0.1:35660
+Feb 03 11:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 03 11:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 03 11:49 : player: played "Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/01. Kimi wa Wasurerareru no.mp3"
+Feb 03 11:52 : player: played "Anime OST/Shigatsu wa Kimi no Uso Original Song & Original Soundtrack/Disc 1/01. Kimi wa Wasurerareru no.mp3"
+Feb 03 12:01 : player: played "The Chainsmokers/The Chainsmokers - Something Just Like This/1 - The Chainsmokers - Something Just Like This.mp3"
+Feb 03 12:10 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/01. ziiizz_uwo·xkzu14c _mj_ u3rw.mp3"
+Feb 03 12:13 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/07. jpytpi_dwczn.mp3"
+Feb 03 12:16 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/09. tjqjitz_cblij wlvd kn8-12.mp3"
+Feb 03 12:28 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/02. ziiizz_avyeqz·xkzu9c _jtyebr_ u1rw.mp3"
+Feb 03 12:32 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/12. bjynvthi__yywewyt_wycvred(uwofug).mp3"
+Feb 03 12:42 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/03. pz=pizt_bjqtzj·fxqbeix.mp3"
+Feb 03 12:44 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/13. rnrz_cblij pvd kn10-12 _vxwcblij_.mp3"
+Feb 03 12:49 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/08. pvelovs_dwczn (uwoojg).mp3"
+Feb 03 12:53 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/10. jtldri_mwj.mp3"
+Feb 03 13:02 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/14. rnrz_qpiju1c ivd kn23.mp3"
+Feb 03 13:06 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/05. rnrz_cblij yvd kn25-11 _sxxzwcblij_.mp3"
+Feb 03 13:13 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/11. pabr_fprtwhpwravim.mp3"
+Feb 03 13:15 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/04. rnrz_cblij wpvd kn10-4.mp3"
+Feb 03 13:19 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/06. rnrz_cblij bvd kn25-5.mp3"
+Feb 03 13:28 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/14. rnrz_qpiju1c ivd kn23.mp3"
+Feb 03 13:37 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/03. pz=pizt_bjqtzj·fxqbeix.mp3"
+Feb 03 13:42 : player: played "Anime OST/Goose house - Hikaru nara (Single)/(01)光るなら.mp3"
+Feb 03 13:51 : client: [1] closed
+Feb 03 13:51 : client: [0] closed
+Feb 03 13:51 : player: played "Anime OST/Coalamode. – Nanairo Symphony Single/01 七色シンフォニー.mp3"
+Feb 03 13:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 03 13:51 : config: option 'device' on line 209 was not recognized
+Feb 03 13:51 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 03 13:51 : client: [0] opened from 127.0.0.1:38456
+Feb 03 14:03 : avahi: Client Disconnected, will reconnect shortly
+Feb 03 14:03 : client: [0] closed
+Feb 03 14:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 03 14:25 : config: option 'device' on line 209 was not recognized
+Feb 03 14:25 : client: [0] opened from 127.0.0.1:59576
+Feb 03 14:25 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 03 15:16 : client: [0] closed
+Feb 03 15:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 03 15:26 : config: option 'device' on line 209 was not recognized
+Feb 03 15:26 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 03 15:26 : client: [0] opened from 127.0.0.1:53560
+Feb 03 18:07 : client: [0] closed
+Feb 03 19:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 03 19:18 : config: option 'device' on line 209 was not recognized
+Feb 03 19:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 03 19:18 : client: [0] opened from 127.0.0.1:56604
+Feb 03 20:34 : avahi: Client Disconnected, will reconnect shortly
+Feb 03 20:34 : client: [0] closed
+Feb 04 12:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 04 12:07 : config: option 'device' on line 209 was not recognized
+Feb 04 12:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 04 12:07 : client: [0] opened from 127.0.0.1:49378
+Feb 04 12:44 : client: [0] closed
+Feb 04 14:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 04 14:29 : config: option 'device' on line 209 was not recognized
+Feb 04 14:29 : client: [0] opened from 127.0.0.1:43740
+Feb 04 14:29 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 04 14:30 : client: [1] opened from 127.0.0.1:43904
+Feb 04 14:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 04 14:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 04 14:35 : player: played "I've/I've Piano Pieces Monochrome Solitude vol.2/01. Close to me….mp3"
+Feb 04 14:41 : player: played "I've/I've Piano Pieces Monochrome Solitude vol.2/09. 砂の城 -The Castle of Sand-.mp3"
+Feb 04 14:46 : player: played "I've/I've Piano Pieces Monochrome Solitude vol.2/05. Lupe.mp3"
+Feb 04 14:50 : player: played "I've/I've Piano Pieces Monochrome Solitude vol.2/07. Out Flow.mp3"
+Feb 04 14:52 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 01 七夕の夜に.flac"
+Feb 04 14:54 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 06 Horizontal Rain.flac"
+Feb 04 14:57 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 03 Paris.flac"
+Feb 04 14:58 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 09 Ending ~おわりの唄~.flac"
+Feb 04 15:02 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 02 Harlequin.flac"
+Feb 04 15:04 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 04 Tearjoker.flac"
+Feb 04 15:07 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 08 Time Deficit.flac"
+Feb 04 15:10 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 05 Sprout (Extended).flac"
+Feb 04 15:15 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 07 Tears of Ruins (PF-Addiction Edit).flac"
+Feb 04 15:17 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 04 Tearjoker.flac"
+Feb 04 15:18 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 09 Ending ~おわりの唄~.flac"
+Feb 04 17:05 : player: played "Ujico/[M3-33] Ujico＊ — PF-Addiction [FLAC]/Ujico- - PF-Addiction - 08 Time Deficit.flac"
+Feb 04 19:34 : client: [1] closed
+Feb 04 19:34 : client: [0] closed
+Feb 05 11:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 05 11:20 : config: option 'device' on line 209 was not recognized
+Feb 05 11:20 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 05 11:20 : client: [0] opened from 127.0.0.1:50080
+Feb 05 11:51 : client: [0] closed
+Feb 05 13:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 05 13:28 : config: option 'device' on line 209 was not recognized
+Feb 05 13:28 : client: [0] opened from 127.0.0.1:60092
+Feb 05 13:28 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 05 15:46 : client: [0] closed
+Feb 05 16:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 05 16:39 : config: option 'device' on line 209 was not recognized
+Feb 05 16:39 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 05 16:39 : client: [0] opened from 127.0.0.1:57720
+Feb 05 17:42 : client: [0] closed
+Feb 05 18:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 05 18:39 : config: option 'device' on line 209 was not recognized
+Feb 05 18:39 : client: [0] opened from 127.0.0.1:34858
+Feb 05 18:39 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 05 22:35 : client: [0] closed
+Feb 06 09:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 09:15 : config: option 'device' on line 209 was not recognized
+Feb 06 09:15 : client: [0] opened from 127.0.0.1:40466
+Feb 06 09:15 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 06 09:22 : client: [0] closed
+Feb 06 11:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 11:25 : config: option 'device' on line 209 was not recognized
+Feb 06 11:25 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 06 11:25 : client: [0] opened from 127.0.0.1:52202
+Feb 06 11:35 : client: [1] opened from 127.0.0.1:52448
+Feb 06 11:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 11:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 11:39 : player: played "The Chainsmokers/The Chainsmokers - Something Just Like This/1 - The Chainsmokers - Something Just Like This.mp3"
+Feb 06 11:43 : player: played "Tove Styrke/Sway (Album)/03 On the Low.mp3"
+Feb 06 11:48 : player: played "The Script/#3 (Album)/07 Broken Arrow.mp3"
+Feb 06 11:52 : player: played "The Script/Superheroes (Single)/01 Superheroes.mp3"
+Feb 06 11:55 : player: played "The Cab/Symphony Soldier/1-07 La La.mp3"
+Feb 06 11:59 : player: played "The Script/The Script (Album)/01 We Cry.mp3"
+Feb 06 12:03 : player: played "OneRepublic/Dreaming Out Loud (Album)/08 Prodigal (Album Version).mp3"
+Feb 06 12:08 : player: played "OneRepublic/Dreaming Out Loud (Album)/07 Tyrant (Album Version).mp3"
+Feb 06 12:12 : player: played "OneRepublic/Native (Album)/03 If I Lose Myself.mp3"
+Feb 06 12:15 : player: played "The Cab/Symphony Soldier/1-03 Bad.mp3"
+Feb 06 12:20 : player: played "The Cab/Symphony Soldier/1-12 Living Louder.mp3"
+Feb 06 12:23 : player: played "Maroon 5/Maroon 5 - Overexposed/7 - Maroon 5 - Ladykiller.mp3"
+Feb 06 12:27 : player: played "Tristam & Braken/Frame of Mind (Single)/01 Frame of Mind.mp3"
+Feb 06 12:32 : player: played "The Cab/Symphony Soldier/1-11 Lovesick Fool.mp3"
+Feb 06 12:36 : player: played "The Script/#3 (Album)/06 Give the Love Around.mp3"
+Feb 06 12:40 : player: played "The Script/Science & Faith (Album)/04 Science & Faith.mp3"
+Feb 06 12:44 : player: played "The Script/Science & Faith (Album)/05 If You Ever Come Back.mp3"
+Feb 06 12:48 : player: played "The Script/Science & Faith (Album)/07 Dead Man Walking.mp3"
+Feb 06 12:53 : player: played "OneRepublic/Dreaming Out Loud (Album)/09 Won't Stop (Album Version).mp3"
+Feb 06 12:57 : player: played "The Script/Science & Faith (Album)/11 Bullet From A Gun.mp3"
+Feb 06 13:01 : player: played "OneRepublic/Dreaming Out Loud (Album)/03 Stop And Stare (Album Version).mp3"
+Feb 06 13:05 : player: played "OneRepublic/Native (Album)/10 Burning Bridges.mp3"
+Feb 06 13:09 : player: played "Tristam & Braken/Far Away (Single)/01 Far Away.mp3"
+Feb 06 13:13 : player: played "The Script/Science & Faith (Album)/12 Walk Away.mp3"
+Feb 06 13:16 : player: played "The Script/#3 (Album)/10 Millionaires.mp3"
+Feb 06 13:20 : player: played "Maroon 5/Maroon 5 - Overexposed/6 - Maroon 5 - Love Somebody.mp3"
+Feb 06 13:24 : player: played "The Script/The Script (Album)/05 Breakeven.mp3"
+Feb 06 13:28 : player: played "Maroon 5/Maroon 5 - Overexposed/5 - Maroon 5 - The Man Who Never Lied.mp3"
+Feb 06 13:32 : player: played "OneRepublic/Dreaming Out Loud (Album)/10 All We Are (Album Version).mp3"
+Feb 06 13:36 : player: played "The Script/#3 (Album)/09 No Words.mp3"
+Feb 06 13:40 : player: played "Maroon 5/Maroon 5 - Overexposed/2 - Maroon 5 - Payphone.mp3"
+Feb 06 13:44 : player: played "The Script/The Script (Album)/06 Rusty Halo.mp3"
+Feb 06 13:48 : player: played "OneRepublic/Native (Album)/07 Light It Up.mp3"
+Feb 06 13:52 : player: played "The Script/The Script (Album)/10 I'm Yours.mp3"
+Feb 06 13:56 : player: played "The Script/Science & Faith (Album)/06 Long Gone and Moved On.mp3"
+Feb 06 14:00 : player: played "The Script/The Script (Album)/03 Talk You Down.mp3"
+Feb 06 14:04 : player: played "The Script/#3 (Album)/08 Kaleidoscope.mp3"
+Feb 06 14:07 : player: played "The Script/The Script (Album)/09 If You See Kay.mp3"
+Feb 06 14:11 : player: played "OneRepublic/Dreaming Out Loud (Album)/11 Someone To Save You (Album Version).mp3"
+Feb 06 14:15 : player: played "The Script/#3 (Album)/02 Six Degrees of Separation.mp3"
+Feb 06 14:18 : player: played "Tove Styrke/Sway (Album)/08 liability (demo).mp3"
+Feb 06 14:21 : player: played "Maroon 5/Maroon 5 - Overexposed/9 - Maroon 5 - Sad.mp3"
+Feb 06 14:25 : player: played "OneRepublic/Native (Album)/02 Love Runs Out.mp3"
+Feb 06 14:29 : player: played "Maroon 5/Maroon 5 - Overexposed/12 - Maroon 5 - Beautiful Goodbye.mp3"
+Feb 06 14:34 : player: played "The Script/Science & Faith (Album)/08 This = Love.mp3"
+Feb 06 14:38 : player: played "The Script/The Script (Album)/08 Fall for Anything.mp3"
+Feb 06 14:42 : player: played "The Cab/Symphony Soldier/1-02Temporary Bliss.mp3"
+Feb 06 14:46 : player: played "OneRepublic/Dreaming Out Loud (Album)/02 Mercy (Album Version).mp3"
+Feb 06 14:51 : player: played "The Script/Science & Faith (Album)/03 Nothing.mp3"
+Feb 06 14:55 : player: played "The Script/#3 (Album)/01 Good Ol' Days.mp3"
+Feb 06 14:58 : player: played "The Cab/Symphony Soldier/1-10 Grow Up and Be Kids.mp3"
+Feb 06 15:01 : player: played "The Script/The Script (Album)/02 Before the Worst.mp3"
+Feb 06 15:06 : player: played "The Script/Science & Faith (Album)/01 You Won't Feel a Thing.mp3"
+Feb 06 15:10 : player: played "OneRepublic/Native (Album)/05 What You Wanted.mp3"
+Feb 06 15:13 : player: played "Tove Styrke/Sway (Album)/06 I Lied.mp3"
+Feb 06 15:15 : player: played "OneRepublic/Native (Album)/13 Don't Look Down.mp3"
+Feb 06 15:18 : player: played "Steve Aoki/Just Hold On (Single)/01 Just Hold On.mp3"
+Feb 06 15:23 : player: played "OneRepublic/Dreaming Out Loud (Album)/12 Come Home (Album Version).mp3"
+Feb 06 15:27 : player: played "The Cab/Symphony Soldier/1-06 Intoxicated.mp3"
+Feb 06 15:31 : player: played "OneRepublic/Dreaming Out Loud (Album)/01 Say (All I Need) (Album Version).mp3"
+Feb 06 15:35 : player: played "The Script/The Script (Album)/04 The Man Who Can't Be Moved.mp3"
+Feb 06 15:38 : player: played "OneRepublic/Native (Album)/15 If I Lose Myself (Alesso vs OneRepublic).mp3"
+Feb 06 15:42 : player: played "OneRepublic/Dreaming Out Loud (Album)/05 Goodbye Apathy (Album Version).mp3"
+Feb 06 15:45 : player: played "Maroon 5/Maroon 5 - Overexposed/4 - Maroon 5 - Lucky Strike.mp3"
+Feb 06 15:49 : player: played "The Cab/Symphony Soldier/1-01 Angel With A Shotgun.mp3"
+Feb 06 15:52 : player: played "The Cab/Symphony Soldier/1-08 Her Love Is My Religion.mp3"
+Feb 06 15:57 : player: played "OneRepublic/Native (Album)/08 Can’t Stop.mp3"
+Feb 06 16:00 : player: played "The Cab/Symphony Soldier/1-05 Animal.mp3"
+Feb 06 16:04 : player: played "Maroon 5/Maroon 5 - Overexposed/8 - Maroon 5 - Fortune Teller.mp3"
+Feb 06 16:04 : client: [1] closed
+Feb 06 16:04 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Feb 06 16:04 : client: [0] closed
+Feb 06 16:04 : player: played "Tove Styrke/Sway (Album)/04 Mistakes.mp3"
+Feb 06 16:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 16:22 : config: option 'device' on line 209 was not recognized
+Feb 06 16:22 : client: [0] opened from 127.0.0.1:59648
+Feb 06 16:22 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 06 17:03 : client: [0] closed
+Feb 06 17:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 17:16 : config: option 'device' on line 209 was not recognized
+Feb 06 17:16 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 06 17:16 : client: [0] opened from 127.0.0.1:53136
+Feb 06 18:51 : client: [0] closed
+Feb 06 21:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 06 21:58 : config: option 'device' on line 209 was not recognized
+Feb 06 21:58 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 06 21:58 : client: [0] opened from 127.0.0.1:35334
+Feb 06 23:48 : client: [0] closed
+Feb 07 12:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 07 12:50 : config: option 'device' on line 209 was not recognized
+Feb 07 12:50 : client: [0] opened from 127.0.0.1:56758
+Feb 07 12:50 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 07 13:13 : client: [0] closed
+Feb 08 00:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 00:43 : config: option 'device' on line 209 was not recognized
+Feb 08 00:43 : client: [0] opened from 127.0.0.1:38262
+Feb 08 00:43 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 08 00:49 : client: [1] opened from 127.0.0.1:38374
+Feb 08 00:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 00:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 00:49 : client: [1] closed
+Feb 08 00:52 : player: played "Really Slow Motion/Elevation (Album)/01 Aligning Hearts.mp3"
+Feb 08 00:55 : player: played "Really Slow Motion/Elevation (Album)/02 Suns and Stars.mp3"
+Feb 08 00:58 : player: played "Really Slow Motion/Elevation (Album)/03 Fjord Keeper.mp3"
+Feb 08 01:01 : player: played "Really Slow Motion/Elevation (Album)/04 The Space Between Us.mp3"
+Feb 08 01:03 : player: played "Really Slow Motion/Elevation (Album)/05 Cascade of Emotions.mp3"
+Feb 08 01:06 : player: played "Really Slow Motion/Elevation (Album)/06 Zion.mp3"
+Feb 08 01:09 : player: played "Really Slow Motion/Elevation (Album)/07 The Gravity of Love.mp3"
+Feb 08 01:12 : player: played "Really Slow Motion/Elevation (Album)/08 Hero.mp3"
+Feb 08 01:15 : player: played "Really Slow Motion/Elevation (Album)/09 Eternal Courage.mp3"
+Feb 08 01:17 : player: played "Really Slow Motion/Elevation (Album)/10 The Birth of a Soul.mp3"
+Feb 08 01:19 : client: [2] opened from 127.0.0.1:39612
+Feb 08 01:19 : player: played "Really Slow Motion/Elevation (Album)/11 Remembrance.mp3"
+Feb 08 01:50 : client: [2] closed
+Feb 08 01:57 : client: [0] closed
+Feb 08 12:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 12:11 : config: option 'device' on line 209 was not recognized
+Feb 08 12:11 : client: [0] opened from 127.0.0.1:44220
+Feb 08 12:11 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 08 21:10 : client: [1] opened from 127.0.0.1:53426
+Feb 08 21:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 21:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 08 21:11 : player: played "ARForest/Coloridium/01. CoLOLar.mp3"
+Feb 08 21:16 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Feb 08 21:19 : player: played "Daoko/Thank You Blue/Disc 1/10. GRY.mp3"
+Feb 08 21:24 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/02. here and there.mp3"
+Feb 08 21:28 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/09 Color.mp3"
+Feb 08 21:32 : player: played "HoneyWorks/HKUM4-M/05 キミがまた歌いたくなる頃に。.mp3"
+Feb 08 21:37 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/01. over and over.mp3"
+Feb 08 21:43 : player: played "fhána/Outside of Melancholy/09. ARE YOU SLEEPING.mp3"
+Feb 08 21:47 : player: played "HoneyWorks/HKUM5-M/02 告白ライバル宣言.mp3"
+Feb 08 21:50 : player: played "Aimer/Sun Dance (Album)/05 Koiwazurai.mp3"
+Feb 08 21:54 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/02. カトレア.mp3"
+Feb 08 21:58 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/13 Kawaikunaritai.mp3"
+Feb 08 22:02 : player: played "HoneyWorks/HKUM4-M/10 弱虫モンブラン(HoneyWorks arrangement).mp3"
+Feb 08 22:07 : player: played "Aimer/Sun Dance (Album)/09 SUN DANCE.mp3"
+Feb 08 22:13 : player: played "fhána/Outside of Melancholy/12. 君という特異点 [singular you].mp3"
+Feb 08 22:17 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/03. 八月、某、月明かり.mp3"
+Feb 08 22:23 : player: played "Primary x yuiko/Seven'th Color/05. 蒼い海.mp3"
+Feb 08 22:27 : client: [1] closed
+Feb 08 22:27 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Feb 08 22:27 : client: [0] closed
+Feb 08 22:27 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/15. You can count on me.mp3"
+Feb 09 11:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 09 11:43 : config: option 'device' on line 209 was not recognized
+Feb 09 11:43 : client: [0] opened from 127.0.0.1:39588
+Feb 09 11:43 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 09 11:44 : client: [1] opened from 127.0.0.1:39596
+Feb 09 11:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 09 11:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 09 11:49 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Feb 09 11:52 : player: played "Daoko/Thank You Blue/Disc 1/07. ダイスキ with TeddyLoid.mp3"
+Feb 09 11:56 : player: played "H△G/Everlasting Night of Teenage Girls (Album)/07 forget-me-not(Original ArtistSplit BoB).mp3"
+Feb 09 12:00 : player: played "HoneyWorks/HKUM1-M/01 泣キ虫カレシ.mp3"
+Feb 09 12:05 : player: played "H△G/声 ~VOCALOID Cover Album~/11. 星屑オーケストラ.mp3"
+Feb 09 12:10 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/10. Orarion.mp3"
+Feb 09 12:14 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/15 Kyomo Sakuramau Akatsukini.mp3"
+Feb 09 12:18 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/03. 言って。.mp3"
+Feb 09 12:20 : player: played "Yorushika/Yorushika - Makeinu ni Alcohol wa Iranai/09. 夏、バス停、君を待つ.mp3"
+Feb 09 12:25 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/07. 雲と幽霊.mp3"
+Feb 09 12:29 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/17. yuiko — Fix.mp3"
+Feb 09 12:34 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/13. Yoake no Hikari wo Atsume Nagara.mp3"
+Feb 09 12:40 : player: played "Aimer/Sun Dance (Album)/09 SUN DANCE.mp3"
+Feb 09 12:43 : player: played "Aimer/Sun Dance (Album)/05 Koiwazurai.mp3"
+Feb 09 12:47 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/03. continue.mp3"
+Feb 09 12:53 : player: played "H△G/A Place in the Sun (Album)/02 Secret Base of the Rain.mp3"
+Feb 09 12:55 : player: played "Sana/Sana x Honeyworks - Suki na Hito/10 - ラズベリー_モンスター.mp3"
+Feb 09 13:00 : player: played "H△G/A Place in the Sun (Album)/03 Nazuna.mp3"
+Feb 09 13:04 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/04. yuiko — ASPIRE.mp3"
+Feb 09 13:09 : player: played "soraru/Wonder (Album)/06 Eureka.mp3"
+Feb 09 13:10 : player: played "Yorushika/Yorushika - Makeinu ni Alcohol wa Iranai/01. 前世.mp3"
+Feb 09 13:15 : player: played "Primary x yuiko/[2016.12.31] (C91) Primary - イノセンス Depressing/04 Depressing -without yuiko-.flac"
+Feb 09 13:17 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/05. 飛行.mp3"
+Feb 09 13:21 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/3. Sink into.flac"
+Feb 09 13:26 : player: played "fhána/Outside of Melancholy/02. tiny lamp.mp3"
+Feb 09 13:30 : player: played "HoneyWorks/HKUM4-M/10 弱虫モンブラン(HoneyWorks arrangement).mp3"
+Feb 09 13:31 : player: played "Daoko/Thank You Blue/Disc 2/01. チャームポイント.mp3"
+Feb 09 13:36 : player: played "H△G/声 ~VOCALOID Cover Album~/03. glow.mp3"
+Feb 09 21:10 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/11. yuiko — ノゾミ.mp3"
+Feb 09 21:15 : player: played "H△G/Everlasting Night of Teenage Girls (Album)/02 Syoujyotachinoowaranaiyoru -Everlasting Night of Teenage Girls-.mp3"
+Feb 09 23:15 : client: [1] closed
+Feb 09 23:48 : client: [2] opened from 127.0.0.1:55606
+Feb 09 23:48 : player: played "Sana/Sana x Honeyworks - Suki na Hito/02 - 告白予行練習.mp3"
+Feb 09 23:56 : client: [2] closed
+Feb 09 23:56 : client: [3] opened from 127.0.0.1:55720
+Feb 09 23:56 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/01. ziiizz_uwo·xkzu14c _mj_ u3rw.mp3"
+Feb 09 23:59 : player: played "Misc/02. Dear You.mp3"
+Feb 10 00:00 : player: played "After the Rain/Soraru×Mafumafu - After Rain Quest/11 [Cradle].mp3"
+Feb 10 00:00 : player: played "MyReminiscence/Anime Piano Cover Album Alpha (Album)/01 This Game (No Game No Life Opening).mp3"
+Feb 10 00:02 : client: [3] closed
+Feb 10 00:02 : player: played "Port-Avenir/Phantas Maiden/01. 禊.mp3"
+Feb 10 00:04 : client: [4] opened from 127.0.0.1:55782
+Feb 10 00:04 : player: played "Port-Avenir/Phantas Maiden/13. Éveil.mp3"
+Feb 10 00:04 : client: [4] closed
+Feb 10 00:04 : client: [0] closed
+Feb 10 12:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 12:18 : config: option 'device' on line 209 was not recognized
+Feb 10 12:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 10 12:18 : client: [0] opened from 127.0.0.1:50224
+Feb 10 12:18 : client: [0] closed
+Feb 10 12:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 12:19 : config: option 'device' on line 209 was not recognized
+Feb 10 12:19 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 10 12:19 : client: [0] opened from 127.0.0.1:43840
+Feb 10 14:22 : client: [0] closed
+Feb 10 14:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 14:36 : config: option 'device' on line 209 was not recognized
+Feb 10 14:36 : client: [0] opened from 127.0.0.1:56804
+Feb 10 14:36 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 10 15:08 : client: [0] closed
+Feb 10 15:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 15:23 : config: option 'device' on line 209 was not recognized
+Feb 10 15:23 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 10 15:23 : client: [0] opened from 127.0.0.1:35924
+Feb 10 15:42 : client: [0] closed
+Feb 10 16:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 16:44 : config: option 'device' on line 209 was not recognized
+Feb 10 16:44 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 10 16:44 : client: [0] opened from 127.0.0.1:39246
+Feb 10 17:40 : client: [0] closed
+Feb 10 17:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 17:51 : config: option 'device' on line 209 was not recognized
+Feb 10 17:51 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 10 17:51 : client: [0] opened from 127.0.0.1:58644
+Feb 10 18:36 : client: [0] closed
+Feb 10 21:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 21:21 : config: option 'device' on line 209 was not recognized
+Feb 10 21:21 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 10 21:21 : client: [0] opened from 127.0.0.1:33198
+Feb 10 21:21 : client: [0] closed
+Feb 10 21:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 21:22 : config: option 'device' on line 209 was not recognized
+Feb 10 21:22 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 10 21:22 : client: [0] opened from 127.0.0.1:55780
+Feb 10 21:22 : client: [1] opened from 127.0.0.1:55838
+Feb 10 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 21:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 10 21:25 : player: played "Rigël Theatre/(M3-33)(同人音楽)[Rigel Theatre] SOLROS ～Eternal Memory～ (v0+jpg)/01. Eternal Memory.mp3"
+Feb 10 21:29 : player: played "Rigël Theatre/Rinn Ding Dong - L'avenir de la Flesvelka -/09. Rinn Ding Dong -Mémoire et Avenir-.mp3"
+Feb 10 21:33 : player: played "Rigël Theatre/Lengsel - Ghosts of Memories/10.Evighet Act.II - Recollection -.mp3"
+Feb 10 21:39 : player: played "Rigël Theatre/Lengsel - Ghosts of Memories/11.Riness - Ghosts of Memories -.mp3"
+Feb 10 21:41 : player: played "Rigël Theatre/Lengsel - Ghosts of Memories/07.Requiem of the olesnia.mp3"
+Feb 10 21:45 : player: played "Rigël Theatre/Rigel Theatre - Sun's of Liberty (v0+jpg)/01. Suns of Liberty -Wind Heart.II-.mp3"
+Feb 10 21:50 : player: played "Rigël Theatre/(M3-33)(同人音楽)[Rigel Theatre] SOLROS ～Eternal Memory～ (v0+jpg)/10. NEBO (# Vocal Track).mp3"
+Feb 10 21:56 : player: played "Rigël Theatre/Älvorna -Memories of Abcense-/06. Lurie.mp3"
+Feb 10 22:00 : player: played "Rigël Theatre/Älvorna -Memories of Abcense-/10. Restia -Eternal Regret-.mp3"
+Feb 10 23:31 : player: played "Rigël Theatre/Rinn Ding Dong - L'avenir de la Flesvelka -/01. Rinn Ding Dong.mp3"
+Feb 10 23:36 : player: played "Rigël Theatre/Lengsel - Ghosts of Memories/09.Evighet Act.I - Gentiana -.mp3"
+Feb 10 23:39 : player: played "Rigël Theatre/Älvorna -Memories of Abcense-/04. Evig Vinter.mp3"
+Feb 10 23:43 : player: played "Rigël Theatre/Rinn Ding Dong - L'avenir de la Flesvelka -/04. Heart of Darkness.mp3"
+Feb 10 23:47 : player: played "Rigël Theatre/Älvorna -Memories of Abcense-/08. Intet.mp3"
+Feb 10 23:52 : player: played "Rigël Theatre/(M3-33)(同人音楽)[Rigel Theatre] SOLROS ～Eternal Memory～ (v0+jpg)/14. SOLROS -Reunion-.mp3"
+Feb 10 23:55 : player: played "Rigël Theatre/(M3-33)(同人音楽)[Rigel Theatre] SOLROS ～Eternal Memory～ (v0+jpg)/03. Testament.mp3"
+Feb 10 23:59 : player: played "Rigël Theatre/Rinn Ding Dong - L'avenir de la Flesvelka -/05. Erlija 'A' Minor Swing.mp3"
+Feb 11 00:04 : player: played "Rigël Theatre/Rinn Ding Dong - L'avenir de la Flesvelka -/10. Erlija Gäte -Stargazers-.mp3"
+Feb 11 00:06 : client: [1] closed
+Feb 11 00:06 : client: [2] opened from 127.0.0.1:58122
+Feb 11 00:06 : player: played "Rigël Theatre/(M3-33)(同人音楽)[Rigel Theatre] SOLROS ～Eternal Memory～ (v0+jpg)/12. Erlija 'B' Minor Swing.mp3"
+Feb 11 00:06 : client: [2] closed
+Feb 11 00:06 : client: [0] closed
+Feb 11 11:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 11:32 : config: option 'device' on line 209 was not recognized
+Feb 11 11:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 11:32 : client: [0] opened from 127.0.0.1:42556
+Feb 11 11:45 : client: [0] closed
+Feb 11 12:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 12:05 : config: option 'device' on line 209 was not recognized
+Feb 11 12:05 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 12:05 : client: [0] opened from 127.0.0.1:41822
+Feb 11 12:43 : client: [0] closed
+Feb 11 13:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 13:53 : config: option 'device' on line 209 was not recognized
+Feb 11 13:53 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 13:53 : client: [0] opened from 127.0.0.1:37698
+Feb 11 15:30 : client: [0] closed
+Feb 11 16:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 16:05 : config: option 'device' on line 209 was not recognized
+Feb 11 16:05 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 16:05 : client: [0] opened from 127.0.0.1:41628
+Feb 11 17:11 : client: [0] closed
+Feb 11 17:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 17:22 : config: option 'device' on line 209 was not recognized
+Feb 11 17:22 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 17:22 : client: [0] opened from 127.0.0.1:46920
+Feb 11 18:26 : client: [0] closed
+Feb 11 18:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 18:26 : config: option 'device' on line 209 was not recognized
+Feb 11 18:26 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 18:26 : client: [0] opened from 127.0.0.1:35244
+Feb 11 18:31 : client: [0] closed
+Feb 11 18:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 18:32 : config: option 'device' on line 209 was not recognized
+Feb 11 18:32 : client: [0] opened from 127.0.0.1:55294
+Feb 11 18:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 18:34 : client: [0] closed
+Feb 11 18:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 18:34 : config: option 'device' on line 209 was not recognized
+Feb 11 18:34 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 18:34 : client: [0] opened from 127.0.0.1:51632
+Feb 11 18:45 : avahi: Client Disconnected, will reconnect shortly
+Feb 11 18:45 : client: [0] closed
+Feb 11 18:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 18:46 : config: option 'device' on line 209 was not recognized
+Feb 11 18:46 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 18:46 : client: [0] opened from 127.0.0.1:33138
+Feb 11 18:54 : client: [0] closed
+Feb 11 19:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 11 19:55 : config: option 'device' on line 209 was not recognized
+Feb 11 19:55 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 19:55 : client: [0] opened from 127.0.0.1:56232
+Feb 11 22:56 : client: [0] closed
+Feb 12 12:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 12:11 : config: option 'device' on line 209 was not recognized
+Feb 12 12:11 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 12 12:11 : client: [0] opened from 127.0.0.1:33528
+Feb 12 12:14 : client: [0] closed
+Feb 12 12:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 12:16 : config: option 'device' on line 209 was not recognized
+Feb 12 12:16 : client: [0] opened from 127.0.0.1:51890
+Feb 12 12:16 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 12 12:20 : client: [0] closed
+Feb 12 12:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 12:20 : config: option 'device' on line 209 was not recognized
+Feb 12 12:20 : client: [0] opened from 127.0.0.1:52108
+Feb 12 12:20 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 12 12:21 : client: [0] closed
+Feb 12 12:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 12:21 : config: option 'device' on line 209 was not recognized
+Feb 12 12:21 : client: [0] opened from 127.0.0.1:52116
+Feb 12 12:21 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 12 12:22 : client: [0] closed
+Feb 12 12:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 12:22 : config: option 'device' on line 209 was not recognized
+Feb 12 12:22 : client: [0] opened from 127.0.0.1:52124
+Feb 12 12:22 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 12 12:23 : client: [0] closed
+Feb 12 12:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 12:23 : config: option 'device' on line 209 was not recognized
+Feb 12 12:23 : client: [0] opened from 127.0.0.1:52226
+Feb 12 12:23 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 12 12:25 : client: [0] closed
+Feb 12 12:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 12:25 : config: option 'device' on line 209 was not recognized
+Feb 12 12:25 : client: [0] opened from 127.0.0.1:52298
+Feb 12 12:25 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 12 12:26 : client: [0] closed
+Feb 12 12:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 12:26 : config: option 'device' on line 209 was not recognized
+Feb 12 12:26 : client: [0] opened from 127.0.0.1:52306
+Feb 12 12:26 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 12 13:45 : client: [1] opened from 127.0.0.1:53848
+Feb 12 13:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 13:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 13:47 : player: played "Port-Avenir/Phantas Maiden/01. 禊.mp3"
+Feb 12 13:51 : player: played "Port-Avenir/Phantas Maiden/02. Lycanthropy.mp3"
+Feb 12 13:54 : player: played "Port-Avenir/Phantas Maiden/03. Unfitheatre.mp3"
+Feb 12 13:58 : player: played "Port-Avenir/Phantas Maiden/04. Freikugel.mp3"
+Feb 12 14:02 : player: played "Port-Avenir/Phantas Maiden/05. Vs.Mary.mp3"
+Feb 12 14:06 : player: played "Port-Avenir/Phantas Maiden/06. Thrones.mp3"
+Feb 12 14:08 : player: played "Port-Avenir/Phantas Maiden/07. Vampin' Magic -Remaster-.mp3"
+Feb 12 14:39 : client: [1] closed
+Feb 12 21:19 : client: [2] opened from 127.0.0.1:55196
+Feb 12 21:19 : player: played "Port-Avenir/Phantas Maiden/09. ЯancoR.mp3"
+Feb 12 21:20 : player: played "Port-Avenir/Phantas Maiden/10. ultima Thule.mp3"
+Feb 12 21:21 : player: played "Port-Avenir/Phantas Maiden/10. ultima Thule.mp3"
+Feb 12 21:32 : player: played "Port-Avenir/Phantas Maiden/10. ultima Thule.mp3"
+Feb 12 21:37 : player: played "while (true)/[2018.04.29] One For All, All For One/01. For You.flac"
+Feb 12 21:42 : player: played "while (true)/[2018.04.29] One For All, All For One/06. Abysswalker.flac"
+Feb 12 21:47 : player: played "while (true)/While True - Merge/fall into oblivion.mp3"
+Feb 12 21:49 : player: played "while (true)/While True - Merge/Tongue Twister.mp3"
+Feb 12 21:54 : player: played "while (true)/[2018.04.29] One For All, All For One/07. KaTharsis.flac"
+Feb 12 21:58 : player: played "while (true)/[2018.04.29] One For All, All For One/02. VS Nāga.flac"
+Feb 12 22:02 : player: played "while (true)/[2018.04.29] One For All, All For One/03. NozPath.flac"
+Feb 12 22:06 : player: played "while (true)/While True - Merge/Eze.mp3"
+Feb 12 22:12 : player: played "while (true)/[2018.04.29] One For All, All For One/05. Revelation of Silence.flac"
+Feb 12 22:15 : player: played "while (true)/[2018.04.29] One For All, All For One/04. Singularity.flac"
+Feb 12 22:21 : player: played "while (true)/While True - Merge/Sidekick.mp3"
+Feb 12 22:26 : player: played "while (true)/While True - Merge/Violet Lily.mp3"
+Feb 12 22:30 : player: played "while (true)/[2018.04.29] One For All, All For One/03. NozPath.flac"
+Feb 12 22:33 : player: played "while (true)/While True - Merge/Tongue Twister.mp3"
+Feb 12 22:38 : player: played "while (true)/[2018.04.29] One For All, All For One/05. Revelation of Silence.flac"
+Feb 12 22:38 : client: [2] closed
+Feb 13 00:17 : client: [0] closed
+Feb 13 11:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 11:39 : config: option 'device' on line 209 was not recognized
+Feb 13 11:39 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 13 11:39 : client: [0] opened from 127.0.0.1:38058
+Feb 13 12:20 : client: [0] closed
+Feb 13 13:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 13:18 : config: option 'device' on line 209 was not recognized
+Feb 13 13:18 : client: [0] opened from 127.0.0.1:49426
+Feb 13 13:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 13 13:18 : client: [0] closed
+Feb 13 13:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 13:18 : config: option 'device' on line 209 was not recognized
+Feb 13 13:18 : client: [0] opened from 127.0.0.1:49434
+Feb 13 13:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 13 14:53 : client: [1] opened from 127.0.0.1:51338
+Feb 13 14:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 14:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 14:54 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/01. Xenoblade II - Where It All Began -.mp3"
+Feb 13 20:20 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/19. Still, Move Forward!.mp3"
+Feb 13 20:23 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/07. Ophion.mp3"
+Feb 13 20:26 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/03. With People and Darkness.mp3"
+Feb 13 20:29 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/02. Monster Surprised You.mp3"
+Feb 13 20:31 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/11. The Awakening.mp3"
+Feb 13 20:47 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/01. Titan Battleship.mp3"
+Feb 13 20:50 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/19. Elysium.mp3"
+Feb 13 20:54 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/14. Gormotti Forest.mp3"
+Feb 13 20:57 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/11. Mor Ardain-Night.mp3"
+Feb 13 21:01 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/06. Walking with You.mp3"
+Feb 13 21:05 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/01. Counterattack.mp3"
+Feb 13 21:08 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/09. Ever Come to an End.mp3"
+Feb 13 21:12 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/06. A Ship in a Stormy Sea.mp3"
+Feb 13 21:15 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/10. Shadow of the Lowlands.mp3"
+Feb 13 21:20 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/12. The Decision.mp3"
+Feb 13 21:22 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/14. Spirit Crucible Elpys.mp3"
+Feb 13 21:26 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/03. Argentum.mp3"
+Feb 13 21:29 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/08. Alba Cavanich-Night.mp3"
+Feb 13 21:32 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/13. Kingdom of Uraya-Night.mp3"
+Feb 13 21:35 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/05. War and Peace.mp3"
+Feb 13 21:37 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/09. A Portent Crawling Over.mp3"
+Feb 13 21:40 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/02. Past from Far Distance.mp3"
+Feb 13 21:41 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/05. Bana's Theme.mp3"
+Feb 13 21:44 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/05. Praetor Amalthus - The Acting God -.mp3"
+Feb 13 21:47 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/07. The Ancient Vessel.mp3"
+Feb 13 21:50 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/14. After Despair and Hope.mp3"
+Feb 13 21:53 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/07. Alba Cavanich.mp3"
+Feb 13 21:56 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/24. Tiger! Tiger!.mp3"
+Feb 13 21:58 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/15. Jump Towards the Morning Sun.mp3"
+Feb 13 22:01 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/04. The Impending Crisis.mp3"
+Feb 13 22:04 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/04. Where We Used To Be.mp3"
+Feb 13 22:08 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/06. Over the Sinful Entreaty.mp3"
+Feb 13 22:10 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/02. Elysium, in the Blue Sky.mp3"
+Feb 13 22:12 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/20. Wanted Nia.mp3"
+Feb 13 22:16 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/04. The Power of Jin.mp3"
+Feb 13 22:19 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/10. Elysium in the Dream.mp3"
+Feb 13 22:22 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/05. Temperantia.mp3"
+Feb 13 22:25 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/01. Our Eternal Land.mp3"
+Feb 13 22:27 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/11. The Past Revealed.mp3"
+Feb 13 22:30 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/08. Exploration.mp3"
+Feb 13 22:34 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/17. Battle!!.mp3"
+Feb 13 22:37 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/03. Desolation.mp3"
+Feb 13 22:40 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/18. The Beginning of Darkness.mp3"
+Feb 13 22:43 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/20. White All Around Us.mp3"
+Feb 13 22:46 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/03. Misgivings.mp3"
+Feb 13 22:48 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/20. A Place in the Sun.mp3"
+Feb 13 22:52 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/14. Those Who Stand Against Our Path.mp3"
+Feb 13 22:55 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/09. Running.mp3"
+Feb 13 22:58 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/09. Garfont Mercenaries.mp3"
+Feb 13 23:02 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/11. Death Match with Torna.mp3"
+Feb 13 23:05 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/08. Tantal-Night.mp3"
+Feb 13 23:08 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/12. Crossing Swords.mp3"
+Feb 13 23:14 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/21. One Last You.mp3"
+Feb 13 23:16 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/18. Escape - Going Through Clouds -.mp3"
+Feb 13 23:19 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/08. Womb Center.mp3"
+Feb 13 23:24 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/16. Drifting Soul (Violin Version).mp3"
+Feb 13 23:27 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc2/16. Fonsa Myma-Night.mp3"
+Feb 13 23:30 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc1/04. Argentum-Night.mp3"
+Feb 13 23:32 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/14. Song of Giga Rosa.mp3"
+Feb 13 23:36 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc4/07. Tantal.mp3"
+Feb 13 23:40 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc3/16. Leftherian Archipelago.mp3"
+Feb 14 00:04 : client: [1] closed
+Feb 14 00:04 : client: [0] closed
+Feb 14 00:04 : player: played "Video Game OST/Xenoblade Chronicles 2 Original Soundtrack/Disc5/13. Battle in the Skies Above.mp3"
+Feb 14 16:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 16:56 : config: option 'device' on line 209 was not recognized
+Feb 14 16:56 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 14 16:56 : client: [0] opened from 127.0.0.1:59856
+Feb 14 18:03 : client: [0] closed
+Feb 15 12:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 12:40 : config: option 'device' on line 209 was not recognized
+Feb 15 12:40 : client: [0] opened from 127.0.0.1:45898
+Feb 15 12:40 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 15 21:24 : client: [0] closed
+Feb 16 10:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 10:54 : config: option 'device' on line 209 was not recognized
+Feb 16 10:54 : client: [0] opened from 127.0.0.1:43564
+Feb 16 10:54 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 16 11:15 : client: [1] opened from 127.0.0.1:44436
+Feb 16 11:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 11:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 16 11:18 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 11:20 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 11:22 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 11:24 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 11:32 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 11:34 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 11:36 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 11:38 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 11:40 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 11:42 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 11:44 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 11:46 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 11:49 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 11:50 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 11:52 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 11:54 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 11:56 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 11:59 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 12:01 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 12:03 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 12:05 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 12:07 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 12:09 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 12:11 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 12:13 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 12:15 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 12:18 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 12:20 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 12:21 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 12:24 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 12:26 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 12:28 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 12:30 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 12:33 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 12:34 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 12:36 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 12:38 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 12:41 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 12:42 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 12:45 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 12:46 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 12:49 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 12:51 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 12:53 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 12:55 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 12:57 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 12:59 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 13:01 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 13:03 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 13:05 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 13:07 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 13:10 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 13:12 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 13:14 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 13:16 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 13:18 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 13:20 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 13:22 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 13:24 : player: played "FLAPPER/Pianothetics/04. ØVER.mp3"
+Feb 16 13:26 : player: played "FLAPPER/Pianothetics/03. eXit.mp3"
+Feb 16 13:28 : player: played "FLAPPER/Pianothetics/01. ad℣ance.mp3"
+Feb 16 13:30 : player: played "FLAPPER/Pianothetics/02. velludo camino - piano addition ver..mp3"
+Feb 16 16:23 : client: [1] closed
+Feb 16 21:28 : client: [0] closed
+Feb 17 12:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 12:33 : config: option 'device' on line 209 was not recognized
+Feb 17 12:33 : client: [0] opened from 127.0.0.1:49284
+Feb 17 12:33 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 17 17:38 : client: [1] opened from 127.0.0.1:52886
+Feb 17 17:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 17:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 17:41 : player: played "NiZi RiNGO/Athenarium/07. 喝.mp3"
+Feb 17 17:45 : player: played "NiZi RiNGO/Ne_nuit/06. sparkling illumination.mp3"
+Feb 17 17:50 : player: played "Various Artists/Artifacts_of_Artcore/reliquia.mp3"
+Feb 17 17:54 : player: played "NiZi RiNGO/Athenarium/11. Hare.mp3"
+Feb 17 17:57 : player: played "Various Artists/Artifacts_of_Artcore/Fortun Machete.mp3"
+Feb 17 18:00 : player: played "NiZi RiNGO/Athenarium/09. 百九十.mp3"
+Feb 17 18:04 : player: played "Various Artists/Artifacts_of_Artcore/Tizona.mp3"
+Feb 17 18:08 : player: played "NiZi RiNGO/Ne_nuit/05. Neon tetra.mp3"
+Feb 17 18:11 : player: played "NiZi RiNGO/Athenarium/01. YouMe.mp3"
+Feb 17 18:15 : player: played "NiZi RiNGO/Ne_nuit/03. Paroles.mp3"
+Feb 17 18:17 : player: played "NiZi RiNGO/Ne_nuit/01. nightfall.mp3"
+Feb 17 18:21 : player: played "Xi/World Fragments [320]/09 xi - World Fragments I 2015.mp3"
+Feb 17 18:26 : player: played "Symphonic Xizer/SymphonicXize-002/09. connect world.mp3"
+Feb 17 18:30 : player: played "Xi/World Fragments [320]/04 xi - ANiMA 2015.mp3"
+Feb 17 18:34 : player: played "Xi/World Fragments [320]/07 Diceros Bicornis (xi+BlackY) - Siva 2015.mp3"
+Feb 17 18:38 : player: played "Various Artists/Artifacts_of_Artcore/Dawn piecer ''Squallogram''.mp3"
+Feb 17 18:41 : player: played "Various Artists/Artifacts_of_Artcore/Knife of Amber.mp3"
+Feb 17 18:43 : player: played "ARForest/Coloridium/05. Take A Kick.mp3"
+Feb 17 18:45 : player: played "Various Artists/Artifacts_of_Artcore/ù┤ûΣôSï╛.mp3"
+Feb 17 18:49 : player: played "Symphonic Xizer/SymphonicXize-002/02. Skymemory.mp3"
+Feb 17 18:52 : player: played "Xi/World Fragments [320]/03 xi feat.Sta - Tiferet 2015.mp3"
+Feb 17 18:58 : player: played "NiZi RiNGO/Ne_nuit/02. 雲の絃を紡ぎながら.mp3"
+Feb 17 19:01 : player: played "Various Artists/Artifacts_of_Artcore/Ark.mp3"
+Feb 17 19:06 : player: played "ARForest/Coloridium/08. Ink.mp3"
+Feb 17 19:11 : player: played "NiZi RiNGO/Athenarium/06. 祭.mp3"
+Feb 17 19:15 : player: played "Xi/World Fragments [320]/05 xi - over the top 2015.mp3"
+Feb 17 19:19 : player: played "Symphonic Xizer/SymphonicXize-002/03. Beautifu Looping.mp3"
+Feb 17 19:21 : player: played "Symphonic Xizer/SymphonicXize-002/04. Ruler of stratification.mp3"
+Feb 17 19:24 : player: played "ARForest/Coloridium/02. Melon Cream Soda.mp3"
+Feb 17 19:28 : player: played "NiZi RiNGO/Athenarium/05. 霜月.mp3"
+Feb 17 19:33 : player: played "NiZi RiNGO/Ne_nuit/08. Argentum Aeternitas 〜銀白の月無夜〜.mp3"
+Feb 17 19:35 : player: played "ARForest/Coloridium/07. Save us.mp3"
+Feb 17 19:39 : player: played "Various Artists/Artifacts_of_Artcore/âhâëâxâbâëé╠ê├ìåfeat.MEIKO.mp3"
+Feb 17 22:55 : client: [1] closed
+Feb 17 22:56 : client: [0] closed
+Feb 17 22:56 : player: played "Symphonic Xizer/SymphonicXize-002/05. Rain ice.mp3"
+Feb 18 14:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 14:37 : config: option 'device' on line 209 was not recognized
+Feb 18 14:37 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 18 14:37 : client: [0] opened from 127.0.0.1:43340
+Feb 18 15:27 : client: [0] closed
+Feb 18 19:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 19:06 : config: option 'device' on line 209 was not recognized
+Feb 18 19:06 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 18 19:06 : client: [0] opened from 127.0.0.1:44170
+Feb 18 20:24 : client: [0] closed
+Feb 19 12:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 12:25 : config: option 'device' on line 209 was not recognized
+Feb 19 12:25 : client: [0] opened from 127.0.0.1:49950
+Feb 19 12:25 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 19 14:49 : client: [0] closed
+Feb 19 17:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 17:02 : config: option 'device' on line 209 was not recognized
+Feb 19 17:02 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 19 17:02 : client: [0] opened from 127.0.0.1:41388
+Feb 19 20:19 : client: [1] opened from 127.0.0.1:43788
+Feb 19 20:19 : client: [1] closed
+Feb 20 01:03 : client: [0] closed
+Feb 20 11:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 11:32 : config: option 'device' on line 209 was not recognized
+Feb 20 11:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 20 11:32 : client: [0] opened from 127.0.0.1:34572
+Feb 20 12:42 : client: [0] closed
+Feb 20 13:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 13:28 : config: option 'device' on line 209 was not recognized
+Feb 20 13:28 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 20 13:28 : client: [0] opened from 127.0.0.1:44808
+Feb 20 15:52 : client: [0] closed
+Feb 20 16:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 16:04 : config: option 'device' on line 209 was not recognized
+Feb 20 16:04 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 20 16:04 : client: [0] opened from 127.0.0.1:58530
+Feb 20 19:06 : client: [0] closed
+Feb 20 20:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 20:12 : config: option 'device' on line 209 was not recognized
+Feb 20 20:12 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 20 20:12 : client: [0] opened from 127.0.0.1:60072
+Feb 21 01:44 : client: [0] closed
+Feb 21 10:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 10:06 : config: option 'device' on line 209 was not recognized
+Feb 21 10:06 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 21 10:06 : client: [0] opened from 127.0.0.1:35158
+Feb 21 10:12 : client: [0] closed
+Feb 21 12:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 12:49 : config: option 'device' on line 209 was not recognized
+Feb 21 12:49 : client: [0] opened from 127.0.0.1:56698
+Feb 21 12:49 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 21 13:19 : client: [0] closed
+Feb 21 22:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 22:08 : config: option 'device' on line 209 was not recognized
+Feb 21 22:08 : client: [0] opened from 127.0.0.1:34842
+Feb 21 22:08 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 21 23:04 : client: [0] closed
+Feb 22 10:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 10:36 : config: option 'device' on line 209 was not recognized
+Feb 22 10:36 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 22 10:36 : client: [0] opened from 127.0.0.1:49300
+Feb 22 22:12 : client: [0] closed
+Feb 23 16:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 16:12 : config: option 'device' on line 209 was not recognized
+Feb 23 16:12 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 23 16:12 : client: [0] opened from 127.0.0.1:38384
+Feb 23 16:51 : client: [0] closed
+Feb 23 17:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 17:35 : config: option 'device' on line 209 was not recognized
+Feb 23 17:35 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 23 17:35 : client: [0] opened from 127.0.0.1:52908
+Feb 23 18:24 : client: [0] closed
+Feb 23 20:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 20:50 : config: option 'device' on line 209 was not recognized
+Feb 23 20:50 : client: [0] opened from 127.0.0.1:47810
+Feb 23 20:50 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 24 00:46 : client: [0] closed
+Feb 24 12:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 12:14 : config: option 'device' on line 209 was not recognized
+Feb 24 12:14 : client: [0] opened from 127.0.0.1:53308
+Feb 24 12:14 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 24 14:12 : client: [0] closed
+Feb 24 14:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 14:47 : config: option 'device' on line 209 was not recognized
+Feb 24 14:47 : client: [0] opened from 127.0.0.1:45676
+Feb 24 14:47 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 24 15:41 : client: [0] closed
+Feb 24 17:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 17:52 : config: option 'device' on line 209 was not recognized
+Feb 24 17:52 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 24 17:52 : client: [0] opened from 127.0.0.1:53790
+Feb 24 19:14 : client: [0] closed
+Feb 24 19:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 19:14 : config: option 'device' on line 209 was not recognized
+Feb 24 19:14 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 24 19:14 : client: [0] opened from 127.0.0.1:49858
+Feb 24 19:33 : client: [0] closed
+Feb 24 20:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 20:04 : config: option 'device' on line 209 was not recognized
+Feb 24 20:04 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 24 20:04 : client: [0] opened from 127.0.0.1:34344
+Feb 24 22:52 : client: [0] closed
+Feb 25 11:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 11:29 : config: option 'device' on line 209 was not recognized
+Feb 25 11:29 : client: [0] opened from 127.0.0.1:34862
+Feb 25 11:29 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 25 12:33 : client: [0] closed
+Feb 25 15:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 15:34 : config: option 'device' on line 209 was not recognized
+Feb 25 15:34 : client: [0] opened from 127.0.0.1:45682
+Feb 25 15:34 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 26 00:05 : client: [0] closed
+Feb 26 12:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 12:09 : config: option 'device' on line 209 was not recognized
+Feb 26 12:09 : client: [0] opened from 127.0.0.1:35406
+Feb 26 12:09 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 26 15:34 : client: [0] closed
+Feb 27 19:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 19:24 : config: option 'device' on line 209 was not recognized
+Feb 27 19:24 : client: [0] opened from 127.0.0.1:33914
+Feb 27 19:24 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 27 19:24 : client: [0] closed
+Feb 28 13:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 13:25 : config: option 'device' on line 209 was not recognized
+Feb 28 13:25 : client: [0] opened from 127.0.0.1:59186
+Feb 28 13:25 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 28 14:46 : avahi: Client Disconnected, will reconnect shortly
+Feb 28 14:46 : client: [0] closed
+Feb 28 15:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 15:26 : config: option 'device' on line 209 was not recognized
+Feb 28 15:26 : client: [0] opened from 127.0.0.1:54492
+Feb 28 15:26 : avahi: Service 'Music Player @ zephyr' successfully established.
