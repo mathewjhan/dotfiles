@@ -9,6 +9,7 @@ call plug#begin('~/.vim/plugged')
 
 " Github
 Plug 'conornewton/vim-pandoc-markdown-preview'
+Plug 'SirVer/ultisnips'
 Plug 'lervag/vimtex'
 Plug 'skywind3000/asyncrun.vim'
 Plug '907th/vim-auto-save'
@@ -24,7 +25,7 @@ Plug 'tmsvg/pear-tree'
 Plug 'scrooloose/nerdcommenter'
 Plug 'MattesGroeger/vim-bookmarks'
 Plug 'psliwka/vim-smoothie'
-Plug 'neoclide/coc.nvim', {'tag': '*', 'do': './install.sh'}
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 " Local
 Plug 'file://'.expand('~/.vim/local/vpmp-togglable')
@@ -62,8 +63,6 @@ endif
 " Disable spell-check as defauult
 let g:pandoc#spell#enabled = 0
 
-
-
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Markdown & TeX
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -84,17 +83,20 @@ let g:airline_powerline_fonts = 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Use tab for trigger completion with characters ahead and navigate.
 " Use command ':verbose imap <tab>' to make sure tab is not mapped by other plugin.
+" Snippets functionality
+
 inoremap <silent><expr> <TAB>
-      \ pumvisible() ? "\<C-n>" :
-      \ <SID>check_back_space() ? "\<TAB>" :
-      \ coc#refresh()
-inoremap <expr><S-TAB> pumvisible() ? "\<C-p>" : "\<C-h>"
+    \ pumvisible() ? "\<C-n>" :
+    \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
+    \ <SID>check_back_space() ? "\<TAB>" :
+    \ coc#refresh()
 
 function! s:check_back_space() abort
-  let col = col('.') - 1
-  return !col || getline('.')[col - 1]  =~# '\s'
+    let col = col('.') - 1
+    return !col || getline('.')[col - 1]  =~# '\s'
 endfunction
 
+let g:coc_snippet_next = '<tab>'
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Nerdcommenter
@@ -104,6 +106,12 @@ let g:NERDSpaceDelims = 1
 
 " Use compact syntax for prettified multi-line comments
 let g:NERDCompactSexyComs = 1
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" UltiSnips
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:UltiSnipsSnippetDirectories=["UltiSnips"]
+let g:UltiSnipsExpandTrigger="<c-space>"
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Deoplete (backup)

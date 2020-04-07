@@ -1,10 +1,9 @@
 # Dotfiles
-Most of the dotfiles I am using on my current Linux distro =)
+Most of the dotfiles I am using on my current Linux distro.
 
 **OS**: Arch Linux\
-**Host**: XPS 15 9750\
-**DE**: Xfce4\
-**WM**: i3-gaps\
+**DE**: xfce4\
+**WM**: i3\
 **Shell**: zsh
 
 ![neofetch & cava](rice.png?raw=true "Title")
@@ -12,8 +11,8 @@ Most of the dotfiles I am using on my current Linux distro =)
 # Currently in use:
 - Theming: `pywal`
 - Taskbar: `polybar`
-- Text editor: `nvim` (with vim8 plugins)
-- Compositor: `compton`
+- Text editor: `nvim` 
+- Compositor: `picom`
 - Launcher/Window swapper: `rofi`
 - Terminal: `kitty`
 - Touchpad: `libinput-gestures`
@@ -22,6 +21,7 @@ Most of the dotfiles I am using on my current Linux distro =)
 - Screenshot tool: `flameshot`
 - File manager: `vifm`
 - Music player: `mpd` + `ncmpcpp`
+- `rm` replacement: `rip`
 - PDF reader: `zathura`
 
 # Requirements
@@ -29,7 +29,7 @@ Most of the dotfiles I am using on my current Linux distro =)
     - Autorun/Startup
         - pywal
         - feh
-        - compton
+        - picom
         - alternating_layouts.py
         - nm-applet
         - polybar (with scripts)
@@ -58,7 +58,7 @@ Most of the dotfiles I am using on my current Linux distro =)
 
 - neovim
     - asyncrun.vim
-    - auto-pairs
+    - pear-tree
     - coc.nvim
     - goyo.vim
     - nerdcommenter

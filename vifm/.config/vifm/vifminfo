@@ -18,7 +18,7 @@
 
 # TUI:
 al
-q0
+q1
 v2
 ov
 m-1
@@ -26,174 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/media/data/mathew/Home/High School
-	AP Resources
-6
-d/media/data/mathew/Home
-	High School
-2
-d/media/data/mathew/Home/High School
-	AP Resources
-6
-d/media/data/mathew/Home/High School/AP Resources
-	2016 AP Practice Exams
-1
-d/media/data/mathew/Home/High School
-	textbooks
-11
-d/media/data/mathew/Home/High School/textbooks
-	rogawski_notes_and_handouts.pdf
-12
-d/media/data/mathew/Home/High School
-	2018-2019
-5
-d/media/data/mathew/Home/High School/2018-2019
-	Peterson
-5
-d/media/data/mathew/Home/High School/2018-2019/Peterson
-	ACDC Econ
-1
-d/media/data/mathew/Home/High School/2018-2019/Peterson/ACDC Econ
-	Welcome
-1
-d/media/data/mathew/Home/High School/2018-2019/Peterson/ACDC Econ/Welcome
-	..
-0
-d/media/data/mathew/Home/High School/2018-2019/Peterson/ACDC Econ
-	..
-0
-d/media/data/mathew/Home/High School/2018-2019/Peterson
-	..
-0
-d/media/data/mathew/Home/High School/2018-2019
-	..
-0
-d/media/data/mathew/Home/High School
-	AP Resources
-6
-d/media/data/mathew/Home
-	College
-1
-d/media/data/mathew/Home/College
-	..
-0
-d/media/data/mathew/Home
-	High School
-2
-d/media/data/mathew/Home/High School
-	2018-2019
-5
-d/media/data/mathew/Home/High School/2018-2019
-	Peterson
-5
-d/media/data/mathew/Home/High School/2018-2019/Peterson
-	..
-0
-d/media/data/mathew/Home/High School/2018-2019
-	Peterson
-5
-d/media/data/mathew/Home/High School
-	2018-2019
-5
-d/media/data/mathew/Home
-	misc
-6
-d/media/data/mathew/Home/misc
-	..
-0
-d/media/data/mathew/Home
-	uhhhh
-10
-d/media/data/mathew/Home/uhhhh
-	..
-0
-d/media/data/mathew/Home
-	Summer Programs
-3
-d/media/data/mathew/Home/Summer Programs
-	cmu
-4
-d/media/data/mathew/Home
-	College
-1
-d/media/data/mathew/Home/College
-	..
-0
-d/media/data/mathew/Home
-	College
-1
-d/media/data/mathew
-	Home
-2
-d/media/data
-	mathew
-3
-d/home/mathew
-	package-lock.json
-18
-d/home/mathew/Pictures/Wallpapers
-	Roadway Panorama (5 Centimeters Per Second) [3840x2160].png
-1
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew
-	Pictures
-5
-d/home/mathew/Pictures
-	Wallpapers
-1
-d/home/mathew/Pictures/Wallpapers
-	sunrise-7-1920×1080.jpg
-48
-d/media/data/mathew/Home/trash/Kimetsu_no_Yaiba
-	Kimetsu_no_Yaiba_13.mp4
-13
-d/media/data/mathew/Home/trash
-	[Beatrice-Raws] Kokoro ga Sakebitagatterunda. [BDRip 1920x1080 x264 FLAC]
-2
-d/media/data/mathew/Home/trash/[Beatrice-Raws] Kokoro ga Sakebitagatterunda. [BDRip 1920x1080 x264 FLAC]
-	BD menu
-2
-d/media/data/mathew/Home/trash
-	Kimetsu_no_Yaiba
-1
-d/media/data/mathew/Home/trash/Kimetsu_no_Yaiba
-	Kimetsu_no_Yaiba_15.mp4
-15
-d/media/data/mathew/Home/trash
-	Kaguya-sama wa Kokurasetai 01-12 (1920x1080 HEVC2 AAC) (Batch)
-1
-d/media/data/mathew/Home/trash/Kaguya-sama wa Kokurasetai 01-12 (1920x1080 HEVC2 AAC) (Batch)
-	Kaguya-sama wa Kokurasetai - 12 (1920x1080 HEVC2 AAC).mkv
-12
-d/home/mathew
-	Pictures
-5
-d/home
-	mathew
-1
-d/
-	usr
-19
-d/usr
-	share
-9
-d/usr/share
-	backgrounds
-26
-d/usr/share/backgrounds
-	gnome
-1
-d/usr/share/backgrounds/gnome
-	Road.jpg
-8
-d/usr/share/backgrounds
-	xfce
-2
-d/usr/share/backgrounds/xfce
-	Szarkakoi_fa.jpg
-8
 d/media/data/mathew/Home/resume
 	college_resume.docx
 2
@@ -326,6 +158,174 @@ d/media/data/mathew/Home/College/ENGLWRIT112
 d/media/data/mathew/Home/College/ENGLWRIT112/Research Paper
 	annotated_bibliography.docx
 9
+d/media/data/mathew/Home/trash
+	Code_Geass_Hangyaku_no_Lelouch
+1
+d/media/data/mathew/Home/trash/Code_Geass_Hangyaku_no_Lelouch
+	Code_Geass_Hangyaku_no_Lelouch_15.mp4
+15
+d/media/data/mathew/Home/trash
+	Code_Geass_Hangyaku_no_Lelouch
+1
+d/media/data/mathew/Home/trash/Code_Geass_Hangyaku_no_Lelouch
+	Code_Geass_Hangyaku_no_Lelouch_16.mp4
+16
+d/media/data/mathew/Home/trash
+	Code_Geass_Hangyaku_no_Lelouch
+1
+d/media/data/mathew/Home/trash/Code_Geass_Hangyaku_no_Lelouch
+	Code_Geass_Hangyaku_no_Lelouch_19.mp4
+19
+d/media/data/mathew/Home/trash
+	Code_Geass_Hangyaku_no_Lelouch
+1
+d/media/data/mathew/Home/trash/Code_Geass_Hangyaku_no_Lelouch
+	Code_Geass_Hangyaku_no_Lelouch_22.mp4
+22
+d/media/data/mathew/Home/trash
+	Code_Geass_Hangyaku_no_Lelouch
+1
+d/media/data/mathew/Home/trash/Code_Geass_Hangyaku_no_Lelouch
+	Code_Geass_Hangyaku_no_Lelouch_23.mp4
+23
+d/home/mathew/Downloads
+	HW3.rtf
+13
+d/media/data/mathew/Home/College
+	ENGLWRIT112
+6
+d/media/data/mathew/Home/College/ENGLWRIT112
+	Research Paper
+2
+d/media/data/mathew/Home/College/ENGLWRIT112/Research Paper
+	Writing Plan - Research Paper.pdf
+7
+d/media/data/mathew/Home/College/ENGLWRIT112
+	Research Paper
+2
+d/media/data/mathew/Home/College/ENGLWRIT112/Research Paper
+	research_proposal_revised.docx
+14
+d/media/data/mathew/Home/trash
+	Code_Geass_Hangyaku_no_Lelouch_R2
+2
+d/media/data/mathew/Home/trash/Code_Geass_Hangyaku_no_Lelouch_R2
+	Code_Geass_Hangyaku_no_Lelouch_R2_06.mp4
+6
+d/media/data/mathew/Home/College/ENGLWRIT112
+	Research Paper
+2
+d/media/data/mathew/Home/College/ENGLWRIT112/Research Paper
+	979922.979942.pdf
+1
+d/media/data/mathew/Home/trash
+	Code_Geass_Hangyaku_no_Lelouch_R2
+2
+d/media/data/mathew/Home/trash/Code_Geass_Hangyaku_no_Lelouch_R2
+	Code_Geass_Hangyaku_no_Lelouch_R2_08.mp4
+8
+d/media/data/mathew/Home/College/ENGLWRIT112/Research Paper
+	VanWel-Royakkers2004_Article_EthicalIssuesInWebDataMining.pdf
+6
+d/media/data/mathew/Home/College
+	ENGLWRIT112
+6
+d/media/data/mathew/Home/College/ENGLWRIT112
+	Research Paper
+2
+d/media/data/mathew/Home/College/ENGLWRIT112/Research Paper
+	Research Paper - Assignment Handout.pdf
+4
+d/media/data/mathew/Home/College/ENGLWRIT112
+	Research Paper
+2
+d/media/data/mathew/Home/College/ENGLWRIT112/Research Paper
+	annotated_bibliography.docx
+9
+d/media/data/mathew/Home/trash
+	Code_Geass_Hangyaku_no_Lelouch_R2
+2
+d/media/data/mathew/Home/trash/Code_Geass_Hangyaku_no_Lelouch_R2
+	Code_Geass_Hangyaku_no_Lelouch_R2_12.mp4
+12
+d/home/mathew/Downloads
+	HW3.rtf
+14
+d/home/mathew
+	7l8vx6hqybh41.png
+18
+d/home/mathew/Pictures/Wallpapers
+	knnw.png
+28
+d/media/data/mathew/Home/trash
+	[MTBB] Code Geass Fukkatsu no Lelouch [5539084C].mkv
+8
+d/home/mathew
+	..
+0
+d/media/data/mathew/Home/trash
+	[MTBB] Code Geass Fukkatsu no Lelouch [5539084C].mkv
+8
+d/home/mathew/Downloads
+	Unit Exam 02-1.docx
+32
+d/home/mathew/Music
+	[C87] 発熱巫女～ず - Origin of Love.rar
+20
+d/media/data/mathew/Home/College/ENGLWRIT112/Personal Narrative Paper
+	Dancing into the light.pdf
+2
+d/home/mathew/Music
+	..
+0
+d/home/mathew
+	2020-03-31_17-34.png
+18
+d/media/data/mathew/Home/College/CS250/exam2
+	File_001.png
+1
+d/media/data/mathew/Home
+	kmeans_flowers.jpg
+20
+d/home/mathew
+	Pictures
+5
+d/home/mathew/Pictures
+	Wallpapers
+1
+d/home/mathew/Pictures/Wallpapers
+	eveningforest.jpg
+10
+d/media/data/mathew/Home
+	flowers.jpg
+18
+d/media/data/mathew/Pictures/Wallpapers/real
+	10-14-Night.jpg
+6
+d/media/data/mathew/Pictures/Wallpapers
+	simple
+5
+d/media/data/mathew/Pictures/Wallpapers/simple
+	GD3w6.jpg
+1
+d/home/mathew
+	Downloads
+3
+d/home/mathew/Downloads
+	rsz_79894.png
+18
+d/media/data/mathew/Home
+	blurb.txt
+17
+d/media/data/mathew
+	Home
+3
+d/media/data/mathew/Home
+	kmeans_flowers.jpg
+21
+d/home/mathew
+	86428110_192005552035248_6781385792787841024_n.jpg
+18
 d
 
 # Right window history (oldest to newest):
@@ -484,6 +484,7 @@ D
 /gun
 /Crack
 /back
+/exam
 
 # Prompt history (oldest to newest):
 

@@ -2,16 +2,6 @@
 # ~/.bashrc
 #
 
-# Exports
-export FZF_DEFAULT_COMMAND="rg --files --hidden"
-export EDITOR="nvim"
-export WINHOME="/media/data/mathew/Home"
-export LC_CTYPE=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
-export GOPATH="$HOME/go"
-export PATH="$HOME/go/bin:$PATH"
-export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
-
 # Defaults
 alias e="nvim"
 alias fm="vifm-ueberzug"

@@ -1,18 +1,6 @@
 #
-# ~/.bashrc
+# ~/.zshrc
 #
-
-# Exports
-export FZF_DEFAULT_COMMAND="rg --files --hidden"
-export EDITOR="nvim"
-export WINHOME="/media/data/mathew/Home"
-export MUSIC="/media/data/mathew/Music"
-export LC_CTYPE=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
-export GOPATH="$HOME/go"
-export ANDROID_HOME="/opt/android-sdk"
-export PATH="$HOME/go/bin:$PATH"
-export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
 # School
 alias college="cd /media/data/mathew/Home/College"
@@ -28,6 +16,7 @@ alias mp="ncmpcpp"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
+alias gohome="cd /media/data/mathew/Home"
 
 # Other stuff
 alias weebtrash="cd /media/data/mathew/Home/trash"
@@ -44,6 +33,7 @@ vt(){
     nvim "$@"
     latexmk -quiet -pdf -c "$@"
 }
+
 
 # Connman
 #alias lsnet="connmanctl scan wifi && connmanctl services"
@@ -78,15 +68,20 @@ mode-optimanager(){
     echo "Successfully changed to optimus-manager"
 }
 
-
+# nvidia-smi top
 alias nvtop="watch -n 0.5 nvidia-smi"
 
-# Misc
+# Pacman
+# remove orphans
+alias remorph="pacman -Qdt && sudo pacman -Rns \$(pacman -Qtdq)"
+
+# Package specific
+alias rm="echo 'Please run rip (aka rm-improved) instead or rm with a backslash.'"
 alias ls='exa'
 alias icat="kitty icat"
 alias clipboard="xclip -selection clipboard"
-alias gohome="cd /media/data/mathew/Home"
 alias whalefetch="neofetch --ascii \"$(fortune -s | cowthink -W 30 -f whale)\" --disable uptime resolution de wm theme icons"
+alias gitinfo="onefetch"
 alias wiki="wiki-search"
 alias wolfram="tungsten"
 alias temps="paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'"
