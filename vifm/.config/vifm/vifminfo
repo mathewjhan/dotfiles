@@ -18,7 +18,7 @@
 
 # TUI:
 al
-q1
+q0
 v2
 ov
 m-1
@@ -26,66 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/media/data/mathew/Home/resume
-	college_resume.docx
-2
-d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-	[Reaktor] Your Lie in April - E03 [1080p][x265][10-bit][Dual-Audio].mkv
-3
-d/media/data/mathew/Home/trash
-	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-3
-d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-	[Reaktor] Your Lie in April - E03 [1080p][x265][10-bit][Dual-Audio].mkv
-3
-d/media/data/mathew/Home/trash
-	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-3
-d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-	[Reaktor] Your Lie in April - E04 [1080p][x265][10-bit][Dual-Audio].mkv
-4
-d/media/data/mathew/Home/College/ENGLWRIT112
-	cr_assignment.docx
-5
-d/media/data/mathew/Home/trash
-	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-3
-d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-	[Reaktor] Your Lie in April - E06 [1080p][x265][10-bit][Dual-Audio].mkv
-6
-d/media/data/mathew/Home/College/ENGLWRIT112
-	cr_assignment.docx
-5
-d/media/data/mathew/Home/trash
-	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-3
-d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-	[Reaktor] Your Lie in April - E12 [1080p][x265][10-bit][Dual-Audio].mkv
-12
-d/media/data/mathew/Home/trash
-	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-3
-d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-	[Reaktor] Your Lie in April - E18 [1080p][x265][10-bit][Dual-Audio].mkv
-18
-d/media/data/mathew/Home/trash
-	[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-3
-d/media/data/mathew/Home/trash/[Reaktor] Your Lie in April - Complete [1080p][x265][10-bit][Dual-Audio]
-	[Reaktor] Your Lie in April - E22 [1080p][x265][10-bit][Dual-Audio].mkv
-22
-d/home/mathew
-	2020-02-03 13-58-15.mp4
-20
-d/media/data/mathew/Home/College/ENGLWRIT112/critical writing essay
-	cr_essay_draft2.docx
-4
-d/media/data/mathew/Home/College/ENGLWRIT112
-	critical writing essay
-1
-d/media/data/mathew/Home/College/ENGLWRIT112/critical writing essay
-	cr_essay_draft2.docx
-4
 d/home/mathew/Pictures/Wallpapers
 	bubblesgirl.png
 6
@@ -326,6 +266,66 @@ d/media/data/mathew/Home
 d/home/mathew
 	86428110_192005552035248_6781385792787841024_n.jpg
 18
+d/home/mathew/Pictures/Wallpapers
+	gradient.png
+21
+d/home/mathew/Downloads
+	The Untold Story of NotPetya, the Most Devastating Cyberattack in History _ WIRED.pdf
+31
+d/home/mathew
+	2020-04-07_20-43.png
+17
+d/home/mathew/.config/vifm
+	..
+0
+d/home/mathew
+	package-lock.json
+21
+d/media/data/mathew/Home/College/MATH233/lec
+	S_15.8. Triple Integrals in Spherical Coordinates.Notes.pdf
+2
+d/media/data/mathew/Home/College/MATH233
+	lec
+1
+d/media/data/mathew/Home/College/MATH233/lec
+	S_15.8. Triple Integrals in Spherical Coordinates.Notes.pdf
+2
+d/home/mathew
+	2020-03-31_17-34.png
+17
+d/media/data/mathew/Home
+	College
+1
+d/media/data/mathew/Home/College
+	MATH233
+8
+d/media/data/mathew/Home/College/MATH233
+	lec
+1
+d/media/data/mathew/Home/College/MATH233/lec
+	Section 15.6. Triple Integrals. Notes.pdf
+5
+d/home/mathew
+	2020-03-31_17-34.png
+17
+d/media/data/mathew/Home
+	College
+1
+d/media/data/mathew/Home/College
+	MATH233
+8
+d/media/data/mathew/Home/College/MATH233
+	lec
+1
+d/media/data/mathew/Home/College/MATH233/lec
+	Section 15.5. Surface Area. Notes.pdf
+4
+d/home/mathew/Downloads
+	[HorribleSubs] Kaguya-sama wa Kokurasetai S2 - 01 [1080p].mkv
+37
+d/home/mathew
+	bindsnet.txt
+21
 d
 
 # Right window history (oldest to newest):
@@ -464,6 +464,7 @@ D
 :wq
 :View
 :view
+:shell
 :q
 
 # Search history (oldest to newest):

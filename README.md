@@ -25,51 +25,52 @@ Most of the dotfiles I am using on my current Linux distro.
 - PDF reader: `zathura`
 
 # Requirements
-- i3-gaps
-    - Autorun/Startup
-        - pywal
-        - feh
-        - picom
-        - alternating_layouts.py
-        - nm-applet
-        - polybar (with scripts)
-        - libinput (may require libinput gestures as well)
-        - redshift
-    - flameshot (screenshot bindings)
-    - kitty (main term)
-    - pulseaudio (audio controls)
-    - rofi (launcher/workspace swapper)
 
-- polybar 
-    - pulseaudio (module)
-    - pavucontrol (open pulseaudio controls)
-    - network manager
-    - nm-connection-editor 
-    - i3wm
-    - fonts: inconsolata, font awesome 5, hack
-
-- kitty
+## i3
+- Autorun/Startup
     - pywal
-    - san francisco mono (font)
+    - feh
+    - picom
+    - autotiling
+    - nm-applet
+    - polybar (with scripts)
+    - libinput (may require libinput gestures as well)
+    - redshift
+- flameshot (screenshot bindings)
+- kitty (main term)
+- pulseaudio (audio controls)
+- rofi (launcher/workspace swapper)
 
-- vifm
-    - ueberzug (previews in vifm, see config for specific details)
-    - ffmpegthumbnailer
+## polybar 
+- pulseaudio (module)
+- pavucontrol (open pulseaudio controls)
+- network manager
+- nm-connection-editor 
+- i3wm
+- fonts: inconsolata, font awesome 5, hack
 
-- neovim
-    - asyncrun.vim
-    - pear-tree
-    - coc.nvim
-    - goyo.vim
-    - nerdcommenter
-    - tabular
-    - vim-airline
-    - vim-auto-save
-    - vim-bookmarks
-    - vim-pandoc
-    - vim-pandoc-markdown-syntax
-    - vim-pandoc-markdown-preview
-    - vim-surround
-    - vimtex
-    - vpmp-togglable (modified vim-pandoc-markdown-preview)
-    - wal.vim (theme that works with pywal)
+## kitty
+- pywal
+- san francisco mono (font)
+
+## vifm
+- ueberzug (previews in vifm, see config for specific details)
+- ffmpegthumbnailer
+
+## neovim
+- asyncrun.vim
+- pear-tree
+- coc.nvim
+- goyo.vim
+- nerdcommenter
+- tabular
+- vim-airline
+- vim-auto-save
+- vim-bookmarks
+- vim-pandoc
+- vim-pandoc-markdown-syntax
+- vim-pandoc-markdown-preview
+- vim-surround
+- vimtex
+- vpmp-togglable (modified vim-pandoc-markdown-preview)
+- wal.vim (theme that works with pywal)

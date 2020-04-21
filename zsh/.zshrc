@@ -69,11 +69,17 @@ mode-optimanager(){
 }
 
 # nvidia-smi top
-alias nvtop="watch -n 0.5 nvidia-smi"
+alias nvidiatop="watch -n 0.5 nvidia-smi"
 
 # Pacman
 # remove orphans
 alias remorph="pacman -Qdt && sudo pacman -Rns \$(pacman -Qtdq)"
+
+# update related
+alias pacnews="sudo informant read"
+
+# audit
+alias pacaudit="arch-audit"
 
 # Package specific
 alias rm="echo 'Please run rip (aka rm-improved) instead or rm with a backslash.'"

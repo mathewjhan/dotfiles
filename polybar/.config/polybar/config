@@ -73,8 +73,8 @@ font-7 = Noto Sans CJK JP:regular:size=10; 2
 ;enable-ipc = true
 
 modules-left = gap i3 gap xwindow
-modules-center =  gap date_i date
-modules-right = battery_i battery gap cpu_i cpu gap memory_i memory gap temp_i temp gap filesystem_i filesystem gap wifi_i wifi gap volume_i volume pulseaudio pulseaudio-tail gap  
+modules-center =  
+modules-right = battery_i battery gap cpu_i cpu gap memory_i memory gap temp_i temp gap filesystem_i filesystem gap wifi_i wifi gap volume_i volume pulseaudio pulseaudio-tail gap date_i date gap
 
 tray-position = none 
 tray-padding = 2
@@ -157,35 +157,35 @@ wrapping-scroll = false
 ;pin-workspaces = true
 
 ; focused = Active workspace on focused monitor
-label-focused = %index% %icon%
+label-focused = %index%
 label-focused-foreground = ${colors.foreground}
 label-focused-background = ${colors.background-inverse}
 label-focused-underline = ${colors.background}
 label-focused-overline = ${colors.background}
-label-focused-padding = 1
+label-focused-padding = 2
 
 ; unfocused = Inactive workspace on any monitor
-label-unfocused = %index% %icon%
+label-unfocused = %index%
 label-unfocused-foreground = ${colors.background}
 label-unfocused-background = ${colors.foreground}
 label-unfocused-underline = ${colors.background}
 label-unfocused-overline = ${colors.background}
-label-unfocused-padding = ${self.label-focused-padding}
+label-unfocused-padding = 2
 
 ; visible = Active workspace on unfocused monitor
-label-visible = %index% %icon%
+label-visible = %index%
 label-visible-foreground = ${colors.foreground-inverse}
 label-visible-background = ${self.label-focused-background}
 label-visible-underline = ${colors.background}
 label-visible-overline = ${colors.background}
-label-visible-padding = ${self.label-focused-padding}
+label-visible-padding = 2
 
 ; urgent = Workspace with urgency hint set
-label-urgent = %index% %icon%
+label-urgent = %index%
 label-urgent-background = ${colors.warning}
 label-urgent-underline = ${colors.background}
 label-urgent-overline = ${colors.background}
-label-urgent-padding = ${self.label-focused-padding}
+label-urgent-padding = 2
 
 [module/pulseaudio]
 type = internal/pulseaudio
@@ -318,30 +318,16 @@ format-foreground = ${colors.background}
 format-padding = 1
 
 [module/wifi_i]
-type = internal/network
+type = custom/text
 
-interface = wlp59s0
+content-prefix =  
+content-overline = ${colors.background}
+content-underline = ${colors.background}
+content-background = ${colors.color3}
+content-foreground = ${colors.foreground}
+content-padding = 1
 
-interval = 1.0
-accumulate-stats = true
-unknown-as-up = true
-
-format-connected = ""
-format-connected-foreground=${colors.foreground}
-format-connected-background = ${colors.color3}
-format-connected-underline = ${colors.background}
-format-connected-overline = ${colors.background}
-format-connected-padding = 1
-
-format-disconnected = <label-disconnected>
-label-disconnected = 
-
-format-disconnected-foreground=${colors.foreground}
-format-disconnected-background = ${colors.foreground-prefix}
-format-disconnected-underline = ${colors.background}
-format-disconnected-overline = ${colors.background}
-format-disconnected-padding = 1
-
+content = ""
 [module/wlan]
 type = internal/network
 interface = wlp59s0
@@ -408,7 +394,6 @@ label-padding = 1
 [module/date_i]
 type = custom/text
 
-exec = echo a 
 content-prefix =  
 content-overline = ${colors.background}
 content-underline = ${colors.background}
@@ -498,9 +483,21 @@ battery = BAT0
 adapter = AC
 full-at = 98
 
-format-charging = <animation-charging> <label-charging>
-format-discharging = <ramp-capacity> <label-discharging>
+; format-charging = <animation-charging> <label-charging>
+; format-discharging = <ramp-capacity> <label-discharging>
 
+format-charging-underline = ${colors.background}
+format-charging-overline = ${colors.background}
+format-charging-background = ${colors.foreground}
+format-charging-foreground = ${colors.background}
+format-charging-padding = 1
+
+format-discharging-underline = ${colors.background}
+format-discharging-overline = ${colors.background}
+format-discharging-background = ${colors.foreground}
+format-discharging-foreground = ${colors.background}
+format-discharging-padding = 1
+ 
 label-full-underline = ${colors.background}
 label-full-overline = ${colors.background}
 label-full-background = ${colors.foreground}
@@ -540,15 +537,26 @@ format-charging-background = ${colors.color1}
 format-charging-foreground = ${colors.foreground}
 format-charging-padding = 1
 
-format-discharging = <ramp-capacity>
+format-discharging = 
 format-discharging-underline = ${colors.background}
 format-discharging-overline = ${colors.background}
 format-discharging-background = ${colors.color1}
 format-discharging-foreground = ${colors.foreground}
 format-discharging-padding = 1
 
-label-charging = %percentage%%
-label-discharging = %percentage%%
+; label-charging =  
+; label-charging-underline = ${colors.background}
+; label-charging-overline = ${colors.background}
+; label-charging-background = ${colors.color1}
+; label-charging-foreground = ${colors.foreground}
+; label-charging-padding = 1
+; 
+; label-discharging =  
+; label-discharging-underline = ${colors.background}
+; label-discharging-overline = ${colors.background}
+; label-discharging-background = ${colors.color1}
+; label-discharging-foreground = ${colors.foreground}
+; label-discharging-padding = 1
 
 label-full =  
 label-full-underline = ${colors.background}
@@ -563,13 +571,10 @@ ramp-capacity-2 = 
 ramp-capacity-3 = 
 ramp-capacity-4 = 
 
-animation-charging-0 = 
-animation-charging-1 = 
-animation-charging-2 = 
-animation-charging-3 = 
-animation-charging-4 = 
-animation-charging-5 = 
-
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
 animation-charging-framerate = 750
 
 

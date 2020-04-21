@@ -1,12 +1,3 @@
-" vim: filetype=vifm :
-" Sample configuration file for vifm (last updated: 20 July, 2018)
-" You can edit this file by hand.
-" The " character at the beginning of a line comments out the line.
-" Blank lines are ignored.
-" The basic format for each item is shown with an example.
-
-" ------------------------------------------------------------------------------
-
 " This is the actual command used to start vi.  The default is vim.
 " If you would like to use another vi clone such as Elvis or Vile
 " you will need to change this setting.
@@ -110,7 +101,7 @@ endif
 
 " Set custom status line look
 
-set statusline="  Hint: %z%= %A %10u:%-7g %15s %20d  "
+" set statusline="  Hint: %z%= %A %10u:%-7g %15s %20d  "
 
 " Set line numbers to show
 
@@ -437,10 +428,13 @@ set vifminfo=dhistory,savedirs,chistory,state,tui,shistory,
 
 " ------------------------------------------------------------------------------
 
-" Sample mappings
+" Key mappings
 
 " Start shell in current directory
 nnoremap s :shell<cr>
+
+" Fast quit
+nnoremap q ZQ
 
 " Display sorting dialog
 nnoremap S :sort<cr>
@@ -469,12 +463,7 @@ nnoremap cc cw<c-u>
 nnoremap A cw
 
 " Open console in current directory
-nnoremap ,t :!xterm &<cr>
-
-" Open editor to edit vifmrc and apply settings after returning to vifm
-nnoremap ,c :write | edit $MYVIFMRC | restart<cr>
-" Open gvim to edit vifmrc
-nnoremap ,C :!gvim --remote-tab-silent $MYVIFMRC &<cr>
+nnoremap ,t :!kitty &<cr>
 
 " Toggle wrap setting on ,w key
 nnoremap ,w :set wrap!<cr>
@@ -487,28 +476,9 @@ nnoremap <f6> :move<cr>
 nnoremap <f7> :mkdir<space>
 nnoremap <f8> :delete<cr>
 
-" ------------------------------------------------------------------------------
-
-" Various customization examples
-
-" Use ag (the silver searcher) instead of grep
-"
-" set grepprg='ag --line-numbers %i %a %s'
-
-" Add additional place to look for executables
-"
-" let $PATH = $HOME.'/bin/fuse:'.$PATH
-
-" Block particular shortcut
-"
-" nnoremap <left> <nop>
-
-" Export IPC name of current instance as environment variable and use it to
-" communicate with the instance later.
-"
-" It can be used in some shell script that gets run from inside vifm, for
-" example, like this:
-"     vifm --server-name "$VIFM_SERVER_NAME" --remote +"cd '$PWD'"
-"
-" let $VIFM_SERVER_NAME = v:servername
-
+" Shortcuts
+nnoremap docs :cd ~/Documents<cr>
+nnoremap dls :cd ~/Downloads<cr>
+nnoremap walls :cd ~/Pictures/Wallpapers<cr>
+nnoremap cd :cd<cr>
+nnoremap win :cd /media/data/mathew/Home<cr>

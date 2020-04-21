@@ -15447,3 +15447,863 @@ Apr 06 23:19 : player: played "Powerless/Odyssey/03. Aspirin.mp3"
 Apr 06 23:22 : player: played "Powerless/Odyssey/07. hypnoSpirA.mp3"
 Apr 06 23:26 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/04. Lucifer.mp3"
 Apr 06 23:28 : player: played "Powerless/Odyssey/01. Odyssey.mp3"
+Apr 06 23:31 : player: played "Powerless/Odyssey/03. Aspirin.mp3"
+Apr 06 23:35 : player: played "Powerless/Odyssey/07. hypnoSpirA.mp3"
+Apr 06 23:39 : player: played "Powerless/Odyssey/08. Vanity.mp3"
+Apr 06 23:43 : player: played "Powerless/Odyssey/05. Hopeful Wings.mp3"
+Apr 06 23:47 : player: played "Powerless/Odyssey/04. Sacred Secret.mp3"
+Apr 06 23:48 : player: played "Powerless/Odyssey/01. Odyssey.mp3"
+Apr 06 23:52 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/02. Sentinel.mp3"
+Apr 06 23:57 : player: played "Powerless/Odyssey/02. If.mp3"
+Apr 07 00:01 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/04. Lucifer.mp3"
+Apr 07 00:03 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/01. Revelation.mp3"
+Apr 07 00:07 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/03. Red Sky.mp3"
+Apr 07 00:11 : player: played "Powerless/Odyssey/06. Brella.mp3"
+Apr 07 00:14 : player: played "Powerless/Odyssey/05. Hopeful Wings.mp3"
+Apr 07 00:18 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/04. Lucifer.mp3"
+Apr 07 00:24 : player: played "Powerless/Odyssey/02. If.mp3"
+Apr 07 00:26 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/01. Revelation.mp3"
+Apr 07 00:30 : player: played "Powerless/Odyssey/06. Brella.mp3"
+Apr 07 00:33 : player: played "Powerless/Odyssey/03. Aspirin.mp3"
+Apr 07 00:37 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/02. Sentinel.mp3"
+Apr 07 00:38 : player: played "Powerless/Odyssey/04. Sacred Secret.mp3"
+Apr 07 00:38 : client: [2] closed
+Apr 07 01:05 : client: [0] closed
+Apr 07 12:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 07 12:20 : config: option 'device' on line 209 was not recognized
+Apr 07 12:20 : client: [0] opened from 127.0.0.1:47370
+Apr 07 12:20 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 08 00:29 : client: [1] opened from 127.0.0.1:56234
+Apr 08 00:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 00:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 00:30 : player: played "HoneyWorks/HKUM4-M/13 ヤキモチの答え-another story-.mp3"
+Apr 08 00:30 : client: [1] closed
+Apr 08 00:30 : client: [0] closed
+Apr 08 13:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 13:18 : config: option 'device' on line 209 was not recognized
+Apr 08 13:18 : client: [0] opened from 127.0.0.1:43984
+Apr 08 13:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 08 15:58 : client: [1] opened from 127.0.0.1:47158
+Apr 08 15:58 : client: [1] closed
+Apr 08 15:58 : client: [2] opened from 127.0.0.1:47162
+Apr 08 15:59 : update: removing Powerless/Veiled/Veiled - Bonus Content/Veiled - Demo Version/05 Anemone (Demo Version).mp3
+Apr 08 15:59 : update: removing Powerless/Veiled/Veiled - Bonus Content/Veiled - Demo Version/04 Frostbite (Demo Version).mp3
+Apr 08 15:59 : update: removing Powerless/Veiled/Veiled - Bonus Content/Veiled - Demo Version/03 Blancneige (Demo Version).mp3
+Apr 08 15:59 : update: removing Powerless/Veiled/Veiled - Bonus Content/Veiled - Demo Version/02 Raindrop (Demo Version).mp3
+Apr 08 15:59 : update: removing Powerless/Veiled/Veiled - Bonus Content/Veiled - Demo Version/01 Unveil (Demo Version).mp3
+Apr 08 15:59 : exception: No such directory
+Apr 08 15:59 : update: removing Powerless/Veiled/Veiled - Bonus Content/Veiled - Instrumental Version/05 Anemone (Instrumental Version).wav
+Apr 08 15:59 : update: removing Powerless/Veiled/Veiled - Bonus Content/Veiled - Instrumental Version/04 Frostbite (Instrumental Version).wav
+Apr 08 15:59 : update: removing Powerless/Veiled/Veiled - Bonus Content/Veiled - Instrumental Version/03 BLANCNEIGE (Instrumental Version).wav
+Apr 08 15:59 : update: removing Powerless/Veiled/Veiled - Bonus Content/Veiled - Instrumental Version/02 Raindrop (Instrumental Version).wav
+Apr 08 15:59 : update: removing Powerless/Veiled/Veiled - Bonus Content/Veiled - Instrumental Version/01 Unveil (Instrumental Version).wav
+Apr 08 15:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 15:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 08 16:03 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/04. Lucifer.mp3"
+Apr 08 16:05 : player: played "Powerless/Odyssey/01. Odyssey.mp3"
+Apr 08 16:09 : player: played "Powerless/Odyssey/04. Sacred Secret.mp3"
+Apr 08 16:13 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/04. Lucifer.mp3"
+Apr 08 16:19 : player: played "Powerless/Odyssey/02. If.mp3"
+Apr 08 16:22 : player: played "Powerless/Odyssey/05. Hopeful Wings.mp3"
+Apr 08 16:25 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/02. Sentinel.mp3"
+Apr 08 16:29 : player: played "Powerless/Odyssey/06. Brella.mp3"
+Apr 08 16:33 : player: played "Powerless/Odyssey/03. Aspirin.mp3"
+Apr 08 16:35 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/01. Revelation.mp3"
+Apr 08 16:39 : player: played "Powerless/Odyssey/07. hypnoSpirA.mp3"
+Apr 08 16:43 : player: played "Powerless/Odyssey/08. Vanity.mp3"
+Apr 08 16:46 : player: played "Powerless/Odyssey/03. Aspirin.mp3"
+Apr 08 16:50 : player: played "Powerless/Odyssey/05. Hopeful Wings.mp3"
+Apr 08 16:54 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/04. Lucifer.mp3"
+Apr 08 16:56 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/01. Revelation.mp3"
+Apr 08 17:00 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/03. Red Sky.mp3"
+Apr 08 17:03 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/02. Sentinel.mp3"
+Apr 08 17:08 : player: played "Powerless/Odyssey/02. If.mp3"
+Apr 08 17:12 : player: played "Powerless/Odyssey/04. Sacred Secret.mp3"
+Apr 08 17:16 : player: played "Powerless/Odyssey/06. Brella.mp3"
+Apr 08 17:18 : player: played "Powerless/Odyssey/01. Odyssey.mp3"
+Apr 08 17:22 : player: played "Powerless/Odyssey/07. hypnoSpirA.mp3"
+Apr 08 17:26 : player: played "Powerless/Odyssey/08. Vanity.mp3"
+Apr 08 17:27 : player: played "Powerless/Odyssey/01. Odyssey.mp3"
+Apr 08 17:27 : client: [2] closed
+Apr 08 17:49 : client: [3] opened from 127.0.0.1:49280
+Apr 08 17:51 : player: played "Powerless/Odyssey/01. Odyssey.mp3"
+Apr 08 17:55 : player: played "Powerless/Powerless feat. kakichoco - Revelation [C92 @MP3-320K]/03. Red Sky.mp3"
+Apr 08 17:59 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/01. ziiizz_uwo·xkzu14c _mj_ u3rw.mp3"
+Apr 08 18:00 : player: played "Nujabes/2nd Collection/03. Waltz for life will born.mp3"
+Apr 08 18:04 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/11. BiblioMonster.mp3"
+Apr 08 18:19 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/10 Lokubell.mp3"
+Apr 08 18:23 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/04. あの夏に咲け.mp3"
+Apr 08 18:29 : player: played "Minami/Minami – Kawaki wo Ameku (Single)/04. Hollowness.mp3"
+Apr 08 18:33 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/09. yuiko — solitary flower.mp3"
+Apr 08 18:36 : player: played "Aimer/Sun Dance (Album)/06 hanabiratachinomarch.mp3"
+Apr 08 18:40 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/07 Wolf.mp3"
+Apr 08 18:43 : player: played "REOL/REOL – Gokusaishoku (1st Album)/08. mede-mede.mp3"
+Apr 08 18:47 : player: played "H△G/声 ~VOCALOID Cover Album~/10. タイムマシン.mp3"
+Apr 08 18:51 : player: played "Yorushika/Yorushika - Makeinu ni Alcohol wa Iranai/03. 爆弾魔.mp3"
+Apr 08 18:55 : player: played "soraru/Wonder (Album)/08 Answer.mp3"
+Apr 08 18:59 : player: played "soraru/Wonder (Album)/11 Orange No Yakusoku.mp3"
+Apr 08 20:14 : player: played "HoneyWorks/HKUM1-M/01 泣キ虫カレシ.mp3"
+Apr 08 20:21 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/03. Tokuhana.mp3"
+Apr 08 20:24 : player: played "REOL/REOL – Gokusaishoku (1st Album)/03. 生命線.mp3"
+Apr 08 20:25 : player: played "HoneyWorks/HKUM3-M/11 ハニワの日常 ～東京都～.mp3"
+Apr 08 20:29 : player: played "Primary x yuiko/[2016.12.31] (C91) Primary - イノセンス Depressing/04 Depressing -without yuiko-.flac"
+Apr 08 20:33 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/08. yuiko — in the past.mp3"
+Apr 08 20:37 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/03 Twins.mp3"
+Apr 08 20:41 : player: played "HoneyWorks/HKUM1-M/03 パジャマっ子.mp3"
+Apr 08 20:44 : player: played "Yunomi/ゆのみっくにお茶して EP/06. おとぎ話の日々.mp3"
+Apr 08 20:49 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/12. Mitsuba no Musubime.mp3"
+Apr 08 20:52 : player: played "REOL/REOL – Gokusaishoku (1st Album)/07. -orderly-.mp3"
+Apr 08 20:57 : player: played "Yuaru/Asu no Yozora Shoukaihan.mp3"
+Apr 08 21:00 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/13. 4_10.mp3"
+Apr 08 21:03 : player: played "HoneyWorks/HKUM5-M/03 三角ジェラシー.mp3"
+Apr 08 21:08 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/08. Aqua Terrarium.mp3"
+Apr 08 21:13 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/12. Mimei no Kimi to Hakumei no Mahou.mp3"
+Apr 08 21:16 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/10. yuiko — ぱいろっと☆ぱにっく.mp3"
+Apr 08 21:20 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/17. yuiko — Fix.mp3"
+Apr 08 21:25 : player: played "ZUTOMAYO/Imawa Imade Chikaiwa Emide (Album)/04 Minority Myakuraku.mp3"
+Apr 08 21:26 : player: played "REOL/REOL – Gokusaishoku (1st Album)/01. -nil-.mp3"
+Apr 08 21:30 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/05. Kazakiri.mp3"
+Apr 08 21:33 : player: played "Aimer/Sun Dance (Album)/07 omoideha kireide.mp3"
+Apr 08 21:37 : player: played "Primary x yuiko/fragile garden _ 翳り空/翳り空-without yuiko-.mp3"
+Apr 08 21:41 : player: played "H△G/A Place in the Sun (Album)/04 Nostalgia.mp3"
+Apr 08 21:46 : player: played "H△G/声 ~VOCALOID Cover Album~/01. 心拍数#0822.mp3"
+Apr 08 21:51 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/09. mnemonic.mp3"
+Apr 08 21:55 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/2. Keep Changing.flac"
+Apr 08 22:00 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/11. パレード.mp3"
+Apr 08 22:04 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/14. Harumodoki.mp3"
+Apr 08 22:09 : player: played "Primary x yuiko/Seven'th Color/06. マリーゴールド.mp3"
+Apr 08 22:14 : player: played "REOL/REOL – Gokusaishoku (1st Album)/16. 染.mp3"
+Apr 08 22:18 : player: played "Sana/Sana x Honeyworks - Suki na Hito/07 - 病名恋ワズライ.mp3"
+Apr 08 22:21 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/02. yuiko — blue mist.mp3"
+Apr 08 22:25 : player: played "Daoko/Thank You Blue/Disc 2/06. さみしいかみさま (Re-Arrange).mp3"
+Apr 08 22:29 : player: played "Aimer/Dawn (Album)/06 Refar.mp3"
+Apr 08 22:54 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/05. Laterality.mp3"
+Apr 08 22:58 : player: played "HoneyWorks/HKUM2-M/11 泣キ虫カレシ.mp3"
+Apr 08 23:02 : player: played "HoneyWorks/HKUM5-M/01 金曜日のおはよう.mp3"
+Apr 08 23:07 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/05 Tsunoru Kimochi.mp3"
+Apr 08 23:11 : player: played "soraru/Wonder (Album)/05 Kaichuuno Tsukiwo Sukuu.mp3"
+Apr 08 23:15 : player: played "HoneyWorks/HKUM3-M/07 初恋の絵本 (WINTER MIX).mp3"
+Apr 08 23:19 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/01 Koino Code.mp3"
+Apr 08 23:22 : player: played "REOL/REOL – Gokusaishoku (1st Album)/05. ハルシアン.mp3"
+Apr 08 23:26 : player: played "H△G/A Place in the Sun (Album)/09 Solfeggio.mp3"
+Apr 08 23:30 : player: played "Islet/Cyanide/03. - ハナヒトツ.flac"
+Apr 08 23:35 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/06. Ambivalentidea.mp3"
+Apr 08 23:40 : player: played "HoneyWorks/HKUM5-M/12 世界は恋に落ちている -acoustic version-.mp3"
+Apr 08 23:44 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/03. continue.mp3"
+Apr 08 23:48 : player: played "REOL/REOL – Gokusaishoku (1st Album)/14. 約束の蒼.mp3"
+Apr 08 23:53 : player: played "H△G/A Place in the Sun (Album)/07 Seventeen.mp3"
+Apr 08 23:58 : player: played "H△G/A Place in the Sun (Album)/06 Teardrop.mp3"
+Apr 09 00:02 : player: played "Sana/Sana x Honeyworks - Suki na Hito/06 - ヤキモチの答え.mp3"
+Apr 09 00:07 : player: played "fhána/Outside of Melancholy/02. tiny lamp.mp3"
+Apr 09 00:11 : player: played "HoneyWorks/HKUM4-M/15 ビリビリ.mp3"
+Apr 09 00:17 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/05. yuiko — 箱庭迷路.mp3"
+Apr 09 00:21 : player: played "REOL/REOL – Gokusaishoku (1st Album)/02. 極彩色.mp3"
+Apr 09 00:25 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/02 Nostalgic Rainfall.mp3"
+Apr 09 00:31 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/14 Okuriuta.mp3"
+Apr 09 00:34 : player: played "HoneyWorks/HKUM4-M/01 テレカクシ思春期.mp3"
+Apr 09 00:38 : player: played "Primary x yuiko/STRUGGLES - ひとつの願い/01. STRUGGLES.mp3"
+Apr 09 00:41 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/1. オレンジ色の決意.flac"
+Apr 09 00:46 : player: played "Aimer/Dawn (Album)/12 Dawn.mp3"
+Apr 09 01:03 : client: [4] opened from 127.0.0.1:53144
+Apr 09 01:03 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/03 Heart No Shucho.mp3"
+Apr 09 01:03 : update: added AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/01 青き屍の安らぎ.mp3
+Apr 09 01:03 : update: added AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/02 水無月の霧幻楼閣.mp3
+Apr 09 01:03 : update: added AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/03 排熱火山.mp3
+Apr 09 01:03 : update: added AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/04 染幻泡沫.mp3
+Apr 09 01:03 : update: added AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/05 九天のアーティファクト.mp3
+Apr 09 01:03 : update: added AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/06 君は本当に忌々しく、憎らしいね.mp3
+Apr 09 01:03 : update: added AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/07 古からの異物.mp3
+Apr 09 01:03 : update: added AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/08 天空都市の機械天使.mp3
+Apr 09 01:03 : update: added AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/09 トキヲコエ.mp3
+Apr 09 01:03 : update: added AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/10 眠りし時空の神様.mp3
+Apr 09 01:06 : client: [4] closed
+Apr 09 01:06 : client: [5] opened from 127.0.0.1:53194
+Apr 09 01:06 : player: played "AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/09 トキヲコエ.mp3"
+Apr 09 01:06 : client: [5] closed
+Apr 09 01:06 : client: [6] opened from 127.0.0.1:53200
+Apr 09 01:07 : player: played "Alisa Takigawa/At Film (Album)/08 Sugar.mp3"
+Apr 09 01:07 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/01. しーけー - Liar rain (Extend ver.).flac"
+Apr 09 01:12 : player: played "compllege/from 2 planets (320)/TaishiCompllege-From2Planets-02-TheSimilarWorld.mp3"
+Apr 09 01:14 : client: [6] closed
+Apr 09 01:15 : player: played "compllege/(C91) Compllege Phant/02. Empty Egg.mp3"
+Apr 09 01:15 : client: [3] closed
+Apr 09 01:16 : client: [0] closed
+Apr 09 14:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 14:52 : config: option 'device' on line 209 was not recognized
+Apr 09 14:52 : client: [0] opened from 127.0.0.1:58020
+Apr 09 14:52 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 09 14:58 : client: [1] opened from 127.0.0.1:58096
+Apr 09 14:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 14:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 15:01 : player: played "banbanshi/2016 - -Remind-/01 - -Remind-.flac"
+Apr 09 15:04 : player: played "banbanshi/2016 - -Remind-/09 - Paroles.flac"
+Apr 09 15:08 : player: played "banbanshi/2016 - -Remind-/07 - Traveler.flac"
+Apr 09 15:08 : player: played "banbanshi/2016 - -Remind-/02 - First Step.flac"
+Apr 09 15:11 : player: played "AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/01 青き屍の安らぎ.mp3"
+Apr 09 15:16 : player: played "AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/04 染幻泡沫.mp3"
+Apr 09 15:18 : player: played "AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/09 トキヲコエ.mp3"
+Apr 09 15:22 : player: played "AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/06 君は本当に忌々しく、憎らしいね.mp3"
+Apr 09 15:26 : player: played "AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/02 水無月の霧幻楼閣.mp3"
+Apr 09 15:30 : player: played "AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/05 九天のアーティファクト.mp3"
+Apr 09 15:36 : player: played "AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/08 天空都市の機械天使.mp3"
+Apr 09 15:41 : player: played "AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/10 眠りし時空の神様.mp3"
+Apr 09 15:45 : player: played "AIHISNA/[AIHISNA] 天空都市の機械天使 Ⅱ/07 古からの異物.mp3"
+Apr 09 15:48 : player: played "Noah/Rebirth the End/09. Rhodanthe.mp3"
+Apr 09 15:48 : client: [1] closed
+Apr 09 15:48 : client: [0] closed
+Apr 09 15:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 15:49 : config: option 'device' on line 209 was not recognized
+Apr 09 15:49 : client: [0] opened from 127.0.0.1:39862
+Apr 09 15:49 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 09 15:49 : client: [1] opened from 127.0.0.1:39872
+Apr 09 15:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 15:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 09 15:53 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-6/2-milka—風舞う春に.flac"
+Apr 09 15:57 : player: played "DDBY/Cafe de Touhou 6/08. Wanna be free.mp3"
+Apr 09 16:01 : player: played "DDBY/Cafe de Touhou 3/04. キマグレな日曜日.mp3"
+Apr 09 16:04 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA/4-迷子のエコー~instrumental~.flac"
+Apr 09 17:17 : player: played "DDBY/Cafe de Touhou 6/03. ラテアート.mp3"
+Apr 09 17:23 : player: played "Yumegatari/ユメの喫茶店/01 - ユメの喫茶店.flac"
+Apr 09 20:47 : player: played "kakeyan/Sounds Sound/01. - multi-dimension.flac"
+Apr 09 20:49 : player: played "kakeyan/Sounds Sound/01. - multi-dimension.flac"
+Apr 09 20:50 : player: played "kakeyan/Sounds Sound/06. - Take me away.flac"
+Apr 09 20:52 : player: played "kakeyan/Sounds Sound/01. - multi-dimension.flac"
+Apr 09 20:56 : player: played "kakeyan/Sounds Sound/04. - エキセントリック.flac"
+Apr 09 20:59 : player: played "kakeyan/Sounds Sound/03. - missing.flac"
+Apr 09 21:03 : player: played "kakeyan/Sounds Sound/02. - 繰り返す先に.flac"
+Apr 09 21:03 : update: added Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/01. 序響.flac
+Apr 09 21:03 : update: added Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/02. Vocis Helix.flac
+Apr 09 21:03 : update: added Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/03. la lumière montre l'ombre-光示す影-.flac
+Apr 09 21:03 : update: added Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/04. 憧憬のミラージュ.flac
+Apr 09 21:03 : update: added Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/05. まほろばの星.flac
+Apr 09 21:03 : update: added Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/06. オートマタ綺想曲.flac
+Apr 09 21:03 : update: added Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/07. Remember Me.flac
+Apr 09 21:04 : player: played "Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/01. 序響.flac"
+Apr 09 21:09 : player: played "Sennzai/Sennzai - Fleurix/01. アイリスの便り.mp3"
+Apr 09 21:14 : player: played "Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/02. Vocis Helix.flac"
+Apr 09 21:19 : player: played "Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/04. 憧憬のミラージュ.flac"
+Apr 09 21:22 : player: played "Sennzai/Arrêter le temps/07. “Liebe Dahlia”.mp3"
+Apr 09 22:06 : player: played "Sennzai/Arrêter le temps/06. Rugie.mp3"
+Apr 09 22:14 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/01. ziiizz_uwo·xkzu14c _mj_ u3rw.mp3"
+Apr 09 22:18 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/07. jpytpi_dwczn.mp3"
+Apr 09 22:20 : player: played "Anime OST/[ttmagic14] Shigatsu wa Kimi no Uso Boku to Kimi to no Ongakuchou/11. pabr_fprtwhpwravim.mp3"
+Apr 09 22:25 : player: played "Anime OST/Goose house - Hikaru nara (Single)/(01)光るなら.mp3"
+Apr 09 22:30 : player: played "Anime OST/Coalamode. – Nanairo Symphony Single/01 七色シンフォニー.mp3"
+Apr 09 22:30 : client: [1] closed
+Apr 09 22:30 : client: [0] closed
+Apr 10 06:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 06:57 : config: option 'device' on line 209 was not recognized
+Apr 10 06:57 : client: [0] opened from 127.0.0.1:57820
+Apr 10 06:57 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 10 08:01 : client: [1] opened from 127.0.0.1:58620
+Apr 10 08:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 08:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 10 08:06 : player: played "DJ Okawari/2011 - Kaleidoscope/01. Encounter.mp3"
+Apr 10 08:11 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/04 - Perfect Blue.mp3"
+Apr 10 08:15 : player: played "DJ Okawari/2011 - Kaleidoscope/05. Flower Dance.mp3"
+Apr 10 13:29 : client: [2] opened from 127.0.0.1:33378
+Apr 10 13:29 : client: [2] closed
+Apr 10 13:34 : player: played "DJ Okawari/2011 - Kaleidoscope/10. Temperature of Tears.mp3"
+Apr 10 13:38 : player: played "DJ Okawari/2011 - Kaleidoscope/04. Kaleidoscope (feat. Tekitha of Wu-Tan).mp3"
+Apr 10 13:43 : player: played "DJ Okawari/2011 - Kaleidoscope/03. Represent (feat Chieko Kinbara.mp3"
+Apr 10 13:48 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/02 - Altair (feat. Lee Ayur & Jabberloop).mp3"
+Apr 10 13:51 : player: played "DJ Okawari/2011 - Kaleidoscope/07. Another Sky.mp3"
+Apr 10 13:56 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/06 - Lightning Moment (feat. fox capture plan).mp3"
+Apr 10 14:00 : player: played "DJ Okawari/2011 - Kaleidoscope/12. Change the World (feat. Woong San).mp3"
+Apr 10 14:04 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/05 - Halcyon.mp3"
+Apr 10 14:09 : player: played "DJ Okawari/2011 - Kaleidoscope/08. A Cup of Coffee.mp3"
+Apr 10 14:13 : player: played "DJ Okawari/2011 - Kaleidoscope/06. U (feat. Stacy Epps).mp3"
+Apr 10 14:19 : player: played "DJ Okawari/2011 - Kaleidoscope/02. Brown Eyes (feat. Brittany Campbell).mp3"
+Apr 10 14:23 : player: played "DJ Okawari/2011 - Kaleidoscope/13. Peacock.mp3"
+Apr 10 14:27 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/03 - SAKURA Tears (feat. Kie Katagi from jizue).mp3"
+Apr 10 14:31 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/01 - Voice of Nature.mp3"
+Apr 10 14:36 : player: played "DJ Okawari/2011 - Kaleidoscope/11. The Bonds (feat. NANASE).mp3"
+Apr 10 14:40 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/07 - Nostalgic Echoes.mp3"
+Apr 10 14:44 : player: played "DJ Okawari/2011 - Kaleidoscope/04. Kaleidoscope (feat. Tekitha of Wu-Tan).mp3"
+Apr 10 14:48 : player: played "DJ Okawari/2011 - Kaleidoscope/10. Temperature of Tears.mp3"
+Apr 10 14:53 : player: played "DJ Okawari/2011 - Kaleidoscope/08. A Cup of Coffee.mp3"
+Apr 10 14:58 : player: played "DJ Okawari/2011 - Kaleidoscope/11. The Bonds (feat. NANASE).mp3"
+Apr 10 15:01 : player: played "DJ Okawari/2011 - Kaleidoscope/01. Encounter.mp3"
+Apr 10 15:05 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/01 - Voice of Nature.mp3"
+Apr 10 15:09 : player: played "DJ Okawari/2011 - Kaleidoscope/05. Flower Dance.mp3"
+Apr 10 15:14 : player: played "DJ Okawari/2011 - Kaleidoscope/06. U (feat. Stacy Epps).mp3"
+Apr 10 15:14 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/03 - SAKURA Tears (feat. Kie Katagi from jizue).mp3"
+Apr 10 15:16 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 15:18 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 15:20 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 15:22 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 15:24 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 15:26 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 15:28 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 15:30 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 15:32 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 15:34 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 15:36 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 16:52 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 16:54 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 16:56 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 16:58 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 17:00 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 17:00 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 17:00 : player: played "Blazo/Alone Journey/07. Wind Message.mp3"
+Apr 10 17:04 : player: played "Blazo/Alone Journey/12. Through The Way.mp3"
+Apr 10 17:07 : player: played "Nujabes/Metaphorical Music [320] [2003]/08. Think Different (ft. Substantial).mp3"
+Apr 10 17:12 : player: played "Nujabes/2nd Collection/12. windspeaks.mp3"
+Apr 10 17:16 : player: played "Uyama Hiroto/A Son of the Sun (Album)/02 Climbed Mountain.mp3"
+Apr 10 17:19 : player: played "Uyama Hiroto/Freeform Jazz (Album)/15 Spacemountain.mp3"
+Apr 10 17:22 : player: played "Float 11/Daydream (Album)/06 calm life.mp3"
+Apr 10 17:25 : player: played "Blazo/Alone Journey/11. Monk In A Hurry.mp3"
+Apr 10 17:28 : player: played "Uyama Hiroto/A Son of the Sun (Album)/04 Nightwood.mp3"
+Apr 10 17:31 : player: played "Uyama Hiroto/Freeform Jazz (Album)/07 Solidscreme.mp3"
+Apr 10 17:34 : player: played "Various Artists/Tribute To Jun (Nujabes Tribute) (Compile)/06. Kindness.mp3"
+Apr 10 17:39 : player: played "Nujabes/Modal Soul/02. Ordinary Joe (ft. Terry Callier).mp3"
+Apr 10 21:01 : client: [1] closed
+Apr 10 21:02 : client: [0] closed
+Apr 10 21:02 : player: played "Nujabes/2nd Collection/02. Sky is falling (featuring C.L. Smooth).mp3"
+Apr 11 12:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 12:11 : config: option 'device' on line 209 was not recognized
+Apr 11 12:11 : client: [0] opened from 127.0.0.1:47484
+Apr 11 12:11 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 11 13:40 : client: [1] opened from 127.0.0.1:48974
+Apr 11 13:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 13:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 11 13:43 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/01. プロローグ~金剛型戦艦の誕生.mp3"
+Apr 11 13:45 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/02. 近代化改装.mp3"
+Apr 11 13:47 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/03. 金剛型第三戦隊.mp3"
+Apr 11 13:48 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/04. 鎮守府のアフタヌン・ティー.mp3"
+Apr 11 13:51 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/05. アイアンボトム・サウンド.mp3"
+Apr 11 13:53 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/06. SAYONARA.mp3"
+Apr 11 13:57 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/07. エピローグ〜金剛型戦艦の最期.mp3"
+Apr 11 14:00 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/01. ヴォヤージュ1969.mp3"
+Apr 11 14:03 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/02. 月まで届け、不死の煙.mp3"
+Apr 11 14:09 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/03. プレインエイジア 〜 懐かしき東方の血.mp3"
+Apr 11 14:13 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/04. 竹取飛翔.mp3"
+Apr 11 14:16 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/05. もう歌しか聞こえない 〜 夜雀の歌声.mp3"
+Apr 11 14:20 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/06. シンデレラケージ.mp3"
+Apr 11 14:23 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/07. 恋色マスタースパーク.mp3"
+Apr 11 14:27 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/01. 海原へ（AL道中）.mp3"
+Apr 11 14:30 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/02. 士魂の護り.mp3"
+Apr 11 14:34 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/03. 索敵機、発艦始め！.mp3"
+Apr 11 14:38 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/04. 秋月の空.mp3"
+Apr 11 14:42 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/05. 眼下の伊号.mp3"
+Apr 11 14:46 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/06. 鎮守府の午後.mp3"
+Apr 11 14:51 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/07. 加賀岬.mp3"
+Apr 11 14:55 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/08. 加賀岬（カラオケver.）.mp3"
+Apr 11 14:58 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/01. 冬の抜錨！.mp3"
+Apr 11 15:02 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/02. 海上護衛戦.mp3"
+Apr 11 15:05 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/03. 飛龍の反撃.mp3"
+Apr 11 15:08 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/04. 二水戦の航跡.mp3"
+Apr 11 15:11 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/05. 次発装填、再突入！.mp3"
+Apr 11 15:14 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/06. 壱幕：MI作戦発動.mp3"
+Apr 11 15:17 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/07. 弐幕：運命の5分間.mp3"
+Apr 11 15:21 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/01 マレー沖の激闘.mp3"
+Apr 11 15:24 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/02 士魂の反撃.mp3"
+Apr 11 15:28 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/03 第五戦隊の出撃.mp3"
+Apr 11 15:30 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/04 冬の艦隊.mp3"
+Apr 11 15:34 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/05 波濤を越えて.mp3"
+Apr 11 15:38 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/06 連合艦隊の出撃.mp3"
+Apr 11 15:41 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/07 二水戦の航跡20.mp3"
+Apr 11 15:44 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/01. 特型駆逐艦.mp3"
+Apr 11 15:47 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/02. 水雷戦隊の反撃.mp3"
+Apr 11 15:51 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/03. 我、敵機動部隊ト交戦ス.mp3"
+Apr 11 15:54 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/04. 連合艦隊、西へ.mp3"
+Apr 11 15:57 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/05. 新編「海上護衛隊」抜錨！.mp3"
+Apr 11 16:01 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/06. 提督との絆.mp3"
+Apr 11 16:04 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/07. 飛龍の反撃2016.mp3"
+Apr 11 16:07 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/01. 鎮守府の序曲.mp3"
+Apr 11 16:10 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/02. 出撃水平線の彼方へ.mp3"
+Apr 11 16:12 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/03. 昼戦戦乙女の行進.mp3"
+Apr 11 16:15 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/04. 工廠ワルツ.mp3"
+Apr 11 16:19 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/05. 栄光への夜戦.mp3"
+Apr 11 16:21 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/06. 南方海域を突破せよ.mp3"
+Apr 11 16:23 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/07. 鉄底海峡の死闘.mp3"
+Apr 11 18:37 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/07. 鉄底海峡の死闘.mp3"
+Apr 11 18:41 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/04. 秋月の空.mp3"
+Apr 11 18:45 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/04. 竹取飛翔.mp3"
+Apr 11 18:46 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/06. 南方海域を突破せよ.mp3"
+Apr 11 18:51 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/07. 加賀岬.mp3"
+Apr 11 18:56 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/05. 眼下の伊号.mp3"
+Apr 11 18:59 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/01 マレー沖の激闘.mp3"
+Apr 11 19:02 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/01. プロローグ~金剛型戦艦の誕生.mp3"
+Apr 11 19:06 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/07. 弐幕：運命の5分間.mp3"
+Apr 11 19:10 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/07. エピローグ〜金剛型戦艦の最期.mp3"
+Apr 11 19:12 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/03. 金剛型第三戦隊.mp3"
+Apr 11 19:15 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/05 波濤を越えて.mp3"
+Apr 11 19:19 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/07. 恋色マスタースパーク.mp3"
+Apr 11 19:22 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/01. 鎮守府の序曲.mp3"
+Apr 11 19:25 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/01. 特型駆逐艦.mp3"
+Apr 11 19:27 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/05. アイアンボトム・サウンド.mp3"
+Apr 11 19:31 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/03. 索敵機、発艦始め！.mp3"
+Apr 11 19:34 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/02. 出撃水平線の彼方へ.mp3"
+Apr 11 19:36 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/06. SAYONARA.mp3"
+Apr 11 19:39 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/04 冬の艦隊.mp3"
+Apr 11 19:42 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/02. 水雷戦隊の反撃.mp3"
+Apr 11 19:46 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/06. 提督との絆.mp3"
+Apr 11 19:50 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/06. シンデレラケージ.mp3"
+Apr 11 19:52 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/03. 昼戦戦乙女の行進.mp3"
+Apr 11 19:55 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/02 士魂の反撃.mp3"
+Apr 11 19:59 : player: played "KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/05. 新編「海上護衛隊」抜錨！.mp3"
+Apr 11 20:01 : player: played "KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/01. ヴォヤージュ1969.mp3"
+Apr 11 20:05 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/06 連合艦隊の出撃.mp3"
+Apr 11 20:09 : player: played "KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/03 第五戦隊の出撃.mp3"
+Apr 11 20:13 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/08. 加賀岬（カラオケver.）.mp3"
+Apr 11 20:16 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/04. 二水戦の航跡.mp3"
+Apr 11 20:20 : player: played "KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/02. 海上護衛戦.mp3"
+Apr 11 20:22 : player: played "KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/04. 鎮守府のアフタヌン・ティー.mp3"
+Apr 11 20:25 : player: played "KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/02. 士魂の護り.mp3"
+Apr 11 21:53 : client: [1] closed
+Apr 11 22:31 : client: [0] closed
+Apr 11 22:31 : player: played "KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/04. 工廠ワルツ.mp3"
+Apr 12 13:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 13:11 : config: option 'device' on line 209 was not recognized
+Apr 12 13:11 : client: [0] opened from 127.0.0.1:50782
+Apr 12 13:11 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 12 13:11 : client: [1] opened from 127.0.0.1:50790
+Apr 12 13:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 13:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 12 13:15 : player: played "cordelia/Circus★Circus/01 ELEPHANT.mp3"
+Apr 12 13:19 : player: played "cordelia/Circus★Circus/02 Spirited Away.mp3"
+Apr 12 13:23 : player: played "cordelia/Circus★Circus/05 Crying Sinners.mp3"
+Apr 12 13:28 : player: played "cordelia/Circus★Circus/04 刹那≤Imitation.mp3"
+Apr 12 13:31 : player: played "cordelia/Circus★Circus/01 ELEPHANT.mp3"
+Apr 12 13:35 : player: played "cordelia/Circus★Circus/03 UNTOUCHABLE GIRL.mp3"
+Apr 12 13:39 : player: played "cordelia/Circus★Circus/06 がらくたサーカスの夢.mp3"
+Apr 12 13:42 : player: played "cordelia/Circus★Circus/01 ELEPHANT.mp3"
+Apr 12 13:46 : player: played "cordelia/Circus★Circus/05 Crying Sinners.mp3"
+Apr 12 13:51 : player: played "cordelia/Circus★Circus/02 Spirited Away.mp3"
+Apr 12 13:54 : player: played "cordelia/Circus★Circus/06 がらくたサーカスの夢.mp3"
+Apr 12 13:58 : player: played "cordelia/Circus★Circus/04 刹那≤Imitation.mp3"
+Apr 12 14:02 : player: played "cordelia/Circus★Circus/03 UNTOUCHABLE GIRL.mp3"
+Apr 12 14:06 : player: played "cordelia/Circus★Circus/03 UNTOUCHABLE GIRL.mp3"
+Apr 12 14:10 : player: played "cordelia/Circus★Circus/04 刹那≤Imitation.mp3"
+Apr 12 14:14 : player: played "cordelia/Circus★Circus/02 Spirited Away.mp3"
+Apr 12 14:18 : player: played "cordelia/Circus★Circus/01 ELEPHANT.mp3"
+Apr 12 14:22 : player: played "cordelia/Circus★Circus/05 Crying Sinners.mp3"
+Apr 12 14:26 : player: played "cordelia/Circus★Circus/06 がらくたサーカスの夢.mp3"
+Apr 12 14:30 : player: played "cordelia/Circus★Circus/05 Crying Sinners.mp3"
+Apr 12 14:33 : player: played "cordelia/Circus★Circus/01 ELEPHANT.mp3"
+Apr 12 14:38 : player: played "cordelia/Circus★Circus/04 刹那≤Imitation.mp3"
+Apr 12 14:38 : player: played "cordelia/Circus★Circus/06 がらくたサーカスの夢.mp3"
+Apr 12 14:42 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/01. しーけー - Liar rain (Extend ver.).flac"
+Apr 12 14:43 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/06. Noah vs しーけー - Reunion.flac"
+Apr 12 14:45 : player: played "kakeyan/Sounds Sound/01. - multi-dimension.flac"
+Apr 12 14:49 : player: played "kakeyan/Sounds Sound/04. - エキセントリック.flac"
+Apr 12 14:50 : player: played "kakeyan/Sounds Sound/08. - Distant Dream.flac"
+Apr 12 14:53 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/06. Noah vs しーけー - Reunion.flac"
+Apr 12 14:57 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/04. しーけー - Libera.flac"
+Apr 12 14:59 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/08. しーけー remixed by ああああ - Nirv lucE ~ああああ remix~.flac"
+Apr 12 15:03 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/03. しーけー - Radicret.flac"
+Apr 12 15:05 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/07. しーけー - 七つの鐘と木ノ葉の夢跡.flac"
+Apr 12 15:08 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/02. しーけー - Kokytos (Extend ver.).flac"
+Apr 12 15:12 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/05. Noah vs しーけー - そして終止符は星と調停の先へ (Long ver.).flac"
+Apr 12 15:14 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/07. しーけー - 七つの鐘と木ノ葉の夢跡.flac"
+Apr 12 20:57 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/07. しーけー - 七つの鐘と木ノ葉の夢跡.flac"
+Apr 12 20:58 : player: played "chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/05. Noah vs しーけー - そして終止符は星と調停の先へ (Long ver.).flac"
+Apr 12 21:04 : player: played "Nujabes/Modal Soul/02. Ordinary Joe (ft. Terry Callier).mp3"
+Apr 12 21:08 : player: played "Nujabes/Metaphorical Music [320] [2003]/09. A Day by Atmosphere Supreme.mp3"
+Apr 12 21:12 : player: played "Nujabes/2nd Collection/06. Counting Stars.mp3"
+Apr 12 21:15 : client: [1] closed
+Apr 12 21:15 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Apr 12 21:15 : client: [0] closed
+Apr 12 21:15 : player: played "Uyama Hiroto/Freeform Jazz (Album)/14 Imagination.mp3"
+Apr 13 17:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 17:40 : config: option 'device' on line 209 was not recognized
+Apr 13 17:40 : client: [0] opened from 127.0.0.1:43714
+Apr 13 17:40 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 13 22:31 : avahi: Client Disconnected, will reconnect shortly
+Apr 13 22:31 : client: [0] closed
+Apr 14 12:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 12:24 : config: option 'device' on line 209 was not recognized
+Apr 14 12:24 : client: [0] opened from 127.0.0.1:32850
+Apr 14 12:24 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 14 12:24 : client: [1] opened from 127.0.0.1:32856
+Apr 14 12:24 : update: added cordelia.zip/cordelia/Circus★Circus/01 ELEPHANT.mp3
+Apr 14 12:24 : update: added cordelia.zip/cordelia/Circus★Circus/02 Spirited Away.mp3
+Apr 14 12:24 : update: added cordelia.zip/cordelia/Circus★Circus/03 UNTOUCHABLE GIRL.mp3
+Apr 14 12:24 : update: added cordelia.zip/cordelia/Circus★Circus/04 刹那≤Imitation.mp3
+Apr 14 12:24 : update: added cordelia.zip/cordelia/Circus★Circus/05 Crying Sinners.mp3
+Apr 14 12:24 : update: added cordelia.zip/cordelia/Circus★Circus/06 がらくたサーカスの夢.mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/01 Inferno .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/02 StarRingChild .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/03 Warcry .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/04 Alive .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/05 Zero Eclipse .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/06 Next of Kin .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/07 Barricades .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/08 BRAVE THE OCEAN .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/09 ninelie .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/10 Vigilante .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/11 The Brave .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/12 No differences .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/13 NEXUS .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/14 God of ink .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/15 Roll The Dice .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/16 Release My Soul .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/17 S_TEAM .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/18 theDOGS .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/01 aLIEz .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/02 REMEMBER .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/03 X.U. .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/04 Into the Sky .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/05 Binary Star .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/06 sh0ut .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/07 scaPEGoat .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/08 Cage .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/09 &Z .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/10 narrative .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/11 gravityWall .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/12 Tranquility .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/13 e of s .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/14 NOISEofRAIN .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/15 CRYst-Alise .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/16 A-Z .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/17 BELONG .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc3/01 N01R .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc3/02 Sea of Fire .mp3
+Apr 14 12:24 : update: added Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc3/03 Unordinary .mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/01. プロローグ~金剛型戦艦の誕生.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/02. 近代化改装.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/03. 金剛型第三戦隊.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/04. 鎮守府のアフタヌン・ティー.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/05. アイアンボトム・サウンド.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/06. SAYONARA.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/07. エピローグ〜金剛型戦艦の最期.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/01. ヴォヤージュ1969.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/02. 月まで届け、不死の煙.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/03. プレインエイジア 〜 懐かしき東方の血.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/04. 竹取飛翔.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/05. もう歌しか聞こえない 〜 夜雀の歌声.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/06. シンデレラケージ.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/07. 恋色マスタースパーク.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/01. 海原へ（AL道中）.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/02. 士魂の護り.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/03. 索敵機、発艦始め！.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/04. 秋月の空.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/05. 眼下の伊号.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/06. 鎮守府の午後.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/07. 加賀岬.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/08. 加賀岬（カラオケver.）.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/01. 冬の抜錨！.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/02. 海上護衛戦.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/03. 飛龍の反撃.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/04. 二水戦の航跡.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/05. 次発装填、再突入！.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/06. 壱幕：MI作戦発動.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/07. 弐幕：運命の5分間.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/01 マレー沖の激闘.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/02 士魂の反撃.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/03 第五戦隊の出撃.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/04 冬の艦隊.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/05 波濤を越えて.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/06 連合艦隊の出撃.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/07 二水戦の航跡20.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/01. 特型駆逐艦.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/02. 水雷戦隊の反撃.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/03. 我、敵機動部隊ト交戦ス.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/04. 連合艦隊、西へ.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/05. 新編「海上護衛隊」抜錨！.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/06. 提督との絆.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/07. 飛龍の反撃2016.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/01. 鎮守府の序曲.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/02. 出撃水平線の彼方へ.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/03. 昼戦戦乙女の行進.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/04. 工廠ワルツ.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/05. 栄光への夜戦.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/06. 南方海域を突破せよ.mp3
+Apr 14 12:24 : update: added kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/07. 鉄底海峡の死闘.mp3
+Apr 14 12:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 12:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 12:28 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/01 Inferno .mp3"
+Apr 14 12:33 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/02 StarRingChild .mp3"
+Apr 14 12:38 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/03 Warcry .mp3"
+Apr 14 14:28 : client: [2] opened from 127.0.0.1:33872
+Apr 14 14:32 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/05 Zero Eclipse .mp3"
+Apr 14 14:36 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/08 BRAVE THE OCEAN .mp3"
+Apr 14 14:41 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/12 Tranquility .mp3"
+Apr 14 14:41 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/02 StarRingChild .mp3"
+Apr 14 14:43 : client: [2] closed
+Apr 14 14:43 : client: [1] closed
+Apr 14 14:43 : client: [0] closed
+Apr 14 14:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 14:55 : config: option 'device' on line 209 was not recognized
+Apr 14 14:55 : client: [0] opened from 127.0.0.1:53966
+Apr 14 14:55 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 14 15:29 : client: [1] opened from 127.0.0.1:54200
+Apr 14 15:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 15:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 15:34 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/01 Inferno .mp3"
+Apr 14 15:39 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/02 StarRingChild .mp3"
+Apr 14 15:43 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/03 Warcry .mp3"
+Apr 14 15:48 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/04 Alive .mp3"
+Apr 14 15:52 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/05 Zero Eclipse .mp3"
+Apr 14 15:55 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/06 Next of Kin .mp3"
+Apr 14 15:59 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/07 Barricades .mp3"
+Apr 14 16:03 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/08 BRAVE THE OCEAN .mp3"
+Apr 14 16:08 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/09 ninelie .mp3"
+Apr 14 16:11 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/10 Vigilante .mp3"
+Apr 14 16:15 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/11 The Brave .mp3"
+Apr 14 16:20 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/12 No differences .mp3"
+Apr 14 16:23 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/13 NEXUS .mp3"
+Apr 14 16:28 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/14 God of ink .mp3"
+Apr 14 16:31 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/15 Roll The Dice .mp3"
+Apr 14 16:36 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/16 Release My Soul .mp3"
+Apr 14 16:40 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/17 S_TEAM .mp3"
+Apr 14 16:44 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/18 theDOGS .mp3"
+Apr 14 16:49 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/01 aLIEz .mp3"
+Apr 14 16:54 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/02 REMEMBER .mp3"
+Apr 14 16:59 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/03 X.U. .mp3"
+Apr 14 17:03 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/04 Into the Sky .mp3"
+Apr 14 17:07 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/05 Binary Star .mp3"
+Apr 14 17:09 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/06 sh0ut .mp3"
+Apr 14 17:09 : client: [1] closed
+Apr 14 17:31 : avahi: Client Disconnected, will reconnect shortly
+Apr 14 18:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 18:07 : config: option 'device' on line 209 was not recognized
+Apr 14 18:07 : client: [0] opened from 127.0.0.1:45854
+Apr 14 18:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 14 18:37 : client: [1] opened from 127.0.0.1:46358
+Apr 14 18:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 18:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 18:41 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/01 Inferno .mp3"
+Apr 14 18:45 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/10 narrative .mp3"
+Apr 14 18:49 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/05 Zero Eclipse .mp3"
+Apr 14 18:54 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/07 scaPEGoat .mp3"
+Apr 14 18:59 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/16 Release My Soul .mp3"
+Apr 14 19:03 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/06 sh0ut .mp3"
+Apr 14 19:07 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/14 God of ink .mp3"
+Apr 14 19:11 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/04 Into the Sky .mp3"
+Apr 14 19:15 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/17 BELONG .mp3"
+Apr 14 19:19 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/05 Binary Star .mp3"
+Apr 14 19:24 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/09 &Z .mp3"
+Apr 14 19:29 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/16 A-Z .mp3"
+Apr 14 19:34 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/01 aLIEz .mp3"
+Apr 14 19:39 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/08 Cage .mp3"
+Apr 14 19:43 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/12 Tranquility .mp3"
+Apr 14 19:47 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/17 S_TEAM .mp3"
+Apr 14 19:52 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/14 NOISEofRAIN .mp3"
+Apr 14 19:56 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc3/01 N01R .mp3"
+Apr 14 19:59 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/06 Next of Kin .mp3"
+Apr 14 20:04 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/03 X.U. .mp3"
+Apr 14 20:07 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/07 Barricades .mp3"
+Apr 14 20:11 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/13 e of s .mp3"
+Apr 14 20:16 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/02 REMEMBER .mp3"
+Apr 14 20:21 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/09 ninelie .mp3"
+Apr 14 20:25 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/11 gravityWall .mp3"
+Apr 14 20:28 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc3/02 Sea of Fire .mp3"
+Apr 14 20:32 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/13 NEXUS .mp3"
+Apr 14 20:36 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/08 BRAVE THE OCEAN .mp3"
+Apr 14 20:42 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/15 CRYst-Alise .mp3"
+Apr 14 20:46 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc3/03 Unordinary .mp3"
+Apr 14 20:50 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/10 Vigilante .mp3"
+Apr 14 20:53 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/11 The Brave .mp3"
+Apr 14 20:59 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/02 StarRingChild .mp3"
+Apr 14 21:03 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/12 No differences .mp3"
+Apr 14 21:08 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/18 theDOGS .mp3"
+Apr 14 21:12 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/04 Alive .mp3"
+Apr 14 21:16 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/15 Roll The Dice .mp3"
+Apr 14 21:20 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/03 Warcry .mp3"
+Apr 14 21:24 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/06 sh0ut .mp3"
+Apr 14 21:29 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/01 aLIEz .mp3"
+Apr 14 21:34 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/02 StarRingChild .mp3"
+Apr 14 21:38 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/13 NEXUS .mp3"
+Apr 14 21:42 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc3/01 N01R .mp3"
+Apr 14 21:47 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/16 A-Z .mp3"
+Apr 14 21:51 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc1/10 Vigilante .mp3"
+Apr 14 21:56 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/09 &Z .mp3"
+Apr 14 22:00 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/17 BELONG .mp3"
+Apr 14 22:00 : client: [1] closed
+Apr 14 22:00 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Apr 14 22:00 : avahi: Client Disconnected, will reconnect shortly
+Apr 14 22:00 : client: [0] closed
+Apr 14 22:00 : player: played "Hiroyuki Sawano/HIROYUKI SAWANO BEST OF VOCAL WORKS [nZk] 2 [Limited Edtion] [3CDs]/Disc2/10 narrative .mp3"
+Apr 15 19:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 19:30 : config: option 'device' on line 209 was not recognized
+Apr 15 19:30 : client: [0] opened from 127.0.0.1:35694
+Apr 15 19:30 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 15 21:38 : client: [1] opened from 127.0.0.1:38646
+Apr 15 21:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 21:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 15 21:42 : player: played "Really Slow Motion/Elevation (Album)/01 Aligning Hearts.mp3"
+Apr 15 21:45 : player: played "Really Slow Motion/Elevation (Album)/02 Suns and Stars.mp3"
+Apr 15 21:48 : player: played "Really Slow Motion/Elevation (Album)/03 Fjord Keeper.mp3"
+Apr 15 21:51 : player: played "Really Slow Motion/Elevation (Album)/04 The Space Between Us.mp3"
+Apr 15 21:52 : player: played "Really Slow Motion/Elevation (Album)/05 Cascade of Emotions.mp3"
+Apr 15 21:56 : player: played "Really Slow Motion/Elevation (Album)/06 Zion.mp3"
+Apr 15 21:59 : player: played "Really Slow Motion/Elevation (Album)/07 The Gravity of Love.mp3"
+Apr 15 22:02 : player: played "Really Slow Motion/Elevation (Album)/08 Hero.mp3"
+Apr 15 22:04 : player: played "Really Slow Motion/Elevation (Album)/09 Eternal Courage.mp3"
+Apr 15 22:07 : player: played "Really Slow Motion/Elevation (Album)/10 The Birth of a Soul.mp3"
+Apr 15 22:09 : player: played "Really Slow Motion/Elevation (Album)/11 Remembrance.mp3"
+Apr 15 22:12 : player: played "Really Slow Motion/Elevation (Album)/12 Iridescence.mp3"
+Apr 15 22:15 : player: played "Really Slow Motion/Elevation (Album)/13 Against All Hope.mp3"
+Apr 15 22:18 : player: played "Really Slow Motion/Elevation (Album)/14 Elevation.mp3"
+Apr 15 22:21 : player: played "Really Slow Motion/Elevation (Album)/15 Until the End.mp3"
+Apr 15 22:24 : player: played "Really Slow Motion/Elevation (Album)/16 The End of the Beginning.mp3"
+Apr 15 22:27 : player: played "Really Slow Motion/Elevation (Album)/17 Heretics and Angels.mp3"
+Apr 15 22:29 : player: played "Really Slow Motion/Elevation (Album)/18 Illusions of Life.mp3"
+Apr 15 22:30 : player: played "Really Slow Motion/Elevation (Album)/19 The Road.mp3"
+Apr 15 22:33 : player: played "Powerless/Instrumental Works Vol.2/Sky Falls Down.mp3"
+Apr 15 22:35 : player: played "Powerless/Instrumental Works Vol.2/Dominator.mp3"
+Apr 15 22:38 : player: played "Powerless/Instrumental Works Vol.2/Liberty.mp3"
+Apr 15 22:41 : player: played "Fearless Motivation/Sounds of Power/01. Never Give Up (Epic Instrumental).mp3"
+Apr 15 22:45 : player: played "Fearless Motivation/Sounds of Power/02. Faith (Epic Instrumental).mp3"
+Apr 15 22:52 : player: played "Fearless Motivation/Sounds of Power/03. Revival (Orchestral Instrumental).mp3"
+Apr 15 22:56 : player: played "Fearless Motivation/Sounds of Power/04. Your Why (Epic Instrumental).mp3"
+Apr 15 23:01 : player: played "Fearless Motivation/Sounds of Power/05. Carpe Diem (Orchestral Instrumental).mp3"
+Apr 15 23:04 : player: played "Fearless Motivation/Sounds of Power/06. Got Fight (Epic Instrumental).mp3"
+Apr 15 23:09 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Apr 15 23:14 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/11 Love Letter.mp3"
+Apr 15 23:18 : player: played "HoneyWorks/HKUM2-M/04 第一次ジブン戦争.mp3"
+Apr 15 23:21 : player: played "Primary x yuiko/From GardeN/02. invalidism.mp3"
+Apr 15 23:26 : player: played "Primary x yuiko/Seven'th Color/06. マリーゴールド.mp3"
+Apr 15 23:30 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/08. yuiko — in the past.mp3"
+Apr 15 23:33 : player: played "HoneyWorks/HKUM5-M/03 三角ジェラシー.mp3"
+Apr 15 23:34 : player: played "REOL/No title−/05. -Interlude-.mp3"
+Apr 15 23:38 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/03. continue.mp3"
+Apr 15 23:41 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/13. Satoudama no Tsuki.mp3"
+Apr 15 23:41 : client: [1] closed
+Apr 15 23:41 : client: [0] closed
+Apr 16 12:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 16 12:09 : config: option 'device' on line 209 was not recognized
+Apr 16 12:09 : client: [0] opened from 127.0.0.1:55784
+Apr 16 12:09 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 16 18:06 : client: [0] closed
+Apr 17 17:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 17 17:54 : config: option 'device' on line 209 was not recognized
+Apr 17 17:54 : client: [0] opened from 127.0.0.1:58754
+Apr 17 17:54 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 17 21:14 : client: [0] closed
+Apr 18 13:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 13:10 : config: option 'device' on line 209 was not recognized
+Apr 18 13:10 : client: [0] opened from 127.0.0.1:35308
+Apr 18 13:10 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 18 13:10 : client: [1] opened from 127.0.0.1:35400
+Apr 18 13:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 13:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 13:15 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Apr 18 13:19 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Apr 18 13:23 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/15. yuiko — 回路.mp3"
+Apr 18 13:26 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/12. yuiko — 月.mp3"
+Apr 18 13:30 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/07. 六月は雨上がりの街を書く.mp3"
+Apr 18 13:34 : player: played "HoneyWorks/HKUM3-M/07 初恋の絵本 (WINTER MIX).mp3"
+Apr 18 13:38 : player: played "HoneyWorks/HKUM5-M/06 リトルリグレット.mp3"
+Apr 18 13:40 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 2/09. Souzou no Kimi.mp3"
+Apr 18 13:43 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/13. 4_10.mp3"
+Apr 18 13:47 : player: played "Daoko/Thank You Blue/Disc 1/11. もしも僕らが GAME の主役で.mp3"
+Apr 18 13:52 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/08. Aqua Terrarium.mp3"
+Apr 18 13:56 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/14. yuiko — Aster tataricus.mp3"
+Apr 18 14:00 : player: played "Primary x yuiko/(M3-40)(同人音楽)[yuiko] liberator/2. Keep Changing.flac"
+Apr 18 14:03 : player: played "HoneyWorks/HKUM2-M/10 パジャマっ子☆.mp3"
+Apr 18 15:09 : player: played "fhána/Outside of Melancholy/14. white light.mp3"
+Apr 18 15:13 : player: played "Aimer/Dawn (Album)/10 Brave Shine.mp3"
+Apr 18 15:18 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/12. Mimei no Kimi to Hakumei no Mahou.mp3"
+Apr 18 15:21 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/07 Kimiga Sorakoso Kanashikere.mp3"
+Apr 18 15:26 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/02. here and there.mp3"
+Apr 18 16:04 : client: [1] closed
+Apr 18 17:29 : client: [0] closed
+Apr 18 17:29 : player: played "Daoko/Thank You Blue/Disc 1/05. ShibuyaK.mp3"
+Apr 18 19:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 19:12 : config: option 'device' on line 209 was not recognized
+Apr 18 19:12 : client: [0] opened from 127.0.0.1:48510
+Apr 18 19:12 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 18 19:13 : client: [1] opened from 127.0.0.1:48518
+Apr 18 19:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 19:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 19:14 : player: played "Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/01. 序響.flac"
+Apr 18 19:19 : player: played "Sennzai/Arrêter le temps/02. 緋の青.mp3"
+Apr 18 19:24 : player: played "Sennzai/Sennzai - Fleurix/03. 妄想ガーリッシュ.mp3"
+Apr 18 19:29 : player: played "Sennzai/Sennzai - Fleurix/01. アイリスの便り.mp3"
+Apr 18 19:32 : player: played "Sennzai/Sennzai - Fleurix/02. Jewelry Beans.mp3"
+Apr 18 19:38 : player: played "Sennzai/Sennzai - Fleurix/06. クロユリ.mp3"
+Apr 18 19:43 : player: played "Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/05. まほろばの星.flac"
+Apr 18 19:47 : player: played "Sennzai/Arrêter le temps/06. Rugie.mp3"
+Apr 18 19:51 : player: played "Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/02. Vocis Helix.flac"
+Apr 18 19:56 : player: played "Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/04. 憧憬のミラージュ.flac"
+Apr 18 20:00 : player: played "Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/03. la lumière montre l'ombre-光示す影-.flac"
+Apr 18 20:05 : player: played "Sennzai/Arrêter le temps/04. Unrequited.mp3"
+Apr 18 20:08 : player: played "Sennzai/Sennzai - Fleurix/04. Sestea (Long×Vocal edit ver.).mp3"
+Apr 18 20:12 : player: played "Sennzai/Sennzai - Fleurix/09. scabiosa.mp3"
+Apr 18 20:13 : client: [1] closed
+Apr 18 20:13 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Apr 18 20:13 : client: [0] closed
+Apr 18 20:13 : player: played "Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/06. オートマタ綺想曲.flac"
+Apr 18 22:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 22:45 : config: option 'device' on line 209 was not recognized
+Apr 18 22:45 : client: [0] opened from 127.0.0.1:55466
+Apr 18 22:45 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 18 22:45 : client: [1] opened from 127.0.0.1:55474
+Apr 18 22:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 22:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 18 22:50 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Apr 18 22:54 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/15. yuiko — 回路.mp3"
+Apr 18 22:58 : player: played "soraru/Wonder (Album)/09 Oshiete Kamisama.mp3"
+Apr 18 23:03 : player: played "HoneyWorks/HKUM2-M/11 泣キ虫カレシ.mp3"
+Apr 18 23:06 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/07 Kimiga Sorakoso Kanashikere.mp3"
+Apr 18 23:10 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/08. Mukei no Outline.mp3"
+Apr 18 23:14 : player: played "Primary x yuiko/From GardeN/04. ヒカリノワ.mp3"
+Apr 18 23:18 : player: played "Sana/Sana x Honeyworks - Suki na Hito/05 - 告白ライバル宣言.mp3"
+Apr 18 23:24 : player: played "fhána/Outside of Melancholy/09. ARE YOU SLEEPING.mp3"
+Apr 18 23:27 : player: played "Sana/Sana x Honeyworks - Suki na Hito/10 - ラズベリー_モンスター.mp3"
+Apr 18 23:32 : player: played "H△G/A Place in the Sun (Album)/10 Song for You.mp3"
+Apr 18 23:35 : player: played "Yorushika/Yorushika - Dakara Boku wa Ongaku wo Yameta/13. 4_10.mp3"
+Apr 18 23:38 : player: played "CHiCO with HoneyWorks/Sekai Ha i Ni Michiteiru (Album)/13 Pride Kakumei.mp3"
+Apr 18 23:42 : player: played "fhána/Outside of Melancholy/05. スウィンギングシティ.mp3"
+Apr 18 23:46 : player: played "H△G/A Place in the Sun (Album)/05 Winter Song.mp3"
+Apr 18 23:50 : player: played "Primary x yuiko/Seven'th Color/02. Aggregation -type 7-.mp3"
+Apr 18 23:54 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/11. yuiko — ノゾミ.mp3"
+Apr 19 00:00 : player: played "Minami/Minami – Kawaki wo Ameku (Single)/04. Hollowness.mp3"
+Apr 19 00:01 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/01. 夏陰、ピアノを弾く.mp3"
+Apr 19 00:05 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/08 Shumatsu Worker.mp3"
+Apr 19 00:08 : player: played "Yuaru/Asu no Yozora Shoukaihan.mp3"
+Apr 19 00:13 : player: played "Yorushika/[2017.06.28] Yorushika – Natsukusa ga Jyama wo Suru [Mini Album]/07. 雲と幽霊.mp3"
+Apr 19 00:16 : player: played "Primary x yuiko/STRUGGLES - ひとつの願い/03. STRUGGLES -without yuiko-.mp3"
+Apr 19 00:21 : player: played "HoneyWorks/HKUM4-M/07 ペットショップガール.mp3"
+Apr 19 00:26 : player: played "Minami/Minami – Kawaki wo Ameku (Single)/03. Lilac.mp3"
+Apr 19 00:29 : player: played "REOL/No title−/03. オオエドランヴ.mp3"
+Apr 19 00:34 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/06. Ambivalentidea.mp3"
+Apr 19 00:38 : player: played "Islet/Cyanide/06. - shelter.flac"
+Apr 19 00:43 : player: played "Aimer/Dawn (Album)/09 Last Stardust.mp3"
+Apr 19 00:48 : player: played "Aimer/Dawn (Album)/02 Believe Be Leave.mp3"
+Apr 19 00:53 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/18. yuiko — 心ノ約束.mp3"
+Apr 19 00:56 : player: played "REOL/REOL – Gokusaishoku (1st Album)/08. mede-mede.mp3"
+Apr 19 00:58 : player: played "REOL/No title−/08. -BWW SCREAM-.mp3"
+Apr 19 01:03 : player: played "Aimer/Dawn (Album)/08 Dareka Umiwo.mp3"
+Apr 19 01:07 : player: played "Primary x yuiko/(С88) Primary — PS 2005-2013 [PRMY-0023]/07. yuiko — 傷口.mp3"
+Apr 19 01:12 : player: played "H△G/Everlasting Night of Teenage Girls (Album)/01 Hoshimirukorowosugitemo -Past the Stargazing Season-.mp3"
+Apr 19 01:17 : player: played "REOL/REOL – Gokusaishoku (1st Album)/04. 水底游歩道.mp3"
+Apr 19 01:21 : player: played "HoneyWorks/HKUM4-M/08 ラブ＠ライアー.mp3"
+Apr 19 01:27 : player: played "H△G/声 ~VOCALOID Cover Album~/15. 星見る頃を過ぎても.mp3"
+Apr 19 01:34 : player: played "fhána/Outside of Melancholy/14. white light.mp3"
+Apr 19 01:38 : player: played "HoneyWorks/HKUM2-M/09 MEMORIAL DAY.mp3"
+Apr 19 01:41 : player: played "HoneyWorks/HKUM3-M/01 告白予行練習.mp3"
+Apr 19 01:45 : player: played "CHiCO with HoneyWorks/Watashiwo Someru Aino Uta (Album)/05 Tsunoru Kimochi.mp3"
+Apr 19 01:50 : player: played "fhána/Outside of Melancholy/06. はじまりのサヨウナラ.mp3"
+Apr 19 01:53 : player: played "REOL/REOL – Gokusaishoku (1st Album)/03. 生命線.mp3"
+Apr 19 01:57 : player: played "Yorushika/Yorushika - Makeinu ni Alcohol wa Iranai/07. ただ君に晴れ.mp3"
+Apr 19 02:01 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/03. Tetragon.mp3"
+Apr 19 02:05 : player: played "HoneyWorks/HKUM5-M/10 バカ殿ヒーロー ～かけがえのない仲間達～.mp3"
+Apr 19 02:06 : client: [1] closed
+Apr 19 02:06 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Apr 19 02:06 : client: [0] closed
+Apr 19 02:06 : player: played "REOL/No title−/04. drop pop candy.mp3"
+Apr 19 16:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 19 16:51 : config: option 'device' on line 209 was not recognized
+Apr 19 16:51 : client: [0] opened from 127.0.0.1:57994
+Apr 19 16:51 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 19 20:50 : client: [0] closed
+Apr 19 23:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 19 23:47 : config: option 'device' on line 209 was not recognized
+Apr 19 23:47 : client: [0] opened from 127.0.0.1:39006
+Apr 19 23:47 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 20 00:50 : client: [0] closed
+Apr 20 14:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 20 14:20 : config: option 'device' on line 209 was not recognized
+Apr 20 14:20 : client: [0] opened from 127.0.0.1:42376
+Apr 20 14:20 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 20 15:42 : client: [1] opened from 127.0.0.1:43318
+Apr 20 15:42 : client: [1] closed
+Apr 21 00:23 : client: [0] closed
+Apr 21 11:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 21 11:18 : config: option 'device' on line 209 was not recognized
+Apr 21 11:18 : client: [0] opened from 127.0.0.1:54252
+Apr 21 11:18 : avahi: Service 'Music Player @ zephyr' successfully established.
