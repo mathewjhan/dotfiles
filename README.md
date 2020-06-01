@@ -65,12 +65,11 @@ Most of the dotfiles I am using on my current Linux distro.
 - nerdcommenter
 - tabular
 - vim-airline
-- vim-auto-save
 - vim-bookmarks
 - vim-pandoc
 - vim-pandoc-markdown-syntax
-- vim-pandoc-markdown-preview
+- vim-smoothie
 - vim-surround
 - vimtex
-- vpmp-togglable (modified vim-pandoc-markdown-preview)
+- ultisnips
 - wal.vim (theme that works with pywal)
