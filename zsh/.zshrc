@@ -20,6 +20,7 @@ alias gohome="cd /media/data/mathew/Home"
 
 # Other stuff
 alias weebtrash="cd /media/data/mathew/Home/trash"
+alias left-monitor="xrandr --output eDP1 --auto  --right-of DP3 --output DP3 --auto"
 
 # Touch + edit
 te(){

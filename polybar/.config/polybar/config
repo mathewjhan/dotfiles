@@ -73,7 +73,7 @@ font-7 = Noto Sans CJK JP:regular:size=10; 2
 ;enable-ipc = true
 
 modules-left = gap i3 gap xwindow
-modules-center =  
+modules-center = 
 modules-right = battery_i battery gap cpu_i cpu gap memory_i memory gap temp_i temp gap filesystem_i filesystem gap wifi_i wifi gap volume_i volume pulseaudio pulseaudio-tail gap date_i date gap
 
 tray-position = none 

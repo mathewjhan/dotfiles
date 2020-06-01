@@ -8,11 +8,10 @@ call plug#begin('~/.vim/plugged')
 " -------------
 
 " Github
-Plug 'conornewton/vim-pandoc-markdown-preview'
+Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
 Plug 'SirVer/ultisnips'
 Plug 'lervag/vimtex'
 Plug 'skywind3000/asyncrun.vim'
-Plug '907th/vim-auto-save'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'godlygeek/tabular'
@@ -26,9 +25,6 @@ Plug 'scrooloose/nerdcommenter'
 Plug 'MattesGroeger/vim-bookmarks'
 Plug 'psliwka/vim-smoothie'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-
-" Local
-Plug 'file://'.expand('~/.vim/local/vpmp-togglable')
 
 " BACKUP AUTOCOMPLETER
 " Plug 'autozimu/LanguageClient-neovim', {
@@ -56,6 +52,8 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 endif
 
 
+let mapleader = ","
+
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Pandoc
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -68,7 +66,6 @@ let g:pandoc#spell#enabled = 0
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 "" Zathura previews
-let g:md_pdf_viewer="zathura"
 let g:vimtex_view_method="zathura"
 let g:tex_flavor = 'latex'
 let g:pandoc#syntax#conceal#use = 0
@@ -77,6 +74,11 @@ let g:pandoc#syntax#conceal#use = 0
 " => Airline
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:airline_powerline_fonts = 1
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => FZF
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+nnoremap <silent> <leader>f :FZF<cr>
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => coc.nvim

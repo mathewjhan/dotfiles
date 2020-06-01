@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/mathew/ms-pacman'
 let g:netrw_dirhist_7='/home/mathew/test'
 let g:netrw_dirhist_6='/home/mathew/.config'
 let g:netrw_dirhist_5='/home/mathew/.config/polybar'

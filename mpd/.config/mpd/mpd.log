@@ -16307,3 +16307,649 @@ Apr 21 11:18 : exception: RTIOThread could not get realtime scheduling, continui
 Apr 21 11:18 : config: option 'device' on line 209 was not recognized
 Apr 21 11:18 : client: [0] opened from 127.0.0.1:54252
 Apr 21 11:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 21 12:36 : client: [0] closed
+Apr 21 12:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 21 12:36 : config: option 'device' on line 209 was not recognized
+Apr 21 12:36 : client: [0] opened from 127.0.0.1:41100
+Apr 21 12:36 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 22 03:06 : client: [0] closed
+Apr 22 08:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 22 08:06 : config: option 'device' on line 209 was not recognized
+Apr 22 08:06 : client: [0] opened from 127.0.0.1:34896
+Apr 22 08:06 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 22 08:07 : client: [0] closed
+Apr 22 08:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 22 08:07 : config: option 'device' on line 209 was not recognized
+Apr 22 08:07 : client: [0] opened from 127.0.0.1:34908
+Apr 22 08:07 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 22 13:05 : client: [0] closed
+Apr 22 16:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 22 16:18 : config: option 'device' on line 209 was not recognized
+Apr 22 16:18 : client: [0] opened from 127.0.0.1:56800
+Apr 22 16:18 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 22 16:53 : client: [1] opened from 127.0.0.1:57390
+Apr 22 16:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 22 16:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 22 16:55 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Apr 22 16:58 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/09 - マーブル模様.mp3"
+Apr 22 17:01 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/04 - さんぽみち.mp3"
+Apr 22 17:04 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/03 - おでかけ気分で.mp3"
+Apr 22 17:09 : player: played "mamomo/Hometown/01 - around.mp3"
+Apr 22 17:12 : player: played "a_hisa/a_hisa - shizuku/05 - Rainy Waltz.mp3"
+Apr 22 17:13 : player: played "Masaki Mizusato/The daily life of cats in Paris/11 - まぶたが重い - Mes paupières sont lourdes.flac"
+Apr 22 17:16 : player: played "mamomo/Hometown/06 - twilight.mp3"
+Apr 22 17:19 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-07-お仕事(2019新企画).mp3"
+Apr 22 17:22 : player: played "a_hisa/a_hisa - shizuku/06 - Whisper of Stream.mp3"
+Apr 22 17:25 : player: played "mamomo/Hometown/10 - ペンギンが飛んだ.mp3"
+Apr 22 17:28 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-05-バトル1(暁工房のコートニー).mp3"
+Apr 22 17:31 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/03 - 天人の優雅な休日.mp3"
+Apr 22 17:35 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Apr 22 17:38 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-09-開店(2019新企画).mp3"
+Apr 22 17:40 : player: played "Masaki Mizusato/The daily life of cats in Paris/15 - いつも通りのこの街に - Pour cette ville comme d'habitude.flac"
+Apr 22 17:44 : player: played "mamomo/lostworld/04. 90γ68slum_hope.flac"
+Apr 22 17:46 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 03 降り積もる灰.mp3"
+Apr 22 17:49 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 11 新世界より.mp3"
+Apr 22 17:53 : player: played "Sakuzyo/Food and Musik/03 - Sidewalk Cafe.mp3"
+Apr 22 17:56 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/04 - 靴下をはいた猫.mp3"
+Apr 22 17:58 : player: played "mamomo/Hometown/04 - garden.mp3"
+Apr 22 18:00 : player: played "a_hisa/a_hisa - shizuku/07 - outro.mp3"
+Apr 22 18:02 : player: played "Masaki Mizusato/The daily life of cats in Paris/9 - 街はアスレチック - La ville est l'aire de jeux.flac"
+Apr 22 21:35 : client: [1] closed
+Apr 22 21:35 : client: [0] closed
+Apr 22 21:35 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Apr 23 00:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 00:23 : config: option 'device' on line 209 was not recognized
+Apr 23 00:23 : client: [0] opened from 127.0.0.1:57822
+Apr 23 00:23 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 23 01:17 : client: [0] closed
+Apr 23 01:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 23 01:17 : config: option 'device' on line 209 was not recognized
+Apr 23 01:17 : client: [0] opened from 127.0.0.1:60038
+Apr 23 01:17 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 23 21:55 : client: [0] closed
+Apr 24 13:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 13:15 : config: option 'device' on line 209 was not recognized
+Apr 24 13:15 : client: [0] opened from 127.0.0.1:39244
+Apr 24 13:15 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 24 13:30 : client: [1] opened from 127.0.0.1:39802
+Apr 24 13:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 13:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 24 13:32 : player: played "Video Game OST/The World Ends with You Original Soundtrack/01. It's So Wonderful.mp3"
+Apr 24 13:33 : player: played "Video Game OST/The World Ends with You Original Soundtrack/02. Twister.mp3"
+Apr 24 13:34 : player: played "Video Game OST/The World Ends with You Original Soundtrack/03. Underground.mp3"
+Apr 24 13:37 : player: played "Video Game OST/The World Ends with You Original Soundtrack/04. Long Dream.mp3"
+Apr 24 13:41 : player: played "Video Game OST/The World Ends with You Original Soundtrack/05. Calling.mp3"
+Apr 24 13:41 : player: played "Video Game OST/The World Ends with You Original Soundtrack/06. Despair.mp3"
+Apr 24 13:44 : player: played "Video Game OST/The World Ends with You Original Soundtrack/07. Hybrid.mp3"
+Apr 24 13:46 : player: played "Video Game OST/The World Ends with You Original Soundtrack/08. Fighting For Freedom.mp3"
+Apr 24 13:50 : player: played "Video Game OST/The World Ends with You Original Soundtrack/09. O-Parts.mp3"
+Apr 24 13:50 : player: played "Video Game OST/The World Ends with You Original Soundtrack/10. Forebode.mp3"
+Apr 24 13:55 : player: played "Video Game OST/The World Ends with You Original Soundtrack/11. Give Me All Your Love.mp3"
+Apr 24 13:58 : player: played "Video Game OST/The World Ends with You Original Soundtrack/12. Someday.mp3"
+Apr 24 14:02 : player: played "Video Game OST/The World Ends with You Original Soundtrack/13. Satisfy.mp3"
+Apr 24 14:06 : player: played "Video Game OST/The World Ends with You Original Soundtrack/14. Someday.mp3"
+Apr 24 14:10 : player: played "Video Game OST/The World Ends with You Original Soundtrack/15. Twister.mp3"
+Apr 24 14:10 : player: played "Video Game OST/The World Ends with You Original Soundtrack/16. Let's Get Together.mp3"
+Apr 24 14:11 : player: played "Video Game OST/The World Ends with You Original Soundtrack/17. Slash and Slash.mp3"
+Apr 24 14:12 : player: played "Video Game OST/The World Ends with You Original Soundtrack/18. Amnesia.mp3"
+Apr 24 14:12 : player: played "Video Game OST/The World Ends with You Original Soundtrack/19. Rush Hour.mp3"
+Apr 24 14:13 : player: played "Video Game OST/The World Ends with You Original Soundtrack/20. Imprinting.mp3"
+Apr 24 14:16 : player: played "Video Game OST/The World Ends with You Original Soundtrack/21. Ending Beginning.mp3"
+Apr 24 14:18 : player: played "Video Game OST/The World Ends with You Original Soundtrack/22. Psychedelic.mp3"
+Apr 24 14:21 : player: played "Video Game OST/The World Ends with You Original Soundtrack/23. Game Over.mp3"
+Apr 24 14:22 : player: played "Video Game OST/The World Ends with You Original Soundtrack/24. Dancer In The Street.mp3"
+Apr 24 14:25 : player: played "Video Game OST/The World Ends with You Original Soundtrack/25. Hybrid.mp3"
+Apr 24 14:27 : player: played "Video Game OST/The World Ends with You Original Soundtrack/26. Detonation.mp3"
+Apr 24 14:28 : player: played "Video Game OST/The World Ends with You Original Soundtrack/27. Black Market.mp3"
+Apr 24 14:29 : player: played "Video Game OST/The World Ends with You Original Soundtrack/28. Junk Garage.mp3"
+Apr 24 14:30 : player: played "Video Game OST/The World Ends with You Original Soundtrack/29. It Is Fashionable.mp3"
+Apr 24 14:32 : player: played "Video Game OST/The World Ends with You Original Soundtrack/30. Noisy Noise.mp3"
+Apr 24 14:32 : player: played "Video Game OST/The World Ends with You Original Soundtrack/31. Economical Shoppers.mp3"
+Apr 24 14:35 : player: played "Video Game OST/The World Ends with You Original Soundtrack/32. Shibuya.mp3"
+Apr 24 14:39 : player: played "Video Game OST/The World Ends with You Original Soundtrack/33. Make or Break.mp3"
+Apr 24 14:39 : player: played "Video Game OST/The World Ends with You Original Soundtrack/34. Twister -Remix-.mp3"
+Apr 24 14:42 : player: played "Video Game OST/The Sound of Kirby Café/01. Fresh Green Café Terrace.mp3"
+Apr 24 14:47 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Apr 24 14:51 : player: played "Video Game OST/The Sound of Kirby Café/11. Eating a Meal and Having a Dream.mp3"
+Apr 24 14:55 : player: played "Video Game OST/The Sound of Kirby Café/09. Rendezvous of the King and the Witch.mp3"
+Apr 24 14:59 : player: played "Video Game OST/The Sound of Kirby Café/08. Sweet Honey, Blooming Flower.mp3"
+Apr 24 15:03 : player: played "Video Game OST/The Sound of Kirby Café/07. Sunset Tower.mp3"
+Apr 24 15:07 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Apr 24 15:12 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Apr 24 15:16 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Apr 24 15:20 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Apr 24 15:23 : player: played "Video Game OST/The Sound of Kirby Café/02. Brimful Butter Building.mp3"
+Apr 24 15:28 : player: played "Video Game OST/The Sound of Kirby Café/04. At the Floating Paradise.mp3"
+Apr 24 15:32 : player: played "Video Game OST/The Sound of Kirby Café/11. Eating a Meal and Having a Dream.mp3"
+Apr 24 15:36 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Apr 24 15:40 : player: played "Video Game OST/The Sound of Kirby Café/09. Rendezvous of the King and the Witch.mp3"
+Apr 24 15:44 : player: played "Video Game OST/The Sound of Kirby Café/08. Sweet Honey, Blooming Flower.mp3"
+Apr 24 15:48 : player: played "Video Game OST/The Sound of Kirby Café/07. Sunset Tower.mp3"
+Apr 24 15:51 : player: played "Video Game OST/The Sound of Kirby Café/01. Fresh Green Café Terrace.mp3"
+Apr 24 15:56 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Apr 24 15:59 : player: played "Video Game OST/The Sound of Kirby Café/02. Brimful Butter Building.mp3"
+Apr 24 16:04 : player: played "Video Game OST/The Sound of Kirby Café/04. At the Floating Paradise.mp3"
+Apr 24 16:08 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Apr 24 16:12 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Apr 24 16:16 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Apr 24 16:20 : player: played "Video Game OST/The Sound of Kirby Café/09. Rendezvous of the King and the Witch.mp3"
+Apr 24 16:24 : player: played "Video Game OST/The Sound of Kirby Café/08. Sweet Honey, Blooming Flower.mp3"
+Apr 24 16:27 : player: played "Video Game OST/The Sound of Kirby Café/02. Brimful Butter Building.mp3"
+Apr 24 16:31 : player: played "Video Game OST/The Sound of Kirby Café/04. At the Floating Paradise.mp3"
+Apr 24 16:36 : player: played "Video Game OST/The Sound of Kirby Café/11. Eating a Meal and Having a Dream.mp3"
+Apr 24 16:41 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Apr 24 16:45 : player: played "Video Game OST/The Sound of Kirby Café/07. Sunset Tower.mp3"
+Apr 24 16:48 : player: played "Video Game OST/The Sound of Kirby Café/01. Fresh Green Café Terrace.mp3"
+Apr 24 16:52 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Apr 24 16:56 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Apr 24 17:00 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Apr 24 17:05 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Apr 24 17:09 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Apr 24 17:14 : player: played "Video Game OST/The Sound of Kirby Café/07. Sunset Tower.mp3"
+Apr 24 17:43 : player: played "Video Game OST/The Sound of Kirby Café/11. Eating a Meal and Having a Dream.mp3"
+Apr 24 17:46 : player: played "Video Game OST/The Sound of Kirby Café/08. Sweet Honey, Blooming Flower.mp3"
+Apr 24 17:51 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Apr 24 17:55 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Apr 24 17:58 : player: played "Video Game OST/The Sound of Kirby Café/01. Fresh Green Café Terrace.mp3"
+Apr 24 18:03 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Apr 24 18:07 : player: played "Video Game OST/The Sound of Kirby Café/04. At the Floating Paradise.mp3"
+Apr 24 18:11 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Apr 24 18:15 : player: played "Video Game OST/The Sound of Kirby Café/02. Brimful Butter Building.mp3"
+Apr 24 18:18 : player: played "Video Game OST/The Sound of Kirby Café/09. Rendezvous of the King and the Witch.mp3"
+Apr 24 18:22 : player: played "Video Game OST/The Sound of Kirby Café/09. Rendezvous of the King and the Witch.mp3"
+Apr 24 18:27 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Apr 24 18:32 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Apr 24 18:36 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Apr 24 18:40 : player: played "Video Game OST/The Sound of Kirby Café/07. Sunset Tower.mp3"
+Apr 24 18:44 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Apr 24 18:48 : player: played "Video Game OST/The Sound of Kirby Café/08. Sweet Honey, Blooming Flower.mp3"
+Apr 24 18:52 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Apr 24 18:55 : player: played "Video Game OST/The Sound of Kirby Café/01. Fresh Green Café Terrace.mp3"
+Apr 24 18:59 : player: played "Video Game OST/The Sound of Kirby Café/04. At the Floating Paradise.mp3"
+Apr 24 19:04 : player: played "Video Game OST/The Sound of Kirby Café/11. Eating a Meal and Having a Dream.mp3"
+Apr 24 19:07 : player: played "Video Game OST/The Sound of Kirby Café/02. Brimful Butter Building.mp3"
+Apr 24 19:12 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Apr 24 19:15 : player: played "Video Game OST/The Sound of Kirby Café/02. Brimful Butter Building.mp3"
+Apr 24 19:19 : player: played "Video Game OST/The Sound of Kirby Café/09. Rendezvous of the King and the Witch.mp3"
+Apr 24 19:24 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Apr 24 19:28 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Apr 24 19:33 : player: played "Video Game OST/The Sound of Kirby Café/11. Eating a Meal and Having a Dream.mp3"
+Apr 24 19:37 : player: played "Video Game OST/The Sound of Kirby Café/04. At the Floating Paradise.mp3"
+Apr 24 19:40 : player: played "Video Game OST/The Sound of Kirby Café/01. Fresh Green Café Terrace.mp3"
+Apr 24 19:44 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Apr 24 19:48 : player: played "Video Game OST/The Sound of Kirby Café/08. Sweet Honey, Blooming Flower.mp3"
+Apr 24 19:52 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Apr 24 19:56 : player: played "Video Game OST/The Sound of Kirby Café/07. Sunset Tower.mp3"
+Apr 24 20:00 : player: played "Video Game OST/The Sound of Kirby Café/04. At the Floating Paradise.mp3"
+Apr 24 20:04 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Apr 24 20:08 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Apr 24 20:11 : player: played "Video Game OST/The Sound of Kirby Café/01. Fresh Green Café Terrace.mp3"
+Apr 24 20:16 : player: played "Video Game OST/The Sound of Kirby Café/07. Sunset Tower.mp3"
+Apr 24 20:20 : player: played "Video Game OST/The Sound of Kirby Café/09. Rendezvous of the King and the Witch.mp3"
+Apr 24 20:23 : player: played "Video Game OST/The Sound of Kirby Café/08. Sweet Honey, Blooming Flower.mp3"
+Apr 24 20:27 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Apr 24 20:32 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Apr 24 20:36 : player: played "Video Game OST/The Sound of Kirby Café/11. Eating a Meal and Having a Dream.mp3"
+Apr 24 20:41 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Apr 24 20:45 : player: played "Video Game OST/The Sound of Kirby Café/02. Brimful Butter Building.mp3"
+Apr 24 20:49 : player: played "Video Game OST/The Sound of Kirby Café/03. Gourmet! Carnival.mp3"
+Apr 24 20:54 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Apr 24 20:58 : player: played "Video Game OST/The Sound of Kirby Café/07. Sunset Tower.mp3"
+Apr 24 21:02 : player: played "Video Game OST/The Sound of Kirby Café/09. Rendezvous of the King and the Witch.mp3"
+Apr 24 21:05 : player: played "Video Game OST/The Sound of Kirby Café/02. Brimful Butter Building.mp3"
+Apr 24 21:07 : client: [1] closed
+Apr 24 21:07 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Apr 24 21:07 : client: [0] closed
+Apr 24 21:07 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Apr 25 09:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 25 09:58 : config: option 'device' on line 209 was not recognized
+Apr 25 09:58 : client: [0] opened from 127.0.0.1:54882
+Apr 25 09:58 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 26 05:05 : client: [0] closed
+Apr 26 15:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 15:05 : config: option 'device' on line 209 was not recognized
+Apr 26 15:05 : client: [0] opened from 127.0.0.1:38222
+Apr 26 15:05 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 26 20:54 : client: [0] closed
+Apr 27 13:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 27 13:54 : config: option 'device' on line 209 was not recognized
+Apr 27 13:54 : client: [0] opened from 127.0.0.1:37324
+Apr 27 13:54 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 27 13:55 : client: [0] closed
+Apr 27 13:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 27 13:55 : config: option 'device' on line 209 was not recognized
+Apr 27 13:55 : client: [0] opened from 127.0.0.1:37420
+Apr 27 13:55 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 28 01:06 : client: [0] closed
+Apr 28 15:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 28 15:12 : config: option 'device' on line 209 was not recognized
+Apr 28 15:12 : client: [0] opened from 127.0.0.1:60514
+Apr 28 15:13 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 29 00:28 : avahi: Client Disconnected, will reconnect shortly
+Apr 29 00:28 : client: [0] closed
+Apr 29 15:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 15:52 : config: option 'device' on line 209 was not recognized
+Apr 29 15:52 : client: [0] opened from 127.0.0.1:49724
+Apr 29 15:52 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 29 20:44 : client: [1] opened from 127.0.0.1:54142
+Apr 29 20:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 20:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 29 20:49 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+Apr 29 20:50 : player: played "HoneyWorks/HKUM3-M/12 ロクベル.mp3"
+Apr 29 20:50 : client: [1] closed
+Apr 29 23:31 : client: [0] closed
+Apr 30 14:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 30 14:40 : config: option 'device' on line 209 was not recognized
+Apr 30 14:40 : client: [0] opened from 127.0.0.1:44228
+Apr 30 14:40 : avahi: Service 'Music Player @ zephyr' successfully established.
+Apr 30 22:32 : client: [0] closed
+May 01 07:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 07:57 : config: option 'device' on line 209 was not recognized
+May 01 07:57 : client: [0] opened from 127.0.0.1:58876
+May 01 07:57 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 01 21:20 : client: [0] closed
+May 01 23:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 23:35 : config: option 'device' on line 209 was not recognized
+May 01 23:35 : client: [0] opened from 127.0.0.1:45614
+May 01 23:35 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 02 01:22 : client: [0] closed
+May 05 12:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 05 12:30 : config: option 'device' on line 209 was not recognized
+May 05 12:30 : client: [0] opened from 127.0.0.1:35772
+May 05 12:30 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 05 12:41 : client: [1] opened from 127.0.0.1:36214
+May 05 12:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 05 12:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 05 12:46 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/04 - Perfect Blue.mp3"
+May 05 12:50 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/05 - Halcyon.mp3"
+May 05 12:50 : client: [1] closed
+May 05 17:22 : client: [2] opened from 127.0.0.1:39746
+May 05 17:27 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/05 - Halcyon.mp3"
+May 05 17:32 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/06 - Lightning Moment (feat. fox capture plan).mp3"
+May 05 17:36 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/07 - Nostalgic Echoes.mp3"
+May 05 17:40 : player: played "DJ Okawari/2011 - Kaleidoscope/12. Change the World (feat. Woong San).mp3"
+May 05 17:45 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/05 - Halcyon.mp3"
+May 05 17:50 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/02 - Altair (feat. Lee Ayur & Jabberloop).mp3"
+May 05 17:54 : player: played "DJ Okawari/2011 - Kaleidoscope/08. A Cup of Coffee.mp3"
+May 05 17:59 : player: played "DJ Okawari/2011 - Kaleidoscope/03. Represent (feat Chieko Kinbara.mp3"
+May 05 18:03 : player: played "DJ Okawari/2011 - Kaleidoscope/09. Brighter Side (feat. Amanda Diva).mp3"
+May 05 18:08 : client: [2] closed
+May 05 18:09 : player: played "DJ Okawari/2011 - Kaleidoscope/02. Brown Eyes (feat. Brittany Campbell).mp3"
+May 05 18:12 : player: played "DJ Okawari/2011 - Kaleidoscope/07. Another Sky.mp3"
+May 05 18:16 : player: played "DJ Okawari/2011 - Kaleidoscope/10. Temperature of Tears.mp3"
+May 05 18:21 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/04 - Perfect Blue.mp3"
+May 05 18:26 : player: played "DJ Okawari/2011 - Kaleidoscope/11. The Bonds (feat. NANASE).mp3"
+May 05 18:30 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/01 - Voice of Nature.mp3"
+May 05 18:34 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/03 - SAKURA Tears (feat. Kie Katagi from jizue).mp3"
+May 05 18:38 : player: played "DJ Okawari/2011 - Kaleidoscope/05. Flower Dance.mp3"
+May 05 18:43 : player: played "DJ Okawari/2011 - Kaleidoscope/06. U (feat. Stacy Epps).mp3"
+May 05 18:47 : player: played "DJ Okawari/2011 - Kaleidoscope/13. Peacock.mp3"
+May 05 18:51 : player: played "DJ Okawari/2011 - Kaleidoscope/04. Kaleidoscope (feat. Tekitha of Wu-Tan).mp3"
+May 05 18:55 : player: played "DJ Okawari/2011 - Kaleidoscope/01. Encounter.mp3"
+May 05 19:00 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/06 - Lightning Moment (feat. fox capture plan).mp3"
+May 05 19:04 : player: played "DJ Okawari/2011 - Kaleidoscope/05. Flower Dance.mp3"
+May 05 19:08 : player: played "DJ Okawari/2011 - Kaleidoscope/04. Kaleidoscope (feat. Tekitha of Wu-Tan).mp3"
+May 05 19:13 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/06 - Lightning Moment (feat. fox capture plan).mp3"
+May 05 19:18 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/04 - Perfect Blue.mp3"
+May 05 19:21 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/01 - Voice of Nature.mp3"
+May 05 19:26 : player: played "DJ Okawari/2011 - Kaleidoscope/08. A Cup of Coffee.mp3"
+May 05 19:31 : player: played "DJ Okawari/2011 - Kaleidoscope/03. Represent (feat Chieko Kinbara.mp3"
+May 05 19:36 : player: played "DJ Okawari/2011 - Kaleidoscope/02. Brown Eyes (feat. Brittany Campbell).mp3"
+May 05 19:41 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/02 - Altair (feat. Lee Ayur & Jabberloop).mp3"
+May 05 19:45 : player: played "DJ Okawari/2011 - Kaleidoscope/10. Temperature of Tears.mp3"
+May 05 19:49 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/03 - SAKURA Tears (feat. Kie Katagi from jizue).mp3"
+May 05 19:54 : player: played "DJ Okawari/2011 - Kaleidoscope/06. U (feat. Stacy Epps).mp3"
+May 05 19:58 : player: played "DJ Okawari/2011 - Kaleidoscope/11. The Bonds (feat. NANASE).mp3"
+May 05 20:02 : player: played "DJ Okawari/2011 - Kaleidoscope/12. Change the World (feat. Woong San).mp3"
+May 05 20:06 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/07 - Nostalgic Echoes.mp3"
+May 05 20:11 : player: played "DJ Okawari/2011 - Kaleidoscope/13. Peacock.mp3"
+May 05 20:14 : player: played "DJ Okawari/2011 - Kaleidoscope/01. Encounter.mp3"
+May 05 20:17 : player: played "DJ Okawari/2011 - Kaleidoscope/07. Another Sky.mp3"
+May 05 20:22 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/05 - Halcyon.mp3"
+May 05 20:27 : player: played "DJ Okawari/2011 - Kaleidoscope/09. Brighter Side (feat. Amanda Diva).mp3"
+May 05 20:31 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/07 - Nostalgic Echoes.mp3"
+May 05 20:35 : player: played "DJ Okawari/2011 - Kaleidoscope/13. Peacock.mp3"
+May 05 20:40 : player: played "DJ Okawari/2011 - Kaleidoscope/03. Represent (feat Chieko Kinbara.mp3"
+May 05 20:43 : player: played "DJ Okawari/2011 - Kaleidoscope/01. Encounter.mp3"
+May 05 20:48 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/06 - Lightning Moment (feat. fox capture plan).mp3"
+May 05 20:52 : player: played "DJ Okawari/2011 - Kaleidoscope/04. Kaleidoscope (feat. Tekitha of Wu-Tan).mp3"
+May 05 20:57 : player: played "DJ Okawari/2011 - Kaleidoscope/11. The Bonds (feat. NANASE).mp3"
+May 05 21:00 : player: played "DJ Okawari/2011 - Kaleidoscope/07. Another Sky.mp3"
+May 05 21:04 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/02 - Altair (feat. Lee Ayur & Jabberloop).mp3"
+May 05 21:08 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/01 - Voice of Nature.mp3"
+May 05 21:13 : player: played "DJ Okawari/2011 - Kaleidoscope/08. A Cup of Coffee.mp3"
+May 05 21:17 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/03 - SAKURA Tears (feat. Kie Katagi from jizue).mp3"
+May 05 21:20 : player: played "DJ Okawari/2011 - Kaleidoscope/12. Change the World (feat. Woong San).mp3"
+May 05 21:26 : player: played "DJ Okawari/DJ Okawari - Perfect Blue (2018)/04 - Perfect Blue.mp3"
+May 05 21:30 : player: played "DJ Okawari/2011 - Kaleidoscope/09. Brighter Side (feat. Amanda Diva).mp3"
+May 05 21:34 : exception: Failed to play on "pulse audio" (pulse): disconnected
+May 05 21:34 : client: [0] closed
+May 05 21:34 : player: played "DJ Okawari/2011 - Kaleidoscope/10. Temperature of Tears.mp3"
+May 09 13:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 09 13:20 : config: option 'device' on line 209 was not recognized
+May 09 13:20 : client: [0] opened from 127.0.0.1:58780
+May 09 13:20 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 09 22:31 : client: [0] closed
+May 18 14:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 18 14:50 : config: option 'device' on line 209 was not recognized
+May 18 14:50 : client: [0] opened from 127.0.0.1:54214
+May 18 14:50 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 18 15:57 : client: [0] closed
+May 22 12:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 12:58 : config: option 'device' on line 209 was not recognized
+May 22 12:58 : client: [0] opened from 127.0.0.1:49310
+May 22 12:58 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 22 12:58 : client: [1] opened from 127.0.0.1:49316
+May 22 12:58 : update: removing cordelia.zip/cordelia/Circus★Circus/01 ELEPHANT.mp3
+May 22 12:58 : update: removing cordelia.zip/cordelia/Circus★Circus/02 Spirited Away.mp3
+May 22 12:58 : update: removing cordelia.zip/cordelia/Circus★Circus/03 UNTOUCHABLE GIRL.mp3
+May 22 12:58 : update: removing cordelia.zip/cordelia/Circus★Circus/04 刹那≤Imitation.mp3
+May 22 12:58 : update: removing cordelia.zip/cordelia/Circus★Circus/05 Crying Sinners.mp3
+May 22 12:58 : update: removing cordelia.zip/cordelia/Circus★Circus/06 がらくたサーカスの夢.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/01. プロローグ~金剛型戦艦の誕生.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/02. 近代化改装.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/03. 金剛型第三戦隊.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/04. 鎮守府のアフタヌン・ティー.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/05. アイアンボトム・サウンド.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/06. SAYONARA.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/シネマティック組曲 艦隊史実 金剛型戦艦/07. エピローグ〜金剛型戦艦の最期.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/01. ヴォヤージュ1969.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/02. 月まで届け、不死の煙.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/03. プレインエイジア 〜 懐かしき東方の血.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/04. 竹取飛翔.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/05. もう歌しか聞こえない 〜 夜雀の歌声.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/06. シンデレラケージ.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/交響アクティブNEETs - 2015-12-30 - 東方フィルハーモニー交響楽団３　永 [C89] [MP3 V0]/07. 恋色マスタースパーク.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/01. 海原へ（AL道中）.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/02. 士魂の護り.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/03. 索敵機、発艦始め！.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/04. 秋月の空.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/05. 眼下の伊号.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/06. 鎮守府の午後.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/07. 加賀岬.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第三次艦隊フィルハーモニー交響楽団/08. 加賀岬（カラオケver.）.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/01. 冬の抜錨！.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/02. 海上護衛戦.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/03. 飛龍の反撃.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/04. 二水戦の航跡.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/05. 次発装填、再突入！.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/06. 壱幕：MI作戦発動.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第二次艦隊フィルハーモニー交響楽団/07. 弐幕：運命の5分間.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/01 マレー沖の激闘.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/02 士魂の反撃.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/03 第五戦隊の出撃.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/04 冬の艦隊.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/05 波濤を越えて.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/06 連合艦隊の出撃.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第五次艦隊フィルハーモニー交響楽団/07 二水戦の航跡20.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/01. 特型駆逐艦.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/02. 水雷戦隊の反撃.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/03. 我、敵機動部隊ト交戦ス.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/04. 連合艦隊、西へ.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/05. 新編「海上護衛隊」抜錨！.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/06. 提督との絆.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/第四次艦隊フィルハーモニー交響楽団/07. 飛龍の反撃2016.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/01. 鎮守府の序曲.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/02. 出撃水平線の彼方へ.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/03. 昼戦戦乙女の行進.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/04. 工廠ワルツ.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/05. 栄光への夜戦.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/06. 南方海域を突破せよ.mp3
+May 22 12:58 : update: removing kokyo.zip/KOKYO Active NEETS/艦隊フィルハーモ二ー交響楽団/07. 鉄底海峡の死闘.mp3
+May 22 12:58 : update: removing TOMATO GUMMY/JAZZ VOYAGE 4/Unknown Artist - Unknown Title.flac
+May 22 12:58 : update: added Kie Kitano/Kie Kitano - Can you hear me/01. Can you hear me？.mp3
+May 22 12:58 : update: added Kie Kitano/Kie Kitano - Can you hear me/02. Darl;orz.mp3
+May 22 12:58 : update: added Kie Kitano/Kie Kitano - Can you hear me/03. キミが….mp3
+May 22 12:58 : update: added Kie Kitano/Kie Kitano - Can you hear me/04. Just Friends.mp3
+May 22 12:58 : update: added Kie Kitano/Kie Kitano - Can you hear me/05. Keep.mp3
+May 22 12:58 : update: added Kie Kitano/Kie Kitano - Can you hear me/06. 葉桜.mp3
+May 22 12:58 : update: added Kie Kitano/Kie Kitano - Can you hear me/07. Beautiful World.mp3
+May 22 12:58 : update: added KOKYO Active NEETS/(C95) [交響アクティブNEETs] 東方フィルハーモニー交響楽団９ 星 (東方Project)/万年置き傘にご注意を.flac
+May 22 12:58 : update: added KOKYO Active NEETS/(C95) [交響アクティブNEETs] 東方フィルハーモニー交響楽団９ 星 (東方Project)/小さな小さな賢将.flac
+May 22 12:58 : update: added KOKYO Active NEETS/(C95) [交響アクティブNEETs] 東方フィルハーモニー交響楽団９ 星 (東方Project)/平安のエイリアン.flac
+May 22 12:58 : update: added KOKYO Active NEETS/(C95) [交響アクティブNEETs] 東方フィルハーモニー交響楽団９ 星 (東方Project)/幽霊客船の時空を超えた旅.flac
+May 22 12:58 : update: added KOKYO Active NEETS/(C95) [交響アクティブNEETs] 東方フィルハーモニー交響楽団９ 星 (東方Project)/感情の摩天楼　～ Cosmic Mind.flac
+May 22 12:58 : update: added KOKYO Active NEETS/(C95) [交響アクティブNEETs] 東方フィルハーモニー交響楽団９ 星 (東方Project)/春の湊に.flac
+May 22 12:58 : update: added KOKYO Active NEETS/(C95) [交響アクティブNEETs] 東方フィルハーモニー交響楽団９ 星 (東方Project)/虎柄の毘沙門天.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/01 - that day.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/02 - Ala Grande.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/03 - WonderWing.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/04 - Rover Trip.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/05 - L'aventale.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/06 - Scheol.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/07 - Erlung.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/08 - QuaQ.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/09 - Stranger.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/10 - Auxilia.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/11 - Hodie.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/12 - Ragnarok.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/13 - Agiel.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/14 - collapse.flac
+May 22 12:58 : update: added Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/15 - Revive.flac
+May 22 12:58 : update: added Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/01 - 削除 - Wonderland Overture.flac
+May 22 12:58 : update: added Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/02 - 削除 - Cartooned Laboratory.flac
+May 22 12:58 : update: added Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/03 - 削除 - MagiCatz.flac
+May 22 12:58 : update: added Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/04 - 削除 - Wandered.flac
+May 22 12:58 : update: added Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/05 - 削除 - Eastern Future.flac
+May 22 12:58 : update: added Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/06 - 削除 - Missing Myths.flac
+May 22 12:58 : update: added Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/07 - 削除 - Independent Puppet.flac
+May 22 12:58 : update: added Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/08 - 削除 - Magical Musical Master.flac
+May 22 12:58 : update: added Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/09 - 削除 - Pop Candy Wonderland.flac
+May 22 12:58 : update: added Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/10 - 削除 - Lost Memory.flac
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/01. 天ノ弱.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/02. 廃景に鉄塔、「千鶴」は田園にて待つ。.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/03. STILL GREEN.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/04. 命のユースティティア.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/05. ストリーミングハート.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/06. お天道様とドブネズミ.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/07. M.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/08. オレンジ.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/09. 傀儡マイム.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/10. 未来予想図Ⅱ.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/11. 泥中に咲く.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/12. DAYBREAK FRONTLINE.mp3
+May 22 12:58 : update: added Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/13. THE JOURNEY HOME.mp3
+May 22 12:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 12:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 13:00 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/01 - that day.flac"
+May 22 13:04 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/04 - 削除 - Wandered.flac"
+May 22 13:07 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/15 - Revive.flac"
+May 22 13:11 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/06 - Scheol.flac"
+May 22 13:13 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/07 - Erlung.flac"
+May 22 13:16 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/08 - 削除 - Magical Musical Master.flac"
+May 22 13:20 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/03 - WonderWing.flac"
+May 22 13:23 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/05 - L'aventale.flac"
+May 22 13:27 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/01 - 削除 - Wonderland Overture.flac"
+May 22 13:29 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/02 - Ala Grande.flac"
+May 22 13:33 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/05 - 削除 - Eastern Future.flac"
+May 22 13:38 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/04 - Rover Trip.flac"
+May 22 13:41 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/09 - 削除 - Pop Candy Wonderland.flac"
+May 22 13:44 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/09 - Stranger.flac"
+May 22 13:47 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/12 - Ragnarok.flac"
+May 22 13:51 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/06 - 削除 - Missing Myths.flac"
+May 22 13:53 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/03 - 削除 - MagiCatz.flac"
+May 22 13:56 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/13 - Agiel.flac"
+May 22 13:58 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/10 - Auxilia.flac"
+May 22 14:03 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/14 - collapse.flac"
+May 22 14:07 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/07 - 削除 - Independent Puppet.flac"
+May 22 14:11 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/10 - 削除 - Lost Memory.flac"
+May 22 14:14 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/02 - 削除 - Cartooned Laboratory.flac"
+May 22 14:18 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/11 - Hodie.flac"
+May 22 14:21 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/05 - L'aventale.flac"
+May 22 14:25 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/08 - QuaQ.flac"
+May 22 14:28 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/03 - 削除 - MagiCatz.flac"
+May 22 14:32 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/04 - 削除 - Wandered.flac"
+May 22 14:35 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/03 - WonderWing.flac"
+May 22 14:37 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/01 - that day.flac"
+May 22 15:03 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/04 - Rover Trip.flac"
+May 22 15:08 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/14 - collapse.flac"
+May 22 15:10 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/12 - Ragnarok.flac"
+May 22 15:12 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/07 - Erlung.flac"
+May 22 15:15 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/15 - Revive.flac"
+May 22 15:19 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/11 - Hodie.flac"
+May 22 15:23 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/01 - 削除 - Wonderland Overture.flac"
+May 22 15:26 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/09 - 削除 - Pop Candy Wonderland.flac"
+May 22 15:30 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/07 - 削除 - Independent Puppet.flac"
+May 22 15:33 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/13 - Agiel.flac"
+May 22 15:37 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/06 - 削除 - Missing Myths.flac"
+May 22 15:39 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/06 - Scheol.flac"
+May 22 15:43 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/02 - 削除 - Cartooned Laboratory.flac"
+May 22 15:46 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/08 - 削除 - Magical Musical Master.flac"
+May 22 15:47 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/10 - Auxilia.flac"
+May 22 15:52 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/05 - 削除 - Eastern Future.flac"
+May 22 15:56 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/10 - 削除 - Lost Memory.flac"
+May 22 15:58 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/02 - Ala Grande.flac"
+May 22 16:01 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/09 - Stranger.flac"
+May 22 16:05 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/04 - Rover Trip.flac"
+May 22 16:09 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/02 - 削除 - Cartooned Laboratory.flac"
+May 22 16:13 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/08 - QuaQ.flac"
+May 22 16:15 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/10 - Auxilia.flac"
+May 22 16:20 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/14 - collapse.flac"
+May 22 16:22 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/03 - 削除 - MagiCatz.flac"
+May 22 16:24 : player: played "Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/02 - Ala Grande.flac"
+May 22 16:28 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/09 - 削除 - Pop Candy Wonderland.flac"
+May 22 16:31 : player: played "Sakuzyo/[C90] Sakuzyo (削除) — Pop Candy Wonderland {Sakuzyo.com - SCCD-0002} [CD-FLAC]/08 - 削除 - Magical Musical Master.flac"
+May 22 16:31 : client: [1] closed
+May 22 16:56 : client: [2] opened from 127.0.0.1:54110
+May 22 16:57 : player: played "a_hisa/a_hisa - colors/01 - re_act.mp3"
+May 22 17:02 : player: played "a_hisa/a_hisa - Single Collection/Sparkle.mp3"
+May 22 17:33 : client: [2] closed
+May 22 22:19 : client: [3] opened from 127.0.0.1:57028
+May 22 22:19 : player: played "a_hisa/a_hisa - colors 3/09 - Gael Step.mp3"
+May 22 22:37 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/01. 天ノ弱.mp3"
+May 22 22:41 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/04. 命のユースティティア.mp3"
+May 22 22:46 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/13. THE JOURNEY HOME.mp3"
+May 22 22:49 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/05. ストリーミングハート.mp3"
+May 22 22:54 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/11. 泥中に咲く.mp3"
+May 22 22:57 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/12. DAYBREAK FRONTLINE.mp3"
+May 22 23:02 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/07. M.mp3"
+May 22 23:06 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/02. 廃景に鉄塔、「千鶴」は田園にて待つ。.mp3"
+May 22 23:10 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/06. お天道様とドブネズミ.mp3"
+May 22 23:14 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/03. STILL GREEN.mp3"
+May 22 23:17 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/09. 傀儡マイム.mp3"
+May 22 23:21 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/08. オレンジ.mp3"
+May 22 23:28 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/10. 未来予想図Ⅱ.mp3"
+May 22 23:33 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/06. お天道様とドブネズミ.mp3"
+May 22 23:38 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/11. 泥中に咲く.mp3"
+May 22 23:45 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/10. 未来予想図Ⅱ.mp3"
+May 22 23:49 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/03. STILL GREEN.mp3"
+May 22 23:52 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/12. DAYBREAK FRONTLINE.mp3"
+May 22 23:57 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/07. M.mp3"
+May 23 00:01 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/02. 廃景に鉄塔、「千鶴」は田園にて待つ。.mp3"
+May 23 00:04 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/05. ストリーミングハート.mp3"
+May 23 00:07 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/09. 傀儡マイム.mp3"
+May 23 00:12 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/13. THE JOURNEY HOME.mp3"
+May 23 00:16 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/08. オレンジ.mp3"
+May 23 00:19 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/01. 天ノ弱.mp3"
+May 23 00:23 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/04. 命のユースティティア.mp3"
+May 23 00:28 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/13. THE JOURNEY HOME.mp3"
+May 23 00:32 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/04. 命のユースティティア.mp3"
+May 23 00:36 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/02. 廃景に鉄塔、「千鶴」は田園にて待つ。.mp3"
+May 23 00:40 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/03. STILL GREEN.mp3"
+May 23 00:43 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/12. DAYBREAK FRONTLINE.mp3"
+May 23 00:48 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/06. お天道様とドブネズミ.mp3"
+May 23 00:51 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/09. 傀儡マイム.mp3"
+May 23 00:54 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/01. 天ノ弱.mp3"
+May 23 00:58 : client: [3] closed
+May 23 01:01 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/11. 泥中に咲く.mp3"
+May 23 01:05 : client: [4] opened from 127.0.0.1:59754
+May 23 01:05 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/07. M.mp3"
+May 23 01:05 : client: [4] closed
+May 23 01:05 : client: [0] closed
+May 28 11:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 11:58 : config: option 'device' on line 209 was not recognized
+May 28 11:58 : client: [0] opened from 127.0.0.1:41620
+May 28 11:59 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 28 12:05 : client: [1] opened from 127.0.0.1:41942
+May 28 12:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 12:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 28 12:06 : player: played "a_hisa/a_hisa - colors/01 - re_act.mp3"
+May 28 12:08 : player: played "a_hisa/a_hisa - Single Collection/Spring Zizz.mp3"
+May 28 12:11 : player: played "a_hisa/a_hisa - Single Collection/izanai.mp3"
+May 28 12:14 : player: played "a_hisa/a_hisa - Single Collection/Leaf Dance.mp3"
+May 28 20:24 : client: [1] closed
+May 28 20:24 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+May 28 20:24 : client: [0] closed
+May 28 20:24 : player: played "a_hisa/a_hisa - Single Collection/É╕ù∞ù¼é╡.mp3"
+May 29 14:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 29 14:57 : config: option 'device' on line 209 was not recognized
+May 29 14:57 : client: [0] opened from 127.0.0.1:60010
+May 29 14:57 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 29 19:03 : client: [1] opened from 127.0.0.1:51080
+May 29 19:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 29 19:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 29 19:07 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/01. 天ノ弱.mp3"
+May 29 19:11 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/02. 廃景に鉄塔、「千鶴」は田園にて待つ。.mp3"
+May 29 19:14 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/03. STILL GREEN.mp3"
+May 29 19:19 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/04. 命のユースティティア.mp3"
+May 29 19:22 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/05. ストリーミングハート.mp3"
+May 29 19:26 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/06. お天道様とドブネズミ.mp3"
+May 29 19:30 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/07. M.mp3"
+May 29 19:35 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/08. オレンジ.mp3"
+May 29 19:38 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/09. 傀儡マイム.mp3"
+May 29 19:45 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/10. 未来予想図Ⅱ.mp3"
+May 29 19:50 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/11. 泥中に咲く.mp3"
+May 29 19:54 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/12. DAYBREAK FRONTLINE.mp3"
+May 29 19:58 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/13. THE JOURNEY HOME.mp3"
+May 29 20:36 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/13. THE JOURNEY HOME.mp3"
+May 29 20:39 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/09. 傀儡マイム.mp3"
+May 29 20:40 : client: [1] closed
+May 29 20:44 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/11. 泥中に咲く.mp3"
+May 29 20:47 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/01. 天ノ弱.mp3"
+May 29 20:50 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/05. ストリーミングハート.mp3"
+May 29 20:57 : exception: Failed to play on "pulse audio" (pulse): disconnected
+May 29 20:57 : client: [0] closed
+May 29 20:57 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/10. 未来予想図Ⅱ.mp3"
+May 30 14:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 14:36 : config: option 'device' on line 209 was not recognized
+May 30 14:36 : client: [0] opened from 127.0.0.1:49008
+May 30 14:36 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 30 15:47 : client: [1] opened from 127.0.0.1:51126
+May 30 20:37 : client: [2] opened from 127.0.0.1:45126
+May 30 20:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 20:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 20:37 : client: [3] opened from 127.0.0.1:45132
+May 30 20:37 : client: [3] closed
+May 30 20:37 : client: [4] opened from 127.0.0.1:45136
+May 30 20:37 : client: [4] closed
+May 30 20:37 : client: [2] closed
+May 30 20:38 : client: [1] closed
+May 30 20:38 : exception: Failed to play on "pulse audio" (pulse): disconnected
+May 30 20:38 : client: [0] closed
+May 30 20:38 : player: played "Nujabes/2nd Collection/02. Sky is falling (featuring C.L. Smooth).mp3"
+May 30 23:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 30 23:59 : config: option 'device' on line 209 was not recognized
+May 30 23:59 : client: [0] opened from 127.0.0.1:49638
+May 30 23:59 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 31 00:01 : client: [1] opened from 127.0.0.1:49670
+May 31 00:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 00:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 00:06 : player: played "Daoko/Thank You Blue/Disc 1/01. 打上花火.mp3"
+May 31 00:07 : player: played "HoneyWorks/HKUM3-M/06 ハニワの日常～体重計～.mp3"
+May 31 00:12 : player: played "H△G/声 ~VOCALOID Cover Album~/13. からふる日和.mp3"
+May 31 00:15 : player: played "fhána/Outside of Melancholy/13. 星屑のインターリュード.mp3"
+May 31 02:12 : client: [1] closed
+May 31 02:12 : client: [0] closed
+May 31 13:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 13:14 : config: option 'device' on line 209 was not recognized
+May 31 13:14 : client: [0] opened from 127.0.0.1:45714
+May 31 13:15 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 31 14:58 : client: [0] closed
+May 31 15:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 31 15:06 : config: option 'device' on line 209 was not recognized
+May 31 15:06 : client: [0] opened from 127.0.0.1:56606
+May 31 15:06 : avahi: Service 'Music Player @ zephyr' successfully established.
+May 31 20:32 : client: [0] closed
+Jun 01 15:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 15:12 : config: option 'device' on line 209 was not recognized
+Jun 01 15:12 : client: [0] opened from 127.0.0.1:48950
+Jun 01 15:12 : avahi: Service 'Music Player @ zephyr' successfully established.
+Jun 01 15:13 : client: [1] opened from 127.0.0.1:49054
+Jun 01 15:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 15:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 01 15:16 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/01. 天ノ弱.mp3"
+Jun 01 15:20 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/09. 傀儡マイム.mp3"
+Jun 01 15:25 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/07. M.mp3"
+Jun 01 15:28 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/03. STILL GREEN.mp3"
+Jun 01 15:33 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/04. 命のユースティティア.mp3"
+Jun 01 15:36 : player: played "Wolpis/Korekara mo Wolpis Sha no Teikyo de Ookurishimasu/05. ストリーミングハート.mp3"
