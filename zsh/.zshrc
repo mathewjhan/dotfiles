@@ -4,10 +4,10 @@
 
 # School
 alias college="cd /media/data/mathew/Home/College"
-alias cs230="cd /media/data/mathew/Home/College/CS230"
-alias cs250="cd /media/data/mathew/Home/College/CS250"
-alias math233="cd /media/data/mathew/Home/College/MATH233"
-alias eng112="cd /media/data/mathew/Home/College/ENGLWRIT112"
+alias cs220="cd /media/data/mathew/Home/College/CS220"
+alias cs240="cd /media/data/mathew/Home/College/CS240"
+alias math235="cd /media/data/mathew/Home/College/MATH235"
+alias cs311="cd /media/data/mathew/Home/College/CS311"
 
 # Convenient aliases
 alias e="nvim"
@@ -17,10 +17,12 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias gohome="cd /media/data/mathew/Home"
+alias logout="i3-msg exit"
 
 # Other stuff
 alias weebtrash="cd /media/data/mathew/Home/trash"
-alias left-monitor="xrandr --output eDP1 --auto  --right-of DP3 --output DP3 --auto"
+alias left-monitor="xrandr --output eDP1 --auto  --right-of DP3 --output DP3 --auto && ~/.config/polybar/launch_polybar.sh </dev/null &>/dev/null &"
+alias offload='__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME="nvidia" __VK_LAYER_NV_optimus="NVIDIA_only" __GL_SHOW_GRAPHICS_OSD=1'
 
 # Touch + edit
 te(){
@@ -51,23 +53,24 @@ copynet(){
 alias lsnet="nmcli dev wifi"
 
 # gpu switch modes (requires gpu-enable run already)
-mode-bumblebee(){
-    echo "Make sure you are not in optimus-manager nvidia"
-    sudo modprobe -r nouveau
-    sudo modprobe nvidia 
-    sudo systemctl stop optimus-manager.service
-    sudo systemctl disable optimus-manager.service
-    sudo systemctl enable bumblebeed
-    sudo systemctl start bumblebeed
-    echo "Successfully changed to bumblebee"
-}
-mode-optimanager(){
-    sudo systemctl stop bumblebeed
-    sudo systemctl disable bumblebeed
-    sudo systemctl enable optimus-manager.service
-    sudo systemctl start optimus-manager.service
-    echo "Successfully changed to optimus-manager"
-}
+# I use optimus-manager only now
+# mode-bumblebee(){
+#     echo "Make sure you are not in optimus-manager nvidia"
+#     sudo modprobe -r nouveau
+#     sudo modprobe nvidia 
+#     sudo systemctl stop optimus-manager.service
+#     sudo systemctl disable optimus-manager.service
+#     sudo systemctl enable bumblebeed
+#     sudo systemctl start bumblebeed
+#     echo "Successfully changed to bumblebee"
+# }
+# mode-optimanager(){
+#     sudo systemctl stop bumblebeed
+#     sudo systemctl disable bumblebeed
+#     sudo systemctl enable optimus-manager.service
+#     sudo systemctl start optimus-manager.service
+#     echo "Successfully changed to optimus-manager"
+# }
 
 # nvidia-smi top
 alias nvidiatop="watch -n 0.5 nvidia-smi"

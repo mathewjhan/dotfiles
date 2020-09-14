@@ -13,7 +13,7 @@ set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:monospace 8
+font pango:sans-serif 8
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
@@ -39,14 +39,14 @@ bindsym $mod+Return exec kitty #i3-sensible-terminal
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec rofi -show drun -display-drun "run" #dmenu_run
+bindsym $mod+d exec rofi -show drun -font "SF Pro 12" -display-drun "run" #dmenu_run
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
 # start window switcher
-bindsym $mod+Tab exec rofi -show window
+bindsym $mod+Tab exec rofi -font "SF Pro 12" -show window
 
 # change focus
 # bindsym $mod+j focus left
@@ -54,10 +54,10 @@ bindsym $mod+Tab exec rofi -show window
 # bindsym $mod+l focus up
 # bindsym $mod+semicolon focus right
 
-bindsym $mod+h exec --no-startup-id "window-tool focus left && flash_window"
-bindsym $mod+j exec --no-startup-id "window-tool focus down && flash_window"
-bindsym $mod+k exec --no-startup-id "window-tool focus up && flash_window"
-bindsym $mod+l exec --no-startup-id "window-tool focus right && flash_window"
+bindsym $mod+h exec --no-startup-id "window-tool focus left"
+bindsym $mod+j exec --no-startup-id "window-tool focus down"
+bindsym $mod+k exec --no-startup-id "window-tool focus up"
+bindsym $mod+l exec --no-startup-id "window-tool focus right"
 
 # alternatively, you can use the cursor keys:
 bindsym $mod+Left focus left
@@ -229,17 +229,18 @@ exec_always --no-startup-id wal -R
 exec --no-startup-id xrdb merge ~/.Xresources
 
 # i3 pywal config
-set_from_resource $fg i3wm.color6 #f0f0f0
+set_from_resource $fg i3wm.color0 #f0f0f0
 set_from_resource $bg i3wm.color4 #f0f0f0
+set_from_resource $focus i3wm.color3
 
 # class                 border  backgr. text indicator child_border
-client.focused          $bg     $bg     $fg  $fg       $fg
+client.focused          $focus  $focus  $fg  $focus    $focus
 client.focused_inactive $bg     $bg     $fg  $bg       $bg
 client.unfocused        $bg     $bg     $fg  $bg       $bg
 client.urgent           $bg     $bg     $fg  $bg       $bg
 client.placeholder      $bg     $bg     $fg  $bg       $bg
-
 client.background       $fg
+
 # Background with Feh
 exec --no-startup-id feh --bg-scale "$(cat ~/.wallpaper)" 
 
@@ -272,5 +273,10 @@ exec_always --no-startup-id xinput set-prop 12 "libinput Disable While Typing En
 # exec --no-startup-id redshift -l 37.548271:-121.988571
 exec --no-startup-id redshift -l geoclue2
 
-# Set default volume (volume is often overriden by viper4linux)
-exec_always --no-startup-id pactl set-sink-volume 0 45%
+# Set default volume, sink (volume is often overriden by viper4linux)
+exec --no-startup-id pactl set-default-sink alsa_output.pci-0000_00_1f.3.analog-stereo
+exec --no-startup-id pactl set-sink-volume 0 50%
+exec --no-startup-id pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo 50%
+
+# Dunst
+exec_always --no-startup-id reload_dunst.sh

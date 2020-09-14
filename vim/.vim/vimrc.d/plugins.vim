@@ -10,6 +10,7 @@ call plug#begin('~/.vim/plugged')
 " Github
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
 Plug 'SirVer/ultisnips'
+Plug 'mkitt/tabline.vim'
 Plug 'lervag/vimtex'
 Plug 'skywind3000/asyncrun.vim'
 Plug 'vim-pandoc/vim-pandoc'

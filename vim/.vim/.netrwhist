@@ -1,10 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =8
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/mathew/auto-intern/jsons'
+let g:netrw_dirhist_3='/home/mathew/cs184 Melter/ProjectSettings'
+let g:netrw_dirhist_2='/home/mathew/remote-students-community/src/components'
+let g:netrw_dirhist_1='/home/mathew/remote-students-community/src/landingpage'
+let g:netrw_dirhist_0='/home/mathew/verdict/react-frontend/src'
+let g:netrw_dirhist_9='/home/mathew/verdict/react-frontend/src/components'
 let g:netrw_dirhist_8='/home/mathew/ms-pacman'
 let g:netrw_dirhist_7='/home/mathew/test'
 let g:netrw_dirhist_6='/home/mathew/.config'
 let g:netrw_dirhist_5='/home/mathew/.config/polybar'
-let g:netrw_dirhist_4='/home/mathew/.local/lib/python3.7/site-packages/pygle'
-let g:netrw_dirhist_3='/home/mathew/.config/vifm/colors'
-let g:netrw_dirhist_2='/home/mathew/.config/vifm'
-let g:netrw_dirhist_1='/home/mathew/picoctf/jwt_tool'

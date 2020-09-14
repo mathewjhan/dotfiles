@@ -18,7 +18,7 @@
 
 # TUI:
 al
-q0
+q1
 v2
 ov
 m-1
@@ -26,63 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/media/data/mathew/Home/College
-	ENGLWRIT112
-6
-d/media/data/mathew/Home/College/ENGLWRIT112
-	critical writing essay
-1
-d/media/data/mathew/Home/College/ENGLWRIT112/critical writing essay
-	Rubric -- Academic Response -- Sp 20.docx
-3
-d/media/data/mathew/Home/College
-	ENGLWRIT112
-6
-d/media/data/mathew/Home/College/ENGLWRIT112
-	critical writing essay
-1
-d/media/data/mathew/Home/College/ENGLWRIT112/critical writing essay
-	..
-0
-d/media/data/mathew/Home/College/ENGLWRIT112/Academic Response Paper
-	..
-0
-d/media/data/mathew/Home/College/ENGLWRIT112
-	Academic Response Paper
-1
-d/media/data/mathew/Home/College/ENGLWRIT112/Academic Response Paper
-	revision_plan2.docx
-12
-d/media/data/mathew/Home/College/ENGLWRIT112
-	Academic Response Paper
-1
-d/home/mathew/Downloads
-	HorribleSubs-Boku-no-Hero-Academia-81-720p-mkv
-1
-d/home/mathew/Downloads/HorribleSubs-Boku-no-Hero-Academia-81-720p-mkv
-	..
-0
-d/home/mathew/Downloads
-	HorribleSubs-Boku-no-Hero-Academia-81-720p-mkv
-1
-d/home/mathew/Pictures/Wallpapers
-	moreblossoms.png
-32
-d/media/data/mathew/Home/College/ENGLWRIT112/Academic Response Paper
-	Reflection Paper Handout — Spring 20 Academic response.docx
-3
-d/media/data/mathew/Home/College/ENGLWRIT112
-	Research Paper Proposal Handout.pdf
-4
-d/media/data/mathew/Home/College/ENGLWRIT112/Research Paper
-	VanWel-Royakkers2004_Article_EthicalIssuesInWebDataMining.pdf
-5
-d/media/data/mathew/Home/College/ENGLWRIT112
-	Research Paper Proposal Handout.pdf
-4
-d/media/data/mathew/Home/College
-	ENGLWRIT112
-6
 d/media/data/mathew/Home/College/ENGLWRIT112
 	Research Paper
 2
@@ -326,6 +269,63 @@ d/home/mathew
 d/home/mathew/Downloads
 	[HorribleSubs] Kaguya-sama wa Kokurasetai S2 - 03 [1080p].mkv
 12
+d/home/mathew/cs184/p1-rasterizer-su20-mathewjhan/svg
+	basic
+1
+d/home/mathew/cs184/p1-rasterizer-su20-mathewjhan/svg/basic
+	test1.svg
+1
+d/home/mathew/cs184/p3-1-pathtracer-su20-mathewjhan/cmake-build-debug
+	CBempty.png
+4
+d/home/mathew/cs184/p3-1-pathtracer-su20-mathewjhan
+	cmake-build-debug
+3
+d/home/mathew/cs184/p3-1-pathtracer-su20-mathewjhan/cmake-build-debug
+	CBempty.png
+4
+d/home/mathew/cs184/p3-1-pathtracer-su20-mathewjhan
+	cmake-build-debug
+3
+d/home/mathew/cs184/p3-1-pathtracer-su20-mathewjhan/cmake-build-debug
+	CBempty.png
+4
+d/home/mathew/cs184/p3-1-pathtracer-su20-mathewjhan
+	cmake-build-debug
+3
+d/home/mathew/cs184/p3-1-pathtracer-su20-mathewjhan/cmake-build-debug
+	banana.png
+8
+d/home/mathew/cs184/p3-1-pathtracer-su20-mathewjhan
+	cmake-build-debug
+3
+d/home/mathew/cs184/p3-1-pathtracer-su20-mathewjhan/cmake-build-debug
+	cow.png
+13
+d/home/mathew
+	cs184
+10
+d/home/mathew/cs184
+	p3-2-pathtracer-su20-mathewjhan
+5
+d/home/mathew/cs184/p3-2-pathtracer-su20-mathewjhan
+	docs
+4
+d/home/mathew/cs184/p3-2-pathtracer-su20-mathewjhan/docs
+	index.html
+2
+d/media/data/mathew/Home/College/CS311
+	hw
+1
+d/media/data/mathew/Home/College/CS311/hw
+	hw01
+1
+d/media/data/mathew/Home/College/CS311/hw/hw01
+	hw01.tex
+3
+d/media/data/mathew/Home/College/MATH235
+	Linear-Algebra-Done-Right.pdf
+2
 d
 
 # Right window history (oldest to newest):
@@ -463,9 +463,9 @@ D
 ::q
 :wq
 :View
-:view
 :shell
 :q
+:view
 
 # Search history (oldest to newest):
 /tan
@@ -486,6 +486,7 @@ D
 /Crack
 /back
 /exam
+/cs1
 
 # Prompt history (oldest to newest):
 
