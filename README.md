@@ -2,7 +2,7 @@
 Most of the dotfiles I am using on my current Linux distro.
 
 **OS**: Arch Linux\
-**DE**: xfce4\
+**DE**: None\
 **WM**: i3\
 **Shell**: zsh
 
@@ -23,6 +23,8 @@ Most of the dotfiles I am using on my current Linux distro.
 - Music player: `mpd` + `ncmpcpp`
 - `rm` replacement: `rip`
 - PDF reader: `zathura`
+- Automounter: `udiskie`
+- Notifications: `dunst`
 
 # Requirements
 
@@ -40,6 +42,8 @@ Most of the dotfiles I am using on my current Linux distro.
 - kitty (main term)
 - pulseaudio (audio controls)
 - rofi (launcher/workspace swapper)
+- dunst
+- udiskie
 
 ## polybar 
 - pulseaudio (module)

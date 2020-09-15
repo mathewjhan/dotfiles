@@ -5,5 +5,3 @@ Urxvt.lineSpace:	0
 Urxvt.letterSpace:	0
 URxvt.font:		xft:sf mono:medium:size=10:antialias=true
 URxvt.boldFont:		xft:sf mono:bold:size=10:antialias=true
-
-rofi.show-icons: true 

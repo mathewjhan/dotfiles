@@ -9,7 +9,8 @@ usage(){
 setlight(){
     wal -l -n --backend "$1" -i "$2"
     echo "$(pwd)/$2" > ~/.wallpaper
-    # walnotify4 (I use dunst now)
+    # walnotify4
+    reload_dunst.sh
     feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
     sudo convert "$2" -resize 1920x1080 /usr/share/lightdm-webkit/themes/modern/bg
     sudo convert "$2" -resize 1920x1080 -blur 0x8 /usr/share/lightdm-webkit/themes/modern/bg-blurred
@@ -18,7 +19,8 @@ setlight(){
 setdark(){
     wal -n --backend "$1" -i "$2"
     echo "$(pwd)/$2" > ~/.wallpaper
-    # walnotify4
+    # walnotify4 (i use dunst now)
+    reload_dunst.sh
     feh --bg-scale "$(< "${HOME}/.cache/wal/wal")"
     sudo convert "$2" -resize 1920x1080 /usr/share/lightdm-webkit/themes/modern/bg
 	sudo convert "$2" -resize 1920x1080 -blur 0x8 /usr/share/lightdm-webkit/themes/modern/bg-blurred 

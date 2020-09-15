@@ -135,13 +135,13 @@ fixed-values = true
 
 format-mounted=""
 format-unmounted=""
-format-unmounted-foreground=${colors.foreground}
+format-unmounted-foreground=${colors.background}
 format-unmounted-background = ${colors.color2}
 format-unmounted-underline = ${colors.background}
 format-unmounted-overline = ${colors.background}
 format-unmounted-padding = 1
 
-format-mounted-foreground=${colors.foreground}
+format-mounted-foreground=${colors.background}
 format-mounted-background = ${colors.color2}
 format-mounted-underline = ${colors.background}
 format-mounted-overline = ${colors.background}
@@ -238,7 +238,7 @@ type = internal/cpu
 interval = 0.5
 
 format = ""
-format-foreground=${colors.foreground}
+format-foreground=${colors.background}
 format-background = ${colors.color2}
 format-underline = ${colors.background}
 format-overline = ${colors.background}
@@ -262,7 +262,7 @@ type = internal/memory
 interval = 3
 
 format = ""
-format-foreground=${colors.foreground}
+format-foreground=${colors.background}
 format-background = ${colors.color3}
 format-underline = ${colors.background}
 format-overline = ${colors.background}
@@ -293,7 +293,7 @@ units = true
 
 format = ""
 
-format-foreground=${colors.foreground}
+format-foreground=${colors.background}
 format-background = ${colors.color1}
 format-underline = ${colors.background}
 format-overline = ${colors.background}
@@ -324,7 +324,7 @@ content-prefix =
 content-overline = ${colors.background}
 content-underline = ${colors.background}
 content-background = ${colors.color3}
-content-foreground = ${colors.foreground}
+content-foreground = ${colors.background}
 content-padding = 1
 
 content = ""
@@ -398,7 +398,7 @@ content-prefix =
 content-overline = ${colors.background}
 content-underline = ${colors.background}
 content-background = ${colors.color2}
-content-foreground = ${colors.foreground}
+content-foreground = ${colors.background}
 content-padding = 1
 
 content = "" 
@@ -460,13 +460,13 @@ format-muted = ""
 format-muted-underline = ${colors.background}
 format-muted-overline = ${colors.background}
 format-muted-background = ${colors.color1}
-format-muted-foreground = ${colors.foreground}
+format-muted-foreground = ${colors.background}
 format-muted-padding = 1
 
 format-volume-underline = ${colors.background}
 format-volume-overline = ${colors.background}
 format-volume-background = ${colors.color1}
-format-volume-foreground = ${colors.foreground}
+format-volume-foreground = ${colors.background}
 format-volume-padding = 1
 
 ramp-volume-0 = 
@@ -534,35 +534,35 @@ format-charging = <animation-charging>
 format-charging-underline = ${colors.background}
 format-charging-overline = ${colors.background}
 format-charging-background = ${colors.color1}
-format-charging-foreground = ${colors.foreground}
+format-charging-foreground = ${colors.background}
 format-charging-padding = 1
 
 format-discharging = 
 format-discharging-underline = ${colors.background}
 format-discharging-overline = ${colors.background}
 format-discharging-background = ${colors.color1}
-format-discharging-foreground = ${colors.foreground}
+format-discharging-foreground = ${colors.background}
 format-discharging-padding = 1
 
 ; label-charging =  
 ; label-charging-underline = ${colors.background}
 ; label-charging-overline = ${colors.background}
 ; label-charging-background = ${colors.color1}
-; label-charging-foreground = ${colors.foreground}
+; label-charging-foreground = ${colors.background}
 ; label-charging-padding = 1
 ; 
 ; label-discharging =  
 ; label-discharging-underline = ${colors.background}
 ; label-discharging-overline = ${colors.background}
 ; label-discharging-background = ${colors.color1}
-; label-discharging-foreground = ${colors.foreground}
+; label-discharging-foreground = ${colors.background}
 ; label-discharging-padding = 1
 
 label-full =  
 label-full-underline = ${colors.background}
 label-full-overline = ${colors.background}
 label-full-background = ${colors.color1}
-label-full-foreground = ${colors.foreground}
+label-full-foreground = ${colors.background}
 label-full-padding = 1
 
 ramp-capacity-0 = 

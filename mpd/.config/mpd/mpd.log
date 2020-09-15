@@ -18933,3 +18933,81 @@ Sep 13 17:14 : client: [15] closed
 Sep 13 17:14 : client: [16] opened from 127.0.0.1:53266
 Sep 13 17:16 : client: [1] closed
 Sep 13 17:20 : player: played "Alisa Takigawa/At Film (Album)/03 Sayonarano Yukue.mp3"
+Sep 13 17:25 : player: played "Alisa Takigawa/At Film (Album)/04 Iroasenai Hitomi.mp3"
+Sep 13 17:30 : player: played "Alisa Takigawa/At Film (Album)/05 Hibi Monochrome.mp3"
+Sep 13 17:36 : player: played "Alisa Takigawa/At Film (Album)/06 Planetarium.mp3"
+Sep 13 17:38 : client: [17] opened from 127.0.0.1:53528
+Sep 13 17:38 : client: [16] closed
+Sep 13 17:38 : client: [18] opened from 127.0.0.1:53532
+Sep 13 17:38 : client: [17] closed
+Sep 13 17:42 : player: played "Alisa Takigawa/At Film (Album)/09 Natsuno Hana.mp3"
+Sep 13 17:47 : player: played "Alisa Takigawa/At Film (Album)/10 Junanabanchi.mp3"
+Sep 13 17:51 : player: played "Alisa Takigawa/At Film (Album)/11 Journey.mp3"
+Sep 13 17:55 : player: played "Alisa Takigawa/At Film (Album)/12 I Say Hello No Subete.mp3"
+Sep 13 17:59 : player: played "Alisa Takigawa/At Film (Album)/13 Hanataba.mp3"
+Sep 13 18:40 : client: [19] opened from 127.0.0.1:54120
+Sep 13 18:40 : client: [18] closed
+Sep 13 18:40 : client: [20] opened from 127.0.0.1:54124
+Sep 13 18:40 : player: played "Alisa Takigawa/At Film (Album)/04 Iroasenai Hitomi.mp3"
+Sep 13 19:28 : client: [20] closed
+Sep 13 19:28 : client: [21] opened from 127.0.0.1:54454
+Sep 13 19:32 : player: played "Daoko/Thank You Blue/Disc 1/02. ステップアップLOVE.mp3"
+Sep 13 19:36 : player: played "Daoko/Thank You Blue/Disc 1/03. Juicy.mp3"
+Sep 13 19:39 : client: [22] opened from 127.0.0.1:55084
+Sep 13 19:39 : player: played "Daoko/Thank You Blue/Disc 1/04. さみしいかみさま.mp3"
+Sep 13 19:39 : client: [19] closed
+Sep 13 19:43 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/07. only my railgun.mp3"
+Sep 13 19:46 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/04. ムーンライト伝説.mp3"
+Sep 13 19:51 : player: played "TAMUSIC/東方バイオリンロック 星-HOSHI-/01. 春の湊に.mp3"
+Sep 13 19:51 : client: [21] closed
+Sep 13 19:51 : client: [23] opened from 127.0.0.1:55264
+Sep 13 19:56 : player: played "TAMUSIC/東方バイオリンロック 星-HOSHI-/09. 平安のエイリアン.mp3"
+Sep 13 20:03 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/07. 境界の彼方.mp3"
+Sep 13 20:08 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/05. 時の回廊 -summer horizon-.mp3"
+Sep 13 20:13 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/06. angel's night -祭りの後-.mp3"
+Sep 13 20:18 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/04. 風を待った日 -little wish-.mp3"
+Sep 13 20:24 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/04. 翼はPleasure Line.mp3"
+Sep 13 20:29 : player: played "Zephyr Cradle/Zephyr Cradle feat TAM - Zephyr Violin Duo/02. My Soul, Your Beats! -Zephyr Violin Edition-.mp3"
+Sep 13 20:33 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/02. コネクト.mp3"
+Sep 13 20:43 : client: [22] closed
+Sep 13 20:43 : client: [23] closed
+Sep 13 20:43 : player: played "TAMUSIC/TAMUSIC- AnimeViolin EDM (v0)/06. 創聖のアクエリオン.mp3"
+Sep 14 11:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 11:28 : config: option 'device' on line 209 was not recognized
+Sep 14 11:28 : client: [0] opened from 127.0.0.1:54066
+Sep 14 11:28 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 14 14:45 : client: [1] opened from 127.0.0.1:48320
+Sep 14 14:45 : client: [1] closed
+Sep 14 17:30 : client: [2] opened from 127.0.0.1:52362
+Sep 14 17:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 17:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 14 17:37 : player: played "bohemianvoodoo/Echoes (Album)/01 Chill Out.mp3"
+Sep 14 17:46 : player: played "bohemianvoodoo/Echoes (Album)/02 Get Dressed Up.mp3"
+Sep 14 17:52 : player: played "bohemianvoodoo/Echoes (Album)/03 Nomad.mp3"
+Sep 14 17:58 : player: played "bohemianvoodoo/Echoes (Album)/04 Ishi No Kyoukai.mp3"
+Sep 14 18:03 : player: played "bohemianvoodoo/Echoes (Album)/05 El Ron Zacapa.mp3"
+Sep 14 18:09 : player: played "bohemianvoodoo/Echoes (Album)/06 A Peacock.mp3"
+Sep 14 18:15 : player: played "bohemianvoodoo/Echoes (Album)/07 Flyaway.mp3"
+Sep 14 18:20 : player: played "bohemianvoodoo/Echoes (Album)/08 Adria Blue.mp3"
+Sep 14 18:26 : player: played "bohemianvoodoo/Echoes (Album)/09 Aquarium.mp3"
+Sep 14 18:27 : client: [2] closed
+Sep 14 18:32 : client: [0] closed
+Sep 14 18:32 : player: played "bohemianvoodoo/Echoes (Album)/10 Lapis Lazuli.mp3"
+Sep 14 18:32 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Sep 15 00:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 00:08 : config: option 'device' on line 209 was not recognized
+Sep 15 00:08 : client: [0] opened from 127.0.0.1:40596
+Sep 15 00:08 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 15 00:29 : client: [0] closed
+Sep 15 00:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 00:30 : config: option 'device' on line 209 was not recognized
+Sep 15 00:30 : client: [0] opened from 127.0.0.1:40902
+Sep 15 00:30 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 15 00:53 : client: [0] closed
+Sep 15 08:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 08:25 : config: option 'device' on line 209 was not recognized
+Sep 15 08:25 : client: [0] opened from 127.0.0.1:38108
+Sep 15 08:25 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 15 08:39 : client: [1] opened from 127.0.0.1:38662
+Sep 15 08:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 15 08:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
