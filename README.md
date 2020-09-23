@@ -3,7 +3,7 @@ Most of the dotfiles I am using on my current Linux distro.
 
 **OS**: Arch Linux\
 **DE**: None\
-**WM**: i3\
+**WM**: i3-gaps\
 **Shell**: zsh
 
 ![neofetch & cava](rice.png?raw=true "Title")
@@ -25,6 +25,7 @@ Most of the dotfiles I am using on my current Linux distro.
 - PDF reader: `zathura`
 - Automounter: `udiskie`
 - Notifications: `dunst`
+- Monitor manager: `python-umonitor`
 
 # Requirements
 
@@ -38,12 +39,13 @@ Most of the dotfiles I am using on my current Linux distro.
     - polybar (with scripts)
     - libinput (may require libinput gestures as well)
     - redshift
+    - dunst
+    - udiskie
+    - python-umonitor
 - flameshot (screenshot bindings)
 - kitty (main term)
 - pulseaudio (audio controls)
 - rofi (launcher/workspace swapper)
-- dunst
-- udiskie
 
 ## polybar 
 - pulseaudio (module)
@@ -68,6 +70,7 @@ Most of the dotfiles I am using on my current Linux distro.
 - goyo.vim
 - nerdcommenter
 - tabular
+- tabline.vim
 - vim-airline
 - vim-bookmarks
 - vim-pandoc
