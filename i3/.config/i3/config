@@ -158,32 +158,15 @@ bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
-# resize window (you can also use the mouse for that)
-mode "resize" {
-        # These bindings trigger as soon as you enter the resize mode
-
-        # Pressing left will shrink the window’s width.
-        # Pressing right will grow the window’s width.
-        # Pressing up will shrink the window’s height.
-        # Pressing down will grow the window’s height.
-        bindsym j resize shrink width 10 px or 10 ppt
-        bindsym k resize grow height 10 px or 10 ppt
-        bindsym l resize shrink height 10 px or 10 ppt
-        bindsym semicolon resize grow width 10 px or 10 ppt
-
-        # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 10 px or 10 ppt
-        bindsym Down resize grow height 10 px or 10 ppt
-        bindsym Up resize shrink height 10 px or 10 ppt
-        bindsym Right resize grow width 10 px or 10 ppt
-
-        # back to normal: Enter or Escape or $mod+r
-        bindsym Return mode "default"
-        bindsym Escape mode "default"
-        bindsym $mod+r mode "default"
+# Gaps toggle
+set $mode_gaps Toggle gaps: (1) on (2) off
+bindsym $mod+Shift+g mode "$mode_gaps"
+mode "$mode_gaps" {
+    bindsym 1 mode "default", gaps inner all set 0, gaps outer all set 0
+    bindsym 2 mode "default", gaps inner all set 40, gaps outer all set -20
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
 }
-
-bindsym $mod+r mode "resize"
 
 # Volume controls
 bindsym $mod+F1 exec pactl set-sink-mute 0 toggle
@@ -286,3 +269,10 @@ exec_always --no-startup-id reload_dunst.sh
 
 # udiskie (mounting)
 exec --no-startup-id udiskie
+
+# Disable xorg basic screensaver + energy star
+exec --no-startup-id xset s off
+exec --no-startup-id xset -dpms
+
+# Monitor hotplugging
+exec --no-startup-id umonitor --listen --daemonize

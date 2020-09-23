@@ -121,6 +121,9 @@ extract-all(){
     done
 }
 
+# git
+alias gittree="git log --graph --decorate --pretty=oneline --abbrev-commit"
+
 # Theme spotify
 alias theme-spotify="oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox"
 
