@@ -21,8 +21,9 @@ alias logout="i3-msg exit"
 
 # Other stuff
 alias weebtrash="cd /media/data/mathew/Home/trash"
-alias left-monitor="xrandr --output eDP1 --auto  --right-of DP3 --output DP3 --auto && ~/.config/polybar/launch_polybar.sh </dev/null &>/dev/null &"
+alias left-monitor="xrandr --output DP3 --auto --left-of eDP1 --primary  --auto && ~/.config/polybar/launch_polybar.sh </dev/null &>/dev/null &"
 alias offload='__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME="nvidia" __VK_LAYER_NV_optimus="NVIDIA_only" __GL_SHOW_GRAPHICS_OSD=1'
+alias editsdf="nvim ~/.local/bin/sdf"
 
 # Touch + edit
 te(){
@@ -51,6 +52,7 @@ copynet(){
     nmcli -f SSID dev wifi | grep -m 1 "$@" | sed 's/^ *//;s/ *$//' | xclip -selection clipboard
 }
 alias lsnet="nmcli dev wifi"
+alias restartnet="sudo modprobe -r ath10k_pci && sudo modprobe ath10k_pci"
 
 # gpu switch modes (requires gpu-enable run already)
 # I use optimus-manager only now
@@ -90,7 +92,7 @@ alias rm="echo 'Please run rip (aka rm-improved) instead or rm with a backslash.
 alias ls='exa'
 alias icat="kitty icat"
 alias clipboard="xclip -selection clipboard"
-alias whalefetch="neofetch --ascii \"$(fortune -s | cowthink -W 30 -f whale)\" --disable uptime resolution de wm theme icons"
+alias fetch="neofetch --ascii \"$(echo carpe noctem, quam minimum credula postero | cowthink -W 30 -f whale)\" --disable term term_font uptime resolution memory de wm theme icons"
 alias gitinfo="onefetch"
 alias wiki="wiki-search"
 alias wolfram="tungsten"
@@ -129,8 +131,7 @@ alias theme-spotify="oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
 
 # Update all themes not directly changed by wal
 update-theme(){
-    oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
-    zth & kill $(echo $!)
+    spicetify update
     xrdb -merge ~/.Xresources
 }
 

@@ -159,7 +159,7 @@ bindsym $mod+Shift+r restart
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
 # Gaps toggle
-set $mode_gaps Toggle gaps: (1) on (2) off
+set $mode_gaps Toggle gaps: (1) off (2) on
 bindsym $mod+Shift+g mode "$mode_gaps"
 mode "$mode_gaps" {
     bindsym 1 mode "default", gaps inner all set 0, gaps outer all set 0
@@ -217,7 +217,7 @@ exec --no-startup-id xrdb merge ~/.Xresources
 # i3 pywal config
 set_from_resource $fg i3wm.color0 #f0f0f0
 set_from_resource $bg i3wm.color4 #f0f0f0
-set_from_resource $focus i3wm.color3
+set_from_resource $focus i3wm.color3 #f0f0f0
 
 # class                 border  backgr. text indicator child_border
 client.focused          $focus  $focus  $fg  $focus    $focus
@@ -227,8 +227,8 @@ client.urgent           $bg     $bg     $fg  $bg       $bg
 client.placeholder      $bg     $bg     $fg  $bg       $bg
 client.background       $fg
 
-# Background with Feh
-exec --no-startup-id feh --bg-scale "$(cat ~/.wallpaper)" 
+# Background with Feh and set correct monitor with autorandr
+exec_always --no-startup-id feh --bg-scale "$(cat ~/.wallpaper)" && autorandr --change 
 
 # Start Compton
 exec --no-startup-id picom --config ~/.config/picom.conf 
@@ -252,6 +252,9 @@ exec --no-startup-id nm-applet
 exec_always --no-startup-id pkill -9 polybar
 exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 
+# Libinput gestures
+exec --no-startup-id libinput-gestures-setup start
+
 # Enable touchpad while typing
 exec_always --no-startup-id xinput set-prop 12 "libinput Disable While Typing Enabled" 0
 
@@ -274,5 +277,6 @@ exec --no-startup-id udiskie
 exec --no-startup-id xset s off
 exec --no-startup-id xset -dpms
 
-# Monitor hotplugging
-exec --no-startup-id umonitor --listen --daemonize
+# Light-locker
+exec --no-startup-id /usr/bin/light-locker
+bindsym Control+Mod1+l exec light-locker-command -l
