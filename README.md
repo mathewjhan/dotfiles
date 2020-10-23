@@ -9,23 +9,23 @@ Most of the dotfiles I am using on my current Linux distro.
 ![neofetch & cava](rice.png?raw=true "Title")
 
 # Currently in use:
-- Theming: `pywal`
-- Taskbar: `polybar`
-- Text editor: `nvim` 
-- Compositor: `picom`
-- Launcher/Window swapper: `rofi`
-- Terminal: `kitty`
-- Touchpad: `libinput-gestures`
-- Power management: `tlp`
-- Dotfile management: `stow` + `git`
-- Screenshot tool: `flameshot`
-- File manager: `vifm`
-- Music player: `mpd` + `ncmpcpp`
-- `rm` replacement: `rip`
-- PDF reader: `zathura`
-- Automounter: `udiskie`
-- Notifications: `dunst`
-- Monitor manager: `python-umonitor`
+- Theming: [`pywal`](https://github.com/dylanaraps/pywal)
+- Taskbar: [`polybar`](https://github.com/polybar/polybar)
+- Text editor: [`neovim`](https://github.com/neovim/neovim) 
+- Compositor: [`picom`](https://github.com/yshui/picom)
+- Launcher/Window swapper: [`rofi`](https://github.com/davatorium/rofi)
+- Terminal: [`kitty`](https://github.com/kovidgoyal/kitty)
+- Touchpad: [`libinput-gestures`](https://github.com/bulletmark/libinput-gestures)
+- Power management: [`tlp`](https://github.com/linrunner/TLP)
+- Dotfile management: `git` + [`stow`](https://www.gnu.org/software/stow/)
+- Screenshot tool: [`flameshot`](https://github.com/flameshot-org/flameshot)
+- File manager: [`vifm`](https://github.com/vifm/vifm)
+- Music player: `mpd` + [`ncmpcpp`](https://github.com/ncmpcpp/ncmpcpp)
+- `rm` replacement: [`rip`](https://github.com/nivekuil/rip)
+- PDF reader: [`zathura`](https://github.com/pwmt/zathura)
+- Automounter: [`udiskie`](https://github.com/coldfix/udiskie)
+- Notifications: [`dunst`](https://github.com/dunst-project/dunst)
+- Monitor manager: [`autorandr`](https://github.com/phillipberndt/autorandr)
 
 # Requirements
 
@@ -41,7 +41,7 @@ Most of the dotfiles I am using on my current Linux distro.
     - redshift
     - dunst
     - udiskie
-    - python-umonitor
+    - autorandr 
 - flameshot (screenshot bindings)
 - kitty (main term)
 - pulseaudio (audio controls)
@@ -51,7 +51,7 @@ Most of the dotfiles I am using on my current Linux distro.
 - pulseaudio (module)
 - pavucontrol (open pulseaudio controls)
 - network manager
-- nm-connection-editor 
+- nmguish 
 - i3wm
 - fonts: inconsolata, font awesome 5, hack
 
