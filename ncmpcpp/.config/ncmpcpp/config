@@ -72,7 +72,7 @@ header_visibility = "yes"
 statusbar_visibility = "yes"
 titles_visibility = "yes"
 
-progressbar_look = "─╼·"
+progressbar_look = "▃▃▃"
 progressbar_elapsed_color = "white"
 
 now_playing_prefix = "> "

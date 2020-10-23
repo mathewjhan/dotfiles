@@ -12,7 +12,7 @@ foreground = ${xrdb:color7:#222}
 background = ${xrdb:color0:#222}
 
 foreground-inverse = ${xrdb:color0:#222}
-background-inverse = ${xrdb:color4:#222}
+background-inverse = ${xrdb:color3:#222}
 
 foreground-faded = ${xrdb:color7:#222}
 background-raised = ${xrdb:color0:#222}
@@ -136,13 +136,13 @@ fixed-values = true
 format-mounted=""
 format-unmounted=""
 format-unmounted-foreground=${colors.background}
-format-unmounted-background = ${colors.color2}
+format-unmounted-background = ${colors.color5}
 format-unmounted-underline = ${colors.background}
 format-unmounted-overline = ${colors.background}
 format-unmounted-padding = 1
 
 format-mounted-foreground=${colors.background}
-format-mounted-background = ${colors.color2}
+format-mounted-background = ${colors.color5}
 format-mounted-underline = ${colors.background}
 format-mounted-overline = ${colors.background}
 format-mounted-padding = 1
@@ -239,7 +239,7 @@ interval = 0.5
 
 format = ""
 format-foreground=${colors.background}
-format-background = ${colors.color2}
+format-background = ${colors.color1}
 format-underline = ${colors.background}
 format-overline = ${colors.background}
 format-padding = 1
@@ -263,7 +263,7 @@ interval = 3
 
 format = ""
 format-foreground=${colors.background}
-format-background = ${colors.color3}
+format-background = ${colors.color4}
 format-underline = ${colors.background}
 format-overline = ${colors.background}
 format-padding = 1
@@ -294,7 +294,7 @@ units = true
 format = ""
 
 format-foreground=${colors.background}
-format-background = ${colors.color1}
+format-background = ${colors.color2}
 format-underline = ${colors.background}
 format-overline = ${colors.background}
 format-padding = 1
@@ -323,7 +323,7 @@ type = custom/text
 content-prefix =  
 content-overline = ${colors.background}
 content-underline = ${colors.background}
-content-background = ${colors.color3}
+content-background = ${colors.color6}
 content-foreground = ${colors.background}
 content-padding = 1
 
@@ -533,35 +533,35 @@ time-format = %H:%M
 format-charging = <animation-charging>
 format-charging-underline = ${colors.background}
 format-charging-overline = ${colors.background}
-format-charging-background = ${colors.color1}
+format-charging-background = ${colors.color3}
 format-charging-foreground = ${colors.background}
 format-charging-padding = 1
 
 format-discharging = 
 format-discharging-underline = ${colors.background}
 format-discharging-overline = ${colors.background}
-format-discharging-background = ${colors.color1}
+format-discharging-background = ${colors.color3}
 format-discharging-foreground = ${colors.background}
 format-discharging-padding = 1
 
 ; label-charging =  
 ; label-charging-underline = ${colors.background}
 ; label-charging-overline = ${colors.background}
-; label-charging-background = ${colors.color1}
+; label-charging-background = ${colors.color3}
 ; label-charging-foreground = ${colors.background}
 ; label-charging-padding = 1
 ; 
 ; label-discharging =  
 ; label-discharging-underline = ${colors.background}
 ; label-discharging-overline = ${colors.background}
-; label-discharging-background = ${colors.color1}
+; label-discharging-background = ${colors.color3}
 ; label-discharging-foreground = ${colors.background}
 ; label-discharging-padding = 1
 
 label-full =  
 label-full-underline = ${colors.background}
 label-full-overline = ${colors.background}
-label-full-background = ${colors.color1}
+label-full-background = ${colors.color3}
 label-full-foreground = ${colors.background}
 label-full-padding = 1
 

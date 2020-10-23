@@ -143,7 +143,7 @@ commit-dots(){
 }
 
 # Clean pacman/yay cache
-alias clean-pkg="sudo paccache -r -k 1 && yay -Sc"
+alias cleanup="sudo paccache -r -k 1 && yay -Sc"
 
 ## ZSH SPECIFIC
 # vi mode
