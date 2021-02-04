@@ -3,15 +3,16 @@
 #
 
 # School
-alias college="cd /media/data/mathew/Home/College"
-alias cs220="cd /media/data/mathew/Home/College/CS220"
-alias cs240="cd /media/data/mathew/Home/College/CS240"
-alias math235="cd /media/data/mathew/Home/College/MATH235"
-alias cs311="cd /media/data/mathew/Home/College/CS311"
+alias uni="cd /media/data/mathew/Home/College"
+alias cs383="cd /media/data/mathew/Home/College/CS383"
+alias cs377="cd /media/data/mathew/Home/College/CS377"
+alias cics305="cd /media/data/mathew/Home/College/CICS305"
+alias cs370="cd /media/data/mathew/Home/College/CS370"
+alias cs390a="cd /media/data/mathew/Home/College/CS390A"
 
 # Convenient aliases
 alias e="nvim"
-alias fm="vifm-ueberzug"
+alias fm="vifm ."
 alias mp="ncmpcpp"
 alias ..="cd .."
 alias ...="cd ../.."
@@ -143,7 +144,7 @@ commit-dots(){
 }
 
 # Clean pacman/yay cache
-alias cleanup="sudo paccache -r -k 1 && yay -Sc"
+alias cleanup="sudo paccache -r -k 2 && paru -Sc"
 
 ## ZSH SPECIFIC
 # vi mode

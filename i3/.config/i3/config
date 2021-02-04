@@ -209,7 +209,7 @@ for_window [title="Volume Control"] floating enable
 ###########
 
 # Pywal
-exec_always --no-startup-id wal -R
+# exec_always --no-startup-id wal -R
 
 # Xresources
 exec --no-startup-id xrdb merge ~/.Xresources
@@ -227,8 +227,14 @@ client.urgent           $bg     $bg     $fg  $bg       $bg
 client.placeholder      $bg     $bg     $fg  $bg       $bg
 client.background       $fg
 
-# Background with Feh and set correct monitor with autorandr
-exec_always --no-startup-id feh --bg-scale "$(cat ~/.wallpaper)" && autorandr --change 
+# Background with Feh + Theming
+# exec_always --no-startup-id feh --bg-scale "$(cat ~/.wallpaper)" && autorandr --change 
+# exec_always --no-startup-id feh --bg-scale "$(cat ~/.wallpaper)"
+# exec --no-startup-id dyn-wall-rs
+exec_always --no-startup-id dwall -p -s aurora
+
+# Autorandr
+exec_always --no-startup-id autorandr --change
 
 # Start Compton
 exec --no-startup-id picom --config ~/.config/picom.conf 
@@ -263,9 +269,9 @@ exec_always --no-startup-id xinput set-prop 12 "libinput Disable While Typing En
 exec --no-startup-id redshift -l geoclue2
 
 # Set default volume, sink (volume is often overriden by viper4linux)
-exec --no-startup-id pactl set-default-sink alsa_output.pci-0000_00_1f.3.analog-stereo
-exec --no-startup-id pactl set-sink-volume 0 50%
-exec --no-startup-id pactl set-sink-volume alsa_output.pci-0000_00_1f.3.analog-stereo 50%
+exec --no-startup-id pactl set-default-sink alsa_output.pci-0000:00:1f.3.analog-stereo
+exec --no-startup-id pactl set-sink-volume 44 50%
+exec --no-startup-id pactl set-sink-volume alsa_output.pci-0000:00:1f.3.analog-stereo 50%
 
 # Dunst
 exec_always --no-startup-id reload_dunst.sh
