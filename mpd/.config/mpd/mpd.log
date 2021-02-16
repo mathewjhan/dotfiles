@@ -24480,3 +24480,30 @@ Feb 03 16:14 : config: option 'device' on line 209 was not recognized
 Feb 03 16:14 : avahi: Service 'Music Player @ zephyr' successfully established.
 Feb 04 08:32 : config: option 'device' on line 209 was not recognized
 Feb 04 08:32 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 05 11:40 : config: option 'device' on line 209 was not recognized
+Feb 05 11:40 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 07 23:05 : config: option 'device' on line 209 was not recognized
+Feb 07 23:05 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 08 10:23 : config: option 'device' on line 209 was not recognized
+Feb 08 10:23 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 09 08:27 : config: option 'device' on line 209 was not recognized
+Feb 09 08:27 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 10 10:24 : config: option 'device' on line 209 was not recognized
+Feb 10 10:24 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 08:31 : config: option 'device' on line 209 was not recognized
+Feb 11 08:31 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 11 20:17 : avahi: Client Disconnected, will reconnect shortly
+Feb 12 10:44 : config: option 'device' on line 209 was not recognized
+Feb 12 10:44 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 12 21:38 : avahi: Client Disconnected, will reconnect shortly
+Feb 12 22:21 : config: option 'device' on line 209 was not recognized
+Feb 12 22:21 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 13 12:42 : config: option 'device' on line 209 was not recognized
+Feb 13 12:42 : avahi: Service 'Music Player @ zephyr' successfully established.
+Feb 13 23:02 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/13. Yoake no Hikari wo Atsume Nagara.mp3"
+Feb 13 23:09 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/14. Harumodoki.mp3"
+Feb 13 23:14 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -LIBRARY-/15. You can count on me.mp3"
+Feb 13 23:19 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/01. over and over.mp3"
+Feb 14 17:35 : player: played "yanaginagi/[190109] yanaginagi Best Albums -LIBRARY- & -MUSEUM- [MP3]/Best Album -MUSEUM-/Disc 1/02. point at infinity.mp3"
+Feb 15 11:26 : config: option 'device' on line 209 was not recognized
+Feb 15 11:26 : avahi: Service 'Music Player @ zephyr' successfully established.

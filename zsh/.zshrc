@@ -133,6 +133,7 @@ alias theme-spotify="oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox
 # Update all themes not directly changed by wal
 update-theme(){
     spicetify update
+    reload_dunst.sh
     xrdb -merge ~/.Xresources
 }
 

@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/mathew/note-sharing/.git'
 let g:netrw_dirhist_2='/home/mathew/.config/systemd/user/timers.target.wants'
 let g:netrw_dirhist_1='/home/mathew/git/mathewjhan/projectx/data'
 let g:netrw_dirhist_0='/home/mathew/remote-students-community/node_modules'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_7='/home/mathew/.config/autorandr/home-docked/predetect.d'
 let g:netrw_dirhist_6='/home/mathew/.config/rofi'
 let g:netrw_dirhist_5='/home/mathew/.config/polybar'
 let g:netrw_dirhist_4='/home/mathew/auto-intern/jsons'
-let g:netrw_dirhist_3='/home/mathew/cs184 Melter/ProjectSettings'

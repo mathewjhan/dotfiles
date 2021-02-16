@@ -60,7 +60,7 @@ module-margin-right = 0
 overline-size = 4
 underline-size = 4
 
-font-0 = inconsolata:style=regular:size=10; 2
+font-0 = inconsolata:style=medium:size=10; 2
 font-1 = Font Awesome 5 Free:style=Solid:size=8; 2
 font-2 = Font Awesome 5 Free:style=Regular:size=8; 2
 font-3 = Font Awesome 5 Brands:size=8; 2
@@ -154,7 +154,7 @@ index-sort = true
 wrapping-scroll = false
 
 ; Only show workspaces on the same output as the bar
-;pin-workspaces = true
+pin-workspaces = true
 
 ; focused = Active workspace on focused monitor
 label-focused = %index%
