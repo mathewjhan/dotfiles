@@ -537,7 +537,7 @@ format-charging-background = ${colors.color3}
 format-charging-foreground = ${colors.background}
 format-charging-padding = 1
 
-format-discharging = 
+format-discharging = 
 format-discharging-underline = ${colors.background}
 format-discharging-overline = ${colors.background}
 format-discharging-background = ${colors.color3}
@@ -558,7 +558,7 @@ format-discharging-padding = 1
 ; label-discharging-foreground = ${colors.background}
 ; label-discharging-padding = 1
 
-label-full =  
+label-full =  
 label-full-underline = ${colors.background}
 label-full-overline = ${colors.background}
 label-full-background = ${colors.color3}

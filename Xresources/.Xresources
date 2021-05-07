@@ -5,3 +5,10 @@ Urxvt.lineSpace:	0
 Urxvt.letterSpace:	0
 URxvt.font:		xft:sf mono:medium:size=10:antialias=true
 URxvt.boldFont:		xft:sf mono:bold:size=10:antialias=true
+
+Xft.antialias: 1
+Xft.hinting: 1
+Xft.autohint: 0
+Xft.hintstyle: hintslight
+Xft.rgba: rgb
+Xft.lcdfilter: lcddefault

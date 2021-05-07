@@ -25,6 +25,7 @@ alias weebtrash="cd /media/data/mathew/Home/trash"
 alias left-monitor="xrandr --output DP3 --auto --left-of eDP1 --primary  --auto && ~/.config/polybar/launch_polybar.sh </dev/null &>/dev/null &"
 alias offload='__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME="nvidia" __VK_LAYER_NV_optimus="NVIDIA_only" __GL_SHOW_GRAPHICS_OSD=1'
 alias editsdf="nvim ~/.local/bin/sdf"
+alias restartaudio="systemctl --user restart pipewire pipewire-pulse pipewire-media-session"
 
 # Touch + edit
 te(){
