@@ -262,6 +262,8 @@ exec --no-startup-id libinput-gestures-setup start
 
 # Enable touchpad while typing
 exec_always --no-startup-id xinput set-prop 12 "libinput Disable While Typing Enabled" 0
+# Enable natural scrolling
+# exec_always --no-startup-id xinput set-prop 13 "libinput Natural Scrolling Enabled" 1
 
 # Redshift
 # exec --no-startup-id redshift -l 37.548271:-121.988571
