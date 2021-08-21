@@ -27,7 +27,9 @@ Plug 'MattesGroeger/vim-bookmarks'
 Plug 'psliwka/vim-smoothie'
 Plug 'machakann/vim-highlightedyank'
 Plug 'machakann/vim-sandwich'
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'neovim/nvim-lspconfig'
+Plug 'hrsh7th/nvim-compe'
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 " BACKUP AUTOCOMPLETER
 " Plug 'autozimu/LanguageClient-neovim', {
@@ -90,18 +92,18 @@ nnoremap <silent> <leader>f :FZF<cr>
 " Use command ':verbose imap <tab>' to make sure tab is not mapped by other plugin.
 " Snippets functionality
 
-inoremap <silent><expr> <TAB>
-    \ pumvisible() ? "\<C-n>" :
-    \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
-    \ <SID>check_back_space() ? "\<TAB>" :
-    \ coc#refresh()
-
-function! s:check_back_space() abort
-    let col = col('.') - 1
-    return !col || getline('.')[col - 1]  =~# '\s'
-endfunction
-
-let g:coc_snippet_next = '<tab>'
+" inoremap <silent><expr> <TAB>
+"     \ pumvisible() ? "\<C-n>" :
+"     \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
+"     \ <SID>check_back_space() ? "\<TAB>" :
+"     \ coc#refresh()
+" 
+" function! s:check_back_space() abort
+"     let col = col('.') - 1
+"     return !col || getline('.')[col - 1]  =~# '\s'
+" endfunction
+" 
+" let g:coc_snippet_next = '<tab>'
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Nerdcommenter
