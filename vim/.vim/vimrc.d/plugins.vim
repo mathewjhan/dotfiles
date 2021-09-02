@@ -23,12 +23,16 @@ Plug 'junegunn/goyo.vim'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'tmsvg/pear-tree'
 Plug 'scrooloose/nerdcommenter'
+Plug 'preservim/nerdtree'
 Plug 'MattesGroeger/vim-bookmarks'
-Plug 'psliwka/vim-smoothie'
-Plug 'machakann/vim-highlightedyank'
 Plug 'machakann/vim-sandwich'
-Plug 'neovim/nvim-lspconfig'
-Plug 'hrsh7th/nvim-compe'
+Plug 'Yggdroot/indentLine'
+
+if has('nvim')
+  Plug 'neovim/nvim-lspconfig'
+  Plug 'hrsh7th/nvim-compe'
+  Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+endif
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 " BACKUP AUTOCOMPLETER
@@ -81,12 +85,35 @@ let g:pandoc#syntax#conceal#use = 0
 let g:airline_powerline_fonts = 1
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => NERDTree
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+nnoremap <leader>n :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => FZF
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 nnoremap <silent> <leader>f :FZF<cr>
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => coc.nvim
+" Nerdcommenter
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Add spaces after comment delimiters by default
+let g:NERDSpaceDelims = 1
+
+" Use compact syntax for prettified multi-line comments
+let g:NERDCompactSexyComs = 1
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" UltiSnips
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:UltiSnipsSnippetDirectories=["UltiSnips"]
+let g:UltiSnipsExpandTrigger="<c-space>"
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => coc.nvim (backup)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Use tab for trigger completion with characters ahead and navigate.
 " Use command ':verbose imap <tab>' to make sure tab is not mapped by other plugin.
@@ -104,21 +131,6 @@ nnoremap <silent> <leader>f :FZF<cr>
 " endfunction
 " 
 " let g:coc_snippet_next = '<tab>'
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Nerdcommenter
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Add spaces after comment delimiters by default
-let g:NERDSpaceDelims = 1
-
-" Use compact syntax for prettified multi-line comments
-let g:NERDCompactSexyComs = 1
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" UltiSnips
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:UltiSnipsSnippetDirectories=["UltiSnips"]
-let g:UltiSnipsExpandTrigger="<c-space>"
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Deoplete (backup)

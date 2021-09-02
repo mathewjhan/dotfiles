@@ -59,23 +59,22 @@ Most of the dotfiles I am using on my current Linux distro.
 - pywal
 - san francisco mono (font)
 
-## vifm
-- ueberzug (previews in vifm, see config for specific details)
-- ffmpegthumbnailer
-
 ## neovim
 - asyncrun.vim
 - pear-tree
 - coc.nvim
 - goyo.vim
-- nerdcommenter
+- indentline
+- nerdtree
+- nvim-cmpe
+- nvim-lspconfig
+- nvim-treesitter
 - tabular
 - tabline.vim
 - vim-airline
 - vim-bookmarks
 - vim-pandoc
 - vim-pandoc-markdown-syntax
-- vim-smoothie
 - vim-surround
 - vimtex
 - ultisnips

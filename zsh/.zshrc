@@ -4,11 +4,11 @@
 
 # School
 alias uni="cd /media/data/mathew/Home/College"
-alias cs383="cd /media/data/mathew/Home/College/CS383"
-alias cs377="cd /media/data/mathew/Home/College/CS377"
-alias cics305="cd /media/data/mathew/Home/College/CICS305"
-alias cs370="cd /media/data/mathew/Home/College/CS370"
-alias cs390a="cd /media/data/mathew/Home/College/CS390A"
+alias cs514="cd /media/data/mathew/Home/College/CS514"
+alias cs589="cd /media/data/mathew/Home/College/CS589"
+alias cs453="cd /media/data/mathew/Home/College/CS453"
+alias cs590cc="cd /media/data/mathew/Home/College/CS590CC"
+alias anthro="cd /media/data/mathew/Home/College/ANTHRO150"
 
 # Convenient aliases
 alias e="nvim"
@@ -107,6 +107,7 @@ alias vimrc="cd ~/.vim/vimrc.d && echo 'Changed directories to vimrc.d'"
 alias bashrc="vim ~/.bashrc && source ~/.bashrc"
 alias zshrc="vim ~/.zshrc && source ~/.zshrc"
 alias i3config="vim ~/.config/i3/config"
+alias nvimconfig="vim ~/.config/nvim/init.vim"
 
 # Lock
 alias lock="xflock4"
