@@ -25,6 +25,15 @@ vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 nnoremap <expr> k (v:count == 0 ? 'gk' : 'k')
 nnoremap <expr> j (v:count == 0 ? 'gj' : 'j')
 
+" Centering
+nnoremap n  nzz
+nnoremap N  Nzz
+nnoremap {  {zz
+nnoremap }  }zz
+
+" Clone current paragraph
+nnoremap cp yap<S-}>p
+
 " Map <Esc> in term mode to exit term
 tnoremap <Esc> <C-\><C-n>
 tnoremap <C-[> <C-\><C-n>
@@ -35,6 +44,9 @@ nmap <leader>n :set nu!<cr>
 " Disable highlight when <leader><cr> is pressed
 map <silent> <leader><cr> :noh<cr>
 
+" Switch between buffers quickly
+nnoremap <leader><leader> <C-^>
+
 " Smart way to move between windows
 map <C-j> <C-W>j
 map <C-k> <C-W>k
@@ -43,6 +55,10 @@ map <C-l> <C-W>l
 
 " Close the current buffer
 map <leader>bd :Bclose<cr>:tabclose<cr>gT
+
+" Easier copy
+noremap <leader>y "+y
+noremap <leader>p "+p
 
 " Close all the buffers
 map <leader>ba :bufdo bd<cr>

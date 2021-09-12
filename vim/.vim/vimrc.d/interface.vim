@@ -50,7 +50,7 @@ set incsearch
 set lazyredraw 
 
 " Set no cursorline
-set nocul
+" set nocul
 
 " For regular expressions turn magic on
 set magic
@@ -87,6 +87,9 @@ syntax enable
 
 " Set Pywal colorscheme
 colorscheme wal
+
+" Autoresizing
+autocmd VimResized * wincmd =
 
 " Set extra options when running in GUI mode
 if has("gui_running")

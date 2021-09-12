@@ -20,19 +20,25 @@ Plug 'godlygeek/tabular'
 Plug 'dylanaraps/wal.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'junegunn/goyo.vim'
-Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+Plug 'junegunn/fzf.vim'
 Plug 'tmsvg/pear-tree'
 Plug 'scrooloose/nerdcommenter'
-Plug 'preservim/nerdtree'
 Plug 'MattesGroeger/vim-bookmarks'
 Plug 'machakann/vim-sandwich'
 Plug 'Yggdroot/indentLine'
+Plug 'mg979/vim-visual-multi', {'branch': 'master'}
+Plug 'justinmk/vim-dirvish'
 
+" NVIM plugins
 if has('nvim')
   Plug 'neovim/nvim-lspconfig'
-  Plug 'hrsh7th/nvim-compe'
   Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+  Plug 'hrsh7th/nvim-cmp'
+  Plug 'hrsh7th/cmp-buffer'
+  Plug 'hrsh7th/cmp-nvim-lsp'
+  Plug 'quangnguyen30192/cmp-nvim-ultisnips'
 endif
+
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 " BACKUP AUTOCOMPLETER
@@ -64,6 +70,62 @@ endif
 let mapleader = ","
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Goyo
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" On window resize, if goyo is active, do <c-w>= to resize the window
+autocmd VimResized * if exists('#goyo') | exe "normal \<c-w>=" | endif
+nnoremap <silent> <leader>g :Goyo<cr>
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Dirvish
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+autocmd FileType dirvish
+  \ nnoremap <silent><buffer> t :call dirvish#open('tabedit', 0)<CR>
+  \ |xnoremap <silent><buffer> t :call dirvish#open('tabedit', 0)<CR>
+
+nmap <C-t> <Plug>(dirvish-toggle)
+nnoremap <silent> <Plug>(dirvish-toggle) :<C-u>call <SID>dirvish_toggle()<CR>
+
+function! s:dirvish_toggle() abort
+  let l:last_buffer = bufnr('$')
+  let l:i = 1
+  let l:dirvish_already_open = 0
+
+  while l:i <= l:last_buffer
+    if bufexists(l:i) && bufloaded(l:i) && getbufvar(l:i, '&filetype') ==? 'dirvish'
+      let l:dirvish_already_open = 1
+      execute ':'.l:i.'bd!'
+    endif
+    let l:i += 1
+  endwhile
+
+  if !l:dirvish_already_open
+    35vsp +Dirvish
+  endif
+endfunction
+
+function! s:dirvish_open() abort
+  let l:line = getline('.')
+  if l:line =~? '/$'
+    call dirvish#open('edit', 0)
+  else
+    call <SID>dirvish_toggle()
+    execute 'e '.l:line
+  endif
+endfunction
+
+augroup dirvish_commands
+  autocmd!
+  "autocmd FileType dirvish call fugitive#detect(@%)
+  autocmd FileType dirvish nnoremap <silent> <buffer> <C-r> :<C-u>Dirvish %<CR>
+  autocmd FileType dirvish unmap <silent> <buffer> <CR>
+  autocmd FileType dirvish nnoremap <silent> <buffer> <CR> :<C-u> call <SID>dirvish_open()<CR>
+  autocmd FileType dirvish setlocal nonumber norelativenumber statusline=%F
+  autocmd FileType dirvish silent! keeppatterns g@\v/\.[^\/]+/?$@d
+  autocmd FileType dirvish execute ':sort r /[^\/]$/'
+augroup END
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Pandoc
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
@@ -85,17 +147,17 @@ let g:pandoc#syntax#conceal#use = 0
 let g:airline_powerline_fonts = 1
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => NERDTree
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-nnoremap <leader>n :NERDTreeFocus<CR>
-nnoremap <C-n> :NERDTree<CR>
-nnoremap <C-t> :NERDTreeToggle<CR>
-nnoremap <C-f> :NERDTreeFind<CR>
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => FZF
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-nnoremap <silent> <leader>f :FZF<cr>
+nnoremap <silent> <leader>f :Files<cr>
+nnoremap <silent> <leader>s :Rg<cr>
+
+command! -bang -nargs=* Rg
+  \ call fzf#vim#grep(
+  \   'rg --column --line-number --no-heading --color=always --smart-case -- '.shellescape(<q-args>), 1,
+  \   fzf#vim#with_preview(), <bang>0)
+
+let g:fzf_preview_window = ['right:50%', 'ctrl-/']
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Nerdcommenter
@@ -111,6 +173,7 @@ let g:NERDCompactSexyComs = 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:UltiSnipsSnippetDirectories=["UltiSnips"]
 let g:UltiSnipsExpandTrigger="<c-space>"
+let g:UltiSnipsRemoveSelectModeMappings = 0
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => coc.nvim (backup)

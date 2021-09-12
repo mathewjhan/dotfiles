@@ -42,14 +42,14 @@ bindsym $mod+Shift+Return exec chromium
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec rofi -show drun -font "SF Pro 12" -display-drun "exec" #dmenu_run
+bindsym $mod+d exec rofi -config ~/.cache/wal/colors-rofi-light.rasi -show drun -font "SF Pro 12" -display-drun "exec" #dmenu_run
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
 # start window switcher
-bindsym $mod+Tab exec rofi -font "SF Pro 12" -show window
+bindsym $mod+Tab exec rofi -config ~/.cache/wal/colors-rofi-light.rasi -font "SF Pro 12" -show window
 
 # change focus
 # bindsym $mod+j focus left
@@ -172,6 +172,10 @@ mode "$mode_gaps" {
 bindsym $mod+F1 exec pactl set-sink-mute 0 toggle
 bindsym $mod+F2 exec pactl set-sink-volume 0 -5%
 bindsym $mod+F3 exec pactl set-sink-volume 0 +5%
+
+# Brightness controls
+bindsym $mod+F11 exec xbacklight -dec 5
+bindsym $mod+F12 exec xbacklight -inc 5
 
 # gaps config
 gaps inner 16
