@@ -100,8 +100,6 @@ alias wiki="wiki-search"
 alias wolfram="tungsten"
 alias temps="paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'"
 
-eval $(thefuck --alias fuck)
-
 # Fast configs
 alias vimrc="cd ~/.vim/vimrc.d && echo 'Changed directories to vimrc.d'"
 alias bashrc="vim ~/.bashrc && source ~/.bashrc"

@@ -37,6 +37,7 @@ if has('nvim')
   Plug 'hrsh7th/cmp-buffer'
   Plug 'hrsh7th/cmp-nvim-lsp'
   Plug 'quangnguyen30192/cmp-nvim-ultisnips'
+  Plug 'kwkarlwang/bufresize.nvim'
 endif
 
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
