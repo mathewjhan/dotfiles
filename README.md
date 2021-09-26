@@ -60,13 +60,13 @@ Most of the dotfiles I am using on my current Linux distro.
 - san francisco mono (font)
 
 ## vim
+- abstract.vim
 - asyncrun.vim
 - fzf.vim
 - goyo.vim
 - indentline
 - neoformat
 - pear-tree
-- startuptime.vim
 - tabline.vim
 - tabular
 - tagbar
@@ -77,6 +77,7 @@ Most of the dotfiles I am using on my current Linux distro.
 - vim-pandoc-markdown-syntax
 - vim-sandwich
 - vim-sleuth
+- vim-startuptime
 - vim-surround
 - vim-visual-multi
 - vimtex

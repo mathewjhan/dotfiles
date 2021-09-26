@@ -27,7 +27,7 @@ Plug 'Yggdroot/indentLine'
 Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 Plug 'tpope/vim-sleuth'
 Plug 'preservim/tagbar'
-Plug 'tweekmonster/startuptime.vim'
+Plug 'dstein64/vim-startuptime'
 
 " Themes
 " Normal
