@@ -43,7 +43,6 @@ if has('nvim')
   Plug 'hrsh7th/cmp-buffer'
   Plug 'hrsh7th/cmp-nvim-lsp'
   Plug 'quangnguyen30192/cmp-nvim-ultisnips'
-  Plug 'GustavoKatel/sidebar.nvim'
 endif
 
 call plug#end()

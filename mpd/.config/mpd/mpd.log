@@ -25878,3 +25878,5 @@ Sep 24 20:52 : config: option 'device' on line 209 was not recognized
 Sep 24 20:52 : avahi: Service 'Music Player @ zephyr' successfully established.
 Sep 25 10:56 : config: option 'device' on line 209 was not recognized
 Sep 25 10:56 : avahi: Service 'Music Player @ zephyr' successfully established.
+Sep 26 10:44 : config: option 'device' on line 209 was not recognized
+Sep 26 10:44 : avahi: Service 'Music Player @ zephyr' successfully established.

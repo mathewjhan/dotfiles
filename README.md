@@ -6,50 +6,50 @@ Most of the dotfiles I am using on my current Linux distro.
 **WM**: i3-gaps\
 **Shell**: zsh
 
-![neofetch & cava](rice.png?raw=true "Title")
+![rice](rice.png?raw=true "Title")
 
 # Currently in use:
-- Theming: [`pywal`](https://github.com/dylanaraps/pywal)
-- Taskbar: [`polybar`](https://github.com/polybar/polybar)
-- Text editor: [`neovim`](https://github.com/neovim/neovim) 
-- Compositor: [`picom`](https://github.com/yshui/picom)
-- Launcher/Window swapper: [`rofi`](https://github.com/davatorium/rofi)
-- Terminal: [`kitty`](https://github.com/kovidgoyal/kitty)
-- Touchpad: [`libinput-gestures`](https://github.com/bulletmark/libinput-gestures)
-- Power management: [`tlp`](https://github.com/linrunner/TLP)
-- Dotfile management: `git` + [`stow`](https://www.gnu.org/software/stow/)
-- Screenshot tool: [`flameshot`](https://github.com/flameshot-org/flameshot)
-- File manager: [`vifm`](https://github.com/vifm/vifm)
-- Music player: `mpd` + [`ncmpcpp`](https://github.com/ncmpcpp/ncmpcpp)
-- `rm` replacement: [`rip`](https://github.com/nivekuil/rip)
-- PDF reader: [`zathura`](https://github.com/pwmt/zathura)
 - Automounter: [`udiskie`](https://github.com/coldfix/udiskie)
-- Notifications: [`dunst`](https://github.com/dunst-project/dunst)
+- Compositor: [`picom`](https://github.com/yshui/picom)
+- Dotfile management: `git` + [`stow`](https://www.gnu.org/software/stow/)
+- File manager: [`vifm`](https://github.com/vifm/vifm)
+- Launcher/Window swapper: [`rofi`](https://github.com/davatorium/rofi)
 - Monitor manager: [`autorandr`](https://github.com/phillipberndt/autorandr)
+- Music player: `mpd` + [`ncmpcpp`](https://github.com/ncmpcpp/ncmpcpp)
+- Notifications: [`dunst`](https://github.com/dunst-project/dunst)
+- PDF reader: [`zathura`](https://github.com/pwmt/zathura)
+- Power management: [`tlp`](https://github.com/linrunner/TLP)
+- Screenshot tool: [`flameshot`](https://github.com/flameshot-org/flameshot)
+- Taskbar: [`polybar`](https://github.com/polybar/polybar)
+- Terminal: [`kitty`](https://github.com/kovidgoyal/kitty)
+- Text editor: [`neovim`](https://github.com/neovim/neovim) 
+- Theming: [`pywal`](https://github.com/dylanaraps/pywal)
+- Touchpad: [`libinput-gestures`](https://github.com/bulletmark/libinput-gestures)
+- `rm` replacement: [`rip`](https://github.com/nivekuil/rip)
 
 # Requirements
 
 ## i3
 - Autorun/Startup
-    - pywal
-    - feh
-    - picom
-    - autotiling
-    - nm-applet
-    - polybar (with scripts)
-    - libinput (may require libinput gestures as well)
-    - redshift
-    - dunst
-    - udiskie
     - autorandr 
+    - autotiling
+    - dunst
+    - feh
+    - libinput (may require libinput gestures as well)
+    - nm-applet
+    - picom
+    - polybar (with scripts)
+    - pywal
+    - redshift
+    - udiskie
 - flameshot (screenshot bindings)
 - kitty (main term)
-- pulseaudio (audio controls)
+- pipewire (audio controls)
 - rofi (launcher/workspace swapper)
 
 ## polybar 
 - pulseaudio (module)
-- pavucontrol (open pulseaudio controls)
+- pavucontrol (open pulseaudio/pipewire controls)
 - network manager
 - nmguish 
 - i3wm
@@ -59,23 +59,32 @@ Most of the dotfiles I am using on my current Linux distro.
 - pywal
 - san francisco mono (font)
 
-## neovim
+## vim
 - asyncrun.vim
-- pear-tree
-- coc.nvim
+- fzf.vim
 - goyo.vim
 - indentline
-- nerdtree
-- nvim-cmpe
-- nvim-lspconfig
-- nvim-treesitter
-- tabular
+- neoformat
+- pear-tree
+- startuptime.vim
 - tabline.vim
+- tabular
+- tagbar
+- ultisnips
 - vim-airline
 - vim-bookmarks
 - vim-pandoc
 - vim-pandoc-markdown-syntax
+- vim-sandwich
+- vim-sleuth
 - vim-surround
+- vim-visual-multi
 - vimtex
-- ultisnips
-- wal.vim (theme that works with pywal)
+
+## neovim
+- nvim-cmp
+- nvim-lspconfig
+- nvim-treesitter
+- cmp-buffer
+- cmp-nvim-lsp
+- cmp-nvim-ultisnips

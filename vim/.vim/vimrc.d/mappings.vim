@@ -94,7 +94,7 @@ map 0 ^
 
 " Spell checking
 " Pressing ,ss will toggle and untoggle spell checking
-map <leader>ss :setlocal spell!<cr>
+map <leader>sc :setlocal spell!<cr>
 
 " Toggle paste mode on and off
 map <leader>pp :setlocal paste!<cr>
