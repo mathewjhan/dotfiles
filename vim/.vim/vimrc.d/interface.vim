@@ -12,6 +12,7 @@ source $VIMRUNTIME/menu.vim
 
 " Turn on the Wild menu
 set wildmenu
+set wildmode=longest:full,full
 
 " Ignore compiled files
 set wildignore=*.o,*~,*.pyc
@@ -84,9 +85,6 @@ set foldcolumn=1
 " Colors and Fonts
 " Enable syntax highlighting
 syntax enable 
-
-" Set Pywal colorscheme
-colorscheme wal
 
 " Autoresizing
 autocmd VimResized * wincmd =

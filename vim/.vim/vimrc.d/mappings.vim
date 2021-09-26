@@ -19,17 +19,19 @@ nmap <leader>z :wq<cr>
 vnoremap <silent> * :<C-u>call VisualSelection('', '')<CR>/<C-R>=@/<CR><CR>
 vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
 
-" Moving around, tabs, windows and buffers
-
 " Count movement for j,k
 nnoremap <expr> k (v:count == 0 ? 'gk' : 'k')
 nnoremap <expr> j (v:count == 0 ? 'gj' : 'j')
 
 " Centering
 nnoremap n  nzz
+nnoremap p  pzz
 nnoremap N  Nzz
+nnoremap P  Pzz
 nnoremap {  {zz
 nnoremap }  }zz
+nnoremap <C-d> <C-d>zz
+nnoremap <C-u> <C-u>zz
 
 " Clone current paragraph
 nnoremap cp yap<S-}>p

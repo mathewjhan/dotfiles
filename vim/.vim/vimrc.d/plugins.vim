@@ -17,17 +17,23 @@ Plug 'skywind3000/asyncrun.vim'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'godlygeek/tabular'
-Plug 'dylanaraps/wal.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'junegunn/goyo.vim'
 Plug 'junegunn/fzf.vim'
 Plug 'tmsvg/pear-tree'
-Plug 'scrooloose/nerdcommenter'
 Plug 'MattesGroeger/vim-bookmarks'
 Plug 'machakann/vim-sandwich'
 Plug 'Yggdroot/indentLine'
 Plug 'mg979/vim-visual-multi', {'branch': 'master'}
-Plug 'justinmk/vim-dirvish'
+Plug 'tpope/vim-sleuth'
+Plug 'preservim/tagbar'
+Plug 'tweekmonster/startuptime.vim'
+
+" Themes
+" Normal
+Plug 'jdsimcoe/abstract.vim'
+" Wal
+Plug 'Badacadabra/vim-archery'
 
 " NVIM plugins
 if has('nvim')
@@ -37,26 +43,8 @@ if has('nvim')
   Plug 'hrsh7th/cmp-buffer'
   Plug 'hrsh7th/cmp-nvim-lsp'
   Plug 'quangnguyen30192/cmp-nvim-ultisnips'
-  Plug 'kwkarlwang/bufresize.nvim'
+  Plug 'GustavoKatel/sidebar.nvim'
 endif
-
-" Plug 'neoclide/coc.nvim', {'branch': 'release'}
-
-" BACKUP AUTOCOMPLETER
-" Plug 'autozimu/LanguageClient-neovim', {
-"     \ 'branch': 'next',
-"     \ 'do': 'bash install.sh',
-"     \ }
-" 
-" if has('nvim')
-"   Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
-" else
-"   Plug 'Shougo/deoplete.nvim'
-"   Plug 'roxma/nvim-yarp'
-"   Plug 'roxma/vim-hug-neovim-rpc'
-" endif
-" let g:deoplete#enable_at_startup = 1
-"
 
 call plug#end()
 
@@ -78,53 +66,9 @@ autocmd VimResized * if exists('#goyo') | exe "normal \<c-w>=" | endif
 nnoremap <silent> <leader>g :Goyo<cr>
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Dirvish
+" => Tagbar
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-autocmd FileType dirvish
-  \ nnoremap <silent><buffer> t :call dirvish#open('tabedit', 0)<CR>
-  \ |xnoremap <silent><buffer> t :call dirvish#open('tabedit', 0)<CR>
-
-nmap <C-t> <Plug>(dirvish-toggle)
-nnoremap <silent> <Plug>(dirvish-toggle) :<C-u>call <SID>dirvish_toggle()<CR>
-
-function! s:dirvish_toggle() abort
-  let l:last_buffer = bufnr('$')
-  let l:i = 1
-  let l:dirvish_already_open = 0
-
-  while l:i <= l:last_buffer
-    if bufexists(l:i) && bufloaded(l:i) && getbufvar(l:i, '&filetype') ==? 'dirvish'
-      let l:dirvish_already_open = 1
-      execute ':'.l:i.'bd!'
-    endif
-    let l:i += 1
-  endwhile
-
-  if !l:dirvish_already_open
-    35vsp +Dirvish
-  endif
-endfunction
-
-function! s:dirvish_open() abort
-  let l:line = getline('.')
-  if l:line =~? '/$'
-    call dirvish#open('edit', 0)
-  else
-    call <SID>dirvish_toggle()
-    execute 'e '.l:line
-  endif
-endfunction
-
-augroup dirvish_commands
-  autocmd!
-  "autocmd FileType dirvish call fugitive#detect(@%)
-  autocmd FileType dirvish nnoremap <silent> <buffer> <C-r> :<C-u>Dirvish %<CR>
-  autocmd FileType dirvish unmap <silent> <buffer> <CR>
-  autocmd FileType dirvish nnoremap <silent> <buffer> <CR> :<C-u> call <SID>dirvish_open()<CR>
-  autocmd FileType dirvish setlocal nonumber norelativenumber statusline=%F
-  autocmd FileType dirvish silent! keeppatterns g@\v/\.[^\/]+/?$@d
-  autocmd FileType dirvish execute ':sort r /[^\/]$/'
-augroup END
+nnoremap <silent> <C-t> :TagbarToggle<CR>
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Pandoc
@@ -161,20 +105,35 @@ command! -bang -nargs=* Rg
 let g:fzf_preview_window = ['right:50%', 'ctrl-/']
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Nerdcommenter
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Add spaces after comment delimiters by default
-let g:NERDSpaceDelims = 1
-
-" Use compact syntax for prettified multi-line comments
-let g:NERDCompactSexyComs = 1
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " UltiSnips
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:UltiSnipsSnippetDirectories=["UltiSnips"]
 let g:UltiSnipsExpandTrigger="<c-space>"
 let g:UltiSnipsRemoveSelectModeMappings = 0
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Colorscheme
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+colorscheme abstract
+
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+" BACKUP AUTOCOMPLETER
+" Plug 'autozimu/LanguageClient-neovim', {
+"     \ 'branch': 'next',
+"     \ 'do': 'bash install.sh',
+"     \ }
+" 
+" if has('nvim')
+"   Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
+" else
+"   Plug 'Shougo/deoplete.nvim'
+"   Plug 'roxma/nvim-yarp'
+"   Plug 'roxma/vim-hug-neovim-rpc'
+" endif
+" let g:deoplete#enable_at_startup = 1
+"
+
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => coc.nvim (backup)
@@ -214,4 +173,53 @@ let g:UltiSnipsRemoveSelectModeMappings = 0
 "     \ 'cpp'    : ['ccls'],
 "     \ 'python' : ['pyls'],
 "    \ }
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Dirvish
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" autocmd FileType dirvish
+"   \ nnoremap <silent><buffer> t :call dirvish#open('tabedit', 0)<CR>
+"   \ |xnoremap <silent><buffer> t :call dirvish#open('tabedit', 0)<CR>
+" 
+" nmap <C-t> <Plug>(dirvish-toggle)
+" nnoremap <silent> <Plug>(dirvish-toggle) :<C-u>call <SID>dirvish_toggle()<CR>
+" 
+" function! s:dirvish_toggle() abort
+"   let l:last_buffer = bufnr('$')
+"   let l:i = 1
+"   let l:dirvish_already_open = 0
+" 
+"   while l:i <= l:last_buffer
+"     if bufexists(l:i) && bufloaded(l:i) && getbufvar(l:i, '&filetype') ==? 'dirvish'
+"       let l:dirvish_already_open = 1
+"       execute ':'.l:i.'bd!'
+"     endif
+"     let l:i += 1
+"   endwhile
+" 
+"   if !l:dirvish_already_open
+"     35vsp +Dirvish
+"   endif
+" endfunction
+" 
+" function! s:dirvish_open() abort
+"   let l:line = getline('.')
+"   if l:line =~? '/$'
+"     call dirvish#open('edit', 0)
+"   else
+"     call <SID>dirvish_toggle()
+"     execute 'e '.l:line
+"   endif
+" endfunction
+" 
+" augroup dirvish_commands
+"   autocmd!
+"   "autocmd FileType dirvish call fugitive#detect(@%)
+"   autocmd FileType dirvish nnoremap <silent> <buffer> <C-r> :<C-u>Dirvish %<CR>
+"   autocmd FileType dirvish unmap <silent> <buffer> <CR>
+"   autocmd FileType dirvish nnoremap <silent> <buffer> <CR> :<C-u> call <SID>dirvish_open()<CR>
+"   autocmd FileType dirvish setlocal nonumber norelativenumber statusline=%F
+"   autocmd FileType dirvish silent! keeppatterns g@\v/\.[^\/]+/?$@d
+"   autocmd FileType dirvish execute ':sort r /[^\/]$/'
+" augroup END
 
