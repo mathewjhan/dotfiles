@@ -41,8 +41,10 @@ if has('nvim')
   Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
   Plug 'hrsh7th/nvim-cmp'
   Plug 'hrsh7th/cmp-buffer'
+  Plug 'hrsh7th/cmp-path'
   Plug 'hrsh7th/cmp-nvim-lsp'
   Plug 'quangnguyen30192/cmp-nvim-ultisnips'
+  Plug 'williamboman/nvim-lsp-installer'
 endif
 
 call plug#end()
@@ -56,6 +58,10 @@ endif
 
 
 let mapleader = ","
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Indentline
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:indentLine_char = '│'
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Goyo

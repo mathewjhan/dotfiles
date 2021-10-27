@@ -23,8 +23,8 @@ lua <<EOF
     mapping = {
       ['<C-p>'] = cmp.mapping.select_prev_item(),
       ['<C-n>'] = cmp.mapping.select_next_item(),
-      ['<C-d>'] = cmp.mapping.scroll_docs(-4),
-      ['<C-f>'] = cmp.mapping.scroll_docs(4),
+      ['<C-u>'] = cmp.mapping.scroll_docs(-4),
+      ['<C-d>'] = cmp.mapping.scroll_docs(4),
       ['<C-e>'] = cmp.mapping.close(),
       ['<CR>'] = cmp.mapping.confirm {
         behavior = cmp.ConfirmBehavior.Replace,
@@ -46,37 +46,13 @@ lua <<EOF
         "i",
         "s",
       }),
-      ["<Tab>"] = cmp.mapping(function(fallback)
-        if vim.fn.complete_info()["selected"] == -1 and vim.fn["UltiSnips#CanExpandSnippet"]() == 1 then
-          vim.fn.feedkeys(t("<C-R>=UltiSnips#ExpandSnippet()<CR>"))
-        elseif vim.fn["UltiSnips#CanJumpForwards"]() == 1 then
-          vim.fn.feedkeys(t("<ESC>:call UltiSnips#JumpForwards()<CR>"))
-        elseif vim.fn.pumvisible() == 1 then
-          vim.fn.feedkeys(t("<C-n>"), "n")
-        elseif check_back_space() then
-          vim.fn.feedkeys(t("<tab>"), "n")
-        else
-          fallback()
-        end
-      end, {
-        "i",
-        "s",
-      }),
-      ["<S-Tab>"] = cmp.mapping(function(fallback)
-        if vim.fn["UltiSnips#CanJumpBackwards"]() == 1 then
-          return vim.fn.feedkeys(t("<C-R>=UltiSnips#JumpBackwards()<CR>"))
-        elseif vim.fn.pumvisible() == 1 then
-          vim.fn.feedkeys(t("<C-p>"), "n")
-        else
-          fallback()
-        end
-      end, {
-        "i",
-        "s",
-      }),
+      ['<Tab>'] = cmp.mapping(cmp.mapping.select_next_item(), { 'i', 's' }),
+      ['<S-Tab>'] = cmp.mapping(cmp.mapping.select_prev_item(), { 'i', 's' }),
     },
     sources = {
       { name = 'nvim_lsp' },
+      { name = 'path' },
+      { name = 'buffer' },
       { name = 'ultisnips' },
     },
   }
@@ -264,6 +240,14 @@ end
 EOF
 autocmd CursorMoved * :lua echo_diagnostic()
 
+" lua << EOF
+" -- You will likely want to reduce updatetime which affects CursorHold
+" -- note: this setting is global and should be set only once
+" vim.o.updatetime = 250
+" vim.cmd [[autocmd CursorHold,CursorHoldI * lua vim.lsp.diagnostic.show_line_diagnostics({focusable=false})]]
+" 
+" EOF
+
 
 """""""""""""""
 " Treesitter 
@@ -282,14 +266,34 @@ EOF
 " LSP Config
 """""""""""""""
 lua << EOF
-local nvim_lsp = require 'lspconfig'
-local servers = { 'pyright', 'clangd', 'jdtls' }
-for _, lsp in ipairs(servers) do
-  nvim_lsp[lsp].setup {
-    on_attach = on_attach,
-    capabilities = capabilities,
-  }
-end
+local lsp_installer = require("nvim-lsp-installer")
+
+lsp_installer.on_server_ready(function(server)
+    local opts = {}
+
+    -- (optional) Customize the options passed to the server
+    -- if server.name == "tsserver" then
+    --     opts.root_dir = function() ... end
+    -- end
+
+    -- This setup() function is exactly the same as lspconfig's setup function (:help lspconfig-quickstart)
+    server:setup(opts)
+    vim.cmd [[ do User LspAttachBuffers ]]
+end)
+
+-- local nvim_lsp = require 'lspconfig'
+-- local servers = { 
+--   'pyright', 
+--   'clangd', 
+--   'jdtls', 
+--   'texlab' 
+-- }
+-- for _, lsp in ipairs(servers) do
+--   nvim_lsp[lsp].setup {
+--     on_attach = on_attach,
+--     capabilities = capabilities,
+--   }
+-- end
 EOF
 
 """""""""""""""
