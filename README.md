@@ -9,23 +9,25 @@ Most of the dotfiles I am using on my current Linux distro.
 ![rice](rice.png?raw=true "Title")
 
 # Currently in use:
-- Automounter: [`udiskie`](https://github.com/coldfix/udiskie)
-- Compositor: [`picom`](https://github.com/yshui/picom)
-- Dotfile management: `git` + [`stow`](https://www.gnu.org/software/stow/)
-- File manager: [`vifm`](https://github.com/vifm/vifm)
-- Launcher/Window swapper: [`rofi`](https://github.com/davatorium/rofi)
-- Monitor manager: [`autorandr`](https://github.com/phillipberndt/autorandr)
-- Music player: `mpd` + [`ncmpcpp`](https://github.com/ncmpcpp/ncmpcpp)
-- Notifications: [`dunst`](https://github.com/dunst-project/dunst)
-- PDF reader: [`zathura`](https://github.com/pwmt/zathura)
-- Power management: [`tlp`](https://github.com/linrunner/TLP)
-- Screenshot tool: [`flameshot`](https://github.com/flameshot-org/flameshot)
-- Taskbar: [`polybar`](https://github.com/polybar/polybar)
-- Terminal: [`kitty`](https://github.com/kovidgoyal/kitty)
-- Text editor: [`neovim`](https://github.com/neovim/neovim) 
-- Theming: [`pywal`](https://github.com/dylanaraps/pywal)
-- Touchpad: [`libinput-gestures`](https://github.com/bulletmark/libinput-gestures)
-- `rm` replacement: [`rip`](https://github.com/nivekuil/rip)
+| Functionality           | Program                                                                |
+| -------------           | -------                                                                |
+| Automounter             | [`udiskie`](https://github.com/coldfix/udiskie)                        |
+| Compositor              | [`picom`](https://github.com/yshui/picom)                              |
+| Dotfile management      | `git` + [`stow`](https://www.gnu.org/software/stow/)                   |
+| File manager            | [`vifm`](https://github.com/vifm/vifm)                                 |
+| Launcher/Window swapper | [`rofi`](https://github.com/davatorium/rofi)                           |
+| Monitor manager         | [`autorandr`](https://github.com/phillipberndt/autorandr)              |
+| Music player            | `mpd` + [`ncmpcpp`](https://github.com/ncmpcpp/ncmpcpp)                |
+| Notifications           | [`dunst`](https://github.com/dunst-project/dunst)                      |
+| PDF reader              | [`zathura`](https://github.com/pwmt/zathura)                           |
+| Power management        | [`tlp`](https://github.com/linrunner/TLP)                              |
+| Screenshot tool         | [`flameshot`](https://github.com/flameshot-org/flameshot)              |
+| Taskbar                 | [`polybar`](https://github.com/polybar/polybar)                        |
+| Terminal                | [`kitty`](https://github.com/kovidgoyal/kitty)                         |
+| Text editor             | [`neovim`](https://github.com/neovim/neovim)                           |
+| Theming                 | [`pywal`](https://github.com/dylanaraps/pywal)                         |
+| Touchpad                | [`libinput-gestures`](https://github.com/bulletmark/libinput-gestures) |
+| `rm` replacement        | [`rip`](https://github.com/nivekuil/rip)                               |
 
 # Requirements
 
@@ -65,6 +67,7 @@ Most of the dotfiles I am using on my current Linux distro.
 - fzf.vim
 - goyo.vim
 - indentline
+- markdown-preview.nvim
 - neoformat
 - pear-tree
 - tabline.vim
@@ -83,9 +86,11 @@ Most of the dotfiles I am using on my current Linux distro.
 - vimtex
 
 ## neovim
-- nvim-cmp
-- nvim-lspconfig
-- nvim-treesitter
 - cmp-buffer
 - cmp-nvim-lsp
 - cmp-nvim-ultisnips
+- cmp-path
+- nvi-lsp-installer
+- nvim-cmp
+- nvim-lspconfig
+- nvim-treesitter
