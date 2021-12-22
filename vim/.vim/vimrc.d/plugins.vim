@@ -25,15 +25,15 @@ Plug 'MattesGroeger/vim-bookmarks'
 Plug 'machakann/vim-sandwich'
 Plug 'Yggdroot/indentLine'
 Plug 'mg979/vim-visual-multi', {'branch': 'master'}
-Plug 'tpope/vim-sleuth'
 Plug 'preservim/tagbar'
 Plug 'dstein64/vim-startuptime'
 
 " Themes
 " Normal
-Plug 'jdsimcoe/abstract.vim'
+Plug 'sainnhe/everforest'
+Plug 'sainnhe/sonokai'
 " Wal
-Plug 'Badacadabra/vim-archery'
+Plug 'nekonako/xresources-nvim'
 
 " NVIM plugins
 if has('nvim')
@@ -45,6 +45,8 @@ if has('nvim')
   Plug 'hrsh7th/cmp-nvim-lsp'
   Plug 'quangnguyen30192/cmp-nvim-ultisnips'
   Plug 'williamboman/nvim-lsp-installer'
+  Plug 'nathom/filetype.nvim'
+  Plug 'ray-x/lsp_signature.nvim'
 endif
 
 call plug#end()
@@ -119,7 +121,9 @@ let g:UltiSnipsRemoveSelectModeMappings = 0
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Colorscheme
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-colorscheme abstract
+autocmd ColorScheme * highlight Normal ctermbg=NONE guibg=NONE
+autocmd ColorScheme * highlight EndOfBuffer ctermbg=NONE guibg=NONE
+colorscheme everforest
 
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
 

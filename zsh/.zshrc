@@ -3,12 +3,12 @@
 #
 
 # School
-alias uni="cd /media/data/mathew/Home/College"
-alias cs514="cd /media/data/mathew/Home/College/CS514"
-alias cs589="cd /media/data/mathew/Home/College/CS589"
-alias cs453="cd /media/data/mathew/Home/College/CS453"
-alias cs590cc="cd /media/data/mathew/Home/College/CS590CC"
-alias anthro="cd /media/data/mathew/Home/College/ANTHRO150"
+export uni="/media/data/mathew/Home/College"
+alias cs591nr="cd /media/data/mathew/Home/College/CS591NR"
+alias cs390r="cd /media/data/mathew/Home/College/CS390R"
+alias cs326="cd /media/data/mathew/Home/College/CS326"
+alias cs410="cd /media/data/mathew/Home/College/CS410"
+alias math545="cd /media/data/mathew/Home/College/MATH545"
 
 # Convenient aliases
 alias e="nvim"
