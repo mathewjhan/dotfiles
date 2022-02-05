@@ -7,10 +7,10 @@
   padding = 8
   horizontal_padding = 8
   separator_color = frame
-  font = Noto Sans 9
-  frame_width = 3
-  max_icon_size = 32
-  corner_radius = 5
+  font = ${font}
+  frame_width = ${frame_width}
+  max_icon_size = ${max_icon_size}
+  corner_radius = ${corner_radius}
 
   format = "<b>%s</b>\n%b"
 
@@ -39,16 +39,16 @@
   icon_path = /usr/share/icons/Paper/16x16/status/:/usr/share/icons/Paper/16x16/devices/:/usr/share/icons/Paper/48x48/notifications/
 
 [urgency_low]
-  background = "#191e21"
-  foreground = "#c5c6c7"
-  frame_color = "#b19276"
+  background = "${low_background}"
+  foreground = "${low_foreground}"
+  frame_color = "${low_frame_color}"
 
 [urgency_normal]
-  background = "#191e21"
-  foreground = "#c5c6c7"
-  frame_color = "#b19276"
+  background = "${normal_background}"
+  foreground = "${normal_foreground}"
+  frame_color = "${normal_frame_color}"
 
 [urgency_critical]
-  background = "#191e21"
-  foreground = "#c5c6c7"
-  frame_color = "#b19276"
+  background = "${critical_background}"
+  foreground = "${critical_foreground}"
+  frame_color = "${critical_frame_color}"

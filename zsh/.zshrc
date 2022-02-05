@@ -146,14 +146,13 @@ commit-dots(){
 
 # Clean pacman/yay cache
 alias cleanup="sudo paccache -r -k 2 && paru -Sc"
+alias rebuildpy="paru -S $(LANG=C pacman -Qo /usr/lib/python3.9/ | cut -f5 -d\  | tr '\n' ' ')"
 
 ## ZSH SPECIFIC
 # vi mode
 set -o vi
 export KEYTIMEOUT=2
 bindkey -v
-bindkey "^?" backward-delete-char
-bindkey '^h' backward-delete-char
 bindkey '^w' backward-kill-word
 
 # better tab completion
