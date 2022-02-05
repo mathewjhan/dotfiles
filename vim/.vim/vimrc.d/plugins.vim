@@ -8,25 +8,27 @@ call plug#begin('~/.vim/plugged')
 " -------------
 
 " Github
-Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
-Plug 'sbdchd/neoformat'
+Plug 'MattesGroeger/vim-bookmarks'
 Plug 'SirVer/ultisnips'
-Plug 'mkitt/tabline.vim'
+Plug 'Yggdroot/indentLine'
+Plug 'cohama/lexima.vim'
+Plug 'dstein64/vim-startuptime'
+Plug 'godlygeek/tabular'
+Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+Plug 'junegunn/fzf.vim'
+Plug 'junegunn/goyo.vim'
 Plug 'lervag/vimtex'
+Plug 'machakann/vim-sandwich'
+Plug 'mg979/vim-visual-multi', {'branch': 'master'}
+Plug 'mkitt/tabline.vim'
+Plug 'mzlogin/vim-markdown-toc'
+Plug 'preservim/tagbar'
+Plug 'sbdchd/neoformat'
 Plug 'skywind3000/asyncrun.vim'
+Plug 'timakro/vim-yadi'
+Plug 'vim-airline/vim-airline'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
-Plug 'godlygeek/tabular'
-Plug 'vim-airline/vim-airline'
-Plug 'junegunn/goyo.vim'
-Plug 'junegunn/fzf.vim'
-Plug 'tmsvg/pear-tree'
-Plug 'MattesGroeger/vim-bookmarks'
-Plug 'machakann/vim-sandwich'
-Plug 'Yggdroot/indentLine'
-Plug 'mg979/vim-visual-multi', {'branch': 'master'}
-Plug 'preservim/tagbar'
-Plug 'dstein64/vim-startuptime'
 
 " Themes
 " Normal
@@ -47,6 +49,7 @@ if has('nvim')
   Plug 'williamboman/nvim-lsp-installer'
   Plug 'nathom/filetype.nvim'
   Plug 'ray-x/lsp_signature.nvim'
+  Plug 'j-hui/fidget.nvim'
 endif
 
 call plug#end()
@@ -64,6 +67,12 @@ let mapleader = ","
 " => Indentline
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:indentLine_char = '│'
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => yadi
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Try to auto detect and use the indentation of a file when opened. 
+autocmd BufRead * DetectIndent
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Goyo

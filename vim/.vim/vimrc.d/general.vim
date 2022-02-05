@@ -34,6 +34,7 @@ set ai "Auto indent
 set si "Smart indent
 set wrap lbr "Wrap Linebreak"
 
+set indentexpr=
 " Specify the behavior when switching between buffers 
 try
   set switchbuf=useopen,usetab,newtab
