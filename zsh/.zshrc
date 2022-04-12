@@ -7,7 +7,7 @@ export uni="/media/data/mathew/Home/College"
 alias cs591nr="cd /media/data/mathew/Home/College/CS591NR"
 alias cs390r="cd /media/data/mathew/Home/College/CS390R"
 alias cs326="cd /media/data/mathew/Home/College/CS326"
-alias cs410="cd /media/data/mathew/Home/College/CS410"
+alias cs610="cd /media/data/mathew/Home/College/CS610"
 alias math545="cd /media/data/mathew/Home/College/MATH545"
 
 # Convenient aliases

@@ -29,6 +29,8 @@ Plug 'timakro/vim-yadi'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
+Plug 'kana/vim-textobj-user'
+Plug 'julian/vim-textobj-variable-segment'
 
 " Themes
 " Normal

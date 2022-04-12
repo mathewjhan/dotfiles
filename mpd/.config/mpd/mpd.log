@@ -30254,3 +30254,449 @@ Feb 03 18:36 : config: option 'device' on line 209 was not recognized
 Feb 04 12:47 : config: option 'device' on line 209 was not recognized
 Feb 04 16:50 : config: option 'device' on line 209 was not recognized
 Feb 05 10:17 : config: option 'device' on line 209 was not recognized
+Feb 06 11:31 : config: option 'device' on line 209 was not recognized
+Feb 07 14:42 : config: option 'device' on line 209 was not recognized
+Feb 07 19:28 : config: option 'device' on line 209 was not recognized
+Feb 08 19:22 : config: option 'device' on line 209 was not recognized
+Feb 09 14:07 : config: option 'device' on line 209 was not recognized
+Feb 09 19:19 : config: option 'device' on line 209 was not recognized
+Feb 09 19:22 : config: option 'device' on line 209 was not recognized
+Feb 10 13:01 : config: option 'device' on line 209 was not recognized
+Feb 10 13:03 : config: option 'device' on line 209 was not recognized
+Feb 10 19:14 : config: option 'device' on line 209 was not recognized
+Feb 10 22:34 : config: option 'device' on line 209 was not recognized
+Feb 11 13:41 : config: option 'device' on line 209 was not recognized
+Feb 11 14:41 : config: option 'device' on line 209 was not recognized
+Feb 11 18:35 : config: option 'device' on line 209 was not recognized
+Feb 12 16:23 : config: option 'device' on line 209 was not recognized
+Feb 13 19:01 : config: option 'device' on line 209 was not recognized
+Feb 14 13:25 : config: option 'device' on line 209 was not recognized
+Feb 15 13:29 : config: option 'device' on line 209 was not recognized
+Feb 15 18:53 : config: option 'device' on line 209 was not recognized
+Feb 15 19:43 : config: option 'device' on line 209 was not recognized
+Feb 15 20:56 : config: option 'device' on line 209 was not recognized
+Feb 16 14:06 : config: option 'device' on line 209 was not recognized
+Feb 16 20:27 : config: option 'device' on line 209 was not recognized
+Feb 17 13:04 : config: option 'device' on line 209 was not recognized
+Feb 17 19:28 : config: option 'device' on line 209 was not recognized
+Feb 18 13:28 : config: option 'device' on line 209 was not recognized
+Feb 18 14:33 : config: option 'device' on line 209 was not recognized
+Feb 18 15:53 : config: option 'device' on line 209 was not recognized
+Feb 18 18:29 : config: option 'device' on line 209 was not recognized
+Feb 19 13:13 : config: option 'device' on line 209 was not recognized
+Feb 20 11:21 : config: option 'device' on line 209 was not recognized
+Feb 21 11:46 : config: option 'device' on line 209 was not recognized
+Feb 21 12:06 : player: played "DDBY/Cafe de Touhou 1/01. もし、空が晴れるなら.mp3"
+Feb 21 12:06 : player: played "DDBY/Cafe de Touhou 1/03. Jam from memories of winter.mp3"
+Feb 21 12:08 : output: Failed to play on "pulse audio" (pulse): disconnected
+Feb 21 12:08 : player: played "DDBY/Cafe de Touhou 2/11. Blue Wings.mp3"
+Feb 21 12:09 : config: option 'device' on line 209 was not recognized
+Feb 21 12:09 : player: played "DDBY/Cafe de Touhou 1/01. もし、空が晴れるなら.mp3"
+Feb 21 12:11 : player: played "DDBY/Cafe de Touhou 1/01. もし、空が晴れるなら.mp3"
+Feb 21 12:11 : player: played "DDBY/Cafe de Touhou 1/04. Perfect Day Dream.mp3"
+Feb 21 12:40 : config: option 'device' on line 209 was not recognized
+Feb 21 17:07 : player: played "DDBY/Cafe de Touhou 1/01. もし、空が晴れるなら.mp3"
+Feb 21 17:10 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+Feb 21 17:14 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/07 - A_LDK.mp3"
+Feb 21 17:16 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 03 降り積もる灰.mp3"
+Feb 21 17:21 : player: played "Video Game OST/The Sound of Kirby Café/10. Sixty-four.mp3"
+Feb 21 17:25 : player: played "Video Game OST/The Sound of Kirby Café/12. Café de Planet.mp3"
+Feb 21 17:27 : player: played "Masaki Mizusato/The daily life of cats in Paris/9 - 街はアスレチック - La ville est l'aire de jeux.flac"
+Feb 21 17:31 : player: played "Video Game OST/The Sound of Kirby Café/05. Teatime Under Sunshine Filtering Through The Leaves.mp3"
+Feb 21 17:34 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-01-メインテーマ(天と魔法のリゼロット).mp3"
+Feb 21 17:37 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/05 - 獅子奮迅.mp3"
+Feb 21 17:40 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/01 - 萃う夢を想う.mp3"
+Feb 21 17:43 : player: played "Masaki Mizusato/The daily life of cats in Paris/13 - 夕焼け空の下で - Sous le ciel rouge.flac"
+Feb 21 17:48 : player: played "mamomo/Hometown/07 - hometown.mp3"
+Feb 21 17:51 : player: played "a_hisa/a_hisa - shizuku/02 - Cold Mist.mp3"
+Feb 21 17:55 : player: played "Video Game OST/The Sound of Kirby Café/06. Oasis of Peace.mp3"
+Feb 21 17:59 : player: played "Video Game OST/The Sound of Kirby Café/04. At the Floating Paradise.mp3"
+Feb 21 18:02 : player: played "Sakuzyo/Food and Musik/06 - Works and Coffee.mp3"
+Feb 21 18:05 : player: played "Masaki Mizusato/The daily life of cats in Paris/4 - 街角のアコーディオン弾き - L'accordéoniste dans une rue.flac"
+Feb 21 18:08 : player: played "Video Game OST/The Sound of Kirby Café/09. Rendezvous of the King and the Witch.mp3"
+Feb 21 18:12 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-03-バトル1(天と魔法のリゼロット).mp3"
+Feb 21 18:24 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 10 幻想図書館.mp3"
+Feb 21 18:27 : player: played "Masaki Mizusato/The daily life of cats in Paris/8 - ボス猫がやってきた！ - Le chat patron est venu!.flac"
+Feb 21 18:31 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 01 廃都.mp3"
+Feb 21 18:34 : player: played "mamomo/lostworld/09. xxε34lost_world.flac"
+Feb 21 18:36 : player: played "mamomo/lostworld/10. 124ζ44_break_water.flac"
+Feb 21 18:40 : player: played "mamomo/lostworld/04. 90γ68slum_hope.flac"
+Feb 21 18:41 : player: played "Masaki Mizusato/The daily life of cats in Paris/11 - まぶたが重い - Mes paupières sont lourdes.flac"
+Feb 21 18:47 : player: played "mamomo/lostworld/15. 146αβ44beyond_the_light.flac"
+Feb 21 18:50 : player: played "Sakuzyo/Food and Musik/03 - Sidewalk Cafe.mp3"
+Feb 21 18:54 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/03 - おでかけ気分で.mp3"
+Feb 21 19:00 : player: played "Sakuzyo/Food and Musik/12 - For tomorrow.mp3"
+Feb 21 19:01 : player: played "a_hisa/a_hisa - shizuku/07 - outro.mp3"
+Feb 21 19:05 : player: played "Sakuzyo/Food and Musik/08 - imp.mp3"
+Feb 21 19:08 : player: played "mamomo/lostworld/13. 160ι44stand_up_to.flac"
+Feb 21 19:13 : player: played "mamomo/lostworld/02. 99αβ44bluewhite.flac"
+Feb 21 19:17 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 07 精霊界.mp3"
+Feb 21 19:20 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-10-アウトロ(CD書き下ろし).mp3"
+Feb 21 19:24 : player: played "mamomo/lostworld/03. 162βγ44assassin.flac"
+Feb 21 19:28 : player: played "Video Game OST/The Sound of Kirby Café/07. Sunset Tower.mp3"
+Feb 21 19:32 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/08 - Pacemaker.mp3"
+Feb 21 19:34 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-08-礼拝堂(2019新企画).mp3"
+Feb 21 20:00 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 09 最果ての国.mp3"
+Feb 21 20:03 : player: played "Masaki Mizusato/The daily life of cats in Paris/12 - 猫と道化師 - Un clown et les chats.flac"
+Feb 21 20:06 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/04 - 靴下をはいた猫.mp3"
+Feb 21 20:10 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 02 霧に潜む魔物.mp3"
+Feb 21 20:14 : player: played "mamomo/lostworld/14. 88θ68nostalgia.flac"
+Feb 21 20:16 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/01 - Morning Breaking.mp3"
+Feb 21 20:18 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-06-一日の始まり(2019新企画).mp3"
+Feb 21 20:21 : player: played "mamomo/Hometown/06 - twilight.mp3"
+Feb 21 20:25 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio]ぬくもりクレイル/06 - いつのも場所.mp3"
+Feb 21 20:29 : player: played "mamomo/lostworld/01. 107α44yellow_city.flac"
+Feb 21 20:31 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-09-開店(2019新企画).mp3"
+Feb 21 20:35 : player: played "Video Game OST/The Sound of Kirby Café/02. Brimful Butter Building.mp3"
+Feb 21 20:37 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-02-石の都アストルム(天と魔法のリゼロット).mp3"
+Feb 21 20:42 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 06 琥珀色の川.mp3"
+Feb 21 20:44 : player: played "Foxtail-Grass Studio/[Foxtail-Grass Studio] なつかぜメモリア/04 - さんぽみち.mp3"
+Feb 21 20:48 : player: played "Sakuzyo/Food and Musik/02 - Light Meal.mp3"
+Feb 21 20:53 : player: played "mamomo/Hometown/01 - around.mp3"
+Feb 21 20:54 : player: played "Masaki Mizusato/The daily life of cats in Paris/6 - お屋敷のジェントルキャット - Le chat gentilhomme du manoir.flac"
+Feb 21 20:58 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 11 新世界より.mp3"
+Feb 21 21:01 : player: played "mamomo/lostworld/08. 224δζ44diffusion.flac"
+Feb 21 21:04 : player: played "Sakuzyo/Food and Musik/04 - Cake.mp3"
+Feb 21 21:07 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-04-街道(暁工房のコートニー).mp3"
+Feb 21 21:09 : player: played "mamomo/lostworld/06. 211αγ44slum_intrigue.flac"
+Feb 21 21:13 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 04 絡繰師の里.mp3"
+Feb 21 21:16 : player: played "Masaki Mizusato/The daily life of cats in Paris/15 - いつも通りのこの街に - Pour cette ville comme d'habitude.flac"
+Feb 21 21:19 : player: played "a_hisa/a_hisa - shizuku/06 - Whisper of Stream.mp3"
+Feb 21 21:21 : player: played "a_hisa/a_hisa - shizuku/03 - Blue Fountain.mp3"
+Feb 21 21:25 : player: played "mamomo/Hometown/03 - echo.mp3"
+Feb 21 21:28 : player: played "mamomo/Hometown/04 - garden.mp3"
+Feb 21 21:31 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 08 方舟.mp3"
+Feb 21 21:33 : player: played "mamomo/Hometown/02 - slope.mp3"
+Feb 21 21:37 : player: played "mamomo/Hometown/10 - ペンギンが飛んだ.mp3"
+Feb 21 21:38 : player: played "Masaki Mizusato/The daily life of cats in Paris/2 - ロマンス - Romance.flac"
+Feb 21 21:41 : player: played "mamomo/lostworld/05. 135κ44trade_city.flac"
+Feb 21 21:44 : player: played "mamomo/mamomo - 新世界より/mamomo - 新世界より - 05 せめて亡骸だけは.mp3"
+Feb 21 21:44 : player: played "Sakuzyo/Food and Musik/10 - Moan.mp3"
+Feb 21 23:12 : player: played "Daisensei Muroya Strings/Anison Strings～弦楽四重奏で聴くランティスの歴史 (MP3+BK)/01. Can Do.mp3"
+Feb 21 23:12 : player: played "bohemianvoodoo/Echoes (Album)/01 Chill Out.mp3"
+Feb 21 23:13 : player: played "ClariS/ClariS 10th year StartinG Tower of Persona - Past & Encounter MP3/02. ClariS 10th year StartinG 仮面(ペルソナ)の塔 - #2 パスト (いきさつ) Track 2.mp3"
+Feb 21 23:14 : update: removing ClariS/ClariS 10th year StartinG Tower of Persona - Past & Encounter MP3/03. ClariS 10th year StartinG 仮面(ペルソナ)の塔 - #2 パスト (いきさつ) Track 3.mp3
+Feb 21 23:14 : update: removing ClariS/ClariS 10th year StartinG Tower of Persona - Past & Encounter MP3/02. ClariS 10th year StartinG 仮面(ペルソナ)の塔 - #2 パスト (いきさつ) Track 2.mp3
+Feb 21 23:14 : update: removing ClariS/ClariS 10th year StartinG Tower of Persona - Past & Encounter MP3/01. ClariS 10th year StartinG 仮面(ペルソナ)の塔 - #2 パスト (いきさつ) Track 1.mp3
+Feb 21 23:14 : update: removing ClariS/ClariS 10th year StartinG Tower of Persona - Past & Encounter MP3/02. ClariS 10th year StartinG 仮面(ペルソナ)の塔 - #1 エンカウンター (出会い) Track 2.mp3
+Feb 21 23:14 : update: removing ClariS/ClariS 10th year StartinG Tower of Persona - Past & Encounter MP3/01. ClariS 10th year StartinG 仮面(ペルソナ)の塔 - #1 エンカウンター (出会い) Track 1.mp3
+Feb 21 23:14 : update: added Video Game OST/Bullet Hell Monday/Boss.ogg
+Feb 21 23:14 : update: added Video Game OST/Bullet Hell Monday/Chapter 1.ogg
+Feb 21 23:14 : update: added Video Game OST/Bullet Hell Monday/Chapter 2.ogg
+Feb 21 23:14 : update: added Video Game OST/Bullet Hell Monday/Chapter 3.ogg
+Feb 21 23:14 : update: added Video Game OST/Bullet Hell Monday/Chapter 4.ogg
+Feb 21 23:14 : update: added Video Game OST/Bullet Hell Monday/Chapter 5.ogg
+Feb 21 23:14 : update: added Video Game OST/Bullet Hell Monday/Extra.ogg
+Feb 21 23:14 : exception: Failed to open ZIP file /home/mathew/Music/Video Game OST/Crosscode/crosscode_ost_ex_mp3.zip
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 01 Title.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 02 Mysterious Place.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 03 Fierce Battle.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 04 Distant Future.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 05 Awakened.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 06 Cargo Hold.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 07 Battle 1.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 08 M.S. Solar.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 10 Challenge 1.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 11 Taking What Does Not Belong.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 12 Boss Battle.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 13 CrossCounter!.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 14 Escape.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 15 Newcomer's Bridge.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 16 Rhombus Dungeon.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 17 Challenge 2.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 19 The Path of Justice.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 20 Rookie Harbor.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 21 Autumn's Rise.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 22 Battle 2.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 23 Travelling Together.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 24 Lea!.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 25 Bergen Trail.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 26 Bergen Village.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 09 Welcome to CrossWorlds.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 18 Valse d'Ahoge.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 27 Briefing.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 36 Autumn's Fall.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 45 Separated Again.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 54 Temple of Thunder.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 28 First Scholars.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 29 Temple Mine.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 30 Improvising.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 31 Maroon Valley.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 32 Ba'kii Kum.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 33 Shocking Reveal.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 34 Temple of the Valley.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 35 Lucid Dream.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 37 Raid.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 38 The Experience.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 39 Imprisoned.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 40 Vermillion Wasteland.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 41 Battle 3.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 42 Confrontation.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 43 Sadness.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 44 Infiltration.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 46 Hack Your Way!.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 47 Escape Again.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 48 Exponential Growth.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 49 Exponential Conclusion.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 50 Past Events.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 51 Gaia's Garden.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 52 Basin Keep.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 53 Temple of the Lake.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 55 Temple of the Grand Tree.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 56 Sapphire Ridge.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 57 Rhombus Square.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 58 Old Hideout.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 59 Shizuka.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 60 True Intention.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 61 Vermillion Dungeon.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 62 The Ultimate Experience.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 63 Ending.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/Deniz Akbulut - CrossCode (Original Game Soundtrack)/Deniz Akbulut - CrossCode (Original Game Soundtrack) - 64 Promo Trailer.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/01-Arena Lobby.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/02-Boss Rush.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/03-Glitch.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/04-S-Rank Battle.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/05-Azure Archipelago.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/06-Temple of the Crater.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/07-One Last Trial.mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/08-Unknown (Unused).mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/09-Title (Early-Access, 2015).mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/10-P.G. Dungeon (Early-Access, 2015).mp3
+Feb 21 23:14 : update: added Video Game OST/Crosscode/ex/11-M.S. Solar (Early-Access, 2015).mp3
+Feb 21 23:14 : update: removing chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/chick tale - Lore.cue/track0008
+Feb 21 23:14 : update: removing chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/chick tale - Lore.cue/track0007
+Feb 21 23:14 : update: removing chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/chick tale - Lore.cue/track0006
+Feb 21 23:14 : update: removing chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/chick tale - Lore.cue/track0005
+Feb 21 23:14 : update: removing chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/chick tale - Lore.cue/track0004
+Feb 21 23:14 : update: removing chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/chick tale - Lore.cue/track0003
+Feb 21 23:14 : update: removing chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/chick tale - Lore.cue/track0002
+Feb 21 23:14 : update: removing chick tale/[M3-45] chick tale - Lore {CKCD-0003} [CD-FLAC]/chick tale - Lore.cue/track0001
+Feb 21 23:14 : update: removing Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/00. Sennzai&alico - Vocis Helix.cue/track0007
+Feb 21 23:14 : update: removing Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/00. Sennzai&alico - Vocis Helix.cue/track0006
+Feb 21 23:14 : update: removing Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/00. Sennzai&alico - Vocis Helix.cue/track0005
+Feb 21 23:14 : update: removing Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/00. Sennzai&alico - Vocis Helix.cue/track0004
+Feb 21 23:14 : update: removing Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/00. Sennzai&alico - Vocis Helix.cue/track0003
+Feb 21 23:14 : update: removing Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/00. Sennzai&alico - Vocis Helix.cue/track0002
+Feb 21 23:14 : update: removing Sennzai/[M3-43] Vocis Helix — Vocis Helix {SACD-01} [CD-FLAC]/00. Sennzai&alico - Vocis Helix.cue/track0001
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0015
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0014
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0013
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0012
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0011
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0010
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0009
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0008
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0007
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0006
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0005
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0004
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0003
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0002
+Feb 21 23:14 : update: removing Sakuzyo/[C84] Sakuzyo (削除) — L'aventale {Diverse System - DVSP-0096} [CD-FLAC]/sakuzyo - L'aventale.cue/track0001
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0014
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0013
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0012
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0011
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0010
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0009
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0008
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0007
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0006
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0005
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0004
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0003
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0002
+Feb 21 23:14 : update: removing re-plus/re-plus - (2010) Everlasting Truth [320]/re plus - Everlasting Truth.cue/track0001
+Feb 21 23:14 : update: removing Primary x yuiko/[2016.12.31] (C91) Primary - イノセンス Depressing/イノセンス Depressing.cue/track0004
+Feb 21 23:14 : update: removing Primary x yuiko/[2016.12.31] (C91) Primary - イノセンス Depressing/イノセンス Depressing.cue/track0003
+Feb 21 23:14 : update: removing Primary x yuiko/[2016.12.31] (C91) Primary - イノセンス Depressing/イノセンス Depressing.cue/track0002
+Feb 21 23:14 : update: removing Primary x yuiko/[2016.12.31] (C91) Primary - イノセンス Depressing/イノセンス Depressing.cue/track0001
+Feb 21 23:14 : update: removing Powerless/Veiled/Veiled.cue/track0005
+Feb 21 23:14 : update: removing Powerless/Veiled/Veiled.cue/track0004
+Feb 21 23:14 : update: removing Powerless/Veiled/Veiled.cue/track0003
+Feb 21 23:14 : update: removing Powerless/Veiled/Veiled.cue/track0002
+Feb 21 23:14 : update: removing Powerless/Veiled/Veiled.cue/track0001
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0012
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0011
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0010
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0009
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0008
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0007
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0006
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0005
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0004
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0003
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0002
+Feb 21 23:14 : update: removing kakeyan/Sounds Sound/Sounds Sound.cue/track0001
+Feb 21 23:14 : update: removing Islet/Cyanide/Cyanide.cue/track0006
+Feb 21 23:14 : update: removing Islet/Cyanide/Cyanide.cue/track0005
+Feb 21 23:14 : update: removing Islet/Cyanide/Cyanide.cue/track0004
+Feb 21 23:14 : update: removing Islet/Cyanide/Cyanide.cue/track0003
+Feb 21 23:14 : update: removing Islet/Cyanide/Cyanide.cue/track0002
+Feb 21 23:14 : update: removing Islet/Cyanide/Cyanide.cue/track0001
+Feb 21 23:14 : update: removing Yumegatari/ユメの喫茶店/ユメの喫茶店.cue/track0010
+Feb 21 23:14 : update: removing Yumegatari/ユメの喫茶店/ユメの喫茶店.cue/track0009
+Feb 21 23:14 : update: removing Yumegatari/ユメの喫茶店/ユメの喫茶店.cue/track0008
+Feb 21 23:14 : update: removing Yumegatari/ユメの喫茶店/ユメの喫茶店.cue/track0007
+Feb 21 23:14 : update: removing Yumegatari/ユメの喫茶店/ユメの喫茶店.cue/track0006
+Feb 21 23:14 : update: removing Yumegatari/ユメの喫茶店/ユメの喫茶店.cue/track0005
+Feb 21 23:14 : update: removing Yumegatari/ユメの喫茶店/ユメの喫茶店.cue/track0004
+Feb 21 23:14 : update: removing Yumegatari/ユメの喫茶店/ユメの喫茶店.cue/track0003
+Feb 21 23:14 : update: removing Yumegatari/ユメの喫茶店/ユメの喫茶店.cue/track0002
+Feb 21 23:14 : update: removing Yumegatari/ユメの喫茶店/ユメの喫茶店.cue/track0001
+Feb 21 23:15 : player: played "SOUND ROOM/【DL版】SOUND ROOM／パルティア教団小曲集/00-02-石の都アストルム(天と魔法のリゼロット).mp3"
+Feb 22 14:21 : config: option 'device' on line 209 was not recognized
+Feb 23 14:14 : config: option 'device' on line 209 was not recognized
+Feb 23 18:05 : config: option 'device' on line 209 was not recognized
+Feb 24 14:56 : config: option 'device' on line 209 was not recognized
+Feb 24 20:19 : config: option 'device' on line 209 was not recognized
+Feb 25 12:11 : config: option 'device' on line 209 was not recognized
+Feb 26 10:39 : config: option 'device' on line 209 was not recognized
+Feb 27 10:00 : config: option 'device' on line 209 was not recognized
+Feb 28 17:33 : config: option 'device' on line 209 was not recognized
+Mar 01 20:20 : config: option 'device' on line 209 was not recognized
+Mar 02 11:04 : config: option 'device' on line 209 was not recognized
+Mar 03 19:24 : config: option 'device' on line 209 was not recognized
+Mar 04 10:47 : config: option 'device' on line 209 was not recognized
+Mar 04 12:30 : config: option 'device' on line 209 was not recognized
+Mar 05 11:34 : config: option 'device' on line 209 was not recognized
+Mar 06 10:40 : config: option 'device' on line 209 was not recognized
+Mar 06 13:08 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - THROUGH THE SEA OF TIME - Orchestral Remix.mp3"
+Mar 06 13:13 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - PRIMAL DIALGA - Orchestral Remix.mp3"
+Mar 06 13:16 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - HIDDEN HIGHLAND - Orchestral Remix.mp3"
+Mar 06 13:21 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - DON'T EVER FORGET - Orchestral Remix.mp3"
+Mar 06 13:21 : player: played "Video Game OST/Own Eye Music - PMD Remixes/PMD2 - CHASM CAVE - Orchestral Remix.mp3"
+Mar 06 13:25 : player: played "DDBY/Cafe de Touhou 1/01. もし、空が晴れるなら.mp3"
+Mar 06 13:30 : player: played "DDBY/Cafe de Touhou 8/07. cafe des desirs.mp3"
+Mar 06 13:34 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-7/5-Unity-Gain-6dB+1—おひるやすみの絵宇宙話.flac"
+Mar 06 13:38 : player: played "DDBY/Cafe de Touhou 1/05. 暖色系アリス.mp3"
+Mar 06 13:43 : player: played "DDBY/Cafe de Touhou 2/06. Skyscraper of Horizon.mp3"
+Mar 06 13:46 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-4/3-お花畑で週末.flac"
+Mar 06 13:49 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-3/4-まさみティー-トラブル黒猫漫遊記.flac"
+Mar 06 13:51 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-5/2-春のおとずれ-[東方妖々夢～Ancient-Temple].flac"
+Mar 06 13:55 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-2/3-10th-Avenue-Cafe-tak—Acoustic-Image.flac"
+Mar 06 13:59 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-7/3-milka—solitary-girl.flac"
+Mar 06 14:03 : player: played "DDBY/Cafe de Touhou 3/08. 雨のち七色.mp3"
+Mar 06 14:07 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-2/6-坂上なち—Etupirka-Angelica.flac"
+Mar 06 14:11 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-7/6-MasamiT—ムーンライト・アニマルトレイル.flac"
+Mar 06 14:15 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-5/6-marisanha-[恋色マスタースパーク].flac"
+Mar 06 14:19 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 06 14:19 : player: played "DDBY/Cafe de Touhou 4/09. Deep-roasted coffee.mp3"
+Mar 06 14:23 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-9/ALAC/08 First note.m4a"
+Mar 06 14:27 : player: played "DDBY/Cafe de Touhou 7/01. Naive Face.mp3"
+Mar 06 14:32 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-8/2-Ghost-flight-in-the-sky.flac"
+Mar 06 14:36 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-8/5-Insane-Stoicism.flac"
+Mar 06 14:40 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-6/1-まさみティー—慰めの永遠亭.flac"
+Mar 06 14:45 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-6/2-milka—風舞う春に.flac"
+Mar 06 14:48 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA/10-泡沫と繭.flac"
+Mar 06 14:51 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-2/8-yana—ナルキッソスにさよなら.flac"
+Mar 06 14:56 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-6/6-Unity-Gain-6dB+1—Scarlet-Samba.flac"
+Mar 06 14:58 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-3/2-nachi-Que-ela-vem.flac"
+Mar 06 15:03 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-2/1-Unity-Gain—Close-to-your-Mind.flac"
+Mar 06 15:06 : player: played "DDBY/Cafe de Touhou 1/06. 風の都.mp3"
+Mar 06 15:11 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-7/7-鯛の小骨-Girls-loved-by-breeze.flac"
+Mar 06 15:16 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-4/5-stay-by-my-side～素直のままで.flac"
+Mar 06 15:19 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-6/4-nachi—もちもちさんぽみち.flac"
+Mar 06 15:23 : player: played "DDBY/Cafe de Touhou 1/11. Lotus.mp3"
+Mar 06 15:26 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA/9-Bom-dia.flac"
+Mar 06 15:31 : player: played "DDBY/Cafe de Touhou 3/10. Sorrow of the night.mp3"
+Mar 06 15:35 : player: played "DDBY/Cafe de Touhou 1/03. Jam from memories of winter.mp3"
+Mar 06 15:39 : player: played "DDBY/Cafe de Touhou 2/09. SEAMOON.mp3"
+Mar 06 15:43 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-3/7-yana-Garota-de-venda-medicamento.flac"
+Mar 06 15:48 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA/6-Otemba-de-Jane-yo.flac"
+Mar 06 15:52 : player: played "DDBY/Cafe de Touhou 8/02. INSIGHT.mp3"
+Mar 06 15:55 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-2/4-amm—アリスのボサノバ.flac"
+Mar 06 15:59 : player: played "DDBY/Cafe de Touhou 2/03. 濡れた素肌に.mp3"
+Mar 06 16:03 : player: played "DDBY/Cafe de Touhou 3/04. キマグレな日曜日.mp3"
+Mar 06 16:07 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-8/3-流星をくぐって.flac"
+Mar 06 16:11 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA/5-たまにはSUNを.flac"
+Mar 06 16:15 : player: played "DDBY/Cafe de Touhou 3/12. Forevermore.mp3"
+Mar 06 16:19 : player: played "DDBY/Cafe de Touhou 5/06. One day,in the city.mp3"
+Mar 06 16:23 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Mar 06 16:23 : player: played "DDBY/Cafe de Touhou 6/04. Brilliant Girls.mp3"
+Mar 06 16:27 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-9/ALAC/05 ふじやま、登るけぇのぉ.m4a"
+Mar 06 16:32 : player: played "DDBY/Cafe de Touhou 4/06. 片頬ついて.mp3"
+Mar 06 16:36 : player: played "DDBY/Cafe de Touhou 7/05. River path.mp3"
+Mar 06 16:39 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-5/7-サグメさま３分クッキング-[逆転するホイールオブフォーチューン-&-凍り付いた永遠の都].flac"
+Mar 06 16:42 : player: played "DDBY/Cafe de Touhou 2/01. Seaside.mp3"
+Mar 06 19:36 : player: played "DDBY/Cafe de Touhou 3/05. 星の交差点.mp3"
+Mar 06 19:40 : player: played "DDBY/Cafe de Touhou 1/08. NaTuLaL AGeNcY.mp3"
+Mar 06 19:45 : player: played "DDBY/Cafe de Touhou 8/05. warm glow night.mp3"
+Mar 06 19:48 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA/8-渡し舟の娘.flac"
+Mar 06 19:53 : player: played "DDBY/Cafe de Touhou 2/02. unknown.your smile.mp3"
+Mar 06 19:58 : player: played "DDBY/Cafe de Touhou 1/02. faraway country.mp3"
+Mar 06 20:01 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA/4-迷子のエコー.flac"
+Mar 06 20:06 : player: played "DDBY/Cafe de Touhou 1/09. Below Between Beyond.mp3"
+Mar 06 20:10 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA-8/7-もくもくのくも、隣でいっしょに.flac"
+Mar 06 22:48 : player: played "DDBY/Cafe de Touhou 5/02. Departure.mp3"
+Mar 07 09:37 : config: option 'device' on line 209 was not recognized
+Mar 07 14:11 : config: option 'device' on line 209 was not recognized
+Mar 07 19:12 : config: option 'device' on line 209 was not recognized
+Mar 08 13:22 : config: option 'device' on line 209 was not recognized
+Mar 08 13:23 : config: option 'device' on line 209 was not recognized
+Mar 08 19:47 : config: option 'device' on line 209 was not recognized
+Mar 09 14:10 : config: option 'device' on line 209 was not recognized
+Mar 09 19:24 : config: option 'device' on line 209 was not recognized
+Mar 10 10:12 : config: option 'device' on line 209 was not recognized
+Mar 10 13:16 : config: option 'device' on line 209 was not recognized
+Mar 12 17:37 : config: option 'device' on line 209 was not recognized
+Mar 13 15:15 : config: option 'device' on line 209 was not recognized
+Mar 14 11:39 : config: option 'device' on line 209 was not recognized
+Mar 15 11:04 : config: option 'device' on line 209 was not recognized
+Mar 15 11:34 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Mar 15 11:35 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+Mar 16 11:23 : config: option 'device' on line 209 was not recognized
+Mar 17 11:29 : config: option 'device' on line 209 was not recognized
+Mar 18 11:32 : config: option 'device' on line 209 was not recognized
+Mar 19 11:50 : config: option 'device' on line 209 was not recognized
+Mar 21 10:53 : config: option 'device' on line 209 was not recognized
+Mar 21 21:20 : config: option 'device' on line 209 was not recognized
+Mar 22 09:57 : config: option 'device' on line 209 was not recognized
+Mar 22 14:38 : config: option 'device' on line 209 was not recognized
+Mar 22 20:12 : config: option 'device' on line 209 was not recognized
+Mar 23 13:57 : config: option 'device' on line 209 was not recognized
+Mar 23 20:35 : config: option 'device' on line 209 was not recognized
+Mar 24 01:16 : config: option 'device' on line 209 was not recognized
+Mar 24 10:01 : config: option 'device' on line 209 was not recognized
+Mar 24 13:08 : config: option 'device' on line 209 was not recognized
+Mar 24 20:06 : config: option 'device' on line 209 was not recognized
+Mar 25 13:22 : config: option 'device' on line 209 was not recognized
+Mar 25 14:59 : config: option 'device' on line 209 was not recognized
+Mar 26 11:47 : config: option 'device' on line 209 was not recognized
+Mar 27 11:54 : config: option 'device' on line 209 was not recognized
+Mar 27 11:54 : config: option 'device' on line 209 was not recognized
+Mar 27 11:58 : config: option 'device' on line 209 was not recognized
+Mar 28 17:37 : config: option 'device' on line 209 was not recognized
+Mar 29 13:35 : config: option 'device' on line 209 was not recognized
+Mar 29 18:48 : config: option 'device' on line 209 was not recognized
+Mar 29 20:42 : config: option 'device' on line 209 was not recognized
+Mar 30 13:47 : config: option 'device' on line 209 was not recognized
+Mar 30 14:22 : config: option 'device' on line 209 was not recognized
+Mar 30 14:24 : config: option 'device' on line 209 was not recognized
+Mar 30 16:54 : config: option 'device' on line 209 was not recognized
+Mar 30 20:15 : config: option 'device' on line 209 was not recognized
+Mar 31 00:02 : config: option 'device' on line 209 was not recognized
+Mar 31 00:23 : config: option 'device' on line 209 was not recognized
+Mar 31 13:07 : config: option 'device' on line 209 was not recognized
+Mar 31 16:48 : config: option 'device' on line 209 was not recognized
+Mar 31 19:34 : config: option 'device' on line 209 was not recognized
+Apr 01 14:06 : config: option 'device' on line 209 was not recognized
+Apr 01 19:34 : config: option 'device' on line 209 was not recognized
+Apr 02 11:40 : config: option 'device' on line 209 was not recognized
+Apr 02 18:25 : config: option 'device' on line 209 was not recognized
+Apr 03 10:24 : config: option 'device' on line 209 was not recognized
+Apr 03 17:36 : config: option 'device' on line 209 was not recognized
+Apr 03 18:49 : config: option 'device' on line 209 was not recognized
+Apr 04 13:54 : config: option 'device' on line 209 was not recognized
+Apr 04 20:34 : config: option 'device' on line 209 was not recognized
+Apr 05 10:05 : config: option 'device' on line 209 was not recognized
+Apr 05 12:51 : config: option 'device' on line 209 was not recognized
+Apr 05 20:04 : config: option 'device' on line 209 was not recognized
+Apr 06 11:27 : config: option 'device' on line 209 was not recognized
+Apr 07 10:07 : config: option 'device' on line 209 was not recognized
+Apr 08 10:57 : config: option 'device' on line 209 was not recognized
+Apr 09 11:16 : config: option 'device' on line 209 was not recognized
+Apr 10 10:44 : config: option 'device' on line 209 was not recognized
+Apr 11 07:30 : config: option 'device' on line 209 was not recognized
+Apr 11 08:18 : config: option 'device' on line 209 was not recognized
+Apr 12 09:57 : config: option 'device' on line 209 was not recognized

@@ -261,6 +261,9 @@ exec --no-startup-id nm-applet
 exec_always --no-startup-id pkill -9 polybar
 exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 
+# Rofi wifi
+bindsym $mod+shift+w exec --no-startup-id networkmanager_dmenu
+
 # Libinput gestures
 exec --no-startup-id libinput-gestures-setup start
 

@@ -1,4 +1,4 @@
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Mappings
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
@@ -41,7 +41,7 @@ tnoremap <Esc> <C-\><C-n>
 tnoremap <C-[> <C-\><C-n>
 
 " Map <leader>n to toggle line numbers
-nmap <leader>n :set nu!<cr>
+nmap <leader>n :set rnu!<cr>
 
 " Disable highlight when <leader><cr> is pressed
 map <silent> <leader><cr> :noh<cr>
@@ -95,6 +95,17 @@ map 0 ^
 " Spell checking
 " Pressing ,ss will toggle and untoggle spell checking
 map <leader>sc :setlocal spell!<cr>
+
+" Replace
+nnoremap <leader>r :%s/\<<C-r>=expand("<cword>")<CR>\>/
+
+" Move highlighted block
+vnoremap J :m '>+1<CR>gv=gv
+vnoremap K :m '<-2<CR>gv=gv
+
+" Fast movement on homerow
+nnoremap J <PageDown>zz
+nnoremap K <PageUp>zz
 
 " Toggle paste mode on and off
 map <leader>pp :setlocal paste!<cr>
