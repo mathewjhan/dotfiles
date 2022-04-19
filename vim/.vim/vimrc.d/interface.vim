@@ -105,4 +105,8 @@ set ffs=unix,dos,mac
 
 " Status line
 " Always show the status line
-set laststatus=2
+if has('nvim')
+    set laststatus=3
+else
+    set laststatus=2
+endif

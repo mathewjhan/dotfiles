@@ -134,7 +134,12 @@ let g:UltiSnipsRemoveSelectModeMappings = 0
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 autocmd ColorScheme * highlight Normal ctermbg=NONE guibg=NONE
 autocmd ColorScheme * highlight EndOfBuffer ctermbg=NONE guibg=NONE
-colorscheme everforest
+
+if has('nvim')
+  colorscheme everforest
+else
+  colorscheme sonokai
+endif
 
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
 

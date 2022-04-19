@@ -3,6 +3,11 @@ set runtimepath^=~/.vim runtimepath+=~/.vim/after
     source ~/.vimrc
 
 """"""""""""""
+" misc
+""""""""""""""
+let g:do_filetype_lua = 1
+
+""""""""""""""
 " CMP SETUP
 """"""""""""""
 lua <<EOF
@@ -51,13 +56,15 @@ lua <<EOF
       { name = 'buffer' },
       { name = 'ultisnips' },
     },
-    documentation = {
-      border = "rounded",
-      max_width = 120,
-      min_width = 60,
-      max_height = math.floor(vim.o.lines * 0.3),
-      min_height = 1,
-    },
+    window = {
+      documentation = {
+        border = "rounded",
+        max_width = 120,
+        min_width = 60,
+        max_height = math.floor(vim.o.lines * 0.3),
+        min_height = 1,
+      },
+    }
   }
 EOF
 
@@ -256,7 +263,7 @@ autocmd CursorMoved * :lua echo_diagnostic()
 """""""""""""""
 lua <<EOF
 require'nvim-treesitter.configs'.setup {
-  ensure_installed = "maintained", -- one of "all", "maintained" (parsers with maintainers), or a list of languages
+  ensure_installed = {"c", "lua", "rust", "cpp", "java", "python", "javascript", "html", "vim"}, -- one of "all", "maintained" (parsers with maintainers), or a list of languages
   highlight = {
     enable = true,              -- false will disable the whole extension
     additional_vim_regex_highlighting = false,
@@ -303,7 +310,7 @@ EOF
 " lsp signature
 """""""""""""""
 lua << EOF
- cfg = {
+cfg = {
   debug = false, -- set to true to enable debug logging
   log_path = "debug_log_file_path", -- debug log path
   verbose = false, -- show debug line number
