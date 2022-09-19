@@ -30710,3 +30710,260 @@ Apr 16 00:50 : config: option 'device' on line 209 was not recognized
 Apr 16 11:01 : config: option 'device' on line 209 was not recognized
 Apr 17 11:20 : config: option 'device' on line 209 was not recognized
 Apr 18 11:54 : config: option 'device' on line 209 was not recognized
+Apr 19 11:44 : config: option 'device' on line 209 was not recognized
+Apr 19 14:19 : config: option 'device' on line 209 was not recognized
+Apr 19 21:05 : config: option 'device' on line 209 was not recognized
+Apr 20 10:03 : config: option 'device' on line 209 was not recognized
+Apr 20 14:18 : config: option 'device' on line 209 was not recognized
+Apr 20 21:40 : config: option 'device' on line 209 was not recognized
+Apr 21 13:34 : config: option 'device' on line 209 was not recognized
+Apr 21 22:18 : config: option 'device' on line 209 was not recognized
+Apr 22 08:50 : config: option 'device' on line 209 was not recognized
+Apr 22 09:59 : config: option 'device' on line 209 was not recognized
+Apr 22 14:10 : config: option 'device' on line 209 was not recognized
+Apr 23 11:48 : config: option 'device' on line 209 was not recognized
+Apr 24 10:41 : config: option 'device' on line 209 was not recognized
+Apr 25 13:40 : config: option 'device' on line 209 was not recognized
+Apr 25 18:24 : config: option 'device' on line 209 was not recognized
+Apr 26 11:59 : config: option 'device' on line 209 was not recognized
+Apr 26 12:00 : config: option 'device' on line 209 was not recognized
+Apr 26 13:21 : config: option 'device' on line 209 was not recognized
+Apr 26 13:33 : config: option 'device' on line 209 was not recognized
+Apr 26 21:03 : config: option 'device' on line 209 was not recognized
+Apr 27 00:46 : config: option 'device' on line 209 was not recognized
+Apr 27 14:30 : config: option 'device' on line 209 was not recognized
+Apr 27 18:01 : config: option 'device' on line 209 was not recognized
+Apr 27 18:01 : config: option 'device' on line 209 was not recognized
+Apr 27 20:25 : config: option 'device' on line 209 was not recognized
+Apr 28 13:14 : config: option 'device' on line 209 was not recognized
+Apr 29 13:34 : config: option 'device' on line 209 was not recognized
+Apr 29 19:31 : config: option 'device' on line 209 was not recognized
+Apr 30 12:01 : config: option 'device' on line 209 was not recognized
+May 01 11:07 : config: option 'device' on line 209 was not recognized
+May 02 14:25 : config: option 'device' on line 209 was not recognized
+May 03 14:17 : config: option 'device' on line 209 was not recognized
+May 03 18:04 : config: option 'device' on line 209 was not recognized
+May 03 20:52 : config: option 'device' on line 209 was not recognized
+May 04 14:21 : config: option 'device' on line 209 was not recognized
+May 04 16:13 : config: option 'device' on line 209 was not recognized
+May 04 19:53 : config: option 'device' on line 209 was not recognized
+May 05 09:54 : config: option 'device' on line 209 was not recognized
+May 05 12:48 : config: option 'device' on line 209 was not recognized
+May 05 19:02 : config: option 'device' on line 209 was not recognized
+May 06 08:21 : config: option 'device' on line 209 was not recognized
+May 07 09:55 : config: option 'device' on line 209 was not recognized
+May 07 13:00 : config: option 'device' on line 209 was not recognized
+May 08 10:52 : config: option 'device' on line 209 was not recognized
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+May 09 14:33 : config: option 'device' on line 209 was not recognized
+May 10 10:32 : config: option 'device' on line 209 was not recognized
+May 11 11:36 : config: option 'device' on line 209 was not recognized
+May 12 13:15 : config: option 'device' on line 209 was not recognized
+May 13 12:32 : config: option 'device' on line 209 was not recognized
+May 14 19:26 : config: option 'device' on line 209 was not recognized
+May 15 13:10 : config: option 'device' on line 209 was not recognized
+May 15 21:27 : config: option 'device' on line 209 was not recognized
+May 16 13:30 : config: option 'device' on line 209 was not recognized
+May 16 14:58 : config: option 'device' on line 209 was not recognized
+May 16 23:58 : config: option 'device' on line 209 was not recognized
+May 17 12:40 : config: option 'device' on line 209 was not recognized
+May 18 13:08 : config: option 'device' on line 209 was not recognized
+May 19 15:01 : config: option 'device' on line 209 was not recognized
+May 20 13:21 : config: option 'device' on line 209 was not recognized
+May 20 16:10 : config: option 'device' on line 209 was not recognized
+May 21 14:33 : config: option 'device' on line 209 was not recognized
+May 22 01:47 : config: option 'device' on line 209 was not recognized
+May 22 14:39 : config: option 'device' on line 209 was not recognized
+May 22 15:36 : player: played "DDBY/Cafe de Touhou 1/06. 風の都.mp3"
+May 22 15:42 : player: played "DDBY/Cafe de Touhou 1/08. NaTuLaL AGeNcY.mp3"
+May 22 15:45 : player: played "DDBY/Cafe de Touhou 1/09. Below Between Beyond.mp3"
+May 22 15:51 : player: played "DDBY/Cafe de Touhou 2/09. SEAMOON.mp3"
+May 22 15:55 : player: played "DDBY/Cafe de Touhou 2/10. Old under the sun.mp3"
+May 22 16:00 : player: played "DDBY/Cafe de Touhou 2/11. Blue Wings.mp3"
+May 22 16:04 : player: played "DDBY/Cafe de Touhou 3/01. Vintage Girl.mp3"
+May 22 16:09 : player: played "DDBY/Cafe de Touhou 3/02. Blue magic preset.mp3"
+May 22 16:13 : player: played "DDBY/Cafe de Touhou 3/03. theo.mp3"
+May 22 16:21 : player: played "DDBY/Cafe de Touhou 5/07. Tomorrow is Another Day.mp3"
+May 22 16:23 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+May 22 16:27 : player: played "Nujabes/2nd Collection/02. Sky is falling (featuring C.L. Smooth).mp3"
+May 22 16:32 : player: played "Nujabes/2nd Collection/03. Waltz for life will born.mp3"
+May 22 16:38 : player: played "Nujabes/2nd Collection/04. Imaginary Folklore.mp3"
+May 22 16:40 : player: played "Nujabes/2nd Collection/05. Hikari (featuring Substantial).mp3"
+May 22 16:43 : player: played "Nujabes/2nd Collection/09. Old Light(voices from 93 million miles away remix).mp3"
+May 22 16:43 : config: option 'device' on line 209 was not recognized
+May 22 16:44 : player: played "DDBY/Cafe de Touhou 1/01. もし、空が晴れるなら.mp3"
+May 22 16:48 : player: played "CASMEC Jr High School Concert Band/01. 2.In Perfect Silence I Gaze at.mp3"
+May 22 16:49 : player: played "Video Game OST/Kingdom of Torna Original Soundtrack/11. A Moment of Eternity.mp3"
+May 23 12:12 : config: option 'device' on line 209 was not recognized
+May 23 22:03 : config: option 'device' on line 209 was not recognized
+May 24 12:47 : config: option 'device' on line 209 was not recognized
+May 25 14:53 : config: option 'device' on line 209 was not recognized
+May 25 14:58 : player: played "Nujabes/2nd Collection/01. Voice of Autumn.mp3"
+May 25 15:02 : player: played "Nujabes/2nd Collection/02. Sky is falling (featuring C.L. Smooth).mp3"
+May 25 15:07 : player: played "Nujabes/2nd Collection/03. Waltz for life will born.mp3"
+May 25 15:13 : player: played "Nujabes/2nd Collection/04. Imaginary Folklore.mp3"
+May 25 15:17 : player: played "Nujabes/2nd Collection/05. Hikari (featuring Substantial).mp3"
+May 25 15:20 : player: played "Masaki Mizusato/The daily life of cats in Paris/1 - いつもの道 - La route habituelle.flac"
+May 25 15:24 : player: played "NiZi RiNGO/Ne_nuit/03. Paroles.mp3"
+May 25 15:27 : player: played "banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.06. ばんし — Little box.mp3"
+May 25 15:30 : player: played "banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.02. ばんし — Snowmelt.mp3"
+May 25 15:34 : player: played "Symphonic Xizer/SymphonicXize-002/02. Skymemory.mp3"
+May 25 15:38 : player: played "Xi/World Fragments [320]/07 Diceros Bicornis (xi+BlackY) - Siva 2015.mp3"
+May 25 15:45 : player: played "Xi/World Fragments [320]/12 VILA - Another Halcyon 2015.mp3"
+May 25 15:48 : player: played "banbanshi/2016 - -Remind-/09 - Paroles.flac"
+May 25 15:54 : player: played "Symphonic Xizer/SymphonicXize-002/07. 琴音小路.mp3"
+May 25 15:57 : player: played "banbanshi/2016 - -Remind-/01 - -Remind-.flac"
+May 25 16:00 : player: played "banbanshi/banbanshi — Snowmelt [MP3-V1][M3-39]/1.03. ばんし — New step.mp3"
+May 25 16:03 : player: played "Xi/World Fragments [320]/03 xi feat.Sta - Tiferet 2015.mp3"
+May 25 22:39 : player: played "banbanshi/2016 - -Remind-/10 - Little By Little.flac"
+May 26 16:10 : config: option 'device' on line 209 was not recognized
+May 27 11:13 : config: option 'device' on line 209 was not recognized
+May 28 13:40 : config: option 'device' on line 209 was not recognized
+May 29 14:49 : config: option 'device' on line 209 was not recognized
+May 30 13:49 : config: option 'device' on line 209 was not recognized
+May 31 10:20 : config: option 'device' on line 209 was not recognized
+Jun 01 23:31 : config: option 'device' on line 209 was not recognized
+Jun 03 13:02 : config: option 'device' on line 209 was not recognized
+Jun 04 12:11 : config: option 'device' on line 209 was not recognized
+Jun 05 12:37 : config: option 'device' on line 209 was not recognized
+Jun 07 16:35 : config: option 'device' on line 209 was not recognized
+Jun 08 00:56 : config: option 'device' on line 209 was not recognized
+Jun 11 11:49 : config: option 'device' on line 209 was not recognized
+Jun 12 09:41 : config: option 'device' on line 209 was not recognized
+Jun 13 10:00 : config: option 'device' on line 209 was not recognized
+Jun 13 18:28 : config: option 'device' on line 209 was not recognized
+Jun 13 21:18 : config: option 'device' on line 209 was not recognized
+Jun 15 18:20 : config: option 'device' on line 209 was not recognized
+Jun 16 09:40 : config: option 'device' on line 209 was not recognized
+Jun 18 02:09 : config: option 'device' on line 209 was not recognized
+Jun 19 15:59 : config: option 'device' on line 209 was not recognized
+Jun 21 19:07 : config: option 'device' on line 209 was not recognized
+Jun 25 23:33 : config: option 'device' on line 209 was not recognized
+Jun 26 09:51 : config: option 'device' on line 209 was not recognized
+Jun 29 09:39 : config: option 'device' on line 209 was not recognized
+Jul 10 12:21 : config: option 'device' on line 209 was not recognized
+Jul 13 16:01 : config: option 'device' on line 209 was not recognized
+Jul 14 21:26 : config: option 'device' on line 209 was not recognized
+Jul 19 10:31 : config: option 'device' on line 209 was not recognized
+Aug 06 17:08 : config: option 'device' on line 209 was not recognized
+Aug 07 09:03 : config: option 'device' on line 209 was not recognized
+Aug 07 21:34 : config: option 'device' on line 209 was not recognized
+Aug 07 23:45 : config: option 'device' on line 209 was not recognized
+Aug 08 23:52 : config: option 'device' on line 209 was not recognized
+Aug 09 10:58 : config: option 'device' on line 209 was not recognized
+Aug 09 23:45 : config: option 'device' on line 209 was not recognized
+Aug 19 15:01 : config: option 'device' on line 209 was not recognized
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 19 15:17 : player: played "DDBY/Cafe de Touhou 1/01. もし、空が晴れるなら.mp3"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Aug 19 15:50 : player: played "DDBY/Cafe de Touhou 6/08. Wanna be free.mp3"
+Aug 19 15:51 : config: option 'device' on line 209 was not recognized
+Aug 19 21:43 : config: option 'device' on line 209 was not recognized
+Aug 20 01:03 : player: played "ShibayanRecords/TOHO-BOSSA-NOVA/1-フリフリおじょうさま~instrumental~.flac"
+Aug 20 01:07 : output: Failed to play on "pulse audio" (pulse): disconnected
+Aug 20 01:07 : player: played "Evergreen/Somnium - 2015-12-31 - 波が涙になって [C89] [MP3 320]/08. 決戰 ~Decisive Battle~.mp3"
+Aug 20 10:21 : config: option 'device' on line 209 was not recognized
+Aug 21 16:55 : config: option 'device' on line 209 was not recognized
+Aug 21 20:34 : config: option 'device' on line 209 was not recognized
+Aug 22 11:16 : config: option 'device' on line 209 was not recognized
+Aug 23 23:14 : config: option 'device' on line 209 was not recognized
+Aug 25 10:36 : config: option 'device' on line 209 was not recognized
+Aug 26 12:22 : config: option 'device' on line 209 was not recognized
+Aug 28 13:04 : config: option 'device' on line 209 was not recognized
+Aug 29 15:36 : config: option 'device' on line 209 was not recognized
+Aug 30 12:21 : config: option 'device' on line 209 was not recognized
+Aug 31 11:21 : config: option 'device' on line 209 was not recognized
+Sep 01 11:46 : config: option 'device' on line 209 was not recognized
+Sep 02 12:59 : config: option 'device' on line 209 was not recognized
+Sep 02 19:44 : config: option 'device' on line 209 was not recognized
+Sep 03 11:55 : config: option 'device' on line 209 was not recognized
+Sep 04 18:30 : config: option 'device' on line 209 was not recognized
+Sep 05 13:25 : config: option 'device' on line 209 was not recognized
+Sep 06 10:13 : config: option 'device' on line 209 was not recognized
+Sep 07 13:35 : config: option 'device' on line 209 was not recognized
+Sep 07 20:45 : config: option 'device' on line 209 was not recognized
+Sep 08 11:34 : config: option 'device' on line 209 was not recognized
+Sep 09 11:09 : config: option 'device' on line 209 was not recognized
+Sep 10 12:46 : config: option 'device' on line 209 was not recognized
+Sep 10 18:48 : config: option 'device' on line 209 was not recognized
+Sep 11 15:40 : config: option 'device' on line 209 was not recognized
+Sep 12 13:15 : config: option 'device' on line 209 was not recognized
+Sep 13 13:28 : config: option 'device' on line 209 was not recognized
+Sep 13 15:56 : config: option 'device' on line 209 was not recognized
+Sep 13 21:36 : config: option 'device' on line 209 was not recognized
+Sep 14 11:10 : config: option 'device' on line 209 was not recognized
+Sep 14 14:17 : config: option 'device' on line 209 was not recognized
+Sep 14 17:34 : config: option 'device' on line 209 was not recognized
+Sep 14 22:08 : config: option 'device' on line 209 was not recognized
+Sep 15 11:03 : config: option 'device' on line 209 was not recognized
+Sep 15 20:50 : config: option 'device' on line 209 was not recognized
+Sep 18 11:05 : config: option 'device' on line 209 was not recognized

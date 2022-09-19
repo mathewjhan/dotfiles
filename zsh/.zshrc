@@ -4,11 +4,11 @@
 
 # School
 export uni="/media/data/mathew/Home/College"
-alias cs591nr="cd /media/data/mathew/Home/College/CS591NR"
-alias cs390r="cd /media/data/mathew/Home/College/CS390R"
-alias cs326="cd /media/data/mathew/Home/College/CS326"
-alias cs610="cd /media/data/mathew/Home/College/CS610"
+alias math597u="cd /media/data/mathew/Home/College/MATH597U"
 alias math545="cd /media/data/mathew/Home/College/MATH545"
+alias cs590op="cd /media/data/mathew/Home/College/CS590OP"
+alias music150="cd /media/data/mathew/Home/College/MUSIC150"
+alias nbstart="cd /media/data/mathew/Home/College/MATH597U/Notebooks && source math597u/bin/activate && jupyter lab"
 
 # Convenient aliases
 alias e="nvim"

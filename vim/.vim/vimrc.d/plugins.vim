@@ -8,6 +8,7 @@ call plug#begin('~/.vim/plugged')
 " -------------
 
 " Github
+Plug 'anufrievroman/vim-angry-reviewer'
 Plug 'MattesGroeger/vim-bookmarks'
 Plug 'SirVer/ultisnips'
 Plug 'Yggdroot/indentLine'
@@ -32,6 +33,12 @@ Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'kana/vim-textobj-user'
 Plug 'julian/vim-textobj-variable-segment'
 
+if has('python3') && has('timers')
+  Plug 'danth/pathfinder.vim'
+else
+  echoerr 'pathfinder.vim is not supported on this Vim installation'
+endif
+
 " Themes
 " Normal
 Plug 'sainnhe/everforest'
@@ -47,6 +54,8 @@ if has('nvim')
   Plug 'hrsh7th/cmp-buffer'
   Plug 'hrsh7th/cmp-path'
   Plug 'hrsh7th/cmp-nvim-lsp'
+  Plug 'jose-elias-alvarez/null-ls.nvim'
+  Plug 'nvim-lua/plenary.nvim'
   Plug 'quangnguyen30192/cmp-nvim-ultisnips'
   Plug 'williamboman/nvim-lsp-installer'
   Plug 'nathom/filetype.nvim'
@@ -79,6 +88,12 @@ autocmd BufRead * DetectIndent
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Goyo
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:AngryReviewerEnglish = 'american'
+nnoremap <leader>ar :AngryReviewer<cr>
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Goyo
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " On window resize, if goyo is active, do <c-w>= to resize the window
 autocmd VimResized * if exists('#goyo') | exe "normal \<c-w>=" | endif
 nnoremap <silent> <leader>g :Goyo<cr>
@@ -103,6 +118,7 @@ let g:pandoc#spell#enabled = 0
 let g:vimtex_view_method="zathura"
 let g:tex_flavor = 'latex'
 let g:pandoc#syntax#conceal#use = 0
+
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Airline
@@ -140,6 +156,11 @@ if has('nvim')
 else
   colorscheme sonokai
 endif
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Pathfinder
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+noremap <leader>pe :PathfinderExplain<CR>
 
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
