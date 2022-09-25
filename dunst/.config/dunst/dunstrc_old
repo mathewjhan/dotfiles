@@ -1,16 +1,16 @@
 [global]
   monitor = 0
   follow = mouse
-  # geometry = "270x5-30+20"
+  geometry = "270x5-30+20"
   transparency = 5
   separator_height = 2
   padding = 8
   horizontal_padding = 8
   separator_color = frame
-  font = ${font}
-  frame_width = ${frame_width}
-  max_icon_size = ${max_icon_size}
-  corner_radius = ${corner_radius}
+  font = Noto Sans 9
+  frame_width = 3
+  max_icon_size = 32
+  corner_radius = 5
 
   format = "<b>%s</b>\n%b"
 
@@ -32,20 +32,23 @@
   # max_icon_size takes precedence over this.
   min_icon_size = 0
 
+  # Scale larger icons down to this size, set to 0 to disable
+  max_icon_size = 48
+
   # Paths to default icons.
   icon_path = /usr/share/icons/Paper/16x16/status/:/usr/share/icons/Paper/16x16/devices/:/usr/share/icons/Paper/48x48/notifications/
 
 [urgency_low]
-  background = "${low_background}"
-  foreground = "${low_foreground}"
-  frame_color = "${low_frame_color}"
+  background = "#211412"
+  foreground = "#c7c4c3"
+  frame_color = "#aa685c"
 
 [urgency_normal]
-  background = "${normal_background}"
-  foreground = "${normal_foreground}"
-  frame_color = "${normal_frame_color}"
+  background = "#211412"
+  foreground = "#c7c4c3"
+  frame_color = "#aa685c"
 
 [urgency_critical]
-  background = "${critical_background}"
-  foreground = "${critical_foreground}"
-  frame_color = "${critical_frame_color}"
+  background = "#211412"
+  foreground = "#c7c4c3"
+  frame_color = "#aa685c"

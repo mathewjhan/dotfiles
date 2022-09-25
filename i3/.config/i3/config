@@ -294,3 +294,6 @@ exec --no-startup-id xset -dpms
 # Light-locker
 exec --no-startup-id /usr/bin/light-locker
 bindsym Control+Mod1+l exec light-locker-command -l
+
+# KDEConnect
+exec --no-startup-id kdeconnect-indicator

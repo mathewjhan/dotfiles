@@ -5,21 +5,44 @@
  # Source generated colors.
 . "${HOME}/.cache/wal/colors.sh"
 
- reload_dunst() {
-    pkill dunst
-    dunst \
-    -font "Noto Sans 9" \
-	-frame_width 3 \
-        -lb "${color0}" \
-        -nb "${color0}" \
-        -cb "${color0}" \
-        -lf "${color7}" \
-        -bf "${color7}" \
-        -cf "${color7}" \
-        -nf "${color7}" \
-        -lfr "${color1}" \
-        -nfr "${color1}" \
-        -cfr "${color1}" &
-}
+kill -9 $(pidof dunst)
 
-reload_dunst
+#               width="$(xgetres dunst.geometry.width)" \
+#              height="$(xgetres dunst.geometry.height)" \
+#                   x="$(xgetres dunst.geometry.x)" \
+#                   y="$(xgetres dunst.geometry.y)" \
+#    separator_height="$(xgetres dunst.separator_height)" \
+export \
+                font="Noto Sans 9" \
+             padding="8" \
+  horizontal_padding="8" \
+       max_icon_size="48" \
+         frame_width="3" \
+       corner_radius="5" \
+      low_background="${color0}" \
+      low_foreground="${color7}" \
+     low_frame_color="${color1}" \
+   normal_background="${color0}" \
+   normal_foreground="${color7}" \
+  normal_frame_color="${color1}" \
+ critical_background="${color0}" \
+ critical_foreground="${color7}" \
+critical_frame_color="${color1}"
+
+#    dunst \
+#    -font "Noto Sans 9" \
+#	-frame_width 3 \
+#        -lb "${color0}" \
+#        -nb "${color0}" \
+#        -cb "${color0}" \
+#        -lf "${color7}" \
+#        -bf "${color7}" \
+#        -cf "${color7}" \
+#        -nf "${color7}" \
+#        -lfr "${color1}" \
+#        -nfr "${color1}" \
+#        -cfr "${color1}" &
+envsubst < "$HOME/.config/dunst/template_dunstrc" > "$HOME/.config/dunst/dunstrc"
+dunst -s & disown
+
+
