@@ -9,6 +9,7 @@ alias math545="cd /media/data/mathew/Home/College/MATH545"
 alias cs590op="cd /media/data/mathew/Home/College/CS590OP"
 alias music150="cd /media/data/mathew/Home/College/MUSIC150"
 alias nbstart="cd /media/data/mathew/Home/College/MATH597U/Notebooks && source math597u/bin/activate && jupyter lab"
+alias grad="cd /media/data/mathew/Home/grad"
 
 # Convenient aliases
 alias e="nvim"

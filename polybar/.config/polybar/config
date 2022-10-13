@@ -380,7 +380,7 @@ interval = 1.0
 
 ; date = ""
 date-alt = "%A | %B %e, %Y |"
-time = "%H:%M"
+time = "%I:%M %p"
 time-alt = "%A | %B %e, %Y | %H:%M:%S"
 
 format = <label>
@@ -635,7 +635,7 @@ interval = 1
 ; prefix symbol is shown before the text
 format-prefix = ""
 format = <label>
-exec = PLAYER_STATUS="$(playerctl status 2>&1)"; case $PLAYER_STATUS in Playing|Paused) ~/.config/polybar/scroll_spotify_status.sh;; *) echo "";; esac
+exec = PLAYER_STATUS="$(playerctl --player=spotify,mpd status 2>&1)"; case $PLAYER_STATUS in Playing|Paused) ~/.config/polybar/scroll_spotify_status.sh;; *) echo "";; esac
 
 format-overline = ${colors.background}
 format-underline = ${colors.background}
@@ -688,7 +688,7 @@ format-foreground = ${colors.background}
 format-padding = 1
 interval = 5
 
-click-left = playerctl play-pause
+click-left = playerctl --player=spotify,mpd play-pause
 
 [module/spotify-next]
 type = custom/script
