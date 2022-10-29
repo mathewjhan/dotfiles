@@ -274,36 +274,57 @@ EOF
 """""""""""""""
 " LSP Config
 """""""""""""""
+" lua << EOF
+" local lsp_installer = require("nvim-lsp-installer")
+" 
+" lsp_installer.on_server_ready(function(server)
+"     local opts = {}
+" 
+"     -- (optional) Customize the options passed to the server
+"     -- if server.name == "tsserver" then
+"     --     opts.root_dir = function() ... end
+"     -- end
+" 
+"     -- This setup() function is exactly the same as lspconfig's setup function (:help lspconfig-quickstart)
+"     server:setup(opts)
+"     vim.cmd [[ do User LspAttachBuffers ]]
+" end)
+" 
+" 
+" -- local nvim_lsp = require 'lspconfig'
+" -- local servers = { 
+" --   'pyright', 
+" --   'clangd', 
+" --   'jdtls', 
+" --   'texlab' 
+" -- }
+" -- for _, lsp in ipairs(servers) do
+" --   nvim_lsp[lsp].setup {
+" --     on_attach = on_attach,
+" --     capabilities = capabilities,
+" --   }
+" -- end
+" EOF
+
 lua << EOF
-local lsp_installer = require("nvim-lsp-installer")
+require("mason").setup {
+    ui = {
+        icons = {
+            package_installed = "✓"
+        }
+    }
+}
+mason_lspconfig = require("mason-lspconfig")
 
-lsp_installer.on_server_ready(function(server)
-    local opts = {}
+mason_lspconfig.setup {
+    ensure_installed = { "sumneko_lua" },
+}
 
-    -- (optional) Customize the options passed to the server
-    -- if server.name == "tsserver" then
-    --     opts.root_dir = function() ... end
-    -- end
-
-    -- This setup() function is exactly the same as lspconfig's setup function (:help lspconfig-quickstart)
-    server:setup(opts)
-    vim.cmd [[ do User LspAttachBuffers ]]
-end)
-
-
--- local nvim_lsp = require 'lspconfig'
--- local servers = { 
---   'pyright', 
---   'clangd', 
---   'jdtls', 
---   'texlab' 
--- }
--- for _, lsp in ipairs(servers) do
---   nvim_lsp[lsp].setup {
---     on_attach = on_attach,
---     capabilities = capabilities,
---   }
--- end
+mason_lspconfig.setup_handlers({
+  function (server_name)
+    require("lspconfig")[server_name].setup {}
+  end
+})
 EOF
 
 lua << EOF

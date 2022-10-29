@@ -33,12 +33,6 @@ Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'kana/vim-textobj-user'
 Plug 'julian/vim-textobj-variable-segment'
 
-if has('python3') && has('timers')
-  Plug 'danth/pathfinder.vim'
-else
-  echoerr 'pathfinder.vim is not supported on this Vim installation'
-endif
-
 " Themes
 " Normal
 Plug 'sainnhe/everforest'
@@ -57,7 +51,8 @@ if has('nvim')
   Plug 'jose-elias-alvarez/null-ls.nvim'
   Plug 'nvim-lua/plenary.nvim'
   Plug 'quangnguyen30192/cmp-nvim-ultisnips'
-  Plug 'williamboman/nvim-lsp-installer'
+  Plug 'williamboman/mason.nvim'
+  Plug 'williamboman/mason-lspconfig.nvim'
   Plug 'nathom/filetype.nvim'
   Plug 'ray-x/lsp_signature.nvim'
   Plug 'j-hui/fidget.nvim'
@@ -86,7 +81,7 @@ let g:indentLine_char = '│'
 autocmd BufRead * DetectIndent
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Goyo
+" => AngryReviewer
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:AngryReviewerEnglish = 'american'
 nnoremap <leader>ar :AngryReviewer<cr>
@@ -96,7 +91,12 @@ nnoremap <leader>ar :AngryReviewer<cr>
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " On window resize, if goyo is active, do <c-w>= to resize the window
 autocmd VimResized * if exists('#goyo') | exe "normal \<c-w>=" | endif
+let g:goyo_width = 100
 nnoremap <silent> <leader>g :Goyo<cr>
+autocmd! User GoyoEnter nested :set nu! rnu!
+autocmd! User GoyoEnter nested :set norelativenumber
+autocmd! User GoyoLeave nested :set relativenumber!
+autocmd! User GoyoLeave nested :set number!
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Tagbar
@@ -156,11 +156,6 @@ if has('nvim')
 else
   colorscheme sonokai
 endif
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Pathfinder
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-noremap <leader>pe :PathfinderExplain<CR>
 
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
