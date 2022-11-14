@@ -9,29 +9,29 @@ call plug#begin('~/.vim/plugged')
 
 " Github
 Plug 'anufrievroman/vim-angry-reviewer'
-Plug 'MattesGroeger/vim-bookmarks'
-Plug 'SirVer/ultisnips'
-Plug 'Yggdroot/indentLine'
 Plug 'cohama/lexima.vim'
 Plug 'dstein64/vim-startuptime'
 Plug 'godlygeek/tabular'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+Plug 'julian/vim-textobj-variable-segment'
 Plug 'junegunn/fzf.vim'
 Plug 'junegunn/goyo.vim'
+Plug 'kana/vim-textobj-user'
 Plug 'lervag/vimtex'
 Plug 'machakann/vim-sandwich'
+Plug 'MattesGroeger/vim-bookmarks'
 Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 Plug 'mkitt/tabline.vim'
 Plug 'mzlogin/vim-markdown-toc'
 Plug 'preservim/tagbar'
 Plug 'sbdchd/neoformat'
+Plug 'SirVer/ultisnips'
 Plug 'skywind3000/asyncrun.vim'
 Plug 'timakro/vim-yadi'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
-Plug 'kana/vim-textobj-user'
-Plug 'julian/vim-textobj-variable-segment'
+Plug 'Yggdroot/indentLine'
 
 " Themes
 " Normal

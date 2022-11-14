@@ -13,7 +13,7 @@ alias grad="cd /media/data/mathew/Home/grad"
 
 # Convenient aliases
 alias e="nvim"
-alias fm="vifm ."
+alias fm='cd "$(xplr --print-pwd-as-result)"'
 alias mp="ncmpcpp"
 alias lg="lazygit"
 alias ..="cd .."
@@ -93,6 +93,7 @@ alias pacaudit="arch-audit"
 
 # Package specific
 alias rm="echo 'Please run rip (aka rm-improved) instead or rm with a backslash.'"
+alias tp="trash-put"
 alias ls='exa'
 alias icat="kitty icat"
 alias clipboard="xclip -selection clipboard"

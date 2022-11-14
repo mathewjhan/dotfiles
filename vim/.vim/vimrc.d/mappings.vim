@@ -60,6 +60,7 @@ map <leader>bd :Bclose<cr>:tabclose<cr>gT
 
 " Easier copy
 noremap <leader>y "+y
+noremap <leader>d "+d
 noremap <leader>p "+p
 
 " Close all the buffers

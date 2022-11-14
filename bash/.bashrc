@@ -43,8 +43,6 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias pls="sudo !!"
 
-eval $(thefuck --alias fuck)
-
 # Fast configs
 alias vimrc="vim ~/.vimrc"
 alias bashrc="vim ~/.bashrc && source ~/.bashrc && clear"

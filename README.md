@@ -17,7 +17,7 @@ Most of the dotfiles I am using on my current Linux distro.
 | Automounter             | [`udiskie`](https://github.com/coldfix/udiskie)                                                     |
 | Compositor              | [`picom`](https://github.com/yshui/picom)                                                           |
 | Dotfile management      | `git` + [`stow`](https://www.gnu.org/software/stow/)                                                |
-| File manager            | [`vifm`](https://github.com/vifm/vifm)                                                              |
+| File manager            | [`xplr`](https://github.com/sayanarijit/xplr)                                                       |
 | Launcher/Window swapper | [`rofi`](https://github.com/davatorium/rofi)                                                        |
 | Monitor manager         | [`autorandr`](https://github.com/phillipberndt/autorandr)                                           |
 | Music player            | [`mpd`](https://github.com/MusicPlayerDaemon/MPD) + [`ncmpcpp`](https://github.com/ncmpcpp/ncmpcpp) |
@@ -30,7 +30,7 @@ Most of the dotfiles I am using on my current Linux distro.
 | Text editor             | [`neovim`](https://github.com/neovim/neovim)                                                        |
 | Theming                 | [`pywal`](https://github.com/dylanaraps/pywal)                                                      |
 | Touchpad                | [`libinput-gestures`](https://github.com/bulletmark/libinput-gestures)                              |
-| `rm` replacement        | [`rip`](https://github.com/nivekuil/rip)                                                            |
+| `rm` replacement        | [`trash-cli`](https://github.com/andreafrancia/trash-cli)                                           |
 
 </center>
 
@@ -58,44 +58,67 @@ Most of the dotfiles I am using on my current Linux distro.
 - pulseaudio (module)
 - pavucontrol (open pulseaudio/pipewire controls)
 - network manager
-- nmguish 
 - i3wm
-- fonts: inconsolata, font awesome 5, hack
+- fonts: san francisco mono, font awesome 5, hack
 
 ## kitty
 - pywal
 - san francisco mono (font)
 
 ## vim
-- abstract.vim
-- asyncrun.vim
-- fzf.vim
-- goyo.vim
-- indentline
-- markdown-preview.nvim
-- neoformat
-- pear-tree
-- tabline.vim
-- tabular
-- tagbar
-- ultisnips
-- vim-airline
-- vim-bookmarks
-- vim-pandoc
-- vim-pandoc-markdown-syntax
-- vim-sandwich
-- vim-sleuth
-- vim-startuptime
-- vim-surround
-- vim-visual-multi
-- vimtex
+```
+" Plugins
+Plug 'anufrievroman/vim-angry-reviewer'
+Plug 'cohama/lexima.vim'
+Plug 'dstein64/vim-startuptime'
+Plug 'godlygeek/tabular'
+Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+Plug 'julian/vim-textobj-variable-segment'
+Plug 'junegunn/fzf.vim'
+Plug 'junegunn/goyo.vim'
+Plug 'kana/vim-textobj-user'
+Plug 'lervag/vimtex'
+Plug 'machakann/vim-sandwich'
+Plug 'MattesGroeger/vim-bookmarks'
+Plug 'mg979/vim-visual-multi', {'branch': 'master'}
+Plug 'mkitt/tabline.vim'
+Plug 'mzlogin/vim-markdown-toc'
+Plug 'preservim/tagbar'
+Plug 'sbdchd/neoformat'
+Plug 'SirVer/ultisnips'
+Plug 'skywind3000/asyncrun.vim'
+Plug 'timakro/vim-yadi'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-pandoc/vim-pandoc'
+Plug 'vim-pandoc/vim-pandoc-syntax'
+Plug 'Yggdroot/indentLine'
+
+" Themes
+" Normal
+Plug 'sainnhe/everforest'
+Plug 'sainnhe/sonokai'
+
+" Wal
+Plug 'nekonako/xresources-nvim'
+```
 
 ## neovim
-- cmp-buffer
-- cmp-nvim-lsp
-- cmp-nvim-ultisnips
-- cmp-path
-- nvi-lsp-installer
-- nvim-cmp
-- nvim-lspconfig
-- nvim-treesitter
+```
+" NVIM plugins
+if has('nvim')
+  Plug 'neovim/nvim-lspconfig'
+  Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+  Plug 'hrsh7th/nvim-cmp'
+  Plug 'hrsh7th/cmp-buffer'
+  Plug 'hrsh7th/cmp-path'
+  Plug 'hrsh7th/cmp-nvim-lsp'
+  Plug 'jose-elias-alvarez/null-ls.nvim'
+  Plug 'nvim-lua/plenary.nvim'
+  Plug 'quangnguyen30192/cmp-nvim-ultisnips'
+  Plug 'williamboman/mason.nvim'
+  Plug 'williamboman/mason-lspconfig.nvim'
+  Plug 'nathom/filetype.nvim'
+  Plug 'ray-x/lsp_signature.nvim'
+  Plug 'j-hui/fidget.nvim'
+endif
+```
