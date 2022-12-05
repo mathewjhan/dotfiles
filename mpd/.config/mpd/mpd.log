@@ -31355,3 +31355,70 @@ Nov 11 10:48 : config: option 'device' on line 209 was not recognized
 Nov 12 12:39 : config: option 'device' on line 209 was not recognized
 Nov 12 21:21 : config: option 'device' on line 209 was not recognized
 Nov 13 11:21 : config: option 'device' on line 209 was not recognized
+Nov 13 22:35 : config: option 'device' on line 209 was not recognized
+Nov 14 10:11 : config: option 'device' on line 209 was not recognized
+Nov 14 15:00 : config: option 'device' on line 209 was not recognized
+Nov 15 10:15 : config: option 'device' on line 209 was not recognized
+Nov 15 14:03 : config: option 'device' on line 209 was not recognized
+Nov 16 11:46 : config: option 'device' on line 209 was not recognized
+Nov 16 23:20 : config: option 'device' on line 209 was not recognized
+Nov 17 11:18 : config: option 'device' on line 209 was not recognized
+Nov 19 13:16 : config: option 'device' on line 209 was not recognized
+Nov 20 10:55 : config: option 'device' on line 209 was not recognized
+Nov 21 13:10 : config: option 'device' on line 209 was not recognized
+Nov 22 11:54 : config: option 'device' on line 209 was not recognized
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Nov 22 16:50 : config: option 'device' on line 209 was not recognized
+Nov 22 17:15 : config: option 'device' on line 209 was not recognized
+Nov 22 17:25 : config: option 'device' on line 209 was not recognized
+Nov 22 22:51 : config: option 'device' on line 209 was not recognized
+Nov 23 11:39 : config: option 'device' on line 209 was not recognized
+Nov 23 18:49 : config: option 'device' on line 209 was not recognized
+Nov 24 01:32 : config: option 'device' on line 209 was not recognized
+Nov 24 12:31 : config: option 'device' on line 209 was not recognized
+Nov 24 14:39 : config: option 'device' on line 209 was not recognized
+Nov 24 17:05 : config: option 'device' on line 209 was not recognized
+Nov 25 13:51 : config: option 'device' on line 209 was not recognized
+Nov 27 15:09 : config: option 'device' on line 209 was not recognized
+Nov 28 13:25 : config: option 'device' on line 209 was not recognized
+Nov 28 15:48 : config: option 'device' on line 209 was not recognized
+Nov 28 22:46 : config: option 'device' on line 209 was not recognized
+Nov 29 09:37 : config: option 'device' on line 209 was not recognized
+Nov 30 12:09 : config: option 'device' on line 209 was not recognized
+Nov 30 13:54 : config: option 'device' on line 209 was not recognized
+Dec 01 15:09 : config: option 'device' on line 209 was not recognized
+Dec 01 21:34 : config: option 'device' on line 209 was not recognized
+Dec 02 14:17 : config: option 'device' on line 209 was not recognized
+Dec 02 22:14 : config: option 'device' on line 209 was not recognized
+Dec 04 13:33 : config: option 'device' on line 209 was not recognized

@@ -36,16 +36,16 @@
   icon_path = /usr/share/icons/Paper/16x16/status/:/usr/share/icons/Paper/16x16/devices/:/usr/share/icons/Paper/48x48/notifications/
 
 [urgency_low]
-  background = "#211412"
-  foreground = "#c7c4c3"
-  frame_color = "#aa685c"
+  background = "#0d071c"
+  foreground = "#e6c1e4"
+  frame_color = "#4E60BD"
 
 [urgency_normal]
-  background = "#211412"
-  foreground = "#c7c4c3"
-  frame_color = "#aa685c"
+  background = "#0d071c"
+  foreground = "#e6c1e4"
+  frame_color = "#4E60BD"
 
 [urgency_critical]
-  background = "#211412"
-  foreground = "#c7c4c3"
-  frame_color = "#aa685c"
+  background = "#0d071c"
+  foreground = "#e6c1e4"
+  frame_color = "#4E60BD"

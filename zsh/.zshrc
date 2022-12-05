@@ -92,7 +92,7 @@ alias pacnews="sudo informant read"
 alias pacaudit="arch-audit"
 
 # Package specific
-alias rm="echo 'Please run rip (aka rm-improved) instead or rm with a backslash.'"
+alias rm="echo 'Please run trash instead or rm with a backslash.'"
 alias tp="trash-put"
 alias ls='exa'
 alias icat="kitty icat"
@@ -149,7 +149,7 @@ commit-dots(){
 
 # Clean pacman/yay cache
 alias cleanup="sudo paccache -r -k 2 && paru -Sc"
-alias rebuildpy="paru -S $(LANG=C pacman -Qo /usr/lib/python3.9/ | cut -f5 -d\  | tr '\n' ' ')"
+alias rebuildpy="paru -S $(LANG=C pacman -Qo /usr/lib/python3.10/ | cut -f5 -d\  | tr '\n' ' ')"
 
 ## ZSH SPECIFIC
 # vi mode

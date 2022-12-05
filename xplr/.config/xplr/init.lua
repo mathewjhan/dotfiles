@@ -27,7 +27,8 @@ require("xpm").setup({
     'Junker/nuke.xplr',
     'sayanarijit/type-to-nav.xplr',
     'sayanarijit/fzf.xplr',
-    'sayanarijit/trash-cli.xplr'
+    'sayanarijit/trash-cli.xplr',
+    'sayanarijit/regex-search.xplr',
   },
   auto_install = true,
   auto_cleanup = true,
@@ -41,6 +42,14 @@ xplr.config.modes.builtin.default.key_bindings.on_key.x = {
   },
 }
 
+-- DEFAULT REGEX
+require("regex-search").setup{
+  mode = "default",  -- or xplr.config.modes.builtin.default
+  key = "/",  -- or xplr.config.modes.builtin.default.key_bindings.on_key["/"]
+  prompt = "/",
+  initial_input = "(?i)",
+}
+
 -- NUKE
 require("nuke").setup{
   pager = "more", -- default: less -R
@@ -50,8 +59,10 @@ require("nuke").setup{
       {mime_regex = "^text/.*", command = "nvim {}"},
       {mime_regex = "^image/.*", command = "sxiv {} &"},
       {mime_regex = "^video/.*", command = "mpv {} &"},
-      {mime_regex = ".*", command = "xdg-open {} &"},
+      {mime_regex = "^audio/.*", command = "vlc {} &"},
+      {mime = "application/json", command = "nvim {} &"},
       {mime = "application/pdf", command = "zathura {} &"},
+      {mime_regex = ".*", command = "xdg-open {} &"},
     }
   },
   view = {
@@ -77,7 +88,7 @@ key["enter"] = xplr.config.modes.custom.nuke.key_bindings.on_key.o
 require("fzf").setup{
   mode = "default",
   key = "ctrl-f",
-  args = "--preview 'pistol {}'"
+  args = "--preview 'bat {}'"
 }
 
 -- TRASH-CLI
@@ -91,7 +102,7 @@ xplr.config.modes.builtin.action.key_bindings.on_key["!"].messages = {
 }
 
 -- Layout
-
+-- Based on zentable
 local function setup()
   local xplr = xplr
 
@@ -147,6 +158,8 @@ local function setup()
 
   xplr.config.general.focus_selection_ui.prefix = "▌ "
   xplr.config.general.focus_selection_ui.suffix = ""
+
+  xplr.config.general.focus_ui.style.bg = { Rgb = { 50, 50, 50 } }
 
   xplr.config.general.table.row.cols = {
     { format = "custom.zentable_path" },

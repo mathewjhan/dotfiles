@@ -24,38 +24,42 @@ Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 Plug 'mkitt/tabline.vim'
 Plug 'mzlogin/vim-markdown-toc'
 Plug 'preservim/tagbar'
+Plug 'rafamadriz/friendly-snippets'
 Plug 'sbdchd/neoformat'
-Plug 'SirVer/ultisnips'
 Plug 'skywind3000/asyncrun.vim'
 Plug 'timakro/vim-yadi'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
+Plug 'voldikss/vim-floaterm'
 Plug 'Yggdroot/indentLine'
 
 " Themes
 " Normal
 Plug 'sainnhe/everforest'
 Plug 'sainnhe/sonokai'
+Plug 'folke/tokyonight.nvim'
+
 " Wal
 Plug 'nekonako/xresources-nvim'
 
 " NVIM plugins
 if has('nvim')
-  Plug 'neovim/nvim-lspconfig'
-  Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
-  Plug 'hrsh7th/nvim-cmp'
   Plug 'hrsh7th/cmp-buffer'
-  Plug 'hrsh7th/cmp-path'
   Plug 'hrsh7th/cmp-nvim-lsp'
-  Plug 'jose-elias-alvarez/null-ls.nvim'
-  Plug 'nvim-lua/plenary.nvim'
-  Plug 'quangnguyen30192/cmp-nvim-ultisnips'
-  Plug 'williamboman/mason.nvim'
-  Plug 'williamboman/mason-lspconfig.nvim'
-  Plug 'nathom/filetype.nvim'
-  Plug 'ray-x/lsp_signature.nvim'
+  Plug 'hrsh7th/cmp-path'
+  Plug 'hrsh7th/nvim-cmp'
   Plug 'j-hui/fidget.nvim'
+  Plug 'jose-elias-alvarez/null-ls.nvim'
+  Plug 'L3MON4D3/LuaSnip'
+  Plug 'nathom/filetype.nvim'
+  Plug 'neovim/nvim-lspconfig'
+  Plug 'nvim-lua/plenary.nvim'
+  Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+  Plug 'ray-x/lsp_signature.nvim'
+  Plug 'saadparwaiz1/cmp_luasnip'
+  Plug 'williamboman/mason-lspconfig.nvim'
+  Plug 'williamboman/mason.nvim'
 endif
 
 call plug#end()
@@ -119,7 +123,6 @@ let g:vimtex_view_method="zathura"
 let g:tex_flavor = 'latex'
 let g:pandoc#syntax#conceal#use = 0
 
-
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Airline
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -128,8 +131,8 @@ let g:airline_powerline_fonts = 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => FZF
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-nnoremap <silent> <leader>f :Files<cr>
-nnoremap <silent> <leader>s :Rg<cr>
+nnoremap <silent> <leader>ff :Files<cr>
+nnoremap <silent> <leader>rg :Rg<cr>
 
 command! -bang -nargs=* Rg
   \ call fzf#vim#grep(
@@ -139,11 +142,12 @@ command! -bang -nargs=* Rg
 let g:fzf_preview_window = ['right:50%', 'ctrl-/']
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" UltiSnips
+" Floaterm
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:UltiSnipsSnippetDirectories=["UltiSnips"]
-let g:UltiSnipsExpandTrigger="<c-space>"
-let g:UltiSnipsRemoveSelectModeMappings = 0
+nnoremap <leader>fm :FloatermNew xplr<cr>
+nnoremap <leader>lg :FloatermNew lazygit<cr>
+let g:floaterm_keymap_new = '<leader>ft'
+autocmd VimResized * FloatermUpdate
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Colorscheme
@@ -152,10 +156,12 @@ autocmd ColorScheme * highlight Normal ctermbg=NONE guibg=NONE
 autocmd ColorScheme * highlight EndOfBuffer ctermbg=NONE guibg=NONE
 
 if has('nvim')
+  colorscheme tokyonight
   colorscheme everforest
 else
   colorscheme sonokai
 endif
+
 
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
 

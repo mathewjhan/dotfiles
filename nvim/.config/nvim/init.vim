@@ -12,34 +12,55 @@ let g:do_filetype_lua = 1
 """"""""""""""
 lua <<EOF
   local cmp = require 'cmp'
-  local t = function(str)
-    return vim.api.nvim_replace_termcodes(str, true, true, true)
+  local luasnip = require("luasnip")
+
+  local has_words_before = function()
+    local line, col = unpack(vim.api.nvim_win_get_cursor(0))
+    return col ~= 0 and vim.api.nvim_buf_get_lines(0, line - 1, line, true)[1]:sub(col, col):match("%s") == nil
   end
-  local check_back_space = function()
-    local col = vim.fn.col(".") - 1
-    return col == 0 or vim.fn.getline("."):sub(col, col):match("%s") ~= nil
-  end
+
   cmp.setup {
     snippet = {
       expand = function(args)
-        vim.fn["UltiSnips#Anon"](args.body)
-      end,
+        luasnip.lsp_expand(args.body)
+      end
     },
     mapping = {
-      ['<C-p>'] = cmp.mapping.select_prev_item(),
-      ['<C-n>'] = cmp.mapping.select_next_item(),
+      -- ['<C-p>'] = cmp.mapping.select_prev_item(),
+      -- ['<C-n>'] = cmp.mapping.select_next_item(),
       ['<C-u>'] = cmp.mapping.scroll_docs(-4),
       ['<C-d>'] = cmp.mapping.scroll_docs(4),
       ['<C-e>'] = cmp.mapping.close(),
-      ["<C-Space>"] = cmp.mapping(function(fallback)
-        if vim.fn.pumvisible() == 1 then
-          if vim.fn["UltiSnips#CanExpandSnippet"]() == 1 then
-            return vim.fn.feedkeys(t("<C-R>=UltiSnips#ExpandSnippet()<CR>"))
-          end
 
-          vim.fn.feedkeys(t("<C-n>"), "n")
-        elseif check_back_space() then
-          vim.fn.feedkeys(t("<cr>"), "n")
+      -- ["<C-Space>"] = cmp.mapping.complete(),
+      ['<Tab>'] = cmp.mapping(cmp.mapping.select_next_item(), { 'i', 's' }),
+      ['<S-Tab>'] = cmp.mapping(cmp.mapping.select_prev_item(), { 'i', 's' }),
+
+      ["<C-n>"] = cmp.mapping(function(fallback)
+        if luasnip.expand_or_jumpable() then
+          luasnip.expand_or_jump()
+        elseif cmp.visible() then
+          cmp.select_next_item()
+        elseif has_words_before() then
+          cmp.complete()
+        else
+          fallback()
+        end
+      end, { "i", "s" }),
+
+      ["<C-p>"] = cmp.mapping(function(fallback)
+        if luasnip.jumpable(-1) then
+          luasnip.jump(-1)
+        elseif cmp.visible() then
+          cmp.select_prev_item()
+        else
+          fallback()
+        end
+      end, { "i", "s" }),
+
+      ["<C-Space>"] = cmp.mapping(function(fallback)
+        if luasnip.expand_or_jumpable() then
+          luasnip.expand_or_jump()
         else
           fallback()
         end
@@ -47,14 +68,13 @@ lua <<EOF
         "i",
         "s",
       }),
-      ['<Tab>'] = cmp.mapping(cmp.mapping.select_next_item(), { 'i', 's' }),
-      ['<S-Tab>'] = cmp.mapping(cmp.mapping.select_prev_item(), { 'i', 's' }),
-    },
+    }, 
+
     sources = {
       { name = 'nvim_lsp' },
       { name = 'path' },
       { name = 'buffer' },
-      { name = 'ultisnips' },
+      { name = 'luasnip' },
     },
     window = {
       documentation = {
@@ -66,6 +86,13 @@ lua <<EOF
       },
     }
   }
+EOF
+
+""""""""""""""
+" LUASNIP SETUP
+""""""""""""""
+lua << EOF
+require("luasnip.loaders.from_vscode").lazy_load()
 EOF
 
 """"""""""""""
