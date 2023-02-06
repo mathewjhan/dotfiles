@@ -38,7 +38,6 @@ Plug 'Yggdroot/indentLine'
 " Normal
 Plug 'sainnhe/everforest'
 Plug 'sainnhe/sonokai'
-Plug 'folke/tokyonight.nvim'
 
 " Wal
 Plug 'nekonako/xresources-nvim'
@@ -51,13 +50,16 @@ if has('nvim')
   Plug 'hrsh7th/nvim-cmp'
   Plug 'j-hui/fidget.nvim'
   Plug 'jose-elias-alvarez/null-ls.nvim'
-  Plug 'L3MON4D3/LuaSnip'
+  "Plug 'L3MON4D3/LuaSnip'
+  "Plug 'saadparwaiz1/cmp_luasnip'
+  Plug 'dcampos/nvim-snippy'
+  Plug 'honza/vim-snippets'
+  Plug 'dcampos/cmp-snippy'
   Plug 'nathom/filetype.nvim'
   Plug 'neovim/nvim-lspconfig'
   Plug 'nvim-lua/plenary.nvim'
   Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
   Plug 'ray-x/lsp_signature.nvim'
-  Plug 'saadparwaiz1/cmp_luasnip'
   Plug 'williamboman/mason-lspconfig.nvim'
   Plug 'williamboman/mason.nvim'
 endif
@@ -155,8 +157,8 @@ autocmd VimResized * FloatermUpdate
 autocmd ColorScheme * highlight Normal ctermbg=NONE guibg=NONE
 autocmd ColorScheme * highlight EndOfBuffer ctermbg=NONE guibg=NONE
 
+set termguicolors
 if has('nvim')
-  colorscheme tokyonight
   colorscheme everforest
 else
   colorscheme sonokai

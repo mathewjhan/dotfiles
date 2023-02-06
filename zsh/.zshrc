@@ -4,12 +4,14 @@
 
 # School
 export uni="/media/data/mathew/Home/College"
-alias math597u="cd /media/data/mathew/Home/College/MATH597U"
-alias math545="cd /media/data/mathew/Home/College/MATH545"
-alias cs590op="cd /media/data/mathew/Home/College/CS590OP"
-alias music150="cd /media/data/mathew/Home/College/MUSIC150"
-alias nbstart="cd /media/data/mathew/Home/College/MATH597U/Notebooks && source math597u/bin/activate && jupyter lab"
+alias math557="cd /media/data/mathew/Home/College/MATH557"
+alias cs688="cd /media/data/mathew/Home/College/CS688"
+alias cs677="cd /media/data/mathew/Home/College/CS677"
+alias cics298a="cd /media/data/mathew/Home/College/CICS298A"
+alias geo103="cd /media/data/mathew/Home/College/GEO103"
+
 alias grad="cd /media/data/mathew/Home/grad"
+alias nbstart="cd /media/data/mathew/Home/College/MATH597U/Notebooks && source math597u/bin/activate && jupyter lab"
 
 # Convenient aliases
 alias e="nvim"
@@ -28,6 +30,7 @@ alias left-monitor="xrandr --output DP3 --auto --left-of eDP1 --primary  --auto 
 alias offload='__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME="nvidia" __VK_LAYER_NV_optimus="NVIDIA_only" __GL_SHOW_GRAPHICS_OSD=1'
 alias editsdf="nvim ~/.local/bin/sdf"
 alias restartaudio="systemctl --user restart pipewire pipewire-pulse pipewire-media-session"
+alias updatemirrors="reflector --verbose -l 200 -n 20 -p http --sort rate --save /etc/pacman.d/mirrorlist"
 
 # Touch + edit
 te(){
@@ -112,9 +115,6 @@ alias nvimconfig="vim ~/.config/nvim/init.vim"
 
 # Lock
 alias lock="xflock4"
-
-# Dell configuration
-alias dellconf="sudo cctk"
 
 # MPD
 alias remove-playlist-dupes="mpc playlist | sort | uniq -d -c | while read song; do count=$(echo "$song" | sed -e "s/^[ \t]*//" | cut -d" " -f1); song=$(echo "$song" | sed -e "s/^[ \t]*//" | cut -d" " -f2-); for (( i = 2 ; i <= $count; i++ )); do mpc playlist | grep -n "$song" | tail -n 1 | cut -d: -f1 | mpc del; done; done"

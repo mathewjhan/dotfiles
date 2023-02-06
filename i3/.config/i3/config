@@ -178,9 +178,9 @@ bindsym $mod+F11 exec --no-startup-id brightnessControl.sh down
 bindsym $mod+F12 exec --no-startup-id brightnessControl.sh up
 
 # Media player controls
-bindsym $mod+F4 exec --no-startup-id "playerctl --player=spotify,mpd next"
+bindsym $mod+F4 exec --no-startup-id "playerctl --player=spotify,mpd previous"
 bindsym $mod+F5 exec --no-startup-id "playerctl --player=spotify,mpd play-pause"
-bindsym $mod+F6 exec --no-startup-id "playerctl --player=spotify,mpd previous"
+bindsym $mod+F6 exec --no-startup-id "playerctl --player=spotify,mpd next"
 
 # gaps config
 gaps inner 16

@@ -12,7 +12,8 @@ let g:do_filetype_lua = 1
 """"""""""""""
 lua <<EOF
   local cmp = require 'cmp'
-  local luasnip = require("luasnip")
+  -- local luasnip = require("luasnip")
+  local snippy = require("snippy")
 
   local has_words_before = function()
     local line, col = unpack(vim.api.nvim_win_get_cursor(0))
@@ -22,7 +23,7 @@ lua <<EOF
   cmp.setup {
     snippet = {
       expand = function(args)
-        luasnip.lsp_expand(args.body)
+        snippy.expand_snippet(args.body)
       end
     },
     mapping = {
@@ -37,8 +38,8 @@ lua <<EOF
       ['<S-Tab>'] = cmp.mapping(cmp.mapping.select_prev_item(), { 'i', 's' }),
 
       ["<C-n>"] = cmp.mapping(function(fallback)
-        if luasnip.expand_or_jumpable() then
-          luasnip.expand_or_jump()
+        if snippy.can_expand_or_advance() then
+          snippy.expand_or_advance()
         elseif cmp.visible() then
           cmp.select_next_item()
         elseif has_words_before() then
@@ -49,8 +50,8 @@ lua <<EOF
       end, { "i", "s" }),
 
       ["<C-p>"] = cmp.mapping(function(fallback)
-        if luasnip.jumpable(-1) then
-          luasnip.jump(-1)
+        if snippy.can_jump(-1) then
+          snippy.previous()
         elseif cmp.visible() then
           cmp.select_prev_item()
         else
@@ -59,8 +60,8 @@ lua <<EOF
       end, { "i", "s" }),
 
       ["<C-Space>"] = cmp.mapping(function(fallback)
-        if luasnip.expand_or_jumpable() then
-          luasnip.expand_or_jump()
+        if snippy.can_expand_or_advance() then
+          snippy.expand_or_advance()
         else
           fallback()
         end
@@ -74,7 +75,8 @@ lua <<EOF
       { name = 'nvim_lsp' },
       { name = 'path' },
       { name = 'buffer' },
-      { name = 'luasnip' },
+      -- { name = 'luasnip' },
+      { name = 'snippy' },
     },
     window = {
       documentation = {
@@ -91,9 +93,9 @@ EOF
 """"""""""""""
 " LUASNIP SETUP
 """"""""""""""
-lua << EOF
-require("luasnip.loaders.from_vscode").lazy_load()
-EOF
+" lua << EOF
+" require("luasnip.loaders.from_vscode").lazy_load()
+" EOF
 
 """"""""""""""
 " COMPE SETUP
