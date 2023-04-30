@@ -5,3 +5,4 @@ mpd/.config/mpd/mpd.log
 mpd/.config/mpd/mpdstate
 mpd/.config/mpd/playlists
 mpd/.config/mpd/socket
+vifm/.config/vifm/viminfo*
