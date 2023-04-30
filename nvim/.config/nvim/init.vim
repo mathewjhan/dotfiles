@@ -10,8 +10,8 @@ let g:do_filetype_lua = 1
 """"""""""""""
 " CMP SETUP
 """"""""""""""
-lua <<EOF
-  local cmp = require 'cmp'
+lua << EOF
+  local cmp = require('cmp')
   -- local luasnip = require("luasnip")
   local snippy = require("snippy")
 
@@ -97,73 +97,36 @@ EOF
 " require("luasnip.loaders.from_vscode").lazy_load()
 " EOF
 
-""""""""""""""
-" COMPE SETUP
-""""""""""""""
-" lua << EOF
-" -- Compe setup
-" require'compe'.setup {
-"   enabled = true;
-"   autocomplete = true;
-"   debug = false;
-"   min_length = 1;
-"   preselect = 'enable';
-"   throttle_time = 80;
-"   source_timeout = 200;
-"   incomplete_delay = 400;
-"   max_abbr_width = 100;
-"   max_kind_width = 100;
-"   max_menu_width = 100;
-"   documentation = true;
-" 
-"   source = {
-"     path = true;
-"     nvim_lsp = true;
-"   };
-" }
-" 
-" local t = function(str)
-"   return vim.api.nvim_replace_termcodes(str, true, true, true)
-" end
-" 
-" local check_back_space = function()
-"     local col = vim.fn.col('.') - 1
-"     if col == 0 or vim.fn.getline('.'):sub(col, col):match('%s') then
-"         return true
-"     else
-"         return false
-"     end
-" end
-" 
-" -- Use (s-)tab to:
-" --- move to prev/next item in completion menuone
-" --- jump to prev/next snippet's placeholder
-" _G.tab_complete = function()
-"   if vim.fn.pumvisible() == 1 then
-"     return t "<C-n>"
-"   elseif check_back_space() then
-"     return t "<Tab>"
-"   else
-"     return vim.fn['compe#complete']()
-"   end
-" end
-" _G.s_tab_complete = function()
-"   if vim.fn.pumvisible() == 1 then
-"     return t "<C-p>"
-"   else
-"     return t "<S-Tab>"
-"   end
-" end
-" 
-" vim.api.nvim_set_keymap("i", "<Tab>", "v:lua.tab_complete()", {expr = true})
-" vim.api.nvim_set_keymap("s", "<Tab>", "v:lua.tab_complete()", {expr = true})
-" vim.api.nvim_set_keymap("i", "<S-Tab>", "v:lua.s_tab_complete()", {expr = true})
-" vim.api.nvim_set_keymap("s", "<S-Tab>", "v:lua.s_tab_complete()", {expr = true})
-" 
-" --This line is important for auto-import
-" vim.api.nvim_set_keymap('i', '<cr>', 'compe#confirm("<cr>")', { expr = true })
-" vim.api.nvim_set_keymap('i', '<c-space>', 'compe#complete()', { expr = true })
-" EOF
+"""""""""""""""""
+" NVIM-UFO SETUP
+"""""""""""""""""
+lua << EOF
+  vim.o.foldcolumn = '0' -- '0' is not bad
+  vim.o.foldlevel = 99 -- Using ufo provider need a large value, feel free to decrease the value
+  vim.o.foldlevelstart = 99
+  vim.o.foldenable = true
+
+  -- Using ufo provider need remap `zR` and `zM`. If Neovim is 0.6.1, remap yourself
+  vim.keymap.set('n', 'zR', require('ufo').openAllFolds)
+  vim.keymap.set('n', 'zM', require('ufo').closeAllFolds)
+
+  vim.keymap.set('n', 'z<Cr>', 'za')
+  vim.keymap.set('n', 'z<Space>', 'zA')
+
+  local capabilities = vim.lsp.protocol.make_client_capabilities()
+  capabilities.textDocument.foldingRange = {
+      dynamicRegistration = false,
+      lineFoldingOnly = true
+  }
+  local language_servers = require("lspconfig").util.available_servers() -- or list servers manually like {'gopls', 'clangd'}
+  for _, ls in ipairs(language_servers) do
+      require('lspconfig')[ls].setup({
+          capabilities = capabilities
+          -- you can add other fields for setting up lsp server in this table
+      })
+  end
+  require('ufo').setup()
+EOF
 
 """""""""""""""""""""""""""""""""""""""
 " Disable inline buffer error messages
@@ -175,6 +138,15 @@ vim.lsp.handlers["textDocument/publishDiagnostics"] = vim.lsp.with(
         signs = false
     }
 )
+EOF
+
+
+"""""""""""""""
+" Dirbuf
+"""""""""""""""
+lua << EOF
+  vim.g.mapleader = ','
+  vim.keymap.set('n', '<leader>fc', ':Dirbuf<Cr>')
 EOF
 
 """""""""""""""
@@ -300,42 +272,51 @@ require'nvim-treesitter.configs'.setup {
 }
 EOF
 
-"""""""""""""""
-" LSP Config
-"""""""""""""""
-" lua << EOF
-" local lsp_installer = require("nvim-lsp-installer")
-" 
-" lsp_installer.on_server_ready(function(server)
-"     local opts = {}
-" 
-"     -- (optional) Customize the options passed to the server
-"     -- if server.name == "tsserver" then
-"     --     opts.root_dir = function() ... end
-"     -- end
-" 
-"     -- This setup() function is exactly the same as lspconfig's setup function (:help lspconfig-quickstart)
-"     server:setup(opts)
-"     vim.cmd [[ do User LspAttachBuffers ]]
-" end)
-" 
-" 
-" -- local nvim_lsp = require 'lspconfig'
-" -- local servers = { 
-" --   'pyright', 
-" --   'clangd', 
-" --   'jdtls', 
-" --   'texlab' 
-" -- }
-" -- for _, lsp in ipairs(servers) do
-" --   nvim_lsp[lsp].setup {
-" --     on_attach = on_attach,
-" --     capabilities = capabilities,
-" --   }
-" -- end
-" EOF
-
+""""""""""""""""""""
+" Mason + Nav Buddy
+""""""""""""""""""""
 lua << EOF
+
+local navbuddy = require("nvim-navbuddy")
+navbuddy.setup {
+  node_markers = {
+      enabled = false,
+      icons = {
+          leaf = "",
+          leaf_selected = "",
+          branch = "",
+      },
+  },
+  icons = {
+      File          = "",
+      Module        = "",
+      Namespace     = "",
+      Package       = "",
+      Class         = "",
+      Method        = "",
+      Property      = "",
+      Field         = "",
+      Constructor   = "",
+      Enum          = "",
+      Interface     = "",
+      Function      = "",
+      Variable      = "",
+      Constant      = "",
+      String        = "",
+      Number        = "",
+      Boolean       = "",
+      Array         = "",
+      Object        = "",
+      Key           = "",
+      Null          = "",
+      EnumMember    = "",
+      Struct        = "",
+      Event         = "",
+      Operator      = "",
+      TypeParameter = "",
+  },
+}
+
 require("mason").setup {
     ui = {
         icons = {
@@ -346,21 +327,70 @@ require("mason").setup {
 mason_lspconfig = require("mason-lspconfig")
 
 mason_lspconfig.setup {
-    ensure_installed = { "sumneko_lua" },
+    ensure_installed = {},
 }
 
 mason_lspconfig.setup_handlers({
   function (server_name)
-    require("lspconfig")[server_name].setup {}
+    require("lspconfig")[server_name].setup {
+      on_attach = function(client, bufnr)
+              navbuddy.attach(client, bufnr)
+      end
+    }
   end
 })
+
+vim.g.mapleader = ','
+vim.keymap.set('n', '<leader>fn', ':Navbuddy<Cr>')
+
 EOF
 
+" lua << EOF
+" require("null-ls").setup({
+"     sources = {
+"         require("null-ls").builtins.diagnostics.vale,
+"     },
+" })
+" EOF
+
+"""""""""""""""
+" inc rename
+"""""""""""""""
 lua << EOF
-require("null-ls").setup({
-    sources = {
-        require("null-ls").builtins.diagnostics.vale,
-    },
+require("inc_rename").setup()
+vim.keymap.set("n", "<leader>rn", function()
+  return ":IncRename " .. vim.fn.expand("<cword>")
+  end, { expr = true  })
+EOF
+
+"""""""""""""""
+" Nvim Autopairs
+"""""""""""""""
+lua << EOF
+require('nvim-autopairs').setup({
+  enable_check_bracket_line = false
+})
+local npairs = require("nvim-autopairs")
+local Rule = require('nvim-autopairs.rule')
+
+npairs.setup({
+    check_ts = true,
+    ts_config = {
+        lua = {'string'},-- it will not add a pair on that treesitter node
+        javascript = {'template_string'},
+        java = false,-- don't check treesitter on java
+    }
+})
+
+local ts_conds = require('nvim-autopairs.ts-conds')
+
+
+-- press % => %% only while inside a comment or string
+npairs.add_rules({
+  Rule("%", "%", "lua")
+    :with_pair(ts_conds.is_ts_node({'string','comment'})),
+  Rule("$", "$", "lua")
+    :with_pair(ts_conds.is_not_ts_node({'function'}))
 })
 EOF
 
@@ -416,28 +446,3 @@ cfg = {
 -- recommanded:
 require'lsp_signature'.setup(cfg) -- no need to specify bufnr if you don't use toggle_key
 EOF
-
-"""""""""""""""
-" bufresize 
-"""""""""""""""
-" lua << EOF
-" local opts = { noremap=true, silent=true }
-" require("bufresize").setup({
-"     register = {
-"         keys = {
-"             { "n", "<C-w><", "30<C-w><", opts },
-"             { "n", "<C-w>>", "30<C-w>>", opts },
-"             { "n", "<C-w>+", "10<C-w>+", opts },
-"             { "n", "<C-w>-", "10<C-w>-", opts },
-"             { "n", "<C-w>_", "<C-w>_", opts },
-"             { "n", "<C-w>=", "<C-w>=", opts },
-"             { "n", "<C-w>|", "<C-w>|", opts },
-"         },
-"         trigger_events = { "BufWinEnter", "WinEnter" },
-"     },
-"     resize = {
-"         keys = {},
-"         trigger_events = { "VimResized" },
-"     },
-" })
-" EOF

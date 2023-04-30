@@ -56,13 +56,7 @@ require("nuke").setup{
   open = {
     run_executables = true, -- default: false
     custom = {
-      {mime_regex = "^text/.*", command = "nvim {}"},
-      {mime_regex = "^image/.*", command = "sxiv {} &"},
-      {mime_regex = "^video/.*", command = "mpv {} &"},
-      {mime_regex = "^audio/.*", command = "vlc {} &"},
-      {mime = "application/json", command = "nvim {} &"},
-      {mime = "application/pdf", command = "zathura {} &"},
-      {mime_regex = ".*", command = "xdg-open {} &"},
+      {mime_regex = ".*", command = "handlr open {}"},
     }
   },
   view = {

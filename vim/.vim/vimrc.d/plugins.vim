@@ -9,7 +9,6 @@ call plug#begin('~/.vim/plugged')
 
 " Github
 Plug 'anufrievroman/vim-angry-reviewer'
-Plug 'cohama/lexima.vim'
 Plug 'dstein64/vim-startuptime'
 Plug 'godlygeek/tabular'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
@@ -20,11 +19,10 @@ Plug 'kana/vim-textobj-user'
 Plug 'lervag/vimtex'
 Plug 'machakann/vim-sandwich'
 Plug 'MattesGroeger/vim-bookmarks'
-Plug 'mg979/vim-visual-multi', {'branch': 'master'}
+" Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 Plug 'mkitt/tabline.vim'
 Plug 'mzlogin/vim-markdown-toc'
 Plug 'preservim/tagbar'
-Plug 'rafamadriz/friendly-snippets'
 Plug 'sbdchd/neoformat'
 Plug 'skywind3000/asyncrun.vim'
 Plug 'timakro/vim-yadi'
@@ -36,8 +34,19 @@ Plug 'Yggdroot/indentLine'
 
 " Themes
 " Normal
-Plug 'sainnhe/everforest'
 Plug 'sainnhe/sonokai'
+Plug 'embark-theme/vim', { 'as': 'embark', 'branch': 'main' }
+
+if has('nvim')
+  Plug 'sainnhe/everforest'
+endif
+
+" Auto pairs
+if has('nvim')
+  Plug 'windwp/nvim-autopairs'
+else
+  Plug 'cohama/lexima.vim'
+endif
 
 " Wal
 Plug 'nekonako/xresources-nvim'
@@ -48,20 +57,24 @@ if has('nvim')
   Plug 'hrsh7th/cmp-nvim-lsp'
   Plug 'hrsh7th/cmp-path'
   Plug 'hrsh7th/nvim-cmp'
-  Plug 'j-hui/fidget.nvim'
-  Plug 'jose-elias-alvarez/null-ls.nvim'
-  "Plug 'L3MON4D3/LuaSnip'
-  "Plug 'saadparwaiz1/cmp_luasnip'
+  " Plug 'jose-elias-alvarez/null-ls.nvim'
   Plug 'dcampos/nvim-snippy'
   Plug 'honza/vim-snippets'
   Plug 'dcampos/cmp-snippy'
+  Plug 'kevinhwang91/nvim-ufo'
+  Plug 'kevinhwang91/promise-async'
+  Plug 'elihunter173/dirbuf.nvim'
   Plug 'nathom/filetype.nvim'
   Plug 'neovim/nvim-lspconfig'
+  Plug 'smjonas/inc-rename.nvim'
   Plug 'nvim-lua/plenary.nvim'
   Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
   Plug 'ray-x/lsp_signature.nvim'
   Plug 'williamboman/mason-lspconfig.nvim'
   Plug 'williamboman/mason.nvim'
+  Plug 'SmiteshP/nvim-navic'
+  Plug 'MunifTanjim/nui.nvim'
+  Plug 'SmiteshP/nvim-navbuddy'
 endif
 
 call plug#end()
@@ -155,13 +168,14 @@ autocmd VimResized * FloatermUpdate
 " Colorscheme
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 autocmd ColorScheme * highlight Normal ctermbg=NONE guibg=NONE
+autocmd ColorScheme * highlight NormalNC ctermbg=NONE guibg=NONE
 autocmd ColorScheme * highlight EndOfBuffer ctermbg=NONE guibg=NONE
 
 set termguicolors
 if has('nvim')
   colorscheme everforest
 else
-  colorscheme sonokai
+  colorscheme embark
 endif
 
 

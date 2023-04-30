@@ -9,6 +9,8 @@ alias cs688="cd /media/data/mathew/Home/College/CS688"
 alias cs677="cd /media/data/mathew/Home/College/CS677"
 alias cics298a="cd /media/data/mathew/Home/College/CICS298A"
 alias geo103="cd /media/data/mathew/Home/College/GEO103"
+alias cs370="cd /media/data/mathew/Home/College/UCA/CS370"
+alias edlab="TERM=vt100 ssh mathewhan@elnux.cs.umass.edu"
 
 alias grad="cd /media/data/mathew/Home/grad"
 alias nbstart="cd /media/data/mathew/Home/College/MATH597U/Notebooks && source math597u/bin/activate && jupyter lab"
@@ -176,9 +178,11 @@ prompt pure
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # z
-[[ -r "/usr/share/z/z.sh" ]] && source /usr/share/z/z.sh
+# [[ -r "/usr/share/z/z.sh" ]] && source /usr/share/z/z.sh
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+source /usr/share/nvm/init-nvm.sh

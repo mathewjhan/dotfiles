@@ -98,7 +98,7 @@ map 0 ^
 map <leader>sc :setlocal spell!<cr>
 
 " Replace
-nnoremap <leader>r :%s/\<<C-r>=expand("<cword>")<CR>\>/
+nnoremap <leader>rr :%s/\<<C-r>=expand("<cword>")<CR>\>/
 
 " Move highlighted block
 vnoremap J :m '>+1<CR>gv=gv
@@ -107,6 +107,9 @@ vnoremap K :m '<-2<CR>gv=gv
 " Fast movement on homerow
 nnoremap J <PageDown>zz
 nnoremap K <PageUp>zz
+
+" zA to z<Space>
+nnoremap z<Space> zA
 
 " Toggle paste mode on and off
 map <leader>pp :setlocal paste!<cr>

@@ -1,0 +1,36 @@
+snippet today i
+  `date +%F`
+
+snippet dm i
+  \[
+  ${1:math}
+  \] $0
+
+snippet frac "Fraction" i
+  \\frac{${1:num}}{${2:denom}}$0
+
+snippet linp "Linear program template" b
+  \begin{equation*}
+  \begin{array}{rrlccl}
+  \displaystyle \underset{${1:x}}{\text{${2:minmax}}} 
+  & \multicolumn{3}{l}{${3:obj}} \\\\
+  \textrm{s.t.} 
+  & ${4:const} \\\\
+  \end{array}
+  \end{equation*}
+  $0
+
+snippet pr "Probability" i
+  P(${1:x})$0
+
+snippet thetabayes "Theta paramater notation for Bayesian networks" i
+  \\theta^{${1:X}}_{${2:x}|${3:c}}$0
+
+snippet indic i
+  \\mathbbm{1}
+
+snippet defvectorbold b
+  % Vector notation
+  \\DeclareDocumentCommand\\vectorbold{ s m }{\\IfBooleanTF{#1}{\\boldsymbol{#2}}{\\mathbf{#2}}} % Vector bold [star for Greek and italic Roman]
+  \\DeclareDocumentCommand\\vb{}{\\vectorbold} % Shorthand for \\vectorbold
+
