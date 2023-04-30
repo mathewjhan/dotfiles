@@ -1,2 +1,7 @@
 local
 vim/.vim/plugged
+mpd/.config/mpd/database
+mpd/.config/mpd/mpd.log
+mpd/.config/mpd/mpdstate
+mpd/.config/mpd/playlists
+mpd/.config/mpd/socket
