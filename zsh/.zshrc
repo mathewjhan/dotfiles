@@ -17,7 +17,6 @@ alias nbstart="cd /media/data/mathew/Home/College/MATH597U/Notebooks && source m
 
 # Convenient aliases
 alias e="nvim"
-alias fm='cd "$(xplr --print-pwd-as-result)"'
 alias mp="ncmpcpp"
 alias lg="lazygit"
 alias ..="cd .."
@@ -25,6 +24,33 @@ alias ...="cd ../.."
 alias ....="cd ../../.."
 alias gohome="cd /media/data/mathew/Home"
 alias logout="i3-msg exit"
+
+#alias fm='cd "$(xplr --print-pwd-as-result)"'
+#alias fm="ranger"
+#function fm {
+#    local IFS=$'\t\n'
+#    local tempfile="$(mktemp -t tmp.XXXXXX)"
+#    local ranger_cmd=(
+#        command
+#        ranger
+#        --cmd="map Q chain shell echo %d > "$tempfile"; quitall"
+#    )
+#    
+#    ${ranger_cmd[@]} "$@"
+#    if [[ -f "$tempfile" ]] && [[ "$(cat -- "$tempfile")" != "$(echo -n `pwd`)" ]]; then
+#        cd -- "$(cat "$tempfile")" || return
+#    fi
+#    command rm -f -- "$tempfile" 2>/dev/null
+#}
+
+function fm {
+    ranger $*
+    local quit_cd_wd_file="$HOME/.ranger_quit_cd_wd"
+    if [ -s "$quit_cd_wd_file" ]; then
+        cd "$(cat $quit_cd_wd_file)"
+        true > "$quit_cd_wd_file"
+    fi
+}
 
 # Other stuff
 alias weebtrash="cd /media/data/mathew/Home/trash"

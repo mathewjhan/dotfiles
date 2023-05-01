@@ -104,6 +104,7 @@ endif
 " set statusline="  Hint: %z%= %A %10u:%-7g %15s %20d  "
 
 " Set line numbers to show
+set rnu
 
 " ------------------------------------------------------------------------------
 
@@ -458,3 +459,6 @@ nnoremap dls :cd ~/Downloads<cr>
 nnoremap walls :cd ~/Pictures/Wallpapers<cr>
 nnoremap cd :cd<cr>
 nnoremap win :cd /media/data/mathew/Home<cr>
+
+" Single pane
+only

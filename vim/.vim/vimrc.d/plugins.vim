@@ -31,6 +31,7 @@ Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'voldikss/vim-floaterm'
 Plug 'Yggdroot/indentLine'
+Plug 'christoomey/vim-tmux-navigator'
 
 " Themes
 " Normal
@@ -159,7 +160,7 @@ let g:fzf_preview_window = ['right:50%', 'ctrl-/']
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Floaterm
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-nnoremap <leader>fm :FloatermNew xplr<cr>
+nnoremap <leader>fm :FloatermNew ranger<cr>
 nnoremap <leader>lg :FloatermNew lazygit<cr>
 let g:floaterm_keymap_new = '<leader>ft'
 autocmd VimResized * FloatermUpdate
