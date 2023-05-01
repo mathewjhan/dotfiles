@@ -16,8 +16,8 @@ Most of the dotfiles I am using on my current Linux distro.
 | -------------           | -------                                                                                             |
 | Automounter             | [`udiskie`](https://github.com/coldfix/udiskie)                                                     |
 | Compositor              | [`picom`](https://github.com/yshui/picom)                                                           |
-| Dotfile management      | `git` + [`stow`](https://www.gnu.org/software/stow/)                                                |
-| File manager            | [`xplr`](https://github.com/sayanarijit/xplr)                                                       |
+| Dotfile management      | [`git`](https://github.com/git/git) + [`stow`](https://www.gnu.org/software/stow/)                  |
+| File manager            | [`ranger`](https://github.com/ranger/ranger)                                                        | 
 | Launcher/Window swapper | [`rofi`](https://github.com/davatorium/rofi)                                                        |
 | Monitor manager         | [`autorandr`](https://github.com/phillipberndt/autorandr)                                           |
 | Music player            | [`mpd`](https://github.com/MusicPlayerDaemon/MPD) + [`ncmpcpp`](https://github.com/ncmpcpp/ncmpcpp) |
