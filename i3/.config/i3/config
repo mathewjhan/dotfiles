@@ -49,7 +49,7 @@ bindsym $mod+d exec --no-startup-id rofi -config ~/.cache/wal/colors-rofi-light.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
 # start window switcher
-bindsym $mod+Tab exec --no-startup-id rofi -config ~/.cache/wal/colors-rofi-light.rasi -font "SF Pro 12" -show window
+bindsym $mod+Shift+Tab exec --no-startup-id rofi -config ~/.cache/wal/colors-rofi-light.rasi -font "SF Pro 12" -show window
 
 # change focus
 # bindsym $mod+j focus left
@@ -127,17 +127,29 @@ set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
 
+# Toggle workspace bindings
+bindsym $mod+1 exec toggle_workspace.sh 1
+bindsym $mod+2 exec toggle_workspace.sh 2
+bindsym $mod+3 exec toggle_workspace.sh 3
+bindsym $mod+4 exec toggle_workspace.sh 4
+bindsym $mod+5 exec toggle_workspace.sh 5
+bindsym $mod+6 exec toggle_workspace.sh 6
+bindsym $mod+7 exec toggle_workspace.sh 7
+bindsym $mod+8 exec toggle_workspace.sh 8
+bindsym $mod+9 exec toggle_workspace.sh 9
+bindsym $mod+0 exec toggle_workspace.sh 10
+
 # switch to workspace
-bindsym $mod+1 workspace $ws1
-bindsym $mod+2 workspace $ws2
-bindsym $mod+3 workspace $ws3
-bindsym $mod+4 workspace $ws4
-bindsym $mod+5 workspace $ws5
-bindsym $mod+6 workspace $ws6
-bindsym $mod+7 workspace $ws7
-bindsym $mod+8 workspace $ws8
-bindsym $mod+9 workspace $ws9
-bindsym $mod+0 workspace $ws10
+# bindsym $mod+1 workspace $ws1
+# bindsym $mod+2 workspace $ws2
+# bindsym $mod+3 workspace $ws3
+# bindsym $mod+4 workspace $ws4
+# bindsym $mod+5 workspace $ws5
+# bindsym $mod+6 workspace $ws6
+# bindsym $mod+7 workspace $ws7
+# bindsym $mod+8 workspace $ws8
+# bindsym $mod+9 workspace $ws9
+# bindsym $mod+0 workspace $ws10
 
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace $ws1
@@ -190,7 +202,9 @@ gaps outer 0
 # smart_borders on
 
 # workspace swap (alt+tab functionality)
-bindsym Mod1+Tab workspace back_and_forth
+# bindsym Mod1+Tab workspace back_and_forth
+bindsym Mod1+Tab nop mode_workspace_back_and_forth
+bindsym $mod+Tab nop mode_window_back_and_forth
 bindsym Mod1+Shift+Tab workspace prev
 
 # Screenshot
@@ -212,6 +226,11 @@ bindsym $mod+minus scratchpad show
 
 for_window [title="Network Connections"] floating enable
 for_window [title="Volume Control"] floating enable
+
+#############
+# Auto back #
+#############
+# workspace_auto_back_and_forth yes
 
 ###########
 # Startup #
@@ -235,6 +254,11 @@ client.unfocused        $bg     $bg     $fg  $bg       $bg
 client.urgent           $bg     $bg     $fg  $bg       $bg
 client.placeholder      $bg     $bg     $fg  $bg       $bg
 client.background       $fg
+
+# Polybar
+exec_always --no-startup-id pkill -9 polybar
+# This part is handled in autorandr
+exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 
 # Background with Feh + Theming
 exec_always --no-startup-id feh --bg-scale "$(cat ~/.wallpaper)" && autorandr --change 
@@ -261,10 +285,6 @@ exec --no-startup-id blurwal --backend feh -m 1
 
 # Nm-applet
 exec --no-startup-id nm-applet
-
-# Polybar
-exec_always --no-startup-id pkill -9 polybar
-exec_always --no-startup-id ~/.config/polybar/launch_polybar.sh
 
 # Rofi wifi
 bindsym $mod+shift+w exec --no-startup-id networkmanager_dmenu
@@ -300,5 +320,11 @@ exec --no-startup-id xset -dpms
 exec --no-startup-id /usr/bin/light-locker
 bindsym Control+Mod1+l exec light-locker-command -l
 
+# Tint2
+bindsym $mod+shift+t exec --no-startup-id pkill tint2 || tint2
+
 # KDEConnect
 exec --no-startup-id kdeconnect-indicator
+
+# Start daemon for alt-tabbing and alt-window
+exec_always --no-startup-id workspace_back_and_forth.py

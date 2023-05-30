@@ -2,10 +2,11 @@ script_name=${BASH_SOURCE[0]}
 for pid in $(pidof -x $script_name); do
     if [ $pid != $$ ]; then
         kill -9 $pid
-    fi 
+    fi
 done
 pkill -f pulseaudio_tail
 killall -q polybar
+# kill -9 $(pgrep -f 'polybar') >/dev/null 2>&1
 
 while pgrep -x wal >/dev/null; do sleep 1; done
 while pgrep -x polybar >/dev/null; do sleep 1; done

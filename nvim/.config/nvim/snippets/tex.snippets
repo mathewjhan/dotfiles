@@ -34,3 +34,14 @@ snippet defvectorbold b
   \\DeclareDocumentCommand\\vectorbold{ s m }{\\IfBooleanTF{#1}{\\boldsymbol{#2}}{\\mathbf{#2}}} % Vector bold [star for Greek and italic Roman]
   \\DeclareDocumentCommand\\vb{}{\\vectorbold} % Shorthand for \\vectorbold
 
+snippet lrb i
+  \\left(${1}\\right)$0
+
+snippet lrcb i
+  \\left\\{${1}\\right\\}$0
+
+snippet cb i
+  \\{${1}\\}$0
+
+snippet quotes i
+  ``${1}''$0

@@ -19,4 +19,4 @@ function status_to_icon {
   done
 }
 
-playerctl --player=spotify,mpd status --follow 2>/dev/null | status_to_icon
+playerctl --player=spotify,mpd --ignore-player=polybar status --follow 2>/dev/null | status_to_icon

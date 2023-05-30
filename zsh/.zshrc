@@ -155,6 +155,16 @@ extract-all(){
     done
 }
 
+# virtualenv to jupyter
+venv-jupyter() {
+    python -m ipykernel install --user --name="$@"
+}
+
+# virtualenv activate
+venv() {
+    source "$@"/bin/activate
+}
+
 # git
 alias gittree="git log --graph --decorate --pretty=oneline --abbrev-commit"
 
