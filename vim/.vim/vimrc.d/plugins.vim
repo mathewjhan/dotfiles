@@ -19,7 +19,6 @@ Plug 'kana/vim-textobj-user'
 Plug 'lervag/vimtex'
 Plug 'machakann/vim-sandwich'
 Plug 'MattesGroeger/vim-bookmarks'
-" Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 Plug 'mkitt/tabline.vim'
 Plug 'mzlogin/vim-markdown-toc'
 Plug 'preservim/tagbar'
@@ -54,28 +53,36 @@ Plug 'nekonako/xresources-nvim'
 
 " NVIM plugins
 if has('nvim')
+  " LSP
   Plug 'hrsh7th/cmp-buffer'
   Plug 'hrsh7th/cmp-nvim-lsp'
   Plug 'hrsh7th/cmp-path'
   Plug 'hrsh7th/nvim-cmp'
-  " Plug 'jose-elias-alvarez/null-ls.nvim'
-  Plug 'michaelb/sniprun', {'do': 'bash install.sh'}
-  Plug 'dcampos/nvim-snippy'
   Plug 'honza/vim-snippets'
+  Plug 'dcampos/nvim-snippy'
   Plug 'dcampos/cmp-snippy'
-  Plug 'kevinhwang91/nvim-ufo'
-  Plug 'folke/which-key.nvim'
-  Plug 'kevinhwang91/promise-async'
-  Plug 'elihunter173/dirbuf.nvim'
   Plug 'neovim/nvim-lspconfig'
+  Plug 'williamboman/mason-lspconfig.nvim'
+  Plug 'williamboman/mason.nvim'
+  
+  " Devtools
+  Plug 'michaelb/sniprun', {'do': 'bash install.sh'}
+  Plug 'milanglacier/yarepl.nvim'
+  Plug 'elihunter173/dirbuf.nvim'
+  Plug 'xeluxee/competitest.nvim'
+  Plug 'stevearc/oil.nvim'
   Plug 'smjonas/inc-rename.nvim'
+
+  " UI
+  Plug 'kevinhwang91/nvim-ufo'
+  Plug 'kevinhwang91/promise-async'
+  Plug 'folke/which-key.nvim'
   Plug 'nvim-lua/plenary.nvim'
   Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
   Plug 'ray-x/lsp_signature.nvim'
-  Plug 'williamboman/mason-lspconfig.nvim'
-  Plug 'williamboman/mason.nvim'
-  Plug 'SmiteshP/nvim-navic'
+  Plug 'shortcuts/no-neck-pain.nvim'
   Plug 'MunifTanjim/nui.nvim'
+  Plug 'SmiteshP/nvim-navic'
   Plug 'SmiteshP/nvim-navbuddy'
 endif
 

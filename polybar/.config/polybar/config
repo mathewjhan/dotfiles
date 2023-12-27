@@ -35,7 +35,11 @@ color7 = ${xrdb:color7:#222}
 [bar/bar0]
 monitor = ${env:MONITOR}
 width = 100%
-height = 32
+;height = 32
+height = 3%
+
+dpi-x = 196
+dpi-y = 196
 
 ;offset-x = 1%
 ;override-redirect = true

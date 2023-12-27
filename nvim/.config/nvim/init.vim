@@ -148,9 +148,24 @@ EOF
 """""""""""""""
 "" Dirbuf
 """""""""""""""
+" lua << EOF
+"   vim.g.mapleader = ','
+"   vim.keymap.set('n', '<leader>fc', ':Dirbuf<Cr>')
+" EOF
+
+""""""
+" OIL
+""""""
 lua << EOF
-  vim.g.mapleader = ','
-  vim.keymap.set('n', '<leader>fc', ':Dirbuf<Cr>')
+require("oil").setup()
+vim.keymap.set("n", "<leader>fc", require("oil").open, { desc = "Open parent directory"  })
+EOF
+
+""""""""""""""
+" Competitest
+""""""""""""""
+lua << EOF
+require('competitest').setup()
 EOF
 
 """""""""""""""

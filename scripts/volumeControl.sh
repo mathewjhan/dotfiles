@@ -21,7 +21,7 @@ function send_notification {
   iconSound="notification-audio-volume-high"
   iconMuted="notification-audio-volume-muted"
   if is_mute ; then
-    dunstify -i $iconMuted -r 2593 -u normal "mute"
+    dunstify -i $iconMuted -r 2593 -u normal "Muted!"
   else
     volume=$(get_volume)
     # Make the bar with the special character ─ (it's not dash -)
