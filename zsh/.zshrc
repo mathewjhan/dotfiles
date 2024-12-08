@@ -5,6 +5,7 @@
 # Defaults
 export EDITOR=vim
 export HOMEBREW_NO_AUTO_UPDATE=1
+export DOTS=~/.dotfiles
 
 # Convenient aliases
 alias e="nvim"
