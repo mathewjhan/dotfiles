@@ -2,46 +2,15 @@
 # ~/.zshrc
 #
 
-# School
-export uni="/media/data/mathew/Home/College"
-alias math557="cd /media/data/mathew/Home/College/MATH557"
-alias cs688="cd /media/data/mathew/Home/College/CS688"
-alias cs677="cd /media/data/mathew/Home/College/CS677"
-alias cics298a="cd /media/data/mathew/Home/College/CICS298A"
-alias geo103="cd /media/data/mathew/Home/College/GEO103"
-alias cs370="cd /media/data/mathew/Home/College/UCA/CS370"
-alias edlab="TERM=vt100 ssh mathewhan@elnux.cs.umass.edu"
-
-alias grad="cd /media/data/mathew/Home/grad"
-alias nbstart="cd /media/data/mathew/Home/College/MATH597U/Notebooks && source math597u/bin/activate && jupyter lab"
+# Defaults
+export EDITOR=vim
 
 # Convenient aliases
 alias e="nvim"
-alias mp="ncmpcpp"
 alias lg="lazygit"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
-alias gohome="cd /media/data/mathew/Home"
-alias logout="i3-msg exit"
-
-#alias fm='cd "$(xplr --print-pwd-as-result)"'
-#alias fm="ranger"
-#function fm {
-#    local IFS=$'\t\n'
-#    local tempfile="$(mktemp -t tmp.XXXXXX)"
-#    local ranger_cmd=(
-#        command
-#        ranger
-#        --cmd="map Q chain shell echo %d > "$tempfile"; quitall"
-#    )
-#    
-#    ${ranger_cmd[@]} "$@"
-#    if [[ -f "$tempfile" ]] && [[ "$(cat -- "$tempfile")" != "$(echo -n `pwd`)" ]]; then
-#        cd -- "$(cat "$tempfile")" || return
-#    fi
-#    command rm -f -- "$tempfile" 2>/dev/null
-#}
 
 function fm {
     ranger $*
@@ -52,100 +21,12 @@ function fm {
     fi
 }
 
-# Other stuff
-alias weebtrash="cd /media/data/mathew/Home/trash"
-alias left-monitor="xrandr --output DP3 --auto --left-of eDP1 --primary  --auto && ~/.config/polybar/launch_polybar.sh </dev/null &>/dev/null &"
-alias offload='__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME="nvidia" __VK_LAYER_NV_optimus="NVIDIA_only" __GL_SHOW_GRAPHICS_OSD=1'
-alias editsdf="nvim ~/.local/bin/sdf"
-alias restartaudio="systemctl --user restart pipewire pipewire-pulse pipewire-media-session"
-alias updatemirrors="reflector --verbose -l 200 -n 20 -p http --sort rate --save /etc/pacman.d/mirrorlist"
-
-# Touch + edit
-te(){
-    touch "$@"
-    nvim "$@"
-}
-
-# Vimtex
-vt(){
-    touch "$@"
-    nvim "$@"
-    latexmk -quiet -pdf -c "$@"
-}
-
-
-# Connman
-#alias lsnet="connmanctl scan wifi && connmanctl services"
-#alias connet="connmanctl connect"
-
-# Network Manager
-## Gets first network that matches and asks to connect
-connet(){
-    nmcli dev wifi connect "$(nmcli -f SSID dev wifi | grep -m 1 "$@" | sed 's/^ *//;s/ *$//')"
-}
-copynet(){
-    nmcli -f SSID dev wifi | grep -m 1 "$@" | sed 's/^ *//;s/ *$//' | xclip -selection clipboard
-}
-alias lsnet="nmcli dev wifi"
-alias restartnet="sudo modprobe -r ath10k_pci && sudo modprobe ath10k_pci"
-
-# gpu switch modes (requires gpu-enable run already)
-# I use optimus-manager only now
-# mode-bumblebee(){
-#     echo "Make sure you are not in optimus-manager nvidia"
-#     sudo modprobe -r nouveau
-#     sudo modprobe nvidia 
-#     sudo systemctl stop optimus-manager.service
-#     sudo systemctl disable optimus-manager.service
-#     sudo systemctl enable bumblebeed
-#     sudo systemctl start bumblebeed
-#     echo "Successfully changed to bumblebee"
-# }
-# mode-optimanager(){
-#     sudo systemctl stop bumblebeed
-#     sudo systemctl disable bumblebeed
-#     sudo systemctl enable optimus-manager.service
-#     sudo systemctl start optimus-manager.service
-#     echo "Successfully changed to optimus-manager"
-# }
-
-# nvidia-smi top
-alias nvidiatop="watch -n 0.5 nvidia-smi"
-
-# Pacman
-# remove orphans
-alias remorph="pacman -Qdt && sudo pacman -Rns \$(pacman -Qtdq)"
-
-# update related
-alias pacnews="sudo informant read"
-
-# audit
-alias pacaudit="arch-audit"
-
-# Package specific
-alias rm="echo 'Please run trash instead or rm with a backslash.'"
-alias tp="trash-put"
-alias ls='exa'
-alias icat="kitty icat"
-alias clipboard="xclip -selection clipboard"
-alias fetch="neofetch --ascii \"$(echo carpe noctem, quam minimum credula postero | cowthink -W 30 -f whale)\" --disable term term_font uptime resolution memory de wm theme icons"
-alias gitinfo="onefetch"
-alias wiki="wiki-search"
-alias wolfram="tungsten"
-alias temps="paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'"
-
 # Fast configs
 alias vimrc="cd ~/.vim/vimrc.d && echo 'Changed directories to vimrc.d'"
 alias bashrc="vim ~/.bashrc && source ~/.bashrc"
 alias zshrc="vim ~/.zshrc && source ~/.zshrc"
 alias i3config="vim ~/.config/i3/config"
 alias nvimconfig="vim ~/.config/nvim/init.vim"
-
-# Lock
-alias lock="xflock4"
-
-# MPD
-alias remove-playlist-dupes="mpc playlist | sort | uniq -d -c | while read song; do count=$(echo "$song" | sed -e "s/^[ \t]*//" | cut -d" " -f1); song=$(echo "$song" | sed -e "s/^[ \t]*//" | cut -d" " -f2-); for (( i = 2 ; i <= $count; i++ )); do mpc playlist | grep -n "$song" | tail -n 1 | cut -d: -f1 | mpc del; done; done"
 
 # Extract all archives in directory and make subdirectory
 # with same name as archive
@@ -160,34 +41,9 @@ venv-jupyter() {
     python -m ipykernel install --user --name="$@"
 }
 
-# virtualenv activate
-venv() {
-    source "$@"/bin/activate
-}
 
 # git
 alias gittree="git log --graph --decorate --pretty=oneline --abbrev-commit"
-
-# Theme spotify
-alias theme-spotify="oomoxify-cli -s /opt/spotify/Apps ~/.cache/wal/colors-oomox"
-
-# Update all themes not directly changed by wal
-update-theme(){
-    spicetify update
-    reload_dunst.sh
-    xrdb -merge ~/.Xresources
-}
-
-# Manage dots
-commit-dots(){
-    cd ~/dotfiles
-    git add .
-    git commit -m "$@"  
-}
-
-# Clean pacman/yay cache
-alias cleanup="sudo paccache -r -k 2 && paru -Sc"
-alias rebuildpy="paru -S $(LANG=C pacman -Qo /usr/lib/python3.10/ | cut -f5 -d\  | tr '\n' ' ')"
 
 ## ZSH SPECIFIC
 # vi mode
@@ -210,9 +66,6 @@ zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
 autoload -U promptinit; promptinit
 prompt pure
 
-# zsh syntax highlighitng
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
 # z
 # [[ -r "/usr/share/z/z.sh" ]] && source /usr/share/z/z.sh
 
@@ -220,5 +73,3 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 [[ $- != *i* ]] && return
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-
-source /usr/share/nvm/init-nvm.sh

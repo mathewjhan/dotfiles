@@ -66,7 +66,6 @@ if has('nvim')
   Plug 'williamboman/mason.nvim'
   
   " Devtools
-  Plug 'michaelb/sniprun', {'do': 'bash install.sh'}
   Plug 'milanglacier/yarepl.nvim'
   Plug 'elihunter173/dirbuf.nvim'
   Plug 'xeluxee/competitest.nvim'

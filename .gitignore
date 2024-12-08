@@ -1,5 +1,6 @@
 local
 vim/.vim/plugged
+vim/.vim/undo
 mpd/.config/mpd/database
 mpd/.config/mpd/mpd.log
 mpd/.config/mpd/mpdstate
