@@ -7,3 +7,4 @@ mpd/.config/mpd/mpdstate
 mpd/.config/mpd/playlists
 mpd/.config/mpd/socket
 vifm/.config/vifm/viminfo*
+ranger/.config/ranger/plugins

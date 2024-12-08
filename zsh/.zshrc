@@ -4,6 +4,7 @@
 
 # Defaults
 export EDITOR=vim
+export HOMEBREW_NO_AUTO_UPDATE=1
 
 # Convenient aliases
 alias e="nvim"
