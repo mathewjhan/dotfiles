@@ -13,6 +13,7 @@ Plug 'dstein64/vim-startuptime'
 Plug 'godlygeek/tabular'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
 Plug 'julian/vim-textobj-variable-segment'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'junegunn/goyo.vim'
 Plug 'kana/vim-textobj-user'
@@ -75,7 +76,6 @@ if has('nvim')
   " UI
   Plug 'kevinhwang91/nvim-ufo'
   Plug 'kevinhwang91/promise-async'
-  Plug 'folke/which-key.nvim'
   Plug 'nvim-lua/plenary.nvim'
   Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
   Plug 'ray-x/lsp_signature.nvim'
