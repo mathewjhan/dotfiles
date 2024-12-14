@@ -8,7 +8,6 @@ call plug#begin('~/.vim/plugged')
 " -------------
 
 " Github
-Plug 'anufrievroman/vim-angry-reviewer'
 Plug 'dstein64/vim-startuptime'
 Plug 'godlygeek/tabular'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
@@ -19,7 +18,6 @@ Plug 'junegunn/goyo.vim'
 Plug 'kana/vim-textobj-user'
 Plug 'lervag/vimtex'
 Plug 'machakann/vim-sandwich'
-Plug 'MattesGroeger/vim-bookmarks'
 Plug 'mkitt/tabline.vim'
 Plug 'mzlogin/vim-markdown-toc'
 Plug 'preservim/tagbar'
@@ -29,7 +27,6 @@ Plug 'timakro/vim-yadi'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
-Plug 'voldikss/vim-floaterm'
 Plug 'Yggdroot/indentLine'
 Plug 'christoomey/vim-tmux-navigator'
 
@@ -49,9 +46,6 @@ else
   Plug 'cohama/lexima.vim'
 endif
 
-" Wal
-Plug 'nekonako/xresources-nvim'
-
 " NVIM plugins
 if has('nvim')
   " LSP
@@ -68,7 +62,6 @@ if has('nvim')
   
   " Devtools
   Plug 'milanglacier/yarepl.nvim'
-  Plug 'elihunter173/dirbuf.nvim'
   Plug 'xeluxee/competitest.nvim'
   Plug 'stevearc/oil.nvim'
   Plug 'smjonas/inc-rename.nvim'

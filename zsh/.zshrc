@@ -28,7 +28,7 @@ alias vimrc="cd ~/.vim/vimrc.d && echo 'Changed directories to vimrc.d'"
 alias bashrc="vim ~/.bashrc && source ~/.bashrc"
 alias zshrc="vim ~/.zshrc && source ~/.zshrc"
 alias i3config="vim ~/.config/i3/config"
-alias nvimconfig="vim ~/.config/nvim/init.vim"
+alias nvimconfig="nvim ~/.config/nvim/init.vim"
 
 # Extract all archives in directory and make subdirectory
 # with same name as archive
@@ -73,5 +73,3 @@ prompt pure
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
-
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
