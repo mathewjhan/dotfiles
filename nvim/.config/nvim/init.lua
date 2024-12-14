@@ -5,6 +5,10 @@ vim.cmd([[
   let g:do_filetype_lua = 1
 ]])
 
+local map = function(type, key, value)
+	vim.api.nvim_buf_set_keymap(0,type,key,value,{noremap = true, silent = true});
+end
+
 -- MISC
 vim.api.nvim_set_hl(0, "NormalFloat", { ctermbg = "None", ctermfg = "None" })
 vim.api.nvim_set_hl(0, "FloatBorder", { ctermbg = "None", ctermfg = "None" })
@@ -105,6 +109,27 @@ capabilities.textDocument.foldingRange = {
     dynamicRegistration = false,
     lineFoldingOnly = true
 }
+
+local keys_on_attach = function(_, bufnr)
+    local bufopts = { noremap = true, silent = true, buffer = bufnr }
+    local k, l, api = vim.keymap.set, vim.lsp, vim.api
+    k("n", "gD", l.buf.declaration, bufopts)
+    k("n", "gd", l.buf.definition, bufopts)
+    k("n", "gi", l.buf.implementation, bufopts)
+    k("n", "<leader>D", l.buf.type_definition, bufopts)
+    k("n", "gr", l.buf.references, bufopts)
+    k("n", "<leader>ca", l.buf.code_action, bufopts)
+    k("v", "<leader>ca", l.buf.code_action, bufopts)
+end
+
+vim.api.nvim_create_autocmd("LspAttach", {
+  callback = function(args)
+    local bufnr = args.buf
+    local client = vim.lsp.get_client_by_id(args.data.client_id)
+    keys_on_attach(client, bufnr)
+  end,
+})
+
 
 local language_servers = require("lspconfig").util.available_servers() -- or list servers manually like {'gopls', 'clangd'}
 for _, ls in ipairs(language_servers) do

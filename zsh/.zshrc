@@ -27,8 +27,7 @@ function fm {
 alias vimrc="cd ~/.vim/vimrc.d && echo 'Changed directories to vimrc.d'"
 alias bashrc="vim ~/.bashrc && source ~/.bashrc"
 alias zshrc="vim ~/.zshrc && source ~/.zshrc"
-alias i3config="vim ~/.config/i3/config"
-alias nvimconfig="nvim ~/.config/nvim/init.vim"
+alias nvimcfg="nvim ~/.config/nvim/init.lua"
 
 # Extract all archives in directory and make subdirectory
 # with same name as archive
