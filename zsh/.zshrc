@@ -13,6 +13,8 @@ alias lg="lazygit"
 alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
+alias ls="eza"
+alias ll="eza -la"
 
 function fm {
     ranger $*
@@ -52,6 +54,8 @@ set -o vi
 export KEYTIMEOUT=2
 bindkey -v
 bindkey '^w' backward-kill-word
+bindkey ^R history-incremental-search-backward
+bindkey ^S history-incremental-search-forward
 
 # better tab completion
 autoload -U compinit
@@ -72,3 +76,7 @@ prompt pure
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
+
+if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] && [[ ! "$TERM" =~ tmux ]] && [ -z "$TMUX" ]; then
+  exec tmux
+fi

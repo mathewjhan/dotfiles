@@ -27,7 +27,6 @@ Plug 'timakro/vim-yadi'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
-Plug 'Yggdroot/indentLine'
 Plug 'christoomey/vim-tmux-navigator'
 
 " Themes
@@ -53,6 +52,7 @@ if has('nvim')
   Plug 'hrsh7th/cmp-nvim-lsp'
   Plug 'hrsh7th/cmp-path'
   Plug 'hrsh7th/nvim-cmp'
+  Plug 'hrsh7th/cmp-nvim-lsp-signature-help'
   Plug 'honza/vim-snippets'
   Plug 'dcampos/nvim-snippy'
   Plug 'dcampos/cmp-snippy'
@@ -63,15 +63,16 @@ if has('nvim')
   " Devtools
   Plug 'milanglacier/yarepl.nvim'
   Plug 'xeluxee/competitest.nvim'
+  Plug 'kawre/leetcode.nvim'
   Plug 'stevearc/oil.nvim'
   Plug 'smjonas/inc-rename.nvim'
+  Plug 'ibhagwan/fzf-lua'
 
   " UI
   Plug 'kevinhwang91/nvim-ufo'
   Plug 'kevinhwang91/promise-async'
   Plug 'nvim-lua/plenary.nvim'
   Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
-  Plug 'ray-x/lsp_signature.nvim'
   Plug 'shortcuts/no-neck-pain.nvim'
   Plug 'MunifTanjim/nui.nvim'
   Plug 'SmiteshP/nvim-navic'
@@ -90,21 +91,10 @@ endif
 
 let mapleader = ","
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Indentline
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:indentLine_char = '│'
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => yadi
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Try to auto detect and use the indentation of a file when opened. 
 autocmd BufRead * DetectIndent
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => AngryReviewer
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:AngryReviewerEnglish = 'american'
-nnoremap <leader>ar :AngryReviewer<cr>
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Goyo
