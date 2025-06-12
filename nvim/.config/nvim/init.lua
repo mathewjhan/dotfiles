@@ -233,15 +233,15 @@ mason_lspconfig.setup {
     ensure_installed = {},
 }
 
-mason_lspconfig.setup_handlers({
-  function (server_name)
-    require("lspconfig")[server_name].setup {
-      on_attach = function(client, bufnr)
-              navbuddy.attach(client, bufnr)
-      end
-    }
-  end
-})
+-- mason_lspconfig.setup_handlers({
+--   function (server_name)
+--     require("lspconfig")[server_name].setup {
+--       on_attach = function(client, bufnr)
+--               navbuddy.attach(client, bufnr)
+--       end
+--     }
+--   end
+-- })
 
 vim.g.mapleader = ','
 vim.keymap.set('n', '<leader>fn', ':Navbuddy<Cr>')
