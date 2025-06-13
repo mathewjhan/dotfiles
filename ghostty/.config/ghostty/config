@@ -4,6 +4,6 @@ window-padding-y = 27
 cursor-style = block
 font-family = "sf mono medium"
 font-feature = -calt
-shell-integration-features = no-cursor
+shell-integration-features = no-cursor,title,sudo
 quit-after-last-window-closed = true
 

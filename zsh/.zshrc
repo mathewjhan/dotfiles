@@ -48,6 +48,9 @@ venv-jupyter() {
 # git
 alias gittree="git log --graph --decorate --pretty=oneline --abbrev-commit"
 
+# ssh
+alias ssh='env TERM=xterm ssh'
+
 ## ZSH SPECIFIC
 # vi mode
 set -o vi
@@ -77,6 +80,6 @@ prompt pure
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] && [[ ! "$TERM" =~ tmux ]] && [ -z "$TMUX" ]; then
-  exec tmux
-fi
+# if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] && [[ ! "$TERM" =~ tmux ]] && [ -z "$TMUX" ]; then
+#   exec tmux
+# fi
