@@ -29,12 +29,12 @@ alt-shift-j = 'move down'
 alt-shift-k = 'move up'
 alt-shift-l = 'move right'
 
-alt-b = 'split horizontal'
-alt-v = 'split vertical'
+# alt-b = 'split horizontal'
+# alt-v = 'split vertical'
 
 alt-f = 'fullscreen'
 
-alt-s = 'layout v_accordion' # 'layout stacking' in i3
+alt-q = 'layout v_accordion' # 'layout stacking' in i3
 alt-w = 'layout h_accordion' # 'layout tabbed' in i3
 alt-e = 'layout tiles accordion' # 'layout toggle split' in i3
 
@@ -50,17 +50,21 @@ alt-shift-space = 'layout floating tiling' # 'floating toggle' in i3
 
 alt-tab = 'workspace-back-and-forth'
 
-alt-i = 'workspace (I)nternet'
-alt-c = 'workspace (C)ode'
+alt-b = 'workspace (B)rowser'
+alt-p = 'workspace (P)rogramming'
 alt-t = 'workspace (T)erminal'
 alt-z = 'workspace (Z)otero'
 alt-m = 'workspace (M)essaging'
+alt-o = 'workspace (O)bsidian'
+alt-s = 'workspace (S)potify'
 
-alt-shift-i = 'move-node-to-workspace (I)nternet'
-alt-shift-c = 'move-node-to-workspace (C)ode'
+alt-shift-b = 'move-node-to-workspace (B)rowser'
+alt-shift-p = 'move-node-to-workspace (P)rogramming'
 alt-shift-t = 'move-node-to-workspace (T)erminal'
 alt-shift-z = 'move-node-to-workspace (Z)otero'
 alt-shift-m = 'move-node-to-workspace (M)essaging'
+alt-shift-o = 'move-node-to-workspace (O)bsidian'
+alt-shift-s = 'move-node-to-workspace (S)potify'
 
 alt-1 = 'workspace 1'
 alt-2 = 'workspace 2'
@@ -84,12 +88,8 @@ alt-shift-8 = 'move-node-to-workspace 8'
 alt-shift-9 = 'move-node-to-workspace 9'
 alt-shift-0 = 'move-node-to-workspace 10'
 
-alt-shift-n = 'move-workspace-to-monitor --wrap-around next'
-alt-shift-p = 'move-workspace-to-monitor --wrap-around prev'
-
-alt-shift-r = 'reload-config'
-
-alt-r = 'mode resize'
+alt-shift-period = 'move-workspace-to-monitor --wrap-around next'
+alt-shift-comma = 'move-workspace-to-monitor --wrap-around prev'
 
 [gaps]
 outer.left = 7
@@ -98,15 +98,6 @@ outer.top = 7
 outer.bottom = 7
 inner.horizontal = 10
 inner.vertical = 10
-
-
-[mode.resize.binding]
-h = 'resize width -50'
-j = 'resize height +50'
-k = 'resize height -50'
-l = 'resize width +50'
-enter = 'mode main'
-esc = 'mode main'
 
 [[on-window-detected]]
 if.app-id = 'com.apple.systempreferences'
