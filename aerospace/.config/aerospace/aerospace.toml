@@ -50,17 +50,17 @@ alt-shift-space = 'layout floating tiling' # 'floating toggle' in i3
 
 alt-tab = 'workspace-back-and-forth'
 
-alt-q = 'workspace Browser'
-alt-c = 'workspace Code'
-alt-t = 'workspace Terminal'
-alt-z = 'workspace Zotero'
-alt-m = 'workspace Messaging'
+alt-i = 'workspace (I)nternet'
+alt-c = 'workspace (C)ode'
+alt-t = 'workspace (T)erminal'
+alt-z = 'workspace (Z)otero'
+alt-m = 'workspace (M)essaging'
 
-alt-shift-q = 'move-node-to-workspace Browser'
-alt-shift-c = 'move-node-to-workspace Code'
-alt-shift-t = 'move-node-to-workspace Terminal'
-alt-shift-z = 'move-node-to-workspace Zotero'
-alt-shift-m = 'move-node-to-workspace Messaging'
+alt-shift-i = 'move-node-to-workspace (I)nternet'
+alt-shift-c = 'move-node-to-workspace (C)ode'
+alt-shift-t = 'move-node-to-workspace (T)erminal'
+alt-shift-z = 'move-node-to-workspace (Z)otero'
+alt-shift-m = 'move-node-to-workspace (M)essaging'
 
 alt-1 = 'workspace 1'
 alt-2 = 'workspace 2'
