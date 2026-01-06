@@ -6,6 +6,7 @@
 export EDITOR=vim
 export HOMEBREW_NO_AUTO_UPDATE=1
 export DOTS=~/.dotfiles
+export XDG_CONFIG_HOME=~/.config
 
 alias killtest="sudo pkill -9 haproxy; lsof -ti :41001 -ti :41002 | xargs kill -9 2>/dev/null"
 
