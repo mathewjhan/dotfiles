@@ -153,7 +153,7 @@ vim.lsp.handlers["textDocument/publishDiagnostics"] = vim.lsp.with(
 
 -- OIL
 require("oil").setup()
-vim.keymap.set("n", "<leader>fc", require("oil").open, { desc = "Open parent directory"  })
+vim.keymap.set("n", "<leader>fe", require("oil").open, { desc = "Open parent directory"  })
 
 -- Competitest
 require('competitest').setup{

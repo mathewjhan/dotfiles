@@ -7,6 +7,18 @@ export EDITOR=vim
 export HOMEBREW_NO_AUTO_UPDATE=1
 export DOTS=~/.dotfiles
 
+alias killtest="sudo pkill -9 haproxy; lsof -ti :41001 -ti :41002 | xargs kill -9 2>/dev/null"
+
+run_with_openai() {
+  # Load OPEN_API_KEY from ~/.env
+  if [ -f "$HOME/.env" ]; then
+    export $(grep -E '^OPENAI_API_KEY=' "$HOME/.env" | xargs)
+  fi
+
+  # Run the provided command with OPEN_API_KEY in its environment
+  LLM_KEY="$OPENAI_API_KEY" OPENAI_API_KEY="$OPENAI_API_KEY" "$@"
+}
+
 # Convenient aliases
 alias e="nvim"
 alias lg="lazygit"

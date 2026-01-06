@@ -8,3 +8,4 @@ mpd/.config/mpd/playlists
 mpd/.config/mpd/socket
 vifm/.config/vifm/viminfo*
 ranger/.config/ranger/plugins
+.DS_Store

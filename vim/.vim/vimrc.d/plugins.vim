@@ -28,6 +28,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'christoomey/vim-tmux-navigator'
+Plug 'voldikss/vim-floaterm'
 
 " Themes
 " Normal
@@ -77,7 +78,7 @@ if has('nvim')
   Plug 'shortcuts/no-neck-pain.nvim'
   Plug 'MunifTanjim/nui.nvim'
   Plug 'SmiteshP/nvim-navic'
-  Plug 'SmiteshP/nvim-navbuddy'
+  Plug 'hasansujon786/nvim-navbuddy'
 endif
 
 call plug#end()
@@ -169,112 +170,4 @@ if has('nvim')
 else
   colorscheme embark
 endif
-
-
-" Plug 'neoclide/coc.nvim', {'branch': 'release'}
-
-" BACKUP AUTOCOMPLETER
-" Plug 'autozimu/LanguageClient-neovim', {
-"     \ 'branch': 'next',
-"     \ 'do': 'bash install.sh',
-"     \ }
-" 
-" if has('nvim')
-"   Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
-" else
-"   Plug 'Shougo/deoplete.nvim'
-"   Plug 'roxma/nvim-yarp'
-"   Plug 'roxma/vim-hug-neovim-rpc'
-" endif
-" let g:deoplete#enable_at_startup = 1
-"
-
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => coc.nvim (backup)
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Use tab for trigger completion with characters ahead and navigate.
-" Use command ':verbose imap <tab>' to make sure tab is not mapped by other plugin.
-" Snippets functionality
-
-" inoremap <silent><expr> <TAB>
-"     \ pumvisible() ? "\<C-n>" :
-"     \ coc#expandableOrJumpable() ? "\<C-r>=coc#rpc#request('doKeymap', ['snippets-expand-jump',''])\<CR>" :
-"     \ <SID>check_back_space() ? "\<TAB>" :
-"     \ coc#refresh()
-" 
-" function! s:check_back_space() abort
-"     let col = col('.') - 1
-"     return !col || getline('.')[col - 1]  =~# '\s'
-" endfunction
-" 
-" let g:coc_snippet_next = '<tab>'
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Deoplete (backup)
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" call deoplete#custom#option('sources', {
-"     \ 'java': ['LanguageClient'],
-"     \ })
-" 
-" <TAB>: completion.
-" inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Language Server Protocol 
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" let g:LanguageClient_serverCommands = {
-"     \ 'java'   : ['jdtls'],
-"     \ 'cpp'    : ['ccls'],
-"     \ 'python' : ['pyls'],
-"    \ }
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Dirvish
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" autocmd FileType dirvish
-"   \ nnoremap <silent><buffer> t :call dirvish#open('tabedit', 0)<CR>
-"   \ |xnoremap <silent><buffer> t :call dirvish#open('tabedit', 0)<CR>
-" 
-" nmap <C-t> <Plug>(dirvish-toggle)
-" nnoremap <silent> <Plug>(dirvish-toggle) :<C-u>call <SID>dirvish_toggle()<CR>
-" 
-" function! s:dirvish_toggle() abort
-"   let l:last_buffer = bufnr('$')
-"   let l:i = 1
-"   let l:dirvish_already_open = 0
-" 
-"   while l:i <= l:last_buffer
-"     if bufexists(l:i) && bufloaded(l:i) && getbufvar(l:i, '&filetype') ==? 'dirvish'
-"       let l:dirvish_already_open = 1
-"       execute ':'.l:i.'bd!'
-"     endif
-"     let l:i += 1
-"   endwhile
-" 
-"   if !l:dirvish_already_open
-"     35vsp +Dirvish
-"   endif
-" endfunction
-" 
-" function! s:dirvish_open() abort
-"   let l:line = getline('.')
-"   if l:line =~? '/$'
-"     call dirvish#open('edit', 0)
-"   else
-"     call <SID>dirvish_toggle()
-"     execute 'e '.l:line
-"   endif
-" endfunction
-" 
-" augroup dirvish_commands
-"   autocmd!
-"   "autocmd FileType dirvish call fugitive#detect(@%)
-"   autocmd FileType dirvish nnoremap <silent> <buffer> <C-r> :<C-u>Dirvish %<CR>
-"   autocmd FileType dirvish unmap <silent> <buffer> <CR>
-"   autocmd FileType dirvish nnoremap <silent> <buffer> <CR> :<C-u> call <SID>dirvish_open()<CR>
-"   autocmd FileType dirvish setlocal nonumber norelativenumber statusline=%F
-"   autocmd FileType dirvish silent! keeppatterns g@\v/\.[^\/]+/?$@d
-"   autocmd FileType dirvish execute ':sort r /[^\/]$/'
-" augroup END
 
