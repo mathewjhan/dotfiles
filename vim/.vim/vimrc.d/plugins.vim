@@ -62,6 +62,7 @@ if has('nvim')
   
   " Devtools
   Plug 'milanglacier/yarepl.nvim'
+  Plug 'm4xshen/hardtime.nvim'
   Plug 'xeluxee/competitest.nvim'
   Plug 'kawre/leetcode.nvim'
   Plug 'stevearc/oil.nvim'

@@ -290,3 +290,5 @@ lc_cfg = {
   lang = "python3",
 }
 require'leetcode'.setup(lc_cfg)
+
+require("hardtime").setup()
