@@ -25,10 +25,9 @@ Plug 'sbdchd/neoformat'
 Plug 'skywind3000/asyncrun.vim'
 Plug 'timakro/vim-yadi'
 Plug 'vim-airline/vim-airline'
-Plug 'vim-pandoc/vim-pandoc'
-Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'voldikss/vim-floaterm'
+Plug 'tpope/vim-fugitive'
 
 " Themes
 " Normal
@@ -62,13 +61,14 @@ if has('nvim')
   Plug 'williamboman/mason.nvim'
   
   " Devtools
-  Plug 'milanglacier/yarepl.nvim'
   Plug 'm4xshen/hardtime.nvim'
+  Plug 'lewis6991/gitsigns.nvim'
+  Plug 'natecraddock/workspaces.nvim'
   Plug 'xeluxee/competitest.nvim'
   Plug 'kawre/leetcode.nvim'
-  Plug 'stevearc/oil.nvim'
   Plug 'smjonas/inc-rename.nvim'
   Plug 'ibhagwan/fzf-lua'
+  Plug 'nvim-mini/mini.nvim', { 'branch': 'stable' }
 
   " UI
   Plug 'kevinhwang91/nvim-ufo'
@@ -77,8 +77,7 @@ if has('nvim')
   Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
   Plug 'shortcuts/no-neck-pain.nvim'
   Plug 'MunifTanjim/nui.nvim'
-  Plug 'SmiteshP/nvim-navic'
-  Plug 'hasansujon786/nvim-navbuddy'
+  Plug 'error311/wayfinder.nvim'
 endif
 
 call plug#end()

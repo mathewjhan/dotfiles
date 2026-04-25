@@ -142,19 +142,6 @@ for _, ls in ipairs(language_servers) do
 end
 require('ufo').setup()
 
--- Disable inline buffer error messages
-vim.lsp.handlers["textDocument/publishDiagnostics"] = vim.lsp.with(
-    vim.lsp.diagnostic.on_publish_diagnostics, {
-        virtual_text = false,
-        signs = false
-    }
-)
-
-
--- OIL
-require("oil").setup()
-vim.keymap.set("n", "<leader>fe", require("oil").open, { desc = "Open parent directory"  })
-
 -- Competitest
 require('competitest').setup{
   popup_ui = {
@@ -179,47 +166,7 @@ require'nvim-treesitter.configs'.setup {
 }
 
 
--- Mason + Nav Buddy
-local navbuddy = require("nvim-navbuddy")
-navbuddy.setup {
-  node_markers = {
-      enabled = false,
-      icons = {
-          leaf = "",
-          leaf_selected = "",
-          branch = "",
-      },
-  },
-  icons = {
-      File          = "",
-      Module        = "",
-      Namespace     = "",
-      Package       = "",
-      Class         = "",
-      Method        = "",
-      Property      = "",
-      Field         = "",
-      Constructor   = "",
-      Enum          = "",
-      Interface     = "",
-      Function      = "",
-      Variable      = "",
-      Constant      = "",
-      String        = "",
-      Number        = "",
-      Boolean       = "",
-      Array         = "",
-      Object        = "",
-      Key           = "",
-      Null          = "",
-      EnumMember    = "",
-      Struct        = "",
-      Event         = "",
-      Operator      = "",
-      TypeParameter = "",
-  },
-}
-
+-- Mason
 require("mason").setup {
     ui = {
         icons = {
@@ -228,24 +175,9 @@ require("mason").setup {
     }
 }
 mason_lspconfig = require("mason-lspconfig")
-
 mason_lspconfig.setup {
     ensure_installed = {},
 }
-
--- mason_lspconfig.setup_handlers({
---   function (server_name)
---     require("lspconfig")[server_name].setup {
---       on_attach = function(client, bufnr)
---               navbuddy.attach(client, bufnr)
---       end
---     }
---   end
--- })
-
-vim.g.mapleader = ','
-vim.keymap.set('n', '<leader>fn', ':Navbuddy<Cr>')
-
 
 -- inc rename
 require("inc_rename").setup()
@@ -271,7 +203,6 @@ npairs.setup({
 
 local ts_conds = require('nvim-autopairs.ts-conds')
 
-
 -- press % => %% only while inside a comment or string
 npairs.add_rules({
   Rule("%", "%", "lua")
@@ -292,3 +223,36 @@ lc_cfg = {
 require'leetcode'.setup(lc_cfg)
 
 require("hardtime").setup()
+
+-- workspaces.nvim
+require("workspaces").setup({
+    hooks = {
+        open = { "FzfLua files" },
+    }
+})
+
+-- mini.misc
+require('mini.misc').setup()
+MiniMisc.setup_auto_root()
+
+require("wayfinder").setup({
+  layout = {
+    width = 0.88,
+    height = 0.72,
+  },
+})
+
+vim.keymap.set("n", "<leader>wf", "<Plug>(WayfinderOpen)", { desc = "Wayfinder" })
+
+-- gitsigns
+require('gitsigns').setup()
+
+-- diag
+vim.diagnostic.config({
+  virtual_text = false,
+  signs = false,
+  underline = {
+      severity = { min = vim.diagnostic.severity.ERROR }
+    }
+})
+vim.keymap.set('n', '<leader>e', vim.diagnostic.open_float, { desc = 'Show diagnostic [e]rror' })
