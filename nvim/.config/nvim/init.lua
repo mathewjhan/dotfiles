@@ -256,3 +256,56 @@ vim.diagnostic.config({
     }
 })
 vim.keymap.set('n', '<leader>e', vim.diagnostic.open_float, { desc = 'Show diagnostic [e]rror' })
+
+-- diffview
+local actions = require("diffview.actions")
+require("diffview").setup({
+  keymaps = {
+    view = {
+      { "n", "j",       actions.select_next_entry,              { desc = "Open the diff for the next file" } },
+      { "n", "k",     actions.select_prev_entry,              { desc = "Open the diff for the previous file" } },
+      { "n", "q", "<cmd>DiffviewClose<cr>", { desc = "Close Diffview" } },
+    },
+    file_panel = {
+      { "n", "j",       actions.select_next_entry,              { desc = "Open the diff for the next file" } },
+      { "n", "k",     actions.select_prev_entry,              { desc = "Open the diff for the previous file" } },
+      { "n", "q", "<cmd>DiffviewClose<cr>", { desc = "Close Diffview" } },
+    },
+    file_history_panel = {
+      { "n", "j",       actions.select_next_entry,              { desc = "Open the diff for the next file" } },
+      { "n", "k",     actions.select_prev_entry,              { desc = "Open the diff for the previous file" } },
+      { "n", "q", "<cmd>DiffviewClose<cr>", { desc = "Close Diffview" } },
+    },
+  },
+})
+local function toggle_diffview(cmd)
+  local lib = require("diffview.lib")
+
+  if next(lib.views) == nil then
+    vim.cmd(cmd)
+  else
+    vim.cmd("DiffviewClose")
+  end
+end
+vim.keymap.set("n", "<leader>gd", function()
+  toggle_diffview("DiffviewOpen")
+end, { desc = "DiffView toggle (working tree)" })
+
+vim.keymap.set("n", "<leader>gD", function()
+  toggle_diffview("DiffviewOpen origin/HEAD...HEAD")
+end, { desc = "DiffView toggle (base branch)" })
+
+vim.keymap.set("n", "<leader>gf", function()
+  toggle_diffview("DiffviewFileHistory %")
+end, { desc = "DiffView file history" })
+
+vim.opt.diffopt = {
+  "internal",
+  "filler",
+  "closeoff",
+  "context:12",
+  "algorithm:histogram",
+  "linematch:200",
+  "indent-heuristic",
+  "iwhite" -- I toggle this one, it doesn't fit all cases.
+}

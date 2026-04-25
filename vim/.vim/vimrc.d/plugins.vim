@@ -60,24 +60,27 @@ if has('nvim')
   Plug 'williamboman/mason-lspconfig.nvim'
   Plug 'williamboman/mason.nvim'
   
-  " Devtools
+  " Random
   Plug 'm4xshen/hardtime.nvim'
-  Plug 'lewis6991/gitsigns.nvim'
-  Plug 'natecraddock/workspaces.nvim'
   Plug 'xeluxee/competitest.nvim'
   Plug 'kawre/leetcode.nvim'
-  Plug 'smjonas/inc-rename.nvim'
-  Plug 'ibhagwan/fzf-lua'
-  Plug 'nvim-mini/mini.nvim', { 'branch': 'stable' }
 
-  " UI
+  " Devtools/git
+  Plug 'sindrets/diffview.nvim'
+  Plug 'lewis6991/gitsigns.nvim'
+  Plug 'natecraddock/workspaces.nvim'
+  Plug 'smjonas/inc-rename.nvim'
+  Plug 'error311/wayfinder.nvim'
+  Plug 'ibhagwan/fzf-lua'
+  
+  " UI/UX
+  Plug 'nvim-mini/mini.nvim', { 'branch': 'stable' }
   Plug 'kevinhwang91/nvim-ufo'
   Plug 'kevinhwang91/promise-async'
   Plug 'nvim-lua/plenary.nvim'
   Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
   Plug 'shortcuts/no-neck-pain.nvim'
   Plug 'MunifTanjim/nui.nvim'
-  Plug 'error311/wayfinder.nvim'
 endif
 
 call plug#end()
