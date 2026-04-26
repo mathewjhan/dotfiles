@@ -6,28 +6,27 @@ call plug#begin('~/.vim/plugged')
 " -------------
 " PLUGINS BELOW
 " -------------
-
-" Github
+" Random
 Plug 'dstein64/vim-startuptime'
-Plug 'godlygeek/tabular'
+Plug 'lervag/vimtex'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
-Plug 'julian/vim-textobj-variable-segment'
+Plug 'mzlogin/vim-markdown-toc'
+
+" UI/UX
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
-Plug 'junegunn/goyo.vim'
-Plug 'kana/vim-textobj-user'
-Plug 'lervag/vimtex'
-Plug 'machakann/vim-sandwich'
-Plug 'mkitt/tabline.vim'
-Plug 'mzlogin/vim-markdown-toc'
-Plug 'preservim/tagbar'
-Plug 'sbdchd/neoformat'
-Plug 'skywind3000/asyncrun.vim'
-Plug 'timakro/vim-yadi'
 Plug 'vim-airline/vim-airline'
+Plug 'mkitt/tabline.vim'
 Plug 'christoomey/vim-tmux-navigator'
-Plug 'voldikss/vim-floaterm'
+Plug 'julian/vim-textobj-variable-segment'
+Plug 'kana/vim-textobj-user'
+Plug 'timakro/vim-yadi'
+
+" Devtools
 Plug 'tpope/vim-fugitive'
+Plug 'godlygeek/tabular'
+Plug 'sbdchd/neoformat'
+Plug 'machakann/vim-sandwich'
 
 " Themes
 " Normal

@@ -19,6 +19,8 @@ run_with_openai() {
   # Run the provided command with OPEN_API_KEY in its environment
   LLM_KEY="$OPENAI_API_KEY" OPENAI_API_KEY="$OPENAI_API_KEY" "$@"
 }
+export ANDROID_HOME=/Users/mathew/Library/Android/sdk
+export ANDROID_SDK_ROOT=/Users/mathew/Library/Android/sdk
 
 # Convenient aliases
 alias e="nvim"
