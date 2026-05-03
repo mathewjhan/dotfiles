@@ -157,13 +157,35 @@ require('competitest').setup{
 
 
 -- Treesitter 
-require'nvim-treesitter.configs'.setup {
-  ensure_installed = {"c", "lua", "rust", "cpp", "java", "python", "javascript", "html", "vim"}, -- one of "all", "maintained" (parsers with maintainers), or a list of languages
-  highlight = {
-    enable = true,              -- false will disable the whole extension
-    additional_vim_regex_highlighting = false,
-  },
-}
+-- require'nvim-treesitter.configs'.setup {
+--   ensure_installed = {"c", "lua", "rust", "cpp", "java", "python", "javascript", "html", "vim"}, -- one of "all", "maintained" (parsers with maintainers), or a list of languages
+--   highlight = {
+--     enable = true,              -- false will disable the whole extension
+--     additional_vim_regex_highlighting = false,
+--   },
+-- }
+
+local ts = require("nvim-treesitter")
+
+local ensure_installed = {"c", "lua", "rust", "cpp", "java", "python", "javascript", "html", "vim"} -- one of "all", "maintained" (parsers with maintainers), or a list of languages
+
+local already_installed = ts.get_installed()
+
+local to_install = vim
+  .iter(ensure_installed)
+  :filter(function(parser) return not vim.tbl_contains(already_installed, parser) end)
+  :totable()
+
+if #to_install > 0 then ts.install(to_install) end
+
+vim.api.nvim_create_autocmd("FileType", {
+  group = vim.api.nvim_create_augroup("EnableTreesitterHighlighting", { clear = true }),
+  desc = "Try to enable tree-sitter syntax highlighting",
+  pattern = "*", -- run on *all* filetypes
+  callback = function()
+    pcall(function() vim.treesitter.start() end)
+  end,
+})
 
 
 -- Mason
