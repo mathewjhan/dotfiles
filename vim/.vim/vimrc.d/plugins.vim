@@ -77,7 +77,7 @@ if has('nvim')
   Plug 'kevinhwang91/nvim-ufo'
   Plug 'kevinhwang91/promise-async'
   Plug 'nvim-lua/plenary.nvim'
-  Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+  Plug 'nvim-treesitter/nvim-treesitter', { 'branch': 'main', 'do': ':TSUpdate'}
   Plug 'shortcuts/no-neck-pain.nvim'
   Plug 'MunifTanjim/nui.nvim'
 endif
@@ -98,39 +98,6 @@ let mapleader = ","
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Try to auto detect and use the indentation of a file when opened. 
 autocmd BufRead * DetectIndent
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Goyo
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" On window resize, if goyo is active, do <c-w>= to resize the window
-autocmd VimResized * if exists('#goyo') | exe "normal \<c-w>=" | endif
-let g:goyo_width = 100
-nnoremap <silent> <leader>g :Goyo<cr>
-autocmd! User GoyoEnter nested :set nu! rnu!
-autocmd! User GoyoEnter nested :set norelativenumber
-autocmd! User GoyoLeave nested :set relativenumber!
-autocmd! User GoyoLeave nested :set number!
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Tagbar
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-nnoremap <silent> <C-t> :TagbarToggle<CR>
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Pandoc
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
-" Disable spell-check as defauult
-let g:pandoc#spell#enabled = 0
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => Markdown & TeX
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
-"" Zathura previews
-let g:vimtex_view_method="zathura"
-let g:tex_flavor = 'latex'
-let g:pandoc#syntax#conceal#use = 0
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Airline

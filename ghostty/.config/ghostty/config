@@ -7,3 +7,5 @@ font-feature = -calt
 shell-integration-features = no-cursor,title,sudo
 quit-after-last-window-closed = true
 
+
+background-opacity = 1.00
