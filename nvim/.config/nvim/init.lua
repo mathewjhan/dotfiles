@@ -331,3 +331,13 @@ vim.opt.diffopt = {
   "indent-heuristic",
   "iwhite" -- I toggle this one, it doesn't fit all cases.
 }
+
+-- fzf oil
+require("oil").setup({
+    float = require("fzf-oil").float,
+    preview_win = require("fzf-oil").preview_win,
+})
+
+local browser = require("fzf-oil").setup()
+
+vim.keymap.set("n", "<leader>ff", browser.browse, { desc = "File browser" })

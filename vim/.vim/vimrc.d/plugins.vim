@@ -71,6 +71,8 @@ if has('nvim')
   Plug 'smjonas/inc-rename.nvim'
   Plug 'error311/wayfinder.nvim'
   Plug 'ibhagwan/fzf-lua'
+  Plug 'ingur/fzf-oil.nvim'
+  Plug 'stevearc/oil.nvim'
   
   " UI/UX
   Plug 'nvim-mini/mini.nvim', { 'branch': 'stable' }
@@ -107,7 +109,7 @@ let g:airline_powerline_fonts = 1
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => FZF
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-nnoremap <silent> <leader>ff :Files<cr>
+nnoremap <silent> <leader>fz :Files<cr>
 nnoremap <silent> <leader>rg :Rg<cr>
 
 command! -bang -nargs=* Rg
@@ -116,14 +118,6 @@ command! -bang -nargs=* Rg
   \   fzf#vim#with_preview(), <bang>0)
 
 let g:fzf_preview_window = ['right:50%', 'ctrl-/']
-
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Floaterm
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-nnoremap <leader>fm :FloatermNew ranger<cr>
-nnoremap <leader>lg :FloatermNew lazygit<cr>
-let g:floaterm_keymap_new = '<leader>ft'
-autocmd VimResized * FloatermUpdate
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Colorscheme
