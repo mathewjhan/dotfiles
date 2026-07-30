@@ -72,6 +72,7 @@ if has('nvim')
   Plug 'error311/wayfinder.nvim'
   Plug 'ibhagwan/fzf-lua'
   Plug 'ingur/fzf-oil.nvim'
+  Plug 'HuntFeng/filebuf.nvim'
   Plug 'stevearc/oil.nvim'
   
   " UI/UX

@@ -341,3 +341,45 @@ require("oil").setup({
 local browser = require("fzf-oil").setup()
 
 vim.keymap.set("n", "<leader>ff", browser.browse, { desc = "File browser" })
+
+local filebuf = require("filebuf").setup({
+    -- Move deleted files to a /tmp/filebuf_trash directory instead of removing them
+    permanent_delete = false,
+
+    -- Auto-focus the file you were editing before opening filebuf
+    auto_focus_current_file = true,
+
+    -- Show git status indicators
+    git_status = true,
+
+    -- Show hidden (dot) files by default
+    show_hidden = false,
+
+    -- Respect .gitignore / .ignore patterns
+    respect_ignore = true,
+
+    -- Confirm operations before saving
+	save_confirmation = true,
+
+    -- Use filebuf instead of netrw when opening directories
+    hijack_netrw = true,
+
+    -- Default sort method, can change with FilebufSortMethod <method>
+    sort_method = "type",
+
+    -- Customize or disable keymaps (set to false to disable)
+    keymaps = {
+        fold_open = "zo",
+        fold_close = "zc",
+        fold_toggle = "za",
+        fold_open_recursive = "zO",
+        fold_open_all = "zR",
+        fold_close_all = "zM",
+        open_file = "gf",
+        open_or_toggle = "<CR>",
+        toggle_preview = "K",
+        toggle_hidden = "gh",
+        close_filebuf = "q",
+    },
+})
+vim.keymap.set("n", "<leader>fm", ":Filebuf<cr>", { desc = "File browser" })
