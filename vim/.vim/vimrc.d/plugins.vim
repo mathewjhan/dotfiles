@@ -75,6 +75,7 @@ if has('nvim')
   Plug 'ingur/fzf-oil.nvim'
   Plug 'HuntFeng/filebuf.nvim'
   Plug 'stevearc/oil.nvim'
+  Plug 'emrearmagan/atlas.nvim'
   
   " UI/UX
   Plug 'nvim-mini/mini.nvim', { 'branch': 'stable' }

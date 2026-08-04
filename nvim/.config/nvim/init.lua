@@ -383,3 +383,61 @@ local filebuf = require("filebuf").setup({
     },
 })
 vim.keymap.set("n", "<leader>fm", ":Filebuf<cr>", { desc = "File browser" })
+
+require("atlas").setup({
+  pulls = {
+    diff = {
+      -- Any command that accepts explicit <base>...<head> Git revisions.
+      open_cmd = "DiffviewOpen", -- default; for example "DiffviewOpen" or "CodeDiff".
+
+      -- AtlasDiff options; external viewers use their own configuration.
+      layout = "inline", -- "inline" or "side-by-side".
+      compact = true, -- Start with only changed hunks and surrounding context visible.
+      explorer = {
+        grouped = true, -- Group changed files by directory.
+        hidden = false,
+        show_commits = true, -- Initially show commits below changed files.
+        width = 40,
+        initial_focus = "explorer", -- "explorer" or "diff".
+        ignore = { ".git/**", ".jj/**" },
+      },
+    },
+    providers = {
+      github = {
+        cache_ttl = 300,
+
+        ---@type AtlasGitHubViewConfig[]
+        views = {
+          {
+            name = "My PRs",
+            key = "1",
+            layout = "plain",
+            search = "author:@me sort:updated-desc",
+          },
+          {
+            name = "Team",
+            key = "2",
+            layout = "compact",
+            search = "org:your-org sort:updated-desc",
+          },
+          {
+            name = "Repo",
+            key = "3",
+            layout = "plain",
+            search = "repo:your-org/your-repo",
+          },
+        },
+
+        bookmarks = {
+          key   = "S",      -- default
+          label = "Search", -- default
+          items = {
+            ["Drafts"]           = "is:pr is:draft author:@me",
+            ["Recently merged"]  = "is:pr is:merged author:@me sort:updated-desc",
+            ["Review requested"] = "is:pr is:open review-requested:@me",
+          },
+        },
+      },
+    },
+  },
+})
