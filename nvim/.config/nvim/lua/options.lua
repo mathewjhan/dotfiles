@@ -94,18 +94,10 @@ vim.api.nvim_create_autocmd("BufWritePre", {
   end,
 })
 
--- Transparent background + clean floats, applied to any colorscheme
+-- Clean floats for any colorscheme (mirrors the old init.lua MISC section)
 vim.api.nvim_create_autocmd("ColorScheme", {
   group = augroup,
   callback = function()
-    -- Only clear backgrounds; keep the colorscheme's foregrounds
-    -- (applies on every colorscheme change, including the everforest load
-    -- that lazy.nvim triggers while starting up)
-    vim.cmd([[
-      highlight Normal ctermbg=NONE guibg=NONE
-      highlight NormalNC ctermbg=NONE guibg=NONE
-      highlight EndOfBuffer ctermbg=NONE guibg=NONE
-    ]])
     vim.api.nvim_set_hl(0, "NormalFloat", { ctermbg = "None", ctermfg = "None" })
     vim.api.nvim_set_hl(0, "FloatBorder", { ctermbg = "None", ctermfg = "None" })
   end,

@@ -1,5 +1,6 @@
 {
   "atlas.nvim": { "branch": "main", "commit": "e59a7541fe30c9c8c16daab10e94889fc552dbb7" },
+  "cendre": { "branch": "main", "commit": "61d2aa1ee0d2727f0df4163cf6e9e03513eb46b3" },
   "cmp-buffer": { "branch": "main", "commit": "b74fab3656eea9de20a9b8116afa3cfc4ec09657" },
   "cmp-nvim-lsp": { "branch": "main", "commit": "cbc7b02bb99fae35cb42f514762b89b5126651ef" },
   "cmp-nvim-lsp-signature-help": { "branch": "main", "commit": "fd3e882e56956675c620898bf1ffcf4fcbe7ec84" },
@@ -7,6 +8,7 @@
   "cmp-snippy": { "branch": "master", "commit": "6e39210aa3a74e2bf6462f492eaf0d436cd2b7d3" },
   "competitest.nvim": { "branch": "master", "commit": "b42c06ca308906f07912ba9aff015ac2c0831f85" },
   "diffview.nvim": { "branch": "main", "commit": "4516612fe98ff56ae0415a259ff6361a89419b0a" },
+  "everforest": { "branch": "master", "commit": "85a86eb62409e3ec88713bff3d1b9d7374e112e4" },
   "filebuf.nvim": { "branch": "main", "commit": "28df0d6f1cd9b5862229264c7f235b869e4f74fa" },
   "fzf-lua": { "branch": "main", "commit": "8671012a7b2a1648595952c655039d51fb301c14" },
   "fzf-oil.nvim": { "branch": "main", "commit": "f49a44658c3ae6243b88b20db5767657d29dd5cc" },

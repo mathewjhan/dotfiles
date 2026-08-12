@@ -34,14 +34,8 @@ Plug 'machakann/vim-sandwich'
 Plug 'sainnhe/sonokai'
 Plug 'embark-theme/vim', { 'as': 'embark', 'branch': 'main' }
 
-if has('nvim')
-  Plug 'sainnhe/everforest'
-endif
-
-" Auto pairs
-if has('nvim')
-  Plug 'windwp/nvim-autopairs'
-else
+" Auto pairs (nvim uses nvim-autopairs, managed by lazy.nvim)
+if !has('nvim')
   Plug 'cohama/lexima.vim'
 endif
 
@@ -88,8 +82,7 @@ autocmd ColorScheme * highlight NormalNC ctermbg=NONE guibg=NONE
 autocmd ColorScheme * highlight EndOfBuffer ctermbg=NONE guibg=NONE
 
 set termguicolors
-if has('nvim')
-else
+if !has('nvim')
   colorscheme embark
 endif
 

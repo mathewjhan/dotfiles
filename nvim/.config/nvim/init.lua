@@ -18,10 +18,6 @@ vim.cmd([[
   source ~/.vimrc
 ]])
 
--- plugins.vim leaves the colorscheme blank for nvim; set it now that
--- everforest (from ~/.vim/plugged) is on the runtimepath.
-vim.cmd.colorscheme("everforest")
-
 -- Bootstrap lazy.nvim
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 if not (vim.uv or vim.loop).fs_stat(lazypath) then

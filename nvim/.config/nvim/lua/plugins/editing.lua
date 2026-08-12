@@ -32,30 +32,22 @@ return {
     end,
   },
 
-  -- Treesitter
+  -- Treesitter (main branch: no `configs` module; install parsers explicitly
+  -- and start highlighting via Neovim's built-in vim.treesitter.start())
   {
     "nvim-treesitter/nvim-treesitter",
     branch = "main",
     build = ":TSUpdate",
     lazy = false,
-    config = function()
-      local ts = require("nvim-treesitter")
+    config = function(_, opts)
+      -- main branch keeps queries in runtime/, which must be on the rtp
+      local plugin_dir = vim.fn.stdpath("data") .. "/lazy/nvim-treesitter"
+      vim.opt.runtimepath:append(plugin_dir .. "/runtime")
 
-      local ensure_installed = { "c", "lua", "rust", "cpp", "java", "python", "javascript", "html", "vim" }
-      local already_installed = ts.get_installed()
-      local to_install = vim
-        .iter(ensure_installed)
-        :filter(function(parser)
-          return not vim.tbl_contains(already_installed, parser)
-        end)
-        :totable()
-      if #to_install > 0 then
-        ts.install(to_install)
-      end
+      require("nvim-treesitter").install({ "c", "lua", "rust", "cpp", "java", "python", "javascript", "html", "vim" })
 
       vim.api.nvim_create_autocmd("FileType", {
         group = vim.api.nvim_create_augroup("EnableTreesitterHighlighting", { clear = true }),
-        desc = "Try to enable tree-sitter syntax highlighting",
         callback = function()
           pcall(vim.treesitter.start)
         end,

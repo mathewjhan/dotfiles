@@ -1,11 +1,32 @@
 --
 -- Neovim-only UI plugins
 --
--- (airline, tabline, everforest and the other colorschemes are shared with
--- vim via ~/.vim/vimrc.d/plugins.vim -- see lua/vim-plug.lua)
+-- (airline, tabline, sonokai and embark are shared with vim via
+-- ~/.vim/vimrc.d/plugins.vim, sourced in init.lua)
 --
 
 return {
+  -- Colorscheme
+  {
+    "sainnhe/everforest",
+    lazy = false,
+    priority = 1000,
+    config = function()
+      vim.cmd.colorscheme("everforest")
+    end,
+  },
+  {
+    "Aejkatappaja/cendre",
+    lazy = false,
+    priority = 1000,
+    config = function()
+      require("cendre").setup({
+        background = "hard", -- "hard" | "medium" | "soft"
+        italic_virtual_text = false,
+      })
+    end,
+  },
+
   -- Libraries used by other plugins
   { "nvim-lua/plenary.nvim", lazy = true },
   { "MunifTanjim/nui.nvim", lazy = true },
