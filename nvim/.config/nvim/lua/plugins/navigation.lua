@@ -2,41 +2,11 @@
 -- File finding, browsing and window/project navigation
 --
 
+-- fzf, fzf.vim and vim-tmux-navigator are shared with vim (loaded from
+-- ~/.vim/plugged via lua/vim-plug.lua); their config lives there too.
+
 return {
-  -- FZF
-  {
-    "junegunn/fzf",
-    build = function()
-      vim.fn["fzf#install"]()
-    end,
-  },
-  {
-    "junegunn/fzf.vim",
-    dependencies = { "junegunn/fzf" },
-    init = function()
-      vim.g.fzf_preview_window = { "right:50%", "ctrl-/" }
-    end,
-    config = function()
-      vim.keymap.set("n", "<leader>fz", ":Files<cr>", { silent = true })
-      vim.keymap.set("n", "<leader>rg", ":Rg<cr>", { silent = true })
-
-      vim.cmd([[
-        command! -bang -nargs=* Rg
-          \ call fzf#vim#grep(
-          \   'rg --column --line-number --no-heading --color=always --smart-case -- '.shellescape(<q-args>), 1,
-          \   fzf#vim#with_preview(), <bang>0)
-      ]])
-    end,
-  },
   { "ibhagwan/fzf-lua" },
-
-  -- Tmux navigation
-  {
-    "christoomey/vim-tmux-navigator",
-    init = function()
-      vim.g.tmux_navigator_no_wrap = 1
-    end,
-  },
 
   -- File browsers
   {

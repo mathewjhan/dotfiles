@@ -1,38 +1,11 @@
 --
--- Editing: motions, text objects, pairs, formatting, treesitter
+-- Neovim-only editing plugins: pairs and treesitter
+--
+-- (CamelCaseMotion, textobj-*, vim-yadi, vim-sandwich, tabular and neoformat
+-- are shared with vim via ~/.vim/vimrc.d/plugins.vim -- see lua/vim-plug.lua)
 --
 
 return {
-  -- Text objects
-  { "kana/vim-textobj-user" },
-  { "julian/vim-textobj-variable-segment", dependencies = { "kana/vim-textobj-user" } },
-
-  -- CamelCaseMotion
-  -- NOTE: this overrides default vim behavior
-  {
-    "bkad/CamelCaseMotion",
-    config = function()
-      for _, motion in ipairs({ "w", "b", "e", "ge" }) do
-        vim.keymap.set({ "n", "x", "o" }, motion, "<Plug>CamelCaseMotion_" .. motion, { silent = true })
-      end
-    end,
-  },
-
-  -- Auto detect and use the indentation of a file when opened
-  {
-    "timakro/vim-yadi",
-    config = function()
-      vim.api.nvim_create_autocmd("BufRead", {
-        group = vim.api.nvim_create_augroup("UserDetectIndent", { clear = true }),
-        command = "DetectIndent",
-      })
-    end,
-  },
-
-  { "machakann/vim-sandwich" },
-  { "godlygeek/tabular" },
-  { "sbdchd/neoformat" },
-
   -- Autopairs
   {
     "windwp/nvim-autopairs",

@@ -1,29 +1,11 @@
 --
--- Colorschemes, statusline and general UI
+-- Neovim-only UI plugins
+--
+-- (airline, tabline, everforest and the other colorschemes are shared with
+-- vim via ~/.vim/vimrc.d/plugins.vim -- see lua/vim-plug.lua)
 --
 
 return {
-  -- Colorschemes
-  {
-    "sainnhe/everforest",
-    lazy = false,
-    priority = 1000,
-    config = function()
-      vim.cmd.colorscheme("everforest")
-    end,
-  },
-  { "sainnhe/sonokai", lazy = true },
-  { "embark-theme/vim", name = "embark", branch = "main", lazy = true },
-
-  -- Statusline / tabline
-  {
-    "vim-airline/vim-airline",
-    init = function()
-      vim.g.airline_powerline_fonts = 1
-    end,
-  },
-  { "mkitt/tabline.vim" },
-
   -- Libraries used by other plugins
   { "nvim-lua/plenary.nvim", lazy = true },
   { "MunifTanjim/nui.nvim", lazy = true },

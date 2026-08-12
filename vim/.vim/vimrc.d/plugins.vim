@@ -45,48 +45,6 @@ else
   Plug 'cohama/lexima.vim'
 endif
 
-" NVIM plugins
-if has('nvim')
-  " LSP
-  Plug 'hrsh7th/cmp-buffer'
-  Plug 'hrsh7th/cmp-nvim-lsp'
-  Plug 'hrsh7th/cmp-path'
-  Plug 'hrsh7th/nvim-cmp'
-  Plug 'hrsh7th/cmp-nvim-lsp-signature-help'
-  Plug 'honza/vim-snippets'
-  Plug 'dcampos/nvim-snippy'
-  Plug 'dcampos/cmp-snippy'
-  Plug 'neovim/nvim-lspconfig'
-  Plug 'williamboman/mason-lspconfig.nvim'
-  Plug 'williamboman/mason.nvim'
-  
-  " Random
-  Plug 'm4xshen/hardtime.nvim'
-  Plug 'xeluxee/competitest.nvim'
-  Plug 'kawre/leetcode.nvim'
-
-  " Devtools/git
-  Plug 'sindrets/diffview.nvim'
-  Plug 'lewis6991/gitsigns.nvim'
-  Plug 'natecraddock/workspaces.nvim'
-  Plug 'smjonas/inc-rename.nvim'
-  Plug 'error311/wayfinder.nvim'
-  Plug 'ibhagwan/fzf-lua'
-  Plug 'ingur/fzf-oil.nvim'
-  Plug 'HuntFeng/filebuf.nvim'
-  Plug 'stevearc/oil.nvim'
-  Plug 'emrearmagan/atlas.nvim'
-  
-  " UI/UX
-  Plug 'nvim-mini/mini.nvim', { 'branch': 'stable' }
-  Plug 'kevinhwang91/nvim-ufo'
-  Plug 'kevinhwang91/promise-async'
-  Plug 'nvim-lua/plenary.nvim'
-  Plug 'nvim-treesitter/nvim-treesitter', { 'branch': 'main', 'do': ':TSUpdate'}
-  Plug 'shortcuts/no-neck-pain.nvim'
-  Plug 'MunifTanjim/nui.nvim'
-endif
-
 call plug#end()
 
 " Autoinstall vim-plug
@@ -131,7 +89,6 @@ autocmd ColorScheme * highlight EndOfBuffer ctermbg=NONE guibg=NONE
 
 set termguicolors
 if has('nvim')
-  colorscheme everforest
 else
   colorscheme embark
 endif

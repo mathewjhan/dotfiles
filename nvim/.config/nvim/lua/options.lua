@@ -99,6 +99,8 @@ vim.api.nvim_create_autocmd("ColorScheme", {
   group = augroup,
   callback = function()
     -- Only clear backgrounds; keep the colorscheme's foregrounds
+    -- (applies on every colorscheme change, including the everforest load
+    -- that lazy.nvim triggers while starting up)
     vim.cmd([[
       highlight Normal ctermbg=NONE guibg=NONE
       highlight NormalNC ctermbg=NONE guibg=NONE

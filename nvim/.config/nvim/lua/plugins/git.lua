@@ -2,9 +2,9 @@
 -- Git and diff tooling
 --
 
-return {
-  { "tpope/vim-fugitive" },
+-- vim-fugitive is shared with vim (loaded from ~/.vim/plugged via lua/vim-plug.lua)
 
+return {
   { "lewis6991/gitsigns.nvim", opts = {} },
 
   {

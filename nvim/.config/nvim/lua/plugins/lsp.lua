@@ -78,7 +78,7 @@ return {
       "hrsh7th/cmp-nvim-lsp-signature-help",
       "dcampos/nvim-snippy",
       "dcampos/cmp-snippy",
-      "honza/vim-snippets",
+      "honza/vim-snippets", -- snippet collection, used by snippy
     },
     config = function()
       local cmp = require("cmp")

@@ -1,22 +1,11 @@
 --
--- Misc: latex, markdown, competitive programming, habits
+-- Neovim-only misc plugins
+--
+-- (vimtex, markdown-preview, vim-markdown-toc and vim-startuptime are shared
+-- with vim via ~/.vim/vimrc.d/plugins.vim -- see lua/vim-plug.lua)
 --
 
 return {
-  { "dstein64/vim-startuptime" },
-
-  { "lervag/vimtex" },
-
-  -- Markdown
-  {
-    "iamcco/markdown-preview.nvim",
-    build = function()
-      vim.fn["mkdp#util#install"]()
-    end,
-    ft = { "markdown" },
-  },
-  { "mzlogin/vim-markdown-toc" },
-
   -- Competitive programming
   {
     "xeluxee/competitest.nvim",
