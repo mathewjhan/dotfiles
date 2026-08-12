@@ -27,7 +27,7 @@ return {
     end
   },
 
-  -- Lazygit view
+  -- Commit, push, etc
   {
     "folke/snacks.nvim",
     opts = {

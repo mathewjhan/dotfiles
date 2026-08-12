@@ -31,7 +31,15 @@ return {
   { "nvim-lua/plenary.nvim", lazy = true },
   { "MunifTanjim/nui.nvim", lazy = true },
 
-  { "shortcuts/no-neck-pain.nvim" },
+  { 
+    "shortcuts/no-neck-pain.nvim",
+    opts = {
+      mappings = {
+        enabled = true,
+        toggle = "<Leader>aa",
+      },
+    }
+  },
 
   -- Folding
   {
