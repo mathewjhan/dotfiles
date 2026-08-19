@@ -6,23 +6,16 @@
 -- ~/.vim/plugged via lua/vim-plug.lua); their config lives there too.
 
 return {
-  { "ibhagwan/fzf-lua" },
-
-  -- File browsers
   {
-    "stevearc/oil.nvim",
-    dependencies = { "ingur/fzf-oil.nvim", "ibhagwan/fzf-lua" },
+    "ibhagwan/fzf-lua",
     config = function()
-      local fzf_oil = require("fzf-oil")
-      require("oil").setup({
-        float = fzf_oil.float,
-        preview_win = fzf_oil.preview_win,
-      })
-
-      local browser = fzf_oil.setup()
-      vim.keymap.set("n", "<leader>ff", browser.browse, { desc = "File browser" })
+      vim.keymap.set("n", "<leader>ff", function()
+        require("fzf-lua").files()
+      end, { desc = "Find files" })
     end,
   },
+
+  -- File browsers
   {
     "HuntFeng/filebuf.nvim",
     config = function()
@@ -52,8 +45,9 @@ return {
         sort_method = "type",
       })
 
-      -- filebuf has no float API; wrap open/close so it always lands in a
-      -- centered editor-relative window that tracks VimResized.
+      -- filebuf has no float API. Only :Filebuf / <leader>fm open a float;
+      -- wrapping filebuf.open itself also intercepts netrw hijack and leaves
+      -- a transparent overlay that swallows keys like w/b.
       local filebuf = require("filebuf")
       local orig_open = filebuf.open
       local orig_open_entry = filebuf.open_entry
@@ -97,9 +91,12 @@ return {
       end
 
       local function apply_float_hl()
-        if float_valid() then
-          vim.wo[float_win].winhighlight = "Normal:NormalFloat,FloatBorder:FloatBorder,Folded:FilebufFoldLine"
+        if not float_valid() then
+          return
         end
+        -- NormalFloat/FloatBorder are fully transparent in this config, so
+        -- use Pmenu instead or the tree is invisible and still eats keys.
+        vim.wo[float_win].winhighlight = "Normal:Pmenu,NormalFloat:Pmenu,FloatBorder:Pmenu,Folded:FilebufFoldLine"
       end
 
       local function close_float()
@@ -107,6 +104,19 @@ return {
           pcall(vim.api.nvim_win_close, float_win, true)
         end
         float_win = nil
+      end
+
+      local function open_float(dir)
+        if float_valid() then
+          vim.api.nvim_set_current_win(float_win)
+        else
+          origin_win = vim.api.nvim_get_current_win()
+          local scratch = vim.api.nvim_create_buf(false, true)
+          vim.bo[scratch].bufhidden = "wipe"
+          float_win = vim.api.nvim_open_win(scratch, true, float_config())
+        end
+        orig_open(dir)
+        apply_float_hl()
       end
 
       vim.api.nvim_create_autocmd("VimResized", {
@@ -128,21 +138,10 @@ return {
         end,
       })
 
-      filebuf.open = function(dir)
-        if float_valid() then
-          vim.api.nvim_set_current_win(float_win)
-        else
-          origin_win = vim.api.nvim_get_current_win()
-          local scratch = vim.api.nvim_create_buf(false, true)
-          vim.bo[scratch].bufhidden = "wipe"
-          float_win = vim.api.nvim_open_win(scratch, true, float_config())
-        end
-        orig_open(dir)
-        -- filebuf overwrites winhighlight for folds; keep the float background.
-        apply_float_hl()
-      end
-
       filebuf.open_entry = function(buf, entry)
+        if not float_valid() then
+          return orig_open_entry(buf, entry)
+        end
         if entry and entry.type ~= "dir" then
           local target = (vim.uv or vim.loop).fs_realpath(entry.path) or entry.path
           local dir_link = entry.type == "link" and vim.fn.isdirectory(target) == 1
@@ -164,7 +163,13 @@ return {
         close_float()
       end
 
-      vim.keymap.set("n", "<leader>fm", ":Filebuf<cr>", { desc = "File browser" })
+      vim.api.nvim_create_user_command("Filebuf", function()
+        open_float()
+      end, { desc = "Open filebuf in a floating window", force = true })
+
+      vim.keymap.set("n", "<leader>fm", function()
+        open_float()
+      end, { desc = "File browser" })
     end,
   },
 
