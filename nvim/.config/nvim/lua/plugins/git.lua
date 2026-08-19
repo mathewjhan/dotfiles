@@ -45,13 +45,13 @@ return {
   },
 
   -- PR review
-  {
-    "undont/differ.nvim",
-    build = "make go-build",
-    config = function()
-      require("differ").setup()
-    end,
-  },
+  -- {
+  --   "undont/differ.nvim",
+  --   build = "make go-build",
+  --   config = function()
+  --     require("differ").setup()
+  --   end,
+  -- },
 
   -- GitHub issues/PRs: browse, create, review, diff
   {
