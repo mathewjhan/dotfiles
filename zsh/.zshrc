@@ -68,7 +68,7 @@ alias ssh='env TERM=xterm ssh'
 
 ## ZSH SPECIFIC
 # vi mode
-set -o vi
+# set -o vi
 export KEYTIMEOUT=2
 bindkey -v
 bindkey '^w' backward-kill-word
