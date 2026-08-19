@@ -87,14 +87,3 @@ endif
 
 "" tmux navigator
 let g:tmux_navigator_no_wrap = 1
-
-"" CamelCaseMotion
-"" NOTE: this overrides default vim behavior
-map <silent> w <Plug>CamelCaseMotion_w
-map <silent> b <Plug>CamelCaseMotion_b
-map <silent> e <Plug>CamelCaseMotion_e
-map <silent> ge <Plug>CamelCaseMotion_ge
-sunmap w
-sunmap b
-sunmap e
-sunmap ge
