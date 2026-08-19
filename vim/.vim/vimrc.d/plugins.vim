@@ -21,7 +21,6 @@ Plug 'christoomey/vim-tmux-navigator'
 Plug 'julian/vim-textobj-variable-segment'
 Plug 'kana/vim-textobj-user'
 Plug 'timakro/vim-yadi'
-Plug 'bkad/CamelCaseMotion'
 
 " Devtools
 Plug 'tpope/vim-fugitive'
